@@ -20,6 +20,7 @@
 * [⚖ Scale](tokenomics/scale.md)
 * [💵 Platform Fees](tokenomics/platform-fees.md)
 * [🧱 Initial Distribution](tokenomics/initial-distribution.md)
+* [📜 Contract Addresses](tokenomics/contract-addresses.md)
 
 ## FAQ
 
@@ -29,10 +30,6 @@
 ## Security
 
 * [🔑 Security](security/security.md)
-
-***
-
-* [🔗 Important Links](important-links.md)
 
 ## Reference
 
