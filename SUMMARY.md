@@ -47,3 +47,4 @@
 * [Telegram](https://t.me/FactorDAO)
 * [Substack](https://factordao.substack.com/)
 * [Podcast](https://anchor.fm/factordao)
+* [Email Enquiries](mailto:info@factor.fi)
