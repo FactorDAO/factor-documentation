@@ -3,7 +3,7 @@ root: ./
 redirects:
   products/leverage: factor-building-blocks/leverage/README.md
   products/yield: factor-building-blocks/yield/README.md
-  products/yield/zap: factor-building-blocks/yield/zap.md
+  products/yield/zap: factor-studio/factor-studio/README.md
   products/factor-studio: factor-studio/factor-studio/README.md
   walkthroughs/leverage: factor-building-blocks/leverage/user-guides/README.md
   walkthroughs/governance-migration: governance/factordao/user-guides/migrate-from-v1-to-v2.md
