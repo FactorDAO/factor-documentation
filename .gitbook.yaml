@@ -1,0 +1,16 @@
+root: ./
+
+redirects:
+  products/leverage: factor-building-blocks/leverage/README.md
+  products/yield: factor-building-blocks/yield/README.md
+  products/yield/zap: factor-building-blocks/yield/zap.md
+  products/factor-studio: factor-studio/factor-studio/README.md
+  walkthroughs/leverage: factor-building-blocks/leverage/user-guides/README.md
+  walkthroughs/governance-migration: governance/factordao/user-guides/migrate-from-v1-to-v2.md
+  tokenomics/staking-and-governance: governance/fctr-token/staking-and-governance.md
+  tokenomics/scale: governance/factor-scale/README.md
+  tokenomics/platform-fees: governance/fctr-token/platform-fees.md
+  tokenomics/initial-distribution: governance/fctr-token/initial-distribution.md
+  tokenomics/contract-addresses: governance/fctr-token/contract-addresses.md
+  faq/tokenomics: governance/fctr-token/faq-tokenomics.md
+  faq/scale: governance/factor-scale/faq-factor-scale.md
