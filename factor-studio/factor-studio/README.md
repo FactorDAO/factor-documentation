@@ -1,8 +1,14 @@
 # 🔜 Factor Studio
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+## Overview
+
+<figure><img src="../../.gitbook/assets/FactorStudioArchitecture.png" alt=""><figcaption></figcaption></figure>
+
+Factor Studio reimagines how protocols and strategies are created and managed by merging adaptability with user-centric design. Its modular architecture is built around the premise of flexible building blocks, layered permissions, and a simple yet powerful user interface.
 
 ### **Factor: Creation Layer for Strategies and Protocols**
+
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Factor's DeFi middleware connects existing protocols and provides building blocks for the creation of new strategies and products. It offers a no-code interface alongside an SDK, catering to a multitude of user preferences. By abstracting complexities, Factor reduces technical barriers, facilitating more efficient product development for new and established DeFi builders.\
 

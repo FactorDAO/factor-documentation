@@ -1,6 +1,6 @@
 # 🔑 Security
 
-**Audit Overview and History**
+## **Audit Overview and History**
 
 Factor's commitment to security is evidenced by our consistent and thorough auditing process:
 
@@ -17,3 +17,11 @@ Factor's commitment to security is evidenced by our consistent and thorough audi
 **Continuous Monitoring and Incident Response**
 
 * **Chainalysis' Crypto Incident Response**: Beyond audits, Factor's smart contracts are under continuous surveillance by Chainalysis via Hyperledger's AI-driven technology. This proactive monitoring approach is crucial for early detection and mitigation of potential threats. In the event of an exploit, Chainalysis’ Global Response Team will quickly respond to the situation and increase the chances of asset recovery.
+
+## Audit Links
+
+{% embed url="https://sourcehat.com/audits/FactorDAOVaults/" %}
+
+{% embed url="https://sourcehat.com/audits/FactorDAOVaults/" %}
+
+{% embed url="https://sourcehat.com/audits/Factor/" %}

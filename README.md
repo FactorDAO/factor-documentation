@@ -1,10 +1,26 @@
 ---
 description: The Building Blocks of DeFi
+cover: .gitbook/assets/IMG_4452.jpg
+coverY: -13.438633938100319
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# 🏭 What is Factor?
+# 🏭 Introduction to Factor
 
-<figure><img src=".gitbook/assets/IMG_4452.jpg" alt=""><figcaption><p>Factor - The Building Blocks of DeFi</p></figcaption></figure>
+## Overview
 
 Factor's philosophy revolves around **simplicity** and **flexibility**. Our architecture and integrations encourage fluidity across protocols. Users are not only able to participate but also to become creators and innovators. On-chain strategy management, treasury operations, or even the development of entirely new DeFi primitives are all within reach.&#x20;
 
@@ -23,3 +39,7 @@ Factor values security. We frequently audit contracts (> 25 audited contracts in
 ### Partners Include
 
 <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+The full list of official partners cna be found at the following link:
+
+{% embed url="https://factorlaunch.notion.site/74413491f17c4c2995bad59b1f88f160?v=1c0f6cbd65d14c0f83853979fac4b590" fullWidth="false" %}

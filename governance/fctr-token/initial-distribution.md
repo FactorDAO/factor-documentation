@@ -1,10 +1,16 @@
-# 🧱 Initial Distribution
+# 🌱 Initial Distribution
 
 This section offers a detailed breakdown of FCTR's token allocation, shedding light on the purpose of each allocation category and the corresponding vesting schedules.
 
 ### Fair Launch (10%)
 
 10% of the FCTR tokens were allocated to the fair launch. These were fully unlocked and distributed via Camelot DEX.
+
+**Related Links**
+
+{% embed url="https://app.camelot.exchange/launchpad/factor/" %}
+
+{% embed url="https://dune.com/aleawu/camelot-factor-fair-auction" %}
 
 ### Ecosystem Incentives (20.8%)
 
@@ -22,7 +28,7 @@ The team allocation amounts to 15% of FCTR tokens and subject to a 24-month vest
 
 50% of FCTR tokens are allocated to the Treasury Reserve, which is vested over 4 years. This reserve is used for DAO contributor compensations, DAO-to-DAO token swaps, and any other future needs of the DAO. This allocation helps ensure the long-term sustainability and growth of the Factor ecosystem.
 
-<figure><img src="../.gitbook/assets/v2 Docs Graphic (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/v2 Docs Graphic (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -32,5 +38,5 @@ FCTR reaches its full circulating supply of 100,000,000 tokens 4 years after TGE
 
 
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 

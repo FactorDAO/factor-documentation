@@ -1,4 +1,4 @@
-# ❔ Tokenomics
+# ❔ FAQ - Tokenomics
 
 **What is Tokenomics 2.0?**
 
@@ -71,11 +71,11 @@
 **A:** Revenue sharing in Tokenomics 2.0 is a significant incentive for veFCTR holders:
 
 * **50% Revenue Allocation**: A substantial portion (50%) of the protocol's revenue is distributed among veFCTR holders based on each holder's relative share.
-* **Source of Income**: This revenue originates from transaction fees. See our fee schedule [here](../tokenomics/platform-fees.md)
+* **Source of Income**: This revenue originates from transaction fees. See our fee schedule [here](platform-fees.md)
 
 ### Governance Migration
 
 #### How do I Migrate My Staked Position?
 
-**A**: Please see our walkthrough [here](tokenomics.md#governance-migration).
+**A**: Please see our walkthrough [here](faq-tokenomics.md#governance-migration).
 

@@ -1,4 +1,4 @@
-# 📊 Leverage
+# 🔄 Leverage
 
 The leverage building block enables you to tailor yield bearing positions, transition between different debt and collateral assets, and strategically migrate your portfolio to balance risk and return, all executed with ease and efficiency.
 
