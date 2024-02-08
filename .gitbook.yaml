@@ -14,3 +14,4 @@ redirects:
   tokenomics/contract-addresses: governance/fctr-token/contract-addresses.md
   faq/tokenomics: governance/fctr-token/faq-tokenomics.md
   faq/scale: governance/factor-scale/faq-factor-scale.md
+  how-it-works: getting-started/why-factor.md
