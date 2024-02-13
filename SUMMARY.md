@@ -13,8 +13,8 @@
 
 ## Factor Studio
 
-* [🔜 Factor Studio](factor-studio/factor-studio/README.md)
-  * [🔍 Discover](factor-studio/factor-studio/discover.md)
+* [🔜 Factor Studio](factor-studio/factor-studio.md)
+* [🔍 Discover](factor-studio/discover.md)
 * [🏗 Strategy Builder](factor-studio/strategy-builder.md)
 
 ## Factor SDK
