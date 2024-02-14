@@ -1,37 +1,62 @@
 # 🔄 Leverage
 
-The leverage building block enables you to tailor yield bearing positions, transition between different debt and collateral assets, and strategically migrate your portfolio to balance risk and return, all executed with ease and efficiency.
+## Overview
 
-### Key Features
+Factor Leverage Building Block facilitates advanced [collateralized lending and borrowing](concepts/collateralized-lending-and-borrowing.md) management across multiple DeFi lending protocols. By codifying the convoluted lending processes, the Leverage Building Block provides a simple interface enabling lenders to quickly manage their positions in accordance with market dynamics.
 
-#### One-Click Looping
+The Leverage Building Block currently supports the following operations:
 
-Begin your leveraged trading journey with a single click. This feature automates the complex process of creating leveraged positions, whether you're looking to go long or short.
+* Create Lending Position
+* Withdraw Lending Position
+* Create Borrow Position
+* Repay Borrowed Position
+* Refinance Position
 
-Just choose your pair and the desired level of leverage for your position, and you are all set.
+With integrations across multiple lending protocols, lenders are free to choose between their preferred protocols, tokens, and strategies without worrying about specific protocol differences. The Leverage Building Block allows lenders to easily access more liquidity while offsetting the opportunity costs of [HODL](https://www.investopedia.com/terms/h/hodl.asp)ing their favourite tokens.
 
-#### Position Management
+<details>
 
-**Collateral Switching**: After setting up your leveraged position, adjust your strategy by seamlessly switching your collateral. This flexibility is key in managing market volatility and aligning with your risk appetite.
+<summary>Related Concepts</summary>
 
-**Debt Switching**: Adapt to market changes by switching your debt asset. This feature allows you to change your borrowed asset to another, optimizing your position in response to fluctuating interest rates or market trends.
+* [Collateralized Lending](concepts/collateralized-lending-and-borrowing.md)
+* [Looping](concepts/looping.md)
 
-The dashboard provides real-time updates on crucial metrics like Loan to Value (LTV), liquidation thresholds, and health factors, enabling informed decision-making and risk assessments.
+</details>
 
-#### Refinancing
+## Features
 
-Optimize your leveraged positions by tapping into the most favorable market conditions across various lending protocols.
+* **Access More Liquidity:** Maintain exposure to collateralized assets while maximizing capital efficiency by borrowing tokens against your lending position.
+* [**One-Click Looping**](concepts/looping.md#one-click-looping)**:** Choose your desired leverage multiplier and the Leverage Building Block handles the complex process of depositing, borrowing, and looping.
+* **Collateral And Debt Asset Switching:** Easily replace your collateral or borrowed token with an alternate token in a single transaction.
+* **Effortless Refinancing:** Compare lending terms across multiple protocols and seamlessly migrate your leveraged position to take advantage of market conditions.
+* **Liquidation Safeguards:** Immediate liquidations risks are minimized through customizable parameters that enable risk management flexibility.
+* **Real Time Updates:** The Leverage Building Block provides real time data for crucial position metrics such as Loan-To-Value (LTV), liquidation factors, as well as health factors.
 
-Migrate your positions seamlessly between protocols like AAVE, CompoundV3, and Silo Finance. This transfer includes both your collateral and debt, ensuring a smooth transition with minimal disruption.
+## Integrations
 
-Refinancing can be a critical tool for risk management, allowing you to shift your position to more stable or profitable protocols as market dynamics change. By moving to protocols with better terms, you can improve the overall health of your leveraged position, optimizing your LTV ratios, and potentially avoid liquidation scenarios.
+Factor has integrated with leading lending protocols, offering a broad spectrum of possibilities for your strategies.
 
-Utilize the comparative insights feature to analyze the potential impacts of migrating your position. This tool provides a detailed comparison of key metrics like interest rates, potential yields, and associated costs.
+* [Aave](https://aave.com/)
+* [Compound V3](https://compound.finance/)
+* [Fluidity Money](https://fluidity.money/)
+* [Lodestar Finance](https://www.lodestarfinance.io/)
+* [Silo Finance](https://www.silo.finance/)
+* [Tender Finance](https://www.tender.fi/)
 
-### Integrations
+Visit our [**Discover**](https://app.factor.fi/discover) page to see the latest leverage strategies.
 
-Factor has integrated with leading lending protocols, offering a broad spectrum of possibilities for your strategies. With AAVE, CompoundV3, Silo Finance, Lodestar, Tender, and more, you have a diverse range of options to tailor your approach.
+## Next Steps
 
-Visit our [**Discover**](https://app.factor.fi/discover) page to see the latest leverage vaults.
+{% tabs %}
+{% tab title="Users" %}
+* [Take Out A Loan](user-guides/take-out-a-loan.md)
+* [Manage Your Loan](user-guides/manage-your-loan.md)
+* [Refinance Your Loan](user-guides/refinance-your-loan.md)
+{% endtab %}
 
-_**Always be aware of the risks involved in leveraged trading. Use the health factor metric as a guide to avoid liquidation.**_
+{% tab title="Strategy Builders" %}
+{% hint style="info" %}
+:construction: This section is under construction. Stay tuned for exciting updates coming real soon!
+{% endhint %}
+{% endtab %}
+{% endtabs %}
