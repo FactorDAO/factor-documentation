@@ -1,35 +1,38 @@
 # 💸 Yield
 
-Factor Yield Vaults are advanced DeFi tools that offer users a streamlined and efficient way to earn yields on their assets. These vaults automate the process of earning yields from various protocols on Arbitrum, catering to both single and multi-asset strategies.
+## Overview
 
-### Key Features
+Factor Yield Building Block automates yield farming strategies across DeFi AMM liquidity protocols. Through auto-compounding LP returns, the Yield Vault maximizes potential yield while simultaneously minimizing manual overheads (i.e. gas costs, capital rebalancing, etc.). Factor Yield Vaults are permissionless enabling anyone or any organization to deposit tokens and immediately start earning amplified yields without any lockup.
 
-**Auto-Compounding**: The vaults' auto-compounding feature ensures that yields are continually compounded, thus amplifying the compounding effect on returns. This automation saves time and maximizes efficiency.
+With integrations across multiple liquidity sources, users are able to seamlessly access automated yield farming strategies on their favourite protocols. Factor Yield Vaults support both single and multi-asset strategies. More advanced users can even leverage Factor’s Strategy Builder to build your own strategy without worrying about technical implementation details.
 
-**Diverse Strategies**: Catering to a range of assets and protocols, the vaults offer a diverse set of strategies including but not limited to:
+<details>
 
-* Lending
-* Liquidity Providing
-* Liquid Staked Derivatives
+<summary>Related Concepts</summary>
 
-**Zap** : convert and deposit any asset directly into the yield vaults, all in one-click! This streamlines the process of opening a yielding position.
+* [Yield Farming](concepts/yield-farming.md)
+* [Yield Aggregators](concepts/yield-aggregators.md)
 
-#### **Integration with Major Protocols**
+</details>
 
-Factor vaults seamlessly integrate with various leading DeFi protocols, enhancing the range of yield opportunities. Examples include:
+## Features
 
-* **Penpie: rETH Auto-Compounder:** Integrates with the Penpie and Pendle, consistently generating high yields on rETH
-* **GMX GLP Auto-Compounder**: Integrates with the GMX protocol and maximizes yield on GLP
-* **MUX MUXLP Auto-Compounder**: Leverages the MUX protocol to optimize yields on staked MUXLP
-* **Trader Joe Auto-Compounder**: Targets Trader Joe's JOE tokens, tapping into the yield offered by their sJOE pool
-* **Silo Strategies**: Incorporates Silo's isolated lending pools for sUSDC-ARB and sUSDC-GMX
+* **Auto-Compounding Yields:** Yield generated is periodically reinvested thereby maximizing market making capital efficiency.
+* **Gas Costs Socialization:** Gas costs incurred when managing the position is distributed across all LPs thereby saving individual LPs gas.
+* **Reduced Reward Token Exposure:** As yield farms generally incentivize liquidity by distributing their own reward tokens, the periodic reinvestment into the underlying token pool minimizes exposure to supplementary tokens.
+* **Liquidity Protocol Abstraction:** Manage your liquidity positions directly from the Yield Building Block without having to directly interface with the underlying liquidity and yield farming protocols.
 
-### How They Work
+## Integrations
 
-1. **Deposit**: Users deposit their assets into a specific yield vault. The type of assets accepted depends on the vault's strategy.
-   * **Zapping In**: Users can use the Zap feature to convert their existing assets into the desired vault in one seamless action.
-2. **Yield Generation**: The vaults employ various strategies to generate yields. These strategies are executed automatically, leveraging opportunities across different protocols.
-3. **Compounding Returns**: Earned yields are automatically compounded, enhancing the overall return for users over time.
-4. **Withdraw**: Users can withdraw their assets, along with the accrued yields, according to their needs and timing.
+Factor has integrated with leading yield farming protocols, offering a broad spectrum of possibilities for your strategies.
 
-Visit our [**Discover**](https://app.factor.fi/discover) page to see the latest yield vaults.
+* [Gains Network](https://gainsnetwork.io/)
+* [GMX](https://gmx.io/)
+* [MUX Protocol](https://mux.network/)
+* [Pendle](https://www.pendle.finance/)
+* [Penpie](https://docs.penpiexyz.io/)
+* [Radiant](https://radiant.capital/)
+* [Umami](https://umami.finance/)
+* [Vela Exchange](https://www.vela.exchange/)
+
+Visit our [**Discover**](https://app.factor.fi/discover) page to see the latest yield strategies.

@@ -34,6 +34,9 @@
     * [Refinance Your Loan](factor-building-blocks/leverage/user-guides/refinance-your-loan.md)
   * [FAQ - Leverage Building Block](factor-building-blocks/leverage/faq-leverage-building-block.md)
 * [💸 Yield](factor-building-blocks/yield/README.md)
+  * [Concepts](factor-building-blocks/yield/concepts/README.md)
+    * [Yield Farming](factor-building-blocks/yield/concepts/yield-farming.md)
+    * [Yield Aggregators](factor-building-blocks/yield/concepts/yield-aggregators.md)
   * [⚡ Zap](factor-building-blocks/yield/zap.md)
 
 ## Factor Adapters
