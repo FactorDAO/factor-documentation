@@ -37,13 +37,18 @@ With integrations across multiple lending protocols, lenders are free to choose 
 Factor has integrated with leading lending protocols, offering a broad spectrum of possibilities for your strategies.
 
 * [Aave](https://aave.com/)
-* [Compound V3](https://compound.finance/)
-* [Fluidity Money](https://fluidity.money/)
 * [Lodestar Finance](https://www.lodestarfinance.io/)
-* [Silo Finance](https://www.silo.finance/)
-* [Tender Finance](https://www.tender.fi/)
+* [Tender.Fi](https://www.tender.fi/)
 
 Visit our [**Discover**](https://app.factor.fi/discover) page to see the latest leverage strategies.
+
+{% hint style="success" %}
+**Don't Limit Your Strategies To Just Leverage**
+
+[Factor Studio](../../factor-studio/factor-studio.md) enables different [Building Blocks](../factor-building-blocks.md) to be mixed-and-matched thereby facilitating multi-step strategies which span across the whole DeFi ecosystem.
+
+Please refer to [Supported Protocols](../../getting-started/supported-protocols.md) to view the full list of DeFi protocols which have been integrated with Factor Studio.
+{% endhint %}
 
 ## Next Steps
 
