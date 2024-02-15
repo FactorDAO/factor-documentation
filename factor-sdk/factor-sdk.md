@@ -6,6 +6,10 @@ Factor's SDK is a versatile toolkit for easier use of the Factor platform. It he
 
 <figure><img src="../.gitbook/assets/FactorSDK.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+:construction: The Factor SDK is currently under construction. Stay tuned for exciting updates coming real soon!
+{% endhint %}
+
 #### What Does The SDK offer?
 
 The Factor SDK is a comprehensive toolset packed with features to assist you in the entire journey of developing, deploying, and managing custom trading strategies on the Factor platform. Its user-friendly interface and seamless integration simplify the complexities of crafting bespoke strategies, enabling users to concentrate on their distinctive insights and trading objectives.
