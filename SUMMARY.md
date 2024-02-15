@@ -4,6 +4,7 @@
 
 ## Getting Started
 
+* [🔗 Supported Protocols](getting-started/supported-protocols.md)
 * [🌐 Why Factor?](getting-started/why-factor.md)
 * [✅ Use Cases](getting-started/use-cases/README.md)
   * [DeFi Protocols](getting-started/use-cases/defi-protocols.md)
