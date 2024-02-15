@@ -39,6 +39,10 @@
     * [Yield Farming](factor-building-blocks/yield/concepts/yield-farming.md)
     * [Yield Aggregators](factor-building-blocks/yield/concepts/yield-aggregators.md)
   * [⚡ Zap](factor-building-blocks/yield/zap.md)
+* [🔀 Swap](factor-building-blocks/swap/README.md)
+  * [Concepts](factor-building-blocks/swap/concepts/README.md)
+    * [Market Orders](factor-building-blocks/swap/concepts/market-orders.md)
+    * [DEX Aggregators](factor-building-blocks/swap/concepts/dex-aggregators.md)
 
 ## Factor Adapters
 
