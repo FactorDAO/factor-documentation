@@ -43,6 +43,10 @@
   * [Concepts](factor-building-blocks/swap/concepts/README.md)
     * [Market Orders](factor-building-blocks/swap/concepts/market-orders.md)
     * [DEX Aggregators](factor-building-blocks/swap/concepts/dex-aggregators.md)
+* [🪄 Flash Loan](factor-building-blocks/flash-loan/README.md)
+  * [Concepts](factor-building-blocks/flash-loan/concepts/README.md)
+    * [Uncollateralized Lending & Borrowing](factor-building-blocks/flash-loan/concepts/uncollateralized-lending-and-borrowing.md)
+    * [Flash Loan](factor-building-blocks/flash-loan/concepts/flash-loan.md)
 
 ## Factor Adapters
 
