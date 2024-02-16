@@ -12,6 +12,7 @@ Factor Studio enables Creators to build strategies spanning across multiple DeFi
 
 * [Aave](https://aave.com/)
 * [Lodestar Finance](https://www.lodestarfinance.io/)
+* [Silo](https://www.silo.finance/)
 * [Tender.Fi](https://www.tender.fi)
 
 </details>

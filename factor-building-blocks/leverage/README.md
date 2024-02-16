@@ -38,6 +38,7 @@ Factor has integrated with leading lending protocols, offering a broad spectrum 
 
 * [Aave](https://aave.com/)
 * [Lodestar Finance](https://www.lodestarfinance.io/)
+* [Silo](https://www.silo.finance/)
 * [Tender.Fi](https://www.tender.fi/)
 
 Visit our [**Discover**](https://app.factor.fi/discover) page to see the latest leverage strategies.
