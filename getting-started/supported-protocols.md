@@ -21,7 +21,6 @@ Factor Studio enables Creators to build strategies spanning across multiple DeFi
 
 <summary>Liquidity Pool Management</summary>
 
-* [Balancer](https://balancer.fi/)
 * [Trader Joe](https://www.traderjoexyz.com/)
 * [Uniswap V3](https://uniswap.org/)
 
