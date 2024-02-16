@@ -82,5 +82,5 @@
 * [Discord](https://discord.gg/factor)
 * [Telegram](https://t.me/FactorDAO)
 * [Substack](https://factordao.substack.com/)
-* [Podcasts](https://factorlaunch.notion.site/74413491f17c4c2995bad59b1f88f160?v=1c0f6cbd65d14c0f83853979fac4b590)
+* [Podcasts, Spaces & AMAs](https://factorlaunch.notion.site/Podcast-Spaces-and-AMA-b8e33ac7252f4c94bc0afc002e07dd86)
 * [Email Enquiries](mailto:info@factor.fi)

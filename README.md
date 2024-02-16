@@ -40,6 +40,6 @@ Factor values security. We frequently audit contracts (> 25 audited contracts in
 
 <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-The full list of official partners cna be found at the following link:
+The full list of official partners can be found at the following link:
 
 {% embed url="https://factorlaunch.notion.site/74413491f17c4c2995bad59b1f88f160?v=1c0f6cbd65d14c0f83853979fac4b590" fullWidth="false" %}
