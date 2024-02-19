@@ -24,7 +24,7 @@ Blocks that facilitate actions with an integrated protocol (i.e. lend, swap, etc
 
 Action Blocks are further divided into different categories that logically align with the different financial segments:
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><a href="leverage/"><strong>Leverage</strong></a></td><td></td><td></td></tr><tr><td><a href="yield/"><strong>Yield</strong></a></td><td></td><td></td></tr><tr><td>Flash Loan</td><td></td><td></td></tr><tr><td>Swap</td><td></td><td></td></tr><tr><td>Liquidity Pool Management</td><td></td><td></td></tr><tr><td>Indices</td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><a href="leverage/"><strong>Leverage</strong></a></td><td></td><td></td></tr><tr><td><a href="yield/"><strong>Yield</strong></a></td><td></td><td></td></tr><tr><td><a href="flash-loan/"><strong>Flash Loan</strong></a></td><td></td><td></td></tr><tr><td><a href="swap/"><strong>Swap</strong></a></td><td></td><td></td></tr><tr><td>Liquidity Pool Management</td><td></td><td></td></tr><tr><td>Indices</td><td></td><td></td></tr></tbody></table>
 
 ### Conditional Blocks
 
