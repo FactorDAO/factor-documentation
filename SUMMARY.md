@@ -16,6 +16,8 @@
 
 * [🔜 Factor Studio](factor-studio/factor-studio.md)
 * [🔍 Studio Discover](factor-studio/studio-discover.md)
+* [🏠 Studio Essential](factor-studio/studio-essential.md)
+* [👥 Studio Pro](factor-studio/studio-pro.md)
 * [🏗 Strategy Builder](factor-studio/strategy-builder.md)
 
 ## Factor SDK
