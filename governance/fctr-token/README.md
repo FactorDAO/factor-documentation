@@ -18,6 +18,10 @@ Factor operates based on principles of fairness, community involvement, and sust
 
 Factor is dedicated to promoting genuine community governance, where users' voices carry significant weight in shaping the protocol's development and trajectory. With over 80% of the $FCTR supply allocated to the community, we emphasize our trust in the collective wisdom and decision-making capabilities of an active community. We firmly believe that this strategy will drive DeFi innovation to unprecedented levels and nurture a collaborative ecosystem.
 
+## At A Glance
+
+<table><thead><tr><th width="253">FCTR Token Details</th><th>Value</th></tr></thead><tbody><tr><td>Name</td><td>FactorDAO</td></tr><tr><td>Symbol</td><td>FCTR</td></tr><tr><td>Token Standard</td><td>ERC20 (<a href="https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable/blob/master/contracts/token/ERC20/ERC20Upgradeable.sol">Upgradeable</a>)</td></tr><tr><td>Decimals</td><td>18</td></tr><tr><td>Total Supply</td><td>100,000,000</td></tr><tr><td>Max Supply</td><td>100,000,000</td></tr><tr><td>Token Generation Event</td><td>Feb-19-2023 09:27:37 PM +UTC (<a href="https://arbiscan.io/tx/0x4e0d6223254b490d072e93f5a9f27cc446d391142dceb6656bc9374510b448ae">Tx Hash</a>)</td></tr><tr><td>Contract Address (Proxy)</td><td><a href="https://arbiscan.io/address/0x6dd963c510c2d2f09d5eddb48ede45fed063eb36"><code>0x6dd963c510c2d2f09d5eddb48ede45fed063eb36</code></a></td></tr></tbody></table>
+
 ## **$veFCTR: Long-term Incentives and Anti-Whale Measures**
 
 {% hint style="info" %}
