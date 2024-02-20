@@ -5,6 +5,7 @@
 <summary>FCTR</summary>
 
 * **TransparentUpgradeableProxy:** [`0x6dd963c510c2d2f09d5eddb48ede45fed063eb36`](https://arbiscan.io/address/0x6dd963c510c2d2f09d5eddb48ede45fed063eb36)
+* **Factor (V1):** [`0x1ef974e29a64bdd6aa10d6b05cbd2bb823629545`](https://arbiscan.io/address/0x1ef974e29a64bdd6aa10d6b05cbd2bb823629545)
 
 </details>
 
@@ -34,5 +35,3 @@
 * **FCTR-ETH Pool on Camelot**: [`0x90635ddf0b7fb9aeb3d9de749b815374302dbbde`](https://arbiscan.io/address/0x90635ddf0b7fb9aeb3d9de749b815374302dbbde)
 
 </details>
-
-*
