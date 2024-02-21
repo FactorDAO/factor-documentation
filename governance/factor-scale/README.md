@@ -24,7 +24,7 @@ In addition to the [veFCTR](../fctr-token/#vefctr) emissions multiplier, Factor 
 
 To be eligible to vote on Scale rewards distribution, users must first stake [FCTR](../fctr-token/#fctr) to receive [veFCTR](../fctr-token/#vefctr) which represents a single vote (i.e. 1 [veFCTR](../fctr-token/#vefctr): 1 vote). [veFCTR](../fctr-token/#vefctr) holders are then able to vote for multiple strategies by allocating a percentage of their total [veFCTR](../fctr-token/#vefctr) holdings towards various vaults. Note that an emissions multiplier is applied to each [veFCTR](../fctr-token/#vefctr) voter based on their staking duration and relative holdings.
 
-Voting occurs per epoch (weekly) whereby [veFCTR](../fctr-token/#vefctr) holders will have a 96 hour window to vote on their preferred vaults. This encourages greater participation by allowing ample time for votes to be cast. Following the voting window, an on-chain snapshot of the votes is taken every Friday at 12pm UTC. Scale rewards are then proportionally distributed based on a vault's calculated Scale Weight.
+Voting occurs per epoch (weekly) whereby [veFCTR](../fctr-token/#vefctr) holders will have a 72 hour window to vote on their preferred vaults. This encourages greater participation by allowing ample time for votes to be cast. Following the voting window, an on-chain snapshot of the votes is taken every Friday at 12pm UTC. Scale rewards are then proportionally distributed based on a vault's calculated Scale Weight.
 
 Every step, from voting to reward distribution, is transparent and aligns with the community’s sentiment.
 
