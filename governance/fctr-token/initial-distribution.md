@@ -1,10 +1,12 @@
 # 🌱 Initial Distribution
 
-This section offers a detailed breakdown of FCTR's token allocation, shedding light on the purpose of each allocation category and the corresponding vesting schedules.
+This section offers a detailed breakdown of [FCTR](./#fctr)'s token allocation, shedding light on the purpose of each allocation category and the corresponding vesting schedules.
 
 ### Fair Launch (10%)
 
 10% of the FCTR tokens were allocated to the fair launch. These were fully unlocked and distributed via Camelot DEX.
+
+<table><thead><tr><th width="294">Fair Launch Details</th><th>Value</th></tr></thead><tbody><tr><td>Token Allocation</td><td>10,000,000 FCTR</td></tr><tr><td>Launch Period</td><td>96 hours (4 days)</td></tr><tr><td>Start Date</td><td>Feb-20-2023 06:00:00 PM +UTC</td></tr><tr><td>End Date</td><td>Feb-24-2023 06:00:00 PM +UTC</td></tr><tr><td>Participating Addresses</td><td>13,394</td></tr><tr><td>Total Raised</td><td>7,578,366 USDC</td></tr></tbody></table>
 
 **Related Links**
 
