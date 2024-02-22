@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Swap Building Block enables users to conveniently access deeper and more efficient liquidity for their specific trading requirements through smart trade routing. Through routing the trades via various integrated AMM DEXs and DEX Aggregators, the Swap Building Block is able to objectively discover more capital efficient liquidity sources thereby ensuring favourable swap rates while encouraging greater market stability.
+The Swap Building Block enables users to conveniently access deeper and more efficient liquidity for their specific trading requirements through smart trade routing automated conditional swaps. Through routing the trades via various integrated AMM DEXs and DEX Aggregators, the Swap Building Block is able to objectively discover more capital efficient liquidity sources thereby ensuring favourable swap rates while encouraging greater market stability.
 
 The Swap Building Block supports more advanced orders offering users the flexibility when creating strategies:
 
@@ -26,7 +26,7 @@ The Swap Building Block functions as an automation and optimization layer betwee
 
 * **Swap At Superior Rates:** By aggregating liquidity across multiple liquidity sources, the Swap Building Block is able to uncover more capital efficient liquidity for a swap.
 * **Smart Trade Routing:** Specify your swap parameters and the Swap Building Block automatically optimizes the swap route for better rates.
-* **Automated Swaps:** Create predefined triggers for your swap and the Swap Building Block automatically executes the transaction when the corresponding market conditions are met.
+* **Automated Conditional Swaps:** Create predefined triggers for your swap and the Swap Building Block automatically executes the transaction when the corresponding market conditions are met.
 
 ## Integrations
 
