@@ -56,10 +56,8 @@
 
 ## Governance
 
-* [🏛 FactorDAO](governance/factordao/README.md)
-  * [Governance Voting Model](governance/factordao/governance-voting-model.md)
-  * [User Guides](governance/factordao/user-guides/README.md)
-    * [Migrate From v1 to v2](governance/factordao/user-guides/migrate-from-v1-to-v2.md)
+* [🏛 FactorDAO](governance/factordao.md)
+* [➡ Migrate to Governance V2](governance/migrate-from-v1-to-v2.md)
 * [🪙 FCTR Token](governance/fctr-token/README.md)
   * [🌱 Initial Distribution](governance/fctr-token/initial-distribution.md)
   * [🌿 Staking and Governance](governance/fctr-token/staking-and-governance.md)
