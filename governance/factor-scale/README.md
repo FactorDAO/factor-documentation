@@ -5,7 +5,7 @@
 {% hint style="success" %}
 **Factor Scale Rewards**
 
-Factor will allocate up to 100,000 [FCTR](../fctr-token/#fctr) per epoch (weekly) based on completed TVL milestones. The [FCTR](../fctr-token/#fctr) tokens for Scale rewards are sourced from the [Ecosystem Incentives  ](../fctr-token/initial-distribution.md#ecosystem-incentives-20.8)portion allotted during [FCTR](../fctr-token/#fctr) initial distribution.
+Factor allocates up to 100,000 [FCTR](../fctr-token/#fctr) per epoch (weekly) based on completed TVL milestones. The [FCTR](../fctr-token/#fctr) tokens for Scale rewards are sourced from the [Ecosystem Incentives  ](../fctr-token/initial-distribution.md#ecosystem-incentives-20.8)portion allotted during [FCTR](../fctr-token/#fctr) initial distribution.
 {% endhint %}
 
 Factor Scale enables [veFCTR](../fctr-token/#vefctr) holders to vote on the distribution of weekly gauge rewards to different vaults created on Factor. To incentivize greater user engagement and deeper liquidity, the allocated [FCTR](../fctr-token/) tokens are distributed per epoch (i.e weekly) to Strategy Depositors as gauge rewards. [veFCTR](../fctr-token/#vefctr)  holders participate in a weighted voting mechanism that takes place weekly to determine the distribution of gauge rewards.&#x20;
