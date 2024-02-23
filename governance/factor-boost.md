@@ -16,17 +16,14 @@ For the whitelisting of reward tokens, please email [info@factor.fi](mailto:info
 
 Factor Boost rewards are distributed linearly over the period of 7 days from when the reward tokens are deposited. The number of reward tokens allocated per block is then distributed proportionally based on the total deposits in the vault for the specified block. In cases where the target vault has an existing rewards schedule, any additional rewards added will be apportioned according to the remaining time of the first created rewards schedule. As Factor Boost matures, more advanced rewards scheduling options will be supported.
 
-Factor Boost is accessible via the Factor dapp. While the concepts underlying Factor Boost has largely targeted protocols, the ease of creating vault reward schedules via the Factor dapp ensures equitable access to incentivization mechanics. Strategies which grow the Factor ecosystem might also receive additional boosts via [FCTR](fctr-token/#fctr) tokens disbursed by Factor.
+Factor Boost is currently available to our partners via the Factor dapp with public access coming very soon! While the concepts underlying Factor Boost has largely targeted protocols, the ease of creating vault reward schedules via the Factor dapp ensures equitable access to incentivization mechanics. Strategies which grow the Factor ecosystem might also receive additional boosts via [FCTR](fctr-token/#fctr) tokens disbursed by Factor.
 
 {% hint style="success" %}
 **Factor Boost Incentive Matching Program**
 
-Factor will allocate 50,000 [FCTR](fctr-token/#fctr) per epoch (weekly) over an initial period of 6 months for Factor Boost. Depending on the outcome of a community vote, Factor will match up to a maximum of 10,000 [FCTR](fctr-token/#fctr) per partner per epoch, against native tokens provided by the partner to boost vault rewards.
+Depending on the outcome of community votes, Factor will strive to match the value of the native tokens provided by our partners as boost rewards.
 
-Please complete the relevant form below if you would like to submit your vault for the program:
-
-* [Single Asset Vault Strategy](https://docs.google.com/forms/d/e/1FAIpQLSch7UyIlxoIKSP3stPsHAsHIBpbTDOr1E4PQ\_4aOhYrXEnRnw/viewform)
-* [Multi-Asset Vault Strategy](https://docs.google.com/forms/d/e/1FAIpQLScJ0RRJetGmteauvLO6LHvo2qGaeLcbWSBbQ4jdZWOggA6Xug/viewform)
+Please email [info@factor.fi](mailto:info@factor.fi) if you would like to submit your vault for the program (e.g.\[BOOST MATCHING]).
 {% endhint %}
 
 ## Features
