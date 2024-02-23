@@ -1,5 +1,5 @@
 ---
-description: The Building Blocks of DeFi
+description: ACE - Accessible, Composable, and Efficient.
 cover: .gitbook/assets/IMG_4452.jpg
 coverY: -13.438633938100319
 layout:
@@ -20,21 +20,29 @@ layout:
 
 # 🏭 Introduction to Factor
 
-## Overview
+## Building The Composable Layer Of DeFi
 
-Factor's philosophy revolves around **simplicity** and **flexibility**. Our architecture and integrations encourage fluidity across protocols. Users are not only able to participate but also to become creators and innovators. On-chain strategy management, treasury operations, or even the development of entirely new DeFi primitives are all within reach.&#x20;
+Factor is realising a future where building and automating complex DeFi strategies are as simple as a drag-and-drop, no coding required. At Factor, we are democratising access to open and permissionless financial rails by equipping users with powerful but intuitive tools that abstracts the intricacies of getting cross-protocol DeFi strategies to market. Factor promotes a thriving DeFi community by empowering users to create shareable strategies that are open to all.
 
-### Products
+* **Strategy Creators:** Combine varying strategies from multiple DeFi protocols into one automated strategy using [Factor Studio](factor-studio/factor-studio.md)'s drag-and-drop interface.
+* **Strategy Managers:** Have what it takes to consistently create successful strategies? Shorten your time to market and earn more fees by allowing users to deposit to your automated strategies.
+* **Depositors:** Participate in professionally-managed and community-curated strategies by depositing funds into automated strategy vaults to earn passive yield.
+* **Developers:** Leverage the [Factor SDK](factor-sdk/factor-sdk.md) to effortlessly create custom strategies directly on your app or backend without having to worry about protocol integration specifics.
+* **Protocols & DAOs:** Generate permissionless protocol incentives and distribution systems with ease while benefitting from Factor's revenue share or partnership funds.
+* **Factorians:** Stake [FCTR](governance/fctr-token/) and participate in building the future of Factor while earning long term protocol incentives.
 
-Our architecture seamlessly connects existing protocols and provides the essential building blocks for innovators to craft new DeFi products and strategies. Learn more about our products in our Product section [here](./#products).
+With integrations across multiple protocols, Factor is a user-friendly and secure gateway to the rest of DeFi. All of Factor's smart contracts are audited by PeckShield & [SourceHat](https://sourcehat.com/audits/Factor/) with live contracts being actively monitored by Chainalysis. Whether you're a protocol, treasury, builder, or individual strategist, Factor streamlines your path to financial autonomy, ensuring a seamless journey for all.
 
-### Tokenomics
+Factor is governed by the [FactorDAO](governance/factordao.md), a community-owned platform that empowers [FCTR](governance/fctr-token/#fctr) token holders to participate in the governance of the protocol. By aligning protocol growth with long-term individual incentives, the [FactorDAO](governance/factordao.md) places [FCTR](governance/fctr-token/#fctr) holders at the center of Factor’s future. FactorDAO consensus guides the direction of the Factor team which operates a fully remote ream with \~25 builders spread around the globe.
 
-Our tokenomics were designed to streamline the staking process, stimulate long term engagement, and provide additional incentives to stakers who contribute to Factor's ecosystem growth. Please see our [Tokenomics ](./#tokenomics)section and [FAQ](broken-reference).
+## Factor Solutions
 
-### Security
-
-Factor values security. We frequently audit contracts (> 25 audited contracts in 2023) with Peckshield and Sourcehat. Additionally, our contracts are being monitored by Chainalysis. Learn more in our [Security ](./#security)section.
+* [**Factor Studio**](factor-studio/factor-studio.md)**:** One-stop platform for creating Accessible, Composable, and Efficient DeFi strategies. Factor Studio reimagines how DeFi strategies can be created and shared via creating synergies between various Factor products.
+* [**Factor Building Blocks**](./#factor-building-blocks)**:** Simplifying DeFi strategy creation by abstracting the complexity of comparable protocols into a single intent-based interface. Building Blocks allow users to focus on strategy creation without having to worry about the exact details of strategy implementation across protocols.
+* [**Factore Adapters**](./#factor-adapters)**:** Enabling Factor Studio to securely and permissionlessly interact with external DeFi protocols on-chain. Factor Adapters generalizes core financial operations by implementing protocol-specific smart contracts that interface directly with external protocol smart contracts.
+* [**Factor SDK**](./#factor-sdk)**:** A versatile developer toolkit packed with features to assist you in the entire journey of developing, deploying, and managing custom trading strategies on the Factor platform. Instead of manually integrating with each protocol, developers can utilize the SDK’s modular building blocks.
+* [**Factor Scale**](governance/factor-scale/)**:** Stake [FCTR](governance/fctr-token/#fctr) and be eligible to vote on the distribution of weekly gauge rewards to different vaults created on Factor. Factor Scale democratizes the allocation of protocol rewards via allowing [veFCTR](governance/fctr-token/#vefctr) holders to direct protocol emissions through community voting.
+* [**Factor Boost**](governance/factor-boost.md)**:** Allocate any ERC20 token as additional rewards for depositors in a target strategy vault. Just select a target vault as well as a whitelisted ERC20 reward token and Factor Boost will automatically apportion the reward tokens to vault depositors.
 
 ### Partners Include
 
