@@ -52,9 +52,11 @@ Adhering to the [ERC20](https://docs.openzeppelin.com/contracts/5.x/erc20) token
 
 veFCTR (vote-escrow FCTR) is a special governance token that enables holders to vote on various FactorDAO governance proposals. **Each veFCTR represents a single vote within the Factor ecosystem.**
 
-veFCTR is minted when FCTR tokens are staked into the FactorDAO governance contract. By locking up FCTR tokens for up to a maximum of 2 years, **FCTR stakers are able increase their emission multiplier up till a maximum of 2.5x** with linear decay. In addition to staking duration, the emission multiplier also rewards veFCTR holders with a larger proportion of holdings.
+veFCTR is minted when FCTR tokens are staked into the FactorDAO governance contract. The ratio of veFCTR minted per FCTR is determined by the staking duration whereby a max lock of 2 years results in the maximum of 1veFCTR:1FCTR. The veFCTR balance is subject to a time-based linear decay which  corresponds to the time left in the staking period for the underlying FCTR.  In short, the longer the FCTR staking period, the more veFCTR allocated.
 
-Put simply, the longer the commitment, the more rewards (i.e. emissions) voting power the FCTR staker receives. This discourages speculation and instead incentivizes prolonged engagement with the protocol. Critically, the conversion to veFCTR also limits the influence of large token holders (i.e. whales) thereby ensuring a more balanced governance process.
+By staking FCTR tokens for up to a maximum of 2 years, **FCTR stakers are also able increase their emissions multiplier up till a maximum of 2.5x**. In addition to staking duration, the emissions multiplier also rewards veFCTR holders with a larger proportion of holdings as well as their strategy deposit amount. The emissions multiplier does not decay and remains the same for the period that the underlying FCTR is staked.
+
+Put simply, the longer the commitment, the more voting power and rewards (i.e. emissions) the FCTR staker receives. This discourages speculation and instead incentivizes prolonged engagement with the protocol. Critically, the conversion to veFCTR also limits the influence of large token holders (i.e. whales) thereby ensuring a more balanced governance process.
 
 In addition to governance rights, **50% of the protocol's ongoing revenue is automatically distributed to veFCTR holders as USDC**. This revenue sharing model greatly encourages long term FCTR staking which in turn aligns FCTR holders and Factor ecosystem growth.
 

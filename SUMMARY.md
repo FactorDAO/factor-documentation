@@ -18,7 +18,7 @@
 * [🔍 Studio Discover](factor-studio/studio-discover.md)
 * [🏠 Studio Essential](factor-studio/studio-essential.md)
 * [👥 Studio Pro](factor-studio/studio-pro.md)
-* [🏗 Strategy Builder](factor-studio/strategy-builder.md)
+* [🏗️ Strategy Builder](factor-studio/strategy-builder.md)
 
 ## Factor SDK
 
@@ -56,15 +56,15 @@
 
 ## Governance
 
-* [🏛 FactorDAO](governance/factordao.md)
-* [➡ Migrate to Governance V2](governance/migrate-from-v1-to-v2.md)
+* [🏛️ FactorDAO](governance/factordao.md)
+* [➡️ Migrate to Governance V2](governance/migrate-from-v1-to-v2.md)
 * [🪙 FCTR Token](governance/fctr-token/README.md)
   * [🌱 Initial Distribution](governance/fctr-token/initial-distribution.md)
   * [🌿 Staking and Governance](governance/fctr-token/staking-and-governance.md)
   * [💵 Platform Fees](governance/fctr-token/platform-fees.md)
   * [📜 Contract Addresses](governance/fctr-token/contract-addresses.md)
   * [❔ FAQ - Tokenomics](governance/fctr-token/faq-tokenomics.md)
-* [⚖ Factor Scale](governance/factor-scale/README.md)
+* [⚖️ Factor Scale](governance/factor-scale/README.md)
   * [❔ FAQ - Factor Scale](governance/factor-scale/faq-factor-scale.md)
 * [🚀 Factor Boost](governance/factor-boost.md)
 

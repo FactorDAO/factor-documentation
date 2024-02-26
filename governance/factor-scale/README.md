@@ -1,4 +1,4 @@
-# ⚖ Factor Scale
+# ⚖️ Factor Scale
 
 ## Overview
 
@@ -28,7 +28,7 @@ TVL milestones are calculated based on the moving average of the total TVL acros
 
 ## Voting Process
 
-To be eligible to vote on Scale rewards distribution, users must first stake [FCTR](../fctr-token/#fctr) to receive [veFCTR](../fctr-token/#vefctr) which represents a single vote (i.e. 1 [veFCTR](../fctr-token/#vefctr): 1 vote). [veFCTR](../fctr-token/#vefctr) holders are then able to vote for multiple strategies by allocating a percentage of their total [veFCTR](../fctr-token/#vefctr) holdings towards various vaults. In order to qualify for emission rewards, users must also stake their vault position(s). Note that an emissions multiplier is applied to each [veFCTR](../fctr-token/#vefctr) voter based on their staking duration and relative holdings.
+To be eligible to vote on Scale rewards distribution, users must first stake [FCTR](../fctr-token/#fctr) to receive [veFCTR](../fctr-token/#vefctr) which represents a single vote (i.e. 1 [veFCTR](../fctr-token/#vefctr): 1 vote). [veFCTR](../fctr-token/#vefctr) holders are then able to vote for multiple strategies by allocating a percentage of their total [veFCTR](../fctr-token/#vefctr) holdings towards various vaults. In order to qualify for emission rewards, users must also stake their vault position(s). Note that an emissions multiplier is applied to each [veFCTR](../fctr-token/#vefctr) voter based on their FCTR staking duration, relative veFCTR holdings, and strategy deposit amount.
 
 Voting occurs per epoch (weekly) whereby [veFCTR](../fctr-token/#vefctr) holders will have a 72 hour window to vote on their preferred vaults. This encourages greater participation by allowing ample time for votes to be cast. Votes are automatically carried over to the next epoch unless modified by the user. Following the voting window, an on-chain snapshot of the votes is taken whereupon Scale rewards are distributed based on voting results.
 
