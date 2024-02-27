@@ -59,7 +59,7 @@
 * [🏛️ FactorDAO](governance/factordao/README.md)
   * [User Guides](governance/factordao/user-guides/README.md)
     * [Stake FCTR](governance/factordao/user-guides/stake-fctr.md)
-  * [Governance Migration](governance/factordao/migrate-from-v1-to-v2.md)
+    * [Governance Migration](governance/factordao/user-guides/migrate-from-v1-to-v2.md)
 * [🪙 FCTR Token](governance/fctr-token/README.md)
   * [🌱 Initial Distribution](governance/fctr-token/initial-distribution.md)
   * [🌿 Staking and Governance](governance/fctr-token/staking-and-governance.md)

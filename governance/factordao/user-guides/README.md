@@ -4,4 +4,4 @@ The following user guiders are targeted at [FCTR](../../fctr-token/#fctr) holder
 
 Stake your FCTR and start building the future of DeFi with Factor!
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><a href="stake-fctr.md"><strong>Stake FCTR</strong></a></td><td></td><td></td></tr><tr><td><a href="../migrate-from-v1-to-v2.md"><strong>Governance Migration</strong></a></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><a href="stake-fctr.md"><strong>Stake FCTR</strong></a></td><td></td><td></td></tr><tr><td><a href="migrate-from-v1-to-v2.md"><strong>Governance Migration</strong></a></td><td></td><td></td></tr></tbody></table>

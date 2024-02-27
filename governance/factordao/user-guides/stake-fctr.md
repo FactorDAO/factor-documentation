@@ -7,7 +7,7 @@ Staking [FCTR](../../fctr-token/#fctr) is the first step to towards Factor gover
 {% hint style="info" %}
 **Governance Migration**
 
-For Factorians who have staked position prior to 27th Feb 2024 0500AM UTC, please refer to [Governance Migration ](../migrate-from-v1-to-v2.md)for a guide on how to migrate your existing staked position to the newest staking model.
+For Factorians who have staked position prior to 27th Feb 2024 0500AM UTC, please refer to [Governance Migration ](migrate-from-v1-to-v2.md)for a guide on how to migrate your existing staked position to the newest staking model.
 {% endhint %}
 
 ## Stake FCTR To Participate In Factor Governance
