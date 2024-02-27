@@ -15,7 +15,7 @@ Factor Scale therefore democratizes the allocation of protocol rewards via allow
 {% hint style="info" %}
 **Don't See Your Vault?**
 
-To streamline the voting process and prevent any rewards abuse, Factor Scale displays a community curated list of eligible vaults. Vault eligibility is determined either through a [FactorDAO](../factordao.md) vote or via individual strategy reviews by the Factor team.
+To streamline the voting process and prevent any rewards abuse, Factor Scale displays a community curated list of eligible vaults. Vault eligibility is determined either through a [FactorDAO](../factordao/) vote or via individual strategy reviews by the Factor team.
 
 As Factor Scale matures, more scalable and efficient solutions will be implemented to ensure even more equitable rewards distribution. As we build towards this future, please email [info@factor.fi](mailto:info@factor.fi) if you would like to submit your vault for Factor Scale eligibility review (e.g.\[SCALE WHITELIST]).
 {% endhint %}

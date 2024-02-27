@@ -33,7 +33,7 @@ Factor is realising a future where building and automating complex DeFi strategi
 
 With integrations across multiple protocols, Factor is a user-friendly and secure gateway to the rest of DeFi. All of Factor's smart contracts are audited by PeckShield & [SourceHat](https://sourcehat.com/audits/Factor/) with live contracts being actively monitored by Chainalysis. Whether you're a protocol, treasury, builder, or individual strategist, Factor streamlines your path to financial autonomy, ensuring a seamless journey for all.
 
-Factor is governed by the [FactorDAO](governance/factordao.md), a community-owned platform that empowers [FCTR](governance/fctr-token/#fctr) token holders to participate in the governance of the protocol. By aligning protocol growth with long-term individual incentives, the [FactorDAO](governance/factordao.md) places [FCTR](governance/fctr-token/#fctr) holders at the center of Factor’s future. FactorDAO consensus guides the direction of the Factor team which operates a fully remote ream with \~25 builders spread around the globe.
+Factor is governed by the [FactorDAO](governance/factordao/), a community-owned platform that empowers [FCTR](governance/fctr-token/#fctr) token holders to participate in the governance of the protocol. By aligning protocol growth with long-term individual incentives, the [FactorDAO](governance/factordao/) places [FCTR](governance/fctr-token/#fctr) holders at the center of Factor’s future. FactorDAO consensus guides the direction of the Factor team which operates a fully remote ream with \~25 builders spread around the globe.
 
 ## Factor Solutions
 
