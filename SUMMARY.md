@@ -67,6 +67,9 @@
   * [📜 Contract Addresses](governance/fctr-token/contract-addresses.md)
   * [❔ FAQ - Tokenomics](governance/fctr-token/faq-tokenomics.md)
 * [⚖️ Factor Scale](governance/factor-scale/README.md)
+  * [User Guides](governance/factor-scale/user-guides/README.md)
+    * [Stake FCTR](https://docs.factor.fi/governance/factordao/user-guides/stake-fctr)
+    * [Vote On Emissions Distribution](governance/factor-scale/user-guides/vote-on-emissions-distribution.md)
   * [❔ FAQ - Factor Scale](governance/factor-scale/faq-factor-scale.md)
 * [🚀 Factor Boost](governance/factor-boost.md)
 
