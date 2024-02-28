@@ -11,8 +11,9 @@ Factor Studio enables Creators to build strategies spanning across multiple DeFi
 <summary>Leverage</summary>
 
 * [Aave](https://aave.com/)
-* [Lodestar Finance](https://www.lodestarfinance.io/)
+* [Compound](https://compound.finance/)
 * [Silo](https://www.silo.finance/)
+* [Lodestar Finance](https://www.lodestarfinance.io/)
 * [Tender.Fi](https://www.tender.fi)
 
 </details>
@@ -21,8 +22,9 @@ Factor Studio enables Creators to build strategies spanning across multiple DeFi
 
 <summary>Liquidity Pool Management</summary>
 
-* [Trader Joe](https://www.traderjoexyz.com/)
+* [Camelot](https://camelot.exchange/)
 * [Uniswap V3](https://uniswap.org/)
+* [Trader Joe](https://www.traderjoexyz.com/)
 
 </details>
 
