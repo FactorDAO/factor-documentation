@@ -36,7 +36,7 @@ To be eligible to vote on Scale rewards distribution, users must first stake [FC
 An emissions multiplier of up to 2.5x is applied to each [veFCTR](../fctr-token/#vefctr) voter based on their [FCTR](../fctr-token/#fctr) staking duration, relative [veFCTR](../fctr-token/#vefctr) holdings, and strategy deposit amount. The emissions multiplier does not decay and remains the same for the period that the underlying [FCTR](../fctr-token/#fctr) is [staked](../factordao/user-guides/stake-fctr.md).
 {% endhint %}
 
-Voting occurs per epoch (weekly) whereby [veFCTR](../fctr-token/#vefctr) holders will have a 72 hour window to vote on their preferred vaults. This encourages greater participation by allowing ample time for votes to be cast. Votes are automatically carried over to the next epoch unless modified by the user. Following the voting window, an on-chain snapshot of the votes is taken whereupon Scale rewards are distributed based on voting results.
+Voting occurs per epoch (weekly) whereby [veFCTR](../fctr-token/#vefctr) holders will have a 7-day window to vote on their preferred vaults. This encourages greater participation by allowing ample time for votes to be cast. Votes are automatically carried over to the next epoch unless modified by the user. Following the voting window, an on-chain snapshot of the votes is taken whereupon Scale rewards are distributed based on voting results.
 
 Every step, from voting to reward distribution, is transparent and aligns with the community’s sentiment.
 

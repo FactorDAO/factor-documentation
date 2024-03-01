@@ -32,7 +32,7 @@ Voting is community-driven and weighted, meaning [veFCTR](../fctr-token/#vefctr)
 
 <summary>What is the duration of the voting period?</summary>
 
-The voting period lasts 72 hours within a weekly epoch, providing ample time for stakeholder participation.
+The voting period lasts throughout the weekly epoch, providing ample time for stakeholder participation.
 
 </details>
 
