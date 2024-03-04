@@ -58,7 +58,7 @@ By staking FCTR tokens for up to a maximum of 2 years, **FCTR stakers are also a
 
 Put simply, the longer the commitment, the more voting power and rewards (i.e. emissions) the FCTR staker receives. This discourages speculation and instead incentivizes prolonged engagement with the protocol. Critically, the conversion to veFCTR also limits the influence of large token holders (i.e. whales) thereby ensuring a more balanced governance process.
 
-In addition to governance rights, **50% of the protocol's ongoing revenue is automatically distributed to veFCTR holders as USDC**. This revenue sharing model greatly encourages long term FCTR staking which in turn aligns FCTR holders and Factor ecosystem growth.
+In addition to governance rights, **50% of the protocol's ongoing revenue is automatically distributed to veFCTR holders as** [**USDC**](https://arbiscan.io/token/0xaf88d065e77c8cc2239327c5edb3a432268e5831). This revenue sharing model greatly encourages long term FCTR staking which in turn aligns FCTR holders and Factor ecosystem growth.
 
 {% hint style="info" %}
 **Get veFCTR Tokens**&#x20;
