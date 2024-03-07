@@ -25,3 +25,4 @@ redirects:
   governance/vault-boosting-mechanism: governance/factor-boost.md
   use-cases: getting-started/use-cases/README.md
   governance-factor-scale/voting-and-boost-allocation: governance/factor-scale/README.md
+  governance/getting-started-with-factor-scale: governance/factor-scale/README.md
