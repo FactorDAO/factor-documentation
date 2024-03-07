@@ -21,3 +21,4 @@ redirects:
   factor-discover: factor-studio/studio-discover.md
   audits-and-security: security/security.md
   governance/factor-scale-for-vault-rewards: governance/factor-scale/README.md
+  factor-scale: governance/factor-scale/README.md
