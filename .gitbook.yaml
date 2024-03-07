@@ -22,3 +22,4 @@ redirects:
   audits-and-security: security/security.md
   governance/factor-scale-for-vault-rewards: governance/factor-scale/README.md
   factor-scale: governance/factor-scale/README.md
+  governance/vault-boosting-mechanism: governance/factor-boost.md
