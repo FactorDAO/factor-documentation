@@ -38,6 +38,14 @@ An emissions multiplier of up to 2.5x is applied to each [veFCTR](../fctr-token/
 
 Voting occurs per epoch (weekly) whereby [veFCTR](../fctr-token/#vefctr) holders will have a 7-day window to vote on their preferred vaults. This encourages greater participation by allowing ample time for votes to be cast. Votes are automatically carried over to the next epoch unless modified by the user. Following the voting window, an on-chain snapshot of the votes is taken whereupon Scale rewards are distributed based on voting results.
 
+{% hint style="info" %}
+**Votes Finalization Per Epoch (i.e. On-chain Snapshot)**
+
+To ensure transparency, the results of the vote must be tallied and broadcasted upon completion of an epoch. Factor Scale automates this process via exposing a "Finalize Epoch" which is called via Gelato automation.
+
+As a fail safe, the "Finalize Epoch" function can also be manually triggered via the Factor Scale UI after an epoch has been completed. This ensures that the Factor community will still be able to trigger the distribution of Scale rewards in exceptional circumstances.&#x20;
+{% endhint %}
+
 Every step, from voting to reward distribution, is transparent and aligns with the community’s sentiment.
 
 ## **How to use Factor Scale?**
