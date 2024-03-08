@@ -36,12 +36,12 @@ To be eligible to vote on Scale rewards distribution, users must first stake [FC
 An emissions multiplier of up to 2.5x is applied to each [veFCTR](../fctr-token/#vefctr) voter based on their [FCTR](../fctr-token/#fctr) staking duration, relative [veFCTR](../fctr-token/#vefctr) holdings, and strategy deposit amount. The emissions multiplier does not decay and remains the same for the period that the underlying [FCTR](../fctr-token/#fctr) is [staked](../factordao/user-guides/stake-fctr.md).
 {% endhint %}
 
-Voting occurs per epoch (weekly) whereby [veFCTR](../fctr-token/#vefctr) holders will have a 7-day window to vote on their preferred vaults. This encourages greater participation by allowing ample time for votes to be cast. Votes are automatically carried over to the next epoch unless modified by the user. Following the voting window, an on-chain snapshot of the votes is taken whereupon Scale rewards are distributed based on voting results.
+Voting occurs per epoch (weekly) whereby [veFCTR](../fctr-token/#vefctr) holders will have a 7-day window to vote on their preferred vaults. This encourages greater participation by allowing ample time for votes to be cast and aggregated on-chain. Votes are automatically carried over to the next epoch unless modified by the user. Following the voting window, an on-chain snapshot of the votes is taken whereupon Scale rewards are distributed based on voting results.
 
 {% hint style="info" %}
 **Votes Finalization Per Epoch (i.e. On-chain Snapshot)**
 
-To ensure transparency, the results of the vote must be tallied and broadcasted upon completion of an epoch. Factor Scale automates this process via exposing a "Finalize Epoch" which is called via Gelato automation.
+To ensure transparency, the results of the vote must be broadcasted upon completion of an epoch to enable the calculation of rewards. Factor Scale automates this process via exposing a "Finalize Epoch" which is called via [Gelato automation](https://docs.gelato.network/web3-services/web3-functions).
 
 As a fail safe, the "Finalize Epoch" function can also be manually triggered via the Factor Scale UI after an epoch has been completed. This ensures that the Factor community will still be able to trigger the distribution of Scale rewards in exceptional circumstances.&#x20;
 {% endhint %}
