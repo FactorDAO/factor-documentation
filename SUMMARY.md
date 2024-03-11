@@ -73,6 +73,8 @@
   * [User Guides](governance/factor-scale/user-guides/README.md)
     * [Stake FCTR](https://docs.factor.fi/governance/factordao/user-guides/stake-fctr)
     * [Vote On Emissions Distribution](governance/factor-scale/user-guides/vote-on-emissions-distribution.md)
+  * [Contracts](governance/factor-scale/contracts/README.md)
+    * [Factor Scale Contract Addresses](governance/factor-scale/contracts/factor-scale-contract-addresses.md)
   * [❔ FAQ - Factor Scale](governance/factor-scale/faq-factor-scale.md)
 * [🚀 Factor Boost](governance/factor-boost.md)
 
