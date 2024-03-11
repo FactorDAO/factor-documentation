@@ -60,6 +60,8 @@
   * [User Guides](governance/factordao/user-guides/README.md)
     * [Stake FCTR](governance/factordao/user-guides/stake-fctr.md)
     * [Governance Migration](governance/factordao/user-guides/migrate-from-v1-to-v2.md)
+  * [Contracts](governance/factordao/contracts/README.md)
+    * [FactorDAO Contract Addresses](governance/factordao/contracts/factordao-contract-addresses.md)
   * [FactorDAO Multisig Addresses](governance/factordao/factordao-multisig-addresses.md)
 * [🪙 FCTR Token](governance/fctr-token/README.md)
   * [🌱 Initial Distribution](governance/fctr-token/initial-distribution.md)
