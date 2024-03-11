@@ -42,7 +42,7 @@ Factor is governed by the [FactorDAO](governance/factordao/), a community-owned 
 * [**Factor Adapters**](./#factor-adapters)**:** Enabling Factor Studio to securely and permissionlessly interact with external DeFi protocols on-chain. Factor Adapters generalizes core financial operations by implementing protocol-specific smart contracts that interface directly with external protocol smart contracts.
 * [**Factor SDK**](./#factor-sdk)**:** A versatile developer toolkit packed with features to assist you in the entire journey of developing, deploying, and managing custom trading strategies on the Factor platform. Instead of manually integrating with each protocol, developers can utilize the SDK’s modular building blocks.
 * [**Factor Scale**](governance/factor-scale/)**:** Stake [FCTR](governance/fctr-token/#fctr) and be eligible to vote on the distribution of weekly gauge rewards to different vaults created on Factor. Factor Scale democratizes the allocation of protocol rewards via allowing [veFCTR](governance/fctr-token/#vefctr) holders to direct protocol emissions through community voting.
-* [**Factor Boost**](governance/factor-boost.md)**:** Allocate any ERC20 token as additional rewards for depositors in a target strategy vault. Just select a target vault as well as a whitelisted ERC20 reward token and Factor Boost will automatically apportion the reward tokens to vault depositors.
+* [**Factor Boost**](governance/factor-boost/)**:** Allocate any ERC20 token as additional rewards for depositors in a target strategy vault. Just select a target vault as well as a whitelisted ERC20 reward token and Factor Boost will automatically apportion the reward tokens to vault depositors.
 
 ### Partners Include
 

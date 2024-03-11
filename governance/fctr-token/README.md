@@ -70,6 +70,6 @@ More information regarding veFCTR can be found on [Staking and Governance](staki
 
 ### esFCTR
 
-The esFCTR (escrowed FCTR) tokens represent rewards that are vested or locked for a certain period within the Factor protocol. [Factor Scale](../factor-scale/) and [Factor Boost](../factor-boost.md) rewards are emitted as esFCTR which can then be converted 1:1 to FCTR following a 90 day linear vesting schedule. Users are required to claim the underlying FCTR once the esFCTR vesting period is completed.
+The esFCTR (escrowed FCTR) tokens represent rewards that are vested or locked for a certain period within the Factor protocol. [Factor Scale](../factor-scale/) and [Factor Boost](../factor-boost/) rewards are emitted as esFCTR which can then be converted 1:1 to FCTR following a 90 day linear vesting schedule. Users are required to claim the underlying FCTR once the esFCTR vesting period is completed.
 
 esFCTR minimizes short-term speculation as it is programmed to be non-transferable for the duration of the vesting period. As reward beneficiaries remain vested for this duration, there are more incentives for them to continue participating to ensure the future of the protocol.

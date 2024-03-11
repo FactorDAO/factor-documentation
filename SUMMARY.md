@@ -76,7 +76,9 @@
   * [Contracts](governance/factor-scale/contracts/README.md)
     * [Factor Scale Contract Addresses](governance/factor-scale/contracts/factor-scale-contract-addresses.md)
   * [❔ FAQ - Factor Scale](governance/factor-scale/faq-factor-scale.md)
-* [🚀 Factor Boost](governance/factor-boost.md)
+* [🚀 Factor Boost](governance/factor-boost/README.md)
+  * [Contracts](governance/factor-boost/contracts/README.md)
+    * [Factor Boost Contract Addresses](governance/factor-boost/contracts/factor-boost-contract-addresses.md)
 
 ## Security
 
