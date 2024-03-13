@@ -53,6 +53,11 @@
 ## Factor Adapters
 
 * [🔌 Factor Adapters](factor-adapters/factor-adapters.md)
+* [📜 Adapter Contracts](factor-adapters/adapter-contracts/README.md)
+  * [Leverage](factor-adapters/adapter-contracts/leverage.md)
+  * [Yield](factor-adapters/adapter-contracts/yield.md)
+  * [Swap](factor-adapters/adapter-contracts/swap.md)
+  * [Flash Loan](factor-adapters/adapter-contracts/flash-loan.md)
 
 ## Governance
 
