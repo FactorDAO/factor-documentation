@@ -96,7 +96,6 @@
 * [dApp](https://app.factor.fi/)
 * [Official Partners](https://factorlaunch.notion.site/74413491f17c4c2995bad59b1f88f160?v=1c0f6cbd65d14c0f83853979fac4b590)
 * [Partnership Form](https://forms.gle/xAhiB956tePz5vvv5)
-* [Brand Assets](https://factorlaunch.notion.site/Brand-Assets-e70b187333fe41ee80dd0277abb58bef?pvs=25)
 
 ## Socials
 
