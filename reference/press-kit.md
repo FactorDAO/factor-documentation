@@ -30,12 +30,53 @@ At Factor, we are democratising access to open and permissionless financial rail
 
 Factor promotes a thriving DeFi community by empowering users to create shareable strategies that are open to all.
 
-* **Strategy Creators:** Combine varying strategies from multiple DeFi protocols into one automated strategy using Factor Studio's drag-and-drop interface.
-* **Strategy Managers:** Have what it takes to consistently create successful strategies? Shorten your time to market and earn more fees by allowing users to deposit to your automated strategies.
-* **Depositors:** Participate in professionally-managed and community-curated strategies by depositing funds into automated strategy vaults to earn passive yield.
-* **Developers:** Leverage the Factor SDK to effortlessly create custom strategies directly on your app or backend without having to worry about protocol integration specifics.
-* **Protocols & DAOs:** Generate permissionless protocol incentives and distribution systems with ease while benefitting from Factor's revenue share or partnership funds.
-* **Factorians:** Stake $FCTR and participate in building the future of Factor while earning long term protocol incentives.
+<details>
+
+<summary><strong>Strategy Creators</strong></summary>
+
+Combine varying strategies from multiple DeFi protocols into one automated strategy using Factor Studio's drag-and-drop interface.
+
+</details>
+
+<details>
+
+<summary><strong>Strategy Managers</strong></summary>
+
+Have what it takes to consistently create successful strategies? Shorten your time to market and earn more fees by allowing users to deposit to your automated strategies.
+
+</details>
+
+<details>
+
+<summary><strong>Depositors</strong></summary>
+
+Participate in professionally-managed and community-curated strategies by depositing funds into automated strategy vaults to earn passive yield.
+
+</details>
+
+<details>
+
+<summary><strong>Developers</strong></summary>
+
+Leverage the Factor SDK to effortlessly create custom strategies directly on your app or backend without having to worry about protocol integration specifics.
+
+</details>
+
+<details>
+
+<summary><strong>Protocols &#x26; DAOs</strong></summary>
+
+Generate permissionless protocol incentives and distribution systems with ease while benefitting from Factor's revenue share or partnership funds.
+
+</details>
+
+<details>
+
+<summary><strong>Factorians</strong></summary>
+
+Stake $FCTR and participate in building the future of Factor while earning long term protocol incentives.
+
+</details>
 
 With integrations across multiple protocols, Factor is a user-friendly and secure gateway to the rest of DeFi. All of Factor's smart contracts are audited by PeckShield & [SourceHat](https://sourcehat.com/audits/Factor/) with live contracts being actively monitored by Chainalysis. Whether you're a protocol, treasury, builder, or individual strategist, Factor streamlines your path to financial autonomy, ensuring a seamless journey for all.
 
