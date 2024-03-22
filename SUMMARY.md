@@ -91,6 +91,7 @@
 
 ## Reference
 
+* [Press Kit](reference/press-kit.md)
 * [Official Website](https://factor.fi/)
 * [dApp](https://app.factor.fi/)
 * [Official Partners](https://factorlaunch.notion.site/74413491f17c4c2995bad59b1f88f160?v=1c0f6cbd65d14c0f83853979fac4b590)
