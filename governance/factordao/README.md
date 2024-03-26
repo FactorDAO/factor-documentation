@@ -1,4 +1,4 @@
-# 🏛 FactorDAO
+# 🏛️ FactorDAO
 
 ## Introduction
 
@@ -8,8 +8,6 @@ The community will also be incentivized to grow the protocol's value by expandin
 
 ## Participating In Factor Governance
 
-DAO members may lock their $FCTR tokens to accumulate $veFCTR - the native, non-transferable governance token, and take part in the DAO’s governance mechanism by voting and submitting proposals.
+DAO members may lock their [FCTR](../fctr-token/#fctr) tokens to accumulate [veFCTR](../fctr-token/#vefctr) and take part in the DAO’s governance mechanism by voting and submitting proposals.
 
-Longer lock-up periods result in greater $veFCTR emissions to incentivize long-term involvement within the community. Members who actively participate in the governance process will receive $FCTR as a reward for supporting the decentralization of the DAO.
-
-##
+Longer lock-up periods result in greater [veFCTR](../fctr-token/#fctr) allocations to incentivize long-term involvement within the community. FactorDAO stakers will receive [esFCTR](../fctr-token/#esfctr) as a reward for supporting the decentralization of the DAO.
