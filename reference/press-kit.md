@@ -220,6 +220,12 @@ FactorDAO was audited by SourceHat (formerly Solidity Finance). Click [here](htt
 
 ***
 
+## Events & Milestones
+
+<figure><img src="../.gitbook/assets/Roadmap.png" alt=""><figcaption><p>Factor 2024 Roadmap</p></figcaption></figure>
+
+***
+
 ## Press
 
 {% embed url="https://www.coindesk.com/markets/2023/02/21/arbitrum-based-factor-raises-4m-on-first-day-of-token-offering/" %}
