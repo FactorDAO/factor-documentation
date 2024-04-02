@@ -19,4 +19,4 @@ Zap is a feature integrated into Factor's infrastructure, and it enables users t
   2. **Zap Operation**: On confirming the deposit, Zap converts the selected token to the vault's required token.
   3. **Completion**: The conversion is executed, and the deposit is made into the strategy. The user receives real-time updates on the status of each transaction.
 
-We've taken extensive measures to guarantee a safe and reliable experience. Our contracts have undergone comprehensive audits at both the infrastructure and strategy levels by Peckshield. While continuous transaction monitoring by Chainalysis adds an extra layer of security. For more details on our security measures, please visit our [security](broken-reference) page.&#x20;
+We've taken extensive measures to guarantee a safe and reliable experience. Our contracts have undergone comprehensive audits at both the infrastructure and strategy levels by Peckshield. While continuous transaction monitoring by Chainalysis adds an extra layer of security. For more details on our security measures, please visit our [security](../../security/security.md) page.&#x20;
