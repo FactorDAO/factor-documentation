@@ -248,15 +248,47 @@ FactorDAO was audited by SourceHat (formerly Solidity Finance). Click [here](htt
 
 ### Logos & Brand Assets
 
+{% tabs %}
+{% tab title="Icon" %}
+<figure><img src="../.gitbook/assets/Logo_Icon.png" alt=""><figcaption></figcaption></figure>
+
 {% file src="../.gitbook/assets/Logo_Icon.png" %}
+Icon
+{% endfile %}
+{% endtab %}
 
-{% file src="../.gitbook/assets/StackedLogo_Black.svg" %}
-
-{% file src="../.gitbook/assets/StackedLogo_White.png" %}
+{% tab title="Primary (Black)" %}
+<figure><img src="../.gitbook/assets/PrimaryLogo_Black.svg" alt=""><figcaption></figcaption></figure>
 
 {% file src="../.gitbook/assets/PrimaryLogo_Black.svg" %}
+Primary Black
+{% endfile %}
+{% endtab %}
+
+{% tab title="Primary (White)" %}
+<figure><img src="../.gitbook/assets/PrimaryLogo_White.png" alt=""><figcaption></figcaption></figure>
 
 {% file src="../.gitbook/assets/PrimaryLogo_White.png" %}
+Primary White
+{% endfile %}
+{% endtab %}
+
+{% tab title="Stacked (Black)" %}
+<figure><img src="../.gitbook/assets/StackedLogo_Black.svg" alt=""><figcaption></figcaption></figure>
+
+{% file src="../.gitbook/assets/StackedLogo_Black.svg" %}
+Stacked Black
+{% endfile %}
+{% endtab %}
+
+{% tab title="Stacked (White)" %}
+<figure><img src="../.gitbook/assets/StackedLogo_White (1).png" alt=""><figcaption></figcaption></figure>
+
+{% file src="../.gitbook/assets/StackedLogo_White.png" %}
+Stacked White
+{% endfile %}
+{% endtab %}
+{% endtabs %}
 
 ### Brand Colors
 
