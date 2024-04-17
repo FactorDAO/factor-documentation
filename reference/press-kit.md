@@ -244,6 +244,30 @@ FactorDAO was audited by SourceHat (formerly Solidity Finance). Click [here](htt
 
 ***
 
+## Media Kit
+
+### Logos & Brand Assets
+
+{% file src="../.gitbook/assets/Logo_Icon.png" %}
+
+{% file src="../.gitbook/assets/StackedLogo_Black.svg" %}
+
+{% file src="../.gitbook/assets/StackedLogo_White.png" %}
+
+{% file src="../.gitbook/assets/PrimaryLogo_Black.svg" %}
+
+{% file src="../.gitbook/assets/PrimaryLogo_White.png" %}
+
+### Brand Colors
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Primary 1 to Primary 2</strong></td><td>(#<code>3383C5</code> > #<code>29C4B8</code>)</td><td></td><td><a href="../.gitbook/assets/Primary1ToPrimary2.png">Primary1ToPrimary2.png</a></td></tr><tr><td><strong>Primary 1</strong></td><td>#<code>3383C5</code></td><td></td><td><a href="../.gitbook/assets/Primary1.png">Primary1.png</a></td></tr><tr><td><strong>Primary 2</strong></td><td>#<code>9CFFFD</code></td><td></td><td><a href="../.gitbook/assets/Primary2.png">Primary2.png</a></td></tr><tr><td><strong>Secondary 1</strong></td><td>#<code>192F4D</code></td><td></td><td><a href="../.gitbook/assets/Secondary1.png">Secondary1.png</a></td></tr><tr><td><strong>Secondary 2</strong></td><td>#<code>29C4B8</code></td><td></td><td><a href="../.gitbook/assets/Secondary2.png">Secondary2.png</a></td></tr><tr><td><strong>Highlight</strong></td><td>#<code>3D40C4</code></td><td></td><td><a href="../.gitbook/assets/Highlight.png">Highlight.png</a></td></tr></tbody></table>
+
+### Bloxy - The Mascot
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Bloxy_Airdrop</strong></td><td></td><td></td><td><a href="../.gitbook/assets/Bloxy_Airdrop.png">Bloxy_Airdrop.png</a></td></tr><tr><td><strong>Bloxy_Calculator</strong></td><td></td><td></td><td><a href="../.gitbook/assets/Bloxy_Calculator.png">Bloxy_Calculator.png</a></td></tr><tr><td><strong>Bloxy_Coinvest</strong></td><td></td><td></td><td><a href="../.gitbook/assets/Bloxy_Coinvest.png">Bloxy_Coinvest.png</a></td></tr><tr><td><strong>Bloxy_GM</strong></td><td></td><td></td><td><a href="../.gitbook/assets/Bloxy_GM.png">Bloxy_GM.png</a></td></tr><tr><td><strong>Bloxy_KissBye</strong></td><td></td><td></td><td><a href="../.gitbook/assets/Bloxy_KissBye.png">Bloxy_KissBye.png</a></td></tr><tr><td><strong>Bloxy_Laugh</strong></td><td></td><td></td><td><a href="../.gitbook/assets/Bloxy_Laugh.png">Bloxy_Laugh.png</a></td></tr><tr><td><strong>Bloxy_Mad_2</strong></td><td></td><td></td><td><a href="../.gitbook/assets/Bloxy_Mad_2.png">Bloxy_Mad_2.png</a></td></tr><tr><td><strong>Bloxy_Nerd_Welcome</strong></td><td></td><td></td><td><a href="../.gitbook/assets/Bloxy_Nerd_Welcome.png">Bloxy_Nerd_Welcome.png</a></td></tr><tr><td><strong>Bloxy_Okay</strong></td><td></td><td></td><td><a href="../.gitbook/assets/Bloxy_Okay.png">Bloxy_Okay.png</a></td></tr><tr><td><strong>Bloxy_Sign3</strong></td><td></td><td></td><td><a href="../.gitbook/assets/Bloxy_Sign3.png">Bloxy_Sign3.png</a></td></tr><tr><td><strong>Bloxy_SoBack</strong></td><td></td><td></td><td><a href="../.gitbook/assets/Bloxy_SoBack.png">Bloxy_SoBack.png</a></td></tr><tr><td><strong>Bloxy_Sunglass_Wine</strong></td><td></td><td></td><td><a href="../.gitbook/assets/Bloxy_Sunglass_Wine.png">Bloxy_Sunglass_Wine.png</a></td></tr><tr><td><strong>Bloxy_ThumbsUp</strong></td><td></td><td></td><td><a href="../.gitbook/assets/Bloxy_Thumbs Up.png">Bloxy_Thumbs Up.png</a></td></tr><tr><td><strong>Bloxy_Wave</strong></td><td></td><td></td><td><a href="../.gitbook/assets/Bloxy_Wave.png">Bloxy_Wave.png</a></td></tr><tr><td><strong>Bloxy_Wink</strong></td><td></td><td></td><td><a href="../.gitbook/assets/Bloxy_Wink.png">Bloxy_Wink.png</a></td></tr></tbody></table>
+
+***
+
 ## FAQ
 
 <details>
