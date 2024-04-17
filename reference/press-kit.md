@@ -250,41 +250,41 @@ FactorDAO was audited by SourceHat (formerly Solidity Finance). Click [here](htt
 
 {% tabs %}
 {% tab title="Icon" %}
-<figure><img src="../.gitbook/assets/Logo_Icon.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Logo.svg" alt=""><figcaption></figcaption></figure>
 
-{% file src="../.gitbook/assets/Logo_Icon.png" %}
+{% file src="../.gitbook/assets/Logo.svg" %}
 Icon
 {% endfile %}
 {% endtab %}
 
 {% tab title="Primary (Black)" %}
-<figure><img src="../.gitbook/assets/PrimaryLogo_Black.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Primary (Black).svg" alt=""><figcaption></figcaption></figure>
 
-{% file src="../.gitbook/assets/PrimaryLogo_Black.svg" %}
+{% file src="../.gitbook/assets/Primary (Black).svg" %}
 Primary Black
 {% endfile %}
 {% endtab %}
 
 {% tab title="Primary (White)" %}
-<figure><img src="../.gitbook/assets/PrimaryLogo_White.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Primary (White).svg" alt=""><figcaption></figcaption></figure>
 
-{% file src="../.gitbook/assets/PrimaryLogo_White.png" %}
+{% file src="../.gitbook/assets/Primary (White).svg" %}
 Primary White
 {% endfile %}
 {% endtab %}
 
 {% tab title="Stacked (Black)" %}
-<figure><img src="../.gitbook/assets/StackedLogo_Black.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Stacked (Black).svg" alt=""><figcaption></figcaption></figure>
 
-{% file src="../.gitbook/assets/StackedLogo_Black.svg" %}
+{% file src="../.gitbook/assets/Stacked (Black).svg" %}
 Stacked Black
 {% endfile %}
 {% endtab %}
 
 {% tab title="Stacked (White)" %}
-<figure><img src="../.gitbook/assets/StackedLogo_White (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Stacked (White).svg" alt=""><figcaption></figcaption></figure>
 
-{% file src="../.gitbook/assets/StackedLogo_White.png" %}
+{% file src="../.gitbook/assets/Stacked (White).svg" %}
 Stacked White
 {% endfile %}
 {% endtab %}
