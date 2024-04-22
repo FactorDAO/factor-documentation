@@ -43,7 +43,7 @@ Once you have identified your preferred strategy, select the "Open Position" but
 
 ### Step 2: Create a leveraged position
 
-By creating a position, you are configuring the leverage parameters which best suits your personal risk to reward tolerance. Factor enables you to create one position per strategy whose parameters are editable.&#x20;
+By creating a position, you are configuring the leverage parameters which best suits your personal risk to reward tolerance. Factor enables you to create multiple positions per strategy whose parameters are editable.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Discover_Leverage_OpenPosition.png" alt=""><figcaption><p>Open strategy position</p></figcaption></figure>
 
@@ -80,6 +80,7 @@ The leverage position dashboard consists of the following metrics:
 * [**Health Factor**](../../../getting-started/glossary.md#health-factor)**:** The lower the Health Factor, the higher the likelihood of liquidation with a Health Factor of 1 indicating that the position is at risk of being liquidated.
 * **Liquidation Price:** The <mark style="color:green;">asset</mark> token price at which the leveraged position will be exposed to liquidation risks.&#x20;
 * **Projected Yield:** The estimated percentage returns which comprising the strategy APY, [Factor Boost ](../../../governance/factor-boost/)APY, and [Factor Scale](../../../governance/factor-scale/) APY.
+* **Net Value:** The USD value of the initial collateral that was debited from your wallet (i.e. initial outlay).
 * **Position Value:** The USD values of the <mark style="color:red;">debt</mark> amount as well as the <mark style="color:green;">asset</mark> (i.e. collateral) amount which includes the leveraged portion (i.e. flash loaned value).
 * **Supply APY:** The yield generated from supplying <mark style="color:green;">asset</mark> token as collateral to the underlying lending protocol.&#x20;
 * **Borrow APY:** The interest owed on the <mark style="color:red;">debt</mark> token amount which was borrowed from the underlying lending protocol.
