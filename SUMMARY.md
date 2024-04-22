@@ -39,7 +39,6 @@
     * [Collateralized Lending & Borrowing](factor-building-blocks/leverage/concepts/collateralized-lending-and-borrowing.md)
     * [Looping](factor-building-blocks/leverage/concepts/looping.md)
   * [User Guides](factor-building-blocks/leverage/user-guides/README.md)
-    * [Take Out A Loan](factor-building-blocks/leverage/user-guides/take-out-a-loan.md)
     * [Manage Your Loan](factor-building-blocks/leverage/user-guides/manage-your-loan.md)
     * [Refinance Your Loan](factor-building-blocks/leverage/user-guides/refinance-your-loan.md)
   * [FAQ - Leverage Building Block](factor-building-blocks/leverage/faq-leverage-building-block.md)

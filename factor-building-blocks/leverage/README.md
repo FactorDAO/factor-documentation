@@ -55,7 +55,11 @@ Please refer to [Supported Protocols](../../getting-started/supported-protocols.
 
 {% tabs %}
 {% tab title="Users" %}
-* [Take Out A Loan](user-guides/take-out-a-loan.md)
+* [Create A Leveraged Position](../../factor-studio/studio-discover/leverage-user-guides/create-a-leveraged-position.md)
+* [Adjust Position Leverage](../../factor-studio/studio-discover/leverage-user-guides/adjust-position-leverage.md)
+* [Add Collateral To Position](../../factor-studio/studio-discover/leverage-user-guides/add-collateral-to-position.md)
+* [Withdraw Collateral From Position](../../factor-studio/studio-discover/leverage-user-guides/withdraw-collateral-from-position.md)
+* [Repay Position Debt](../../factor-studio/studio-discover/leverage-user-guides/repay-position-debt.md)
 * [Manage Your Loan](user-guides/manage-your-loan.md)
 * [Refinance Your Loan](user-guides/refinance-your-loan.md)
 {% endtab %}
