@@ -16,7 +16,9 @@
 ## Factor Studio
 
 * [🔜 Factor Studio](factor-studio/factor-studio.md)
-* [🔍 Studio Discover](factor-studio/studio-discover.md)
+* [🔍 Studio Discover](factor-studio/studio-discover/README.md)
+  * [Leverage User Guides](factor-studio/studio-discover/leverage-user-guides/README.md)
+    * [Create A Leveraged Position](factor-studio/studio-discover/leverage-user-guides/create-a-leveraged-position.md)
 * [🏠 Studio Essential](factor-studio/studio-essential.md)
 * [👥 Studio Pro](factor-studio/studio-pro.md)
 * [🏗️ Strategy Builder](factor-studio/strategy-builder.md)
