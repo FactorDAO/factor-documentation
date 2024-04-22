@@ -95,6 +95,7 @@
 * [🚀 Factor Boost](governance/factor-boost/README.md)
   * [Contracts](governance/factor-boost/contracts/README.md)
     * [Factor Boost Contract Addresses](governance/factor-boost/contracts/factor-boost-contract-addresses.md)
+* [🎁 Factor Bribe](governance/factor-bribe.md)
 
 ## Security
 
