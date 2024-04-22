@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Factor Studio enables the creation of leveraged strategies through combining multiple DeFi primitives (see Related Concepts below) into a single transaction:
+[Factor Studio](../../factor-studio.md) enables the creation of leveraged strategies through combining multiple DeFi primitives (see Related Concepts below) into a single transaction:
 
 1. Supply initial <mark style="color:green;">asset</mark> token to lending protocol (i.e. Silo, Aave, etc.)
 2. Flash loan <mark style="color:red;">debt</mark> token from Balancer
@@ -10,7 +10,6 @@ Factor Studio enables the creation of leveraged strategies through combining mul
 4. Add swapped <mark style="color:green;">asset</mark> token to lending protocol
 5. Borrow <mark style="color:red;">debt</mark> asset from lending protocol to repay flash loan from Balancer
 6. Repay Balancer flash loan using borrowed <mark style="color:red;">debt</mark> asset
-7. Leveraged position is left with initial&#x20;
 
 By batching the generalized steps above, users get access to up to **4x leveraged exposure** on their initial position. The flash loaned value is added to the position's collateral as <mark style="color:green;">asset</mark> token while the position incurs interest payments on the <mark style="color:red;">debt</mark> token equalling the flash loaned value.
 
