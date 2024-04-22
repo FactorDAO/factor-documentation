@@ -1,6 +1,6 @@
 # Withdraw Collateral From Position
 
-Introduction
+## Introduction
 
 You can easily remove collateral from your leveraged position via the position management dashboard. By removing collateral from the position, you are effectively reducing the value of the collateral backing the current position's debt. As such, collateral withdrawals should be handled with care so as to avoid unexpected liquidations due to undercollateralization of the leveraged position.
 
@@ -24,7 +24,7 @@ Upon clicking the "Manage Position" button, you can then select the target posit
 
 ### Step 2: Select the amount of collateral to remove
 
-Once on the position management dashboard, you can then select the "Withdraw" tab specify the amount of <mark style="color:green;">asset</mark> token to be removed from the position.
+Once on the position management dashboard, you can then select the "Withdraw" tab to specify the amount of <mark style="color:green;">asset</mark> token to be removed from the position.
 
 <figure><img src="../../../.gitbook/assets/Discover_Leverage_Withdraw.png" alt=""><figcaption><p>Withdraw collateral</p></figcaption></figure>
 
@@ -33,7 +33,7 @@ Once on the position management dashboard, you can then select the "Withdraw" ta
 
 The Factor dApp provides an estimated maximum safe withdrawal amount which ensures that the leveraged position does not become undercollateralized upon removal of <mark style="color:green;">asset</mark> token.
 
-As markets for the token pair can be volatile, please consider adding in some buffer when withdrawing collateral to reduce the risks of liquidation.
+As markets for the token pair can be volatile, please consider adding in some buffer when withdrawing collateral to reduce liquidation risks.
 {% endhint %}
 
 ### Step 3: Confirm the collateral withdrawal
@@ -46,8 +46,8 @@ With the collateral withdrawal amount selected, you can execute the changes by s
 
 Once the collateral withdrawal has been executed, notice that the position's key metrics have been adjusted according to the <mark style="color:green;">asset</mark> token amount that was removed.
 
-* **Net Value:** Decreases by the USD value of the additional collateral.
-* **Collateral Value:** Decreases by the USD value of the additional collateral.
-* **Health Factor:** Decreases as the collateral value decreases relative to debt value (which is unchanged).
+* **Net Value:** Decreases by the USD value of the collateral removed.
+* **Collateral Value:** Decreases by the USD value of the collateral removed.
+* [**Health Factor**](../../../getting-started/glossary.md#health-factor)**:** Decreases as the collateral value decreases relative to debt value (which is unchanged).
 * **Liquidation Price:** For this long position, the liquidation price increases as the position's leverage increases.
 * **Leverage Multiplier:** Viewable on the "Change Leverage" tab, the position's leverage increases as there are less <mark style="color:green;">asset</mark> tokens collateralizing the same amount of debt.

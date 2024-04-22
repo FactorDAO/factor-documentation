@@ -42,5 +42,5 @@ Once the collateral addition has been executed, notice that the position's key m
 * **Net Value:** No changes as no collateral was added or removed.
 * **Collateral Value:** Increases by the value of the additional leverage multiplier selected multiplied by the initial <mark style="color:green;">asset</mark> provided.
 * **Debt Value:** Increases by the additional value of debt required to achieve the increased leveraged multiplier.
-* **Health Factor:** Decreases as the collateral value decreases relative to debt value (i.e. more leveraged position).
+* [**Health Factor**](../../../getting-started/glossary.md#health-factor)**:** Decreases as the collateral value decreases relative to debt value (i.e. more leveraged position).
 * **Liquidation Price:** For this long position, the liquidation price increases as the position's leverage increases.

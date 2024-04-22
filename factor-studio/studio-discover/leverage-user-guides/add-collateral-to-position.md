@@ -2,7 +2,7 @@
 
 ## Introduction
 
-You can easily add collateral to your leveraged position via the position management dashboard. By adding more collateral to the position, you are ensuring that the position does not become undercollateralized and therefore face liquidation risks.&#x20;
+You can easily add collateral to your leveraged position via the position management dashboard. By adding more collateral to the position, you are ensuring that the position does not become undercollateralized and therefore reduces the position's liquidation risks.&#x20;
 
 {% hint style="info" %}
 **Position Leverage Multiplier**
@@ -46,6 +46,6 @@ Once the collateral addition has been executed, notice that the position's key m
 
 * **Net Value:** Increases by the USD value of the additional collateral.
 * **Collateral Value:** Increases by the USD value of the additional collateral.
-* **Health Factor:** Increases as the collateral value increases relative to debt value (which is unchanged).
+* [**Health Factor**](../../../getting-started/glossary.md#health-factor)**:** Increases as the collateral value increases relative to debt value (which is unchanged).
 * **Liquidation Price:** For this long position, the liquidation price decreases as the position's leverage decreases.
 * **Leverage Multiplier:** Viewable on the "Change Leverage" tab, the position's leverage decreases as there are more <mark style="color:green;">asset</mark> tokens collateralizing the same amount of debt.

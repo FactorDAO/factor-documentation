@@ -24,7 +24,7 @@ Upon clicking the "Manage Position" button, you can then select the target posit
 
 ### Step 2: Specify amount of debt to repay
 
-Once on the position management dashboard, you can then select the "Withdraw" tab specify the amount of <mark style="color:green;">asset</mark> token to be removed from the position.
+Once on the position management dashboard, you can then select the "Repay" tab to specify the amount of <mark style="color:red;">debt</mark> token to be repaid.
 
 <figure><img src="../../../.gitbook/assets/Discover_Leverage_RepayApprove.png" alt=""><figcaption><p>Repay debt</p></figcaption></figure>
 
@@ -45,6 +45,6 @@ With the repayment amount selected, you can execute the changes by selecting the
 Once the repayment has been executed, notice that the position's key metrics have been adjusted according to the <mark style="color:red;">debt</mark> token that was repaid:
 
 * **Debt Value:** Decreases by the USD value of the <mark style="color:red;">debt</mark> tokens repaid.
-* **Health Factor:** Increase as the debt value decreases relative to collateral value (which is unchanged).
+* [**Health Factor**](../../../getting-started/glossary.md#health-factor)**:** Increase as the debt value decreases relative to collateral value (which is unchanged).
 * **Liquidation Price:** For this long position, the liquidation price decreases as the position's leverage decreases.
 * **Leverage Multiplier:** Viewable on the "Change Leverage" tab, the position's leverage decreases as the position's debt obligations are reduced.
