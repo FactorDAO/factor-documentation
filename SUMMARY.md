@@ -4,6 +4,7 @@
 
 ## Getting Started
 
+* [🕹️ Quickstart](getting-started/quickstart.md)
 * [🔗 Supported Protocols](getting-started/supported-protocols.md)
 * [🌐 Why Factor?](getting-started/why-factor.md)
 * [✅ Use Cases](getting-started/use-cases/README.md)
