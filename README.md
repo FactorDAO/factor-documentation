@@ -37,12 +37,20 @@ Factor is governed by the [FactorDAO](governance/factordao/), a community-owned 
 
 ## Factor Solutions
 
+{% tabs %}
+{% tab title="Products" %}
 * [**Factor Studio**](factor-studio/factor-studio.md)**:** One-stop platform for creating Accessible, Composable, and Efficient DeFi strategies. Factor Studio reimagines how DeFi strategies can be created and shared via creating synergies between various Factor products.
 * [**Factor Building Blocks**](./#factor-building-blocks)**:** Simplifying DeFi strategy creation by abstracting the complexity of comparable protocols into a single intent-based interface. Building Blocks allow users to focus on strategy creation without having to worry about the exact details of strategy implementation across protocols.
 * [**Factor Adapters**](./#factor-adapters)**:** Enabling Factor Studio to securely and permissionlessly interact with external DeFi protocols on-chain. Factor Adapters generalizes core financial operations by implementing protocol-specific smart contracts that interface directly with external protocol smart contracts.
 * [**Factor SDK**](./#factor-sdk)**:** A versatile developer toolkit packed with features to assist you in the entire journey of developing, deploying, and managing custom trading strategies on the Factor platform. Instead of manually integrating with each protocol, developers can utilize the SDK’s modular building blocks.
 * [**Factor Scale**](governance/factor-scale/)**:** Stake [FCTR](governance/fctr-token/#fctr) and be eligible to vote on the distribution of weekly gauge rewards to different vaults created on Factor. Factor Scale democratizes the allocation of protocol rewards via allowing [veFCTR](governance/fctr-token/#vefctr) holders to direct protocol emissions through community voting.
 * [**Factor Boost**](governance/factor-boost/)**:** Allocate any ERC20 token as additional rewards for depositors in a target strategy vault. Just select a target vault as well as a whitelisted ERC20 reward token and Factor Boost will automatically apportion the reward tokens to vault depositors.
+{% endtab %}
+
+{% tab title="Stack" %}
+<figure><img src=".gitbook/assets/FactorStack.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 ### Partners Include
 
