@@ -44,7 +44,7 @@ With an additional collateral amount selected, you can execute the changes by se
 
 Once the collateral addition has been executed, notice that the position's key metrics have been adjusted according to the additional <mark style="color:green;">asset</mark> token added as collateral.
 
-* **Net Value:** Increases by the USD value of the additional collateral.
+* **Net Value:** Increases by the USD value of the additional collateral including supply interest.
 * **Collateral Value:** Increases by the USD value of the additional collateral.
 * [**Health Factor**](../../../getting-started/glossary.md#health-factor)**:** Increases as the collateral value increases relative to debt value (which is unchanged).
 * **Liquidation Price:** For this long position, the liquidation price decreases as the position's leverage decreases.
