@@ -44,7 +44,7 @@ With the repayment amount selected, you can execute the changes by selecting the
 
 Once the repayment has been executed, notice that the position's key metrics have been adjusted according to the <mark style="color:red;">debt</mark> token that was repaid:
 
-* **Net Value:** Increases by the amount of debt repaid including borrowed interest.
+* **Net Value:** Increases by the amount of debt repaid.
 * **Debt Value:** Decreases by the USD value of the <mark style="color:red;">debt</mark> tokens repaid.
 * [**Health Factor**](../../../getting-started/glossary.md#health-factor)**:** Increase as the debt value decreases relative to collateral value (which is unchanged).
 * **Liquidation Price:** For this long position, the liquidation price decreases as the position's leverage decreases.

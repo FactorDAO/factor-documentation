@@ -39,7 +39,7 @@ With a new leverage multiplier selected, you can execute the changes by selectin
 
 Once the collateral addition has been executed, notice that the position's key metrics have been adjusted according to the new leverage multiplier selected:&#x20;
 
-* **Net Value:** Minimal changes due to the variances in supply and borrow interest for the additional collateral and debt incurred.
+* **Net Value:** Minimal changes due to the incremental value of <mark style="color:red;">debt</mark> being converted to <mark style="color:green;">asset</mark>.
 * **Collateral Value:** Increases by the value of the additional leverage multiplier selected multiplied by the initial <mark style="color:green;">asset</mark> provided.
 * **Debt Value:** Increases by the additional value of debt required to achieve the increased leveraged multiplier.
 * [**Health Factor**](../../../getting-started/glossary.md#health-factor)**:** Decreases as the collateral value decreases relative to debt value (i.e. more leveraged position).

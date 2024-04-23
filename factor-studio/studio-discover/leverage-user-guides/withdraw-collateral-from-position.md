@@ -46,7 +46,7 @@ With the collateral withdrawal amount selected, you can execute the changes by s
 
 Once the collateral withdrawal has been executed, notice that the position's key metrics have been adjusted according to the <mark style="color:green;">asset</mark> token amount that was removed.
 
-* **Net Value:** Decreases by the USD value of the collateral removed including supply interest.
+* **Net Value:** Decreases by the USD value of the collateral removed.
 * **Collateral Value:** Decreases by the USD value of the collateral removed.
 * [**Health Factor**](../../../getting-started/glossary.md#health-factor)**:** Decreases as the collateral value decreases relative to debt value (which is unchanged).
 * **Liquidation Price:** For this long position, the liquidation price increases as the position's leverage increases.
