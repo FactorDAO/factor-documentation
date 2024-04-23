@@ -138,6 +138,12 @@ Usually used in the context of leveraged positions, liquidations refer to the fo
 
 ***
 
+## Liquidation Price
+
+Specific to lending positions, the liquidation price is the price ratio between the borrow position's asset token and debt token at which the position becomes undercollateralized therefore becoming liable forced liquidations.
+
+***
+
 ## Liquidity Mining
 
 Also referred to as yield farming, liquidity mining is the process of providing liquidity to specific protocol pools for the purposes of receiving additional rewards that are external to the market making fees

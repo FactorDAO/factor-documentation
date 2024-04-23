@@ -8,8 +8,8 @@
 2. Flash loan <mark style="color:red;">debt</mark> token from Balancer
 3. Swap flash loaned <mark style="color:red;">debt</mark> token for <mark style="color:green;">asset</mark> token on OpenOcean
 4. Add swapped <mark style="color:green;">asset</mark> token to lending protocol
-5. Borrow <mark style="color:red;">debt</mark> asset from lending protocol to repay flash loan from Balancer
-6. Repay Balancer flash loan using borrowed <mark style="color:red;">debt</mark> asset
+5. Borrow <mark style="color:red;">debt</mark> token from lending protocol to repay flash loan from Balancer
+6. Repay Balancer flash loan using borrowed <mark style="color:red;">debt</mark> token
 
 By batching the generalized steps above, users get access to up to **4x leveraged exposure** on their initial position. The flash loaned value is added to the position's collateral as <mark style="color:green;">asset</mark> token while the position incurs interest payments on the <mark style="color:red;">debt</mark> token equalling the flash loaned value.
 
@@ -17,6 +17,12 @@ This allows users to take either a:
 
 * **Long position (**:ox:**):** Supply <mark style="color:green;">asset</mark> token which you believe will increase in value relative to the <mark style="color:red;">debt</mark> token thereby amplifying your exposure to any <mark style="color:green;">asset</mark> gains. For example, by taking a leveraged WETH/USDC position, the value of the debt (i.e. USDC) to the collateral (i.e. WETH) decreases if WETH increases in price relative to USDC.
 * **Short position (**:bear:**):** Borrow <mark style="color:red;">debt</mark> token which you believe will decrease in value relative to the <mark style="color:green;">asset</mark> token thereby reducing your <mark style="color:red;">debt</mark> obligations. For example, by taking a leveraged USDC/WETH position, the value of the debt (i.e. WETH) to the collateral (i.e. USDC) decreases if WETH decreases in price relative to USDC.
+
+{% hint style="success" %}
+**Leverage Strategy Explainers**
+
+Please refer to the [Leverage Strategy Explainer](../../../getting-started/strategy-explainers/leverage.md) if you would like to understand the leverage process and how Factor streamlines the management of leveraged positions.
+{% endhint %}
 
 <details>
 

@@ -10,6 +10,12 @@ You can easily remove collateral from your leveraged position via the position m
 Note that the removal of collateral only reduces the position's collateral amount. Consequently, the position's leverage multiplier is increased accordingly with the position's [Health Factor](../../../getting-started/glossary.md#health-factor) also seeing a corresponding decrease.
 {% endhint %}
 
+{% hint style="success" %}
+**Leverage Strategy Explainers**
+
+Please refer to the [Leverage Strategy Explainer](../../../getting-started/strategy-explainers/leverage.md) if you would like to understand the leverage process and how Factor streamlines the management of leveraged positions.
+{% endhint %}
+
 ## Remove Collateral Backing Your Position
 
 ### Step 1: Navigate to the target position

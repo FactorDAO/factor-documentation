@@ -12,6 +12,8 @@
   * [Builders](getting-started/use-cases/builders.md)
   * [Asset Managers and Strategists](getting-started/use-cases/asset-managers-and-strategists.md)
   * [Allocators](getting-started/use-cases/allocators.md)
+* [🧠 Strategy Explainers](getting-started/strategy-explainers/README.md)
+  * [Leverage](getting-started/strategy-explainers/leverage.md)
 * [📖 Glossary](getting-started/glossary.md)
 
 ## Factor Studio
