@@ -14,6 +14,7 @@
   * [Allocators](getting-started/use-cases/allocators.md)
 * [🧠 Strategy Explainers](getting-started/strategy-explainers/README.md)
   * [Leverage](getting-started/strategy-explainers/leverage.md)
+  * [Yield](getting-started/strategy-explainers/yield.md)
 * [📖 Glossary](getting-started/glossary.md)
 
 ## Factor Studio
