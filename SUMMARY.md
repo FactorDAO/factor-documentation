@@ -6,11 +6,7 @@
 
 * [🕹️ Quickstart](getting-started/quickstart.md)
 * [🔗 Supported Protocols](getting-started/supported-protocols.md)
-* [✅ Use Cases](getting-started/use-cases/README.md)
-  * [DeFi Protocols](getting-started/use-cases/defi-protocols.md)
-  * [Builders](getting-started/use-cases/builders.md)
-  * [Asset Managers and Strategists](getting-started/use-cases/asset-managers-and-strategists.md)
-  * [Allocators](getting-started/use-cases/allocators.md)
+* [✅ Use Cases](getting-started/use-cases.md)
 * [🧠 Strategy Explainers](getting-started/strategy-explainers/README.md)
   * [Leverage](getting-started/strategy-explainers/leverage.md)
   * [Yield](getting-started/strategy-explainers/yield.md)
