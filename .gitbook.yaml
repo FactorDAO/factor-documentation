@@ -8,6 +8,7 @@ redirects:
   factor-studio/discover: factor-studio/studio-discover.md
   faq/tokenomics: governance/fctr-token/faq-tokenomics.md
   faq/scale: governance/factor-scale/faq-factor-scale.md
+  getting-started/use-cases: README.md
   getting-started/use-cases/allocators: README.md
   getting-started/use-cases/asset-managers-and-strategists: README.md
   getting-started/use-cases/builders: README.md
