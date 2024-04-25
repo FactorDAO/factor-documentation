@@ -8,6 +8,10 @@ redirects:
   factor-studio/discover: factor-studio/studio-discover.md
   faq/tokenomics: governance/fctr-token/faq-tokenomics.md
   faq/scale: governance/factor-scale/faq-factor-scale.md
+  getting-started/use-cases/allocators: getting-started/use-cases.md
+  getting-started/use-cases/asset-managers-and-strategists: getting-started/use-cases.md
+  getting-started/use-cases/builders: getting-started/use-cases.md
+  getting-started/use-cases/defi-protocols: getting-started/use-cases.md
   getting-started/why-factor: README.md
   governance/factor-scale-for-vault-rewards: governance/factor-scale/README.md
   governance/getting-started-with-factor-scale: governance/factor-scale/README.md
