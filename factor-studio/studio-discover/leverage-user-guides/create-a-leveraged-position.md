@@ -36,13 +36,13 @@ Please refer to the [Leverage Strategy Explainer](../../../getting-started/strat
 
 ## Amplify Your DeFi Gains
 
-### Step 1: Identify your preferred DeFi strategy
+### Step 1: Select A Leverage Strategy
 
 Navigate to[ Studio Discover](https://app.factor.fi/discover) where you will be able to sort and filter through a myriad of `Long`/`Short` curated strategies. This includes lending protocols, strategy types, projected APYs, vault protocol rewards, and much more.
 
 Take advantage of [Factor Boost](../../../governance/factor-boost/) (:rocket:) and [Factor Scale](../../../governance/factor-scale/) (:scales:) incentivized vaults to get even more profits!
 
-<figure><img src="../../../.gitbook/assets/Discover_Leverage_Identify.png" alt=""><figcaption><p>Discover DeFi strategies</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Discover_Leverage_Identify.png" alt=""><figcaption><p>Discover DeFi leverage strategies</p></figcaption></figure>
 
 Once you have identified your preferred strategy, select the "Open Position" button to get started on your leverage journey.
 

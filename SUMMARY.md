@@ -21,6 +21,8 @@
     * [Add Collateral To Position](factor-studio/studio-discover/leverage-user-guides/add-collateral-to-position.md)
     * [Withdraw Collateral From Position](factor-studio/studio-discover/leverage-user-guides/withdraw-collateral-from-position.md)
     * [Repay Position Debt](factor-studio/studio-discover/leverage-user-guides/repay-position-debt.md)
+  * [Yield User Guides](factor-studio/studio-discover/yield-user-guides/README.md)
+    * [Auto-compound Your Yields](factor-studio/studio-discover/yield-user-guides/auto-compound-your-yields.md)
 * [🏠 Studio Essential](factor-studio/studio-essential.md)
 * [👥 Studio Pro](factor-studio/studio-pro.md)
 * [🏗️ Strategy Builder](factor-studio/strategy-builder.md)
