@@ -41,7 +41,9 @@ Leverage Factor’s infrastructure to launch new vehicles and grow TVL:
 {% endtab %}
 
 {% tab title="Allocators" %}
-<figure><img src="../.gitbook/assets/FactorUseCases_Allocators.png" alt=""><figcaption></figcaption></figure>
+## Allocators
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Whether you are a treasury manager, on-chain fund, or an individual, Factor serves as a gateway to a vast ecosystem of tailored opportunities and projects.
 
