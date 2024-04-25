@@ -6,7 +6,6 @@
 
 * [🕹️ Quickstart](getting-started/quickstart.md)
 * [🔗 Supported Protocols](getting-started/supported-protocols.md)
-* [✅ Use Cases](getting-started/use-cases.md)
 * [🧠 Strategy Explainers](getting-started/strategy-explainers/README.md)
   * [Leverage](getting-started/strategy-explainers/leverage.md)
   * [Yield](getting-started/strategy-explainers/yield.md)
