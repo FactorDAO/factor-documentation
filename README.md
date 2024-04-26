@@ -37,6 +37,12 @@ Factor is governed by the [FactorDAO](governance/factordao/), a community-owned 
 
 ## Factor Solutions
 
+{% hint style="success" %}
+**Factor Stack**
+
+Toggle between the tabs below for a complete overview of all the Factor Solutions and how they combine to make DeFi more accessible!
+{% endhint %}
+
 {% tabs %}
 {% tab title="Products" %}
 * [**Factor Studio**](factor-studio/factor-studio.md)**:** One-stop platform for creating Accessible, Composable, and Efficient DeFi strategies. Factor Studio reimagines how DeFi strategies can be created and shared via creating synergies between various Factor products.
