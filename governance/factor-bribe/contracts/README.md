@@ -4,7 +4,7 @@ description: In Code We Trust
 
 # Contracts
 
-In keeping to our core principles of building accessible and decentralized financial infrastructure, this section highlights the relevant Factor Boost code repositories and deployed contract addresses to enable anyone to verify the integrity of our code.
+In keeping to our core principles of building accessible and decentralized financial infrastructure, this section highlights the relevant Factor Bribes code repositories and deployed contract addresses to enable anyone to verify the integrity of our code.
 
 Rest assured that we are committed to building anti-fragile systems as we continue to integrate the latest security and safety mechanisms into our contracts.
 
