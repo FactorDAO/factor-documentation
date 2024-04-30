@@ -44,6 +44,7 @@ By depositing into Factor yield vaults, you can:
     * Vote on Pendle gauge emission rewards with vePENDLE
     * Receive Base APY rewards from interests collected from YT and matured PT rewards (accrues to vePENDLE)
     * Receive 80% of swap fees from voted pools
+    * LP yield from wstETH pool
 * **Incentive protocols:**
   * [Penpie](https://www.pendle.magpiexyz.io/)
     * Stake PENDLE to get mPendle with boosted yields and boosted Pendle voting power
