@@ -35,7 +35,7 @@ By depositing into Factor yield vaults, you can:
 ## Examples
 
 {% tabs %}
-{% tab title="PendlePenpie: rtETH" %}
+{% tab title="PendlePenpie: wstETH" %}
 ### Underlying Protocols
 
 * **Core protocol:**&#x20;
