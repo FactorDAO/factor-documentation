@@ -48,6 +48,13 @@ As Factor's main token, the FCTR token democratizes access to value exchange on 
 
 Adhering to the [ERC20](https://docs.openzeppelin.com/contracts/5.x/erc20) token standard, FCTR maintains seamless compatibility with EVM-based smart contract and can be easily traded on any DEX (decentralized exchange). Long-term FCTR holders can then stake FCTR to become eligible to vote on various Factor initiatives. As such, FCTR effectively functions as the gateway for users to participate in the shared ownership of the Factor platform.
 
+{% hint style="success" %}
+**Market Data & Analytics**
+
+* **CoinGecko:** [https://www.coingecko.com/en/coins/factordao](https://www.coingecko.com/en/coins/factordao)
+* **CoinMarketCap:** [https://coinmarketcap.com/currencies/factor/](https://coinmarketcap.com/currencies/factor/)
+{% endhint %}
+
 ### veFCTR
 
 veFCTR (vote-escrow FCTR) is a special governance token that enables holders to vote on various FactorDAO governance proposals. **Each veFCTR represents a single vote within the Factor ecosystem.**
