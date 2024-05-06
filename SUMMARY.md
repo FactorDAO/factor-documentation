@@ -23,6 +23,7 @@
     * [Repay Position Debt](factor-studio/studio-discover/leverage-user-guides/repay-position-debt.md)
   * [Yield User Guides](factor-studio/studio-discover/yield-user-guides/README.md)
     * [Auto-compound Your Yields](factor-studio/studio-discover/yield-user-guides/auto-compound-your-yields.md)
+  * [APY Calculations](factor-studio/studio-discover/apy-calculations.md)
 * [🏠 Studio Essential](factor-studio/studio-essential.md)
 * [👥 Studio Pro](factor-studio/studio-pro.md)
 * [🏗️ Strategy Builder](factor-studio/strategy-builder.md)
