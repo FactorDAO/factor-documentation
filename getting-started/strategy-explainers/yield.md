@@ -38,13 +38,17 @@ By depositing into Factor yield vaults, you can:
 {% tab title="PendlePenpie: wstETH" %}
 ### Underlying Protocols
 
-* **Core protocol:**&#x20;
+* **Core protocols:**&#x20;
   * [Pendle](https://app.pendle.finance/)
     * Stake PENDLE to get [vePENDLE](https://docs.pendle.finance/ProtocolMechanics/Mechanisms/vePENDLE)
     * Vote on Pendle gauge emission rewards with vePENDLE
     * Receive Base APY rewards from interests collected from YT and matured PT rewards (accrues to vePENDLE)
     * Receive 80% of swap fees from voted pools
     * LP yield from wstETH pool
+  * [Lido](https://stake.lido.fi/)
+    * Liquid stake ETH to unlocked staked ETH liquidity
+  * Ethereum
+    * Stake ETH to secure the network and receive PoS yields (consensus voting rewards, priority fees, MEV rewards)
 * **Incentive protocols:**
   * [Penpie](https://www.pendle.magpiexyz.io/)
     * Stake PENDLE to get mPendle with boosted yields and boosted Pendle voting power
@@ -103,5 +107,69 @@ The depositor is projected to earn 274.74% on Factor as compared to 9.81% on Pen
 It is important to note that during the period of this analysis, the Factor Scale rewards significantly boosted the projected APY as a large proportion of Factor emissions were allocated to limited vault liquidity. Nevertheless, this would make it the perfect time to yield farm.
 
 Of note, [Factor Scale](../../governance/factor-scale/) rewards are linearly vested as [esFCTR](../../governance/fctr-token/#esfctr) over 90 days hence are not automatically compounded by the strategy. While this vesting period ensures the long term sustainability of the Factor ecosystem, this also means that  your portfolio will be exposed to [FCTR](../../governance/fctr-token/#fctr)  price for an extended period. Nevertheless, the [FactorDAO](../../governance/factordao/) has been implementing long term [tokenomic](../../governance/fctr-token/#tokenomics) incentives to ensure the growth and evolution of a resilient platform via an actively involved community.&#x20;
+{% endtab %}
+
+{% tab title="PendlePenpie: eETH" %}
+### Underlying Protocols
+
+#### [Factor](https://app.factor.fi/)
+
+* Auto-compouding of accrued farming rewards via preiodic reinvestment cycles.
+* [esFCTR](../../governance/fctr-token/#esfctr) emission rewards allocated to target pools via [Factor Scale](../../governance/factor-scale/).
+* Direct ERC20 liquidity incentives via [Factor Boost](../../governance/factor-boost/).
+* Boosted Ether.fi Loyalty points.
+
+#### [Penpie](https://www.pendle.magpiexyz.io/)
+
+* Stake LP eETH to earn boosted Pendle rewards via amplified Penpie voting power.
+* [PNP](https://docs.penpiexyz.io/tokens/pnp-token) emissions allocated to target pools on Penpie.
+* Benefit from the Penpie Bribery Market for boosted emission influence.
+* Boosted Ether.fi Loyalty points of up to 2x.
+
+#### [Pendle](https://app.pendle.finance/)
+
+* Exchange weETH for LP eETH.
+* Acquire PT eETH at a discount from it's maturity date (i.e. discounted principal portion of yield-bearing asset).
+* Receive swap fees on LP weETH as PT eETH is used to market make on the Pendle weETH/PT eETH pool.
+* Receive boosted liquidity incentives as staked PENDLE (via Penpie) is used to direct Pendle emissions.
+
+#### [Ether.fi](https://app.ether.fi/)
+
+* Earn additional restaking yields as underlying ETH is used to secure other applications in exchange for a fee.
+* Earn Ether.fi Loyalty points.
+* Earn EigenLayer Restaking points.
+
+[Lido](https://stake.lido.fi/)
+
+* Auto-compounding of execution layer rewards.
+
+#### [Ethereum](https://ethereum.org/en/learn/)
+
+* Stake ETH to secure the network and receive PoS yields (consensus voting rewards, priority fees, MEV rewards).
+
+### Strategy Parameters
+
+* **Underlying pool:** eETH maturing 27 Jun 2024
+* **Assets involved:**
+  * [ETH](https://ethereum.org/en/eth/) -> Core underlying asset.
+  * [eETH](https://etherfi.gitbook.io/etherfi/ether.fi-whitepaper/eth-re-staking) -> Ether.fi natively restaked rebase token.
+  * [weETH](https://etherfi.gitbook.io/etherfi/ether.fi-whitepaper/eth-re-staking) -> Non-rebase version of eETH which staking rewards accrue to. Primary token for depositing into Pendle.
+  * [PT eETH](https://docs.pendle.finance/ProtocolMechanics/YieldTokenization/PT) -> The principal token of the Pendle eETH pool representing the principal portion of the locked weETH on Pendle.
+  * [LP eETH](https://docs.pendle.finance/ProtocolMechanics/LiquidityEngines/AMM) -> LP tokens representing share of Pendle eETH liquidity pool. Used for depositing on Penpie.
+  * [PENDLE](https://docs.pendle.finance/ProtocolMechanics/Mechanisms/vePENDLE) -> Governance token of Pendle. Distributed as farming rewards for providing liquidity on Pendle (via Penpie).
+  * [PNP](https://docs.penpiexyz.io/tokens/pnp-token) -> Governance and revenue-sharing token of Penpie. Distributed as farming rewards for staking LP eETH in Penpie.
+  * [wETH](https://ethereum.org/en/wrapped-eth/#intro-to-weth) -> Intermediary swap output token with deeper liquidity.
+
+### Strategy Execution
+
+[Yield harvesting loop](https://app.factor.fi/vault/0xfc0D36C2781F26377da6b72Ab448F5b2a71e7D14):
+
+1. Harvest Penpie rewards distributed as PNP
+2. Harvest Pendle rewards distributed as PENDLE
+3. Swap PNP to WETH (Camelot)
+4. Swap PENDLE to WETH (Uniswap V2)
+5. Swap WETH to weETH (Balancer)
+6. Exchange weETH to LP eETH (Pendle)
+7. Stake LP eETH on Penpie
 {% endtab %}
 {% endtabs %}
