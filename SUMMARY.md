@@ -14,7 +14,7 @@
 ## Factor Studio
 
 * [🔜 Factor Studio](factor-studio/factor-studio.md)
-* [🔍 Studio Discover](factor-studio/studio-discover/README.md)
+* [🔍 Studio Discover](factor-studio/studio-discover.md)
   * [Leverage User Guides](factor-studio/studio-discover/leverage-user-guides/README.md)
     * [Create A Leveraged Position](factor-studio/studio-discover/leverage-user-guides/create-a-leveraged-position.md)
     * [Adjust Position Leverage](factor-studio/studio-discover/leverage-user-guides/adjust-position-leverage.md)
@@ -50,6 +50,14 @@
   * [User Guides](factor-building-blocks/leverage/user-guides/README.md)
     * [Manage Your Loan](factor-building-blocks/leverage/user-guides/manage-your-loan.md)
     * [Refinance Your Loan](factor-building-blocks/leverage/user-guides/refinance-your-loan.md)
+  * [Strategy Contracts](factor-building-blocks/leverage/strategy-contracts/README.md)
+    * [AAVEV3LeverageStrategy.sol](factor-building-blocks/leverage/strategy-contracts/aavev3leveragestrategy.sol.md)
+    * [CompoundLeverageStrategy.sol](factor-building-blocks/leverage/strategy-contracts/compoundleveragestrategy.sol.md)
+    * [LodeStarLeverageStrategy.sol](factor-building-blocks/leverage/strategy-contracts/lodestarleveragestrategy.sol.md)
+    * [RadiantLeverageStrategy.sol](factor-building-blocks/leverage/strategy-contracts/radiantleveragestrategy.sol.md)
+    * [SiloLeverageStrategy.sol](factor-building-blocks/leverage/strategy-contracts/siloleveragestrategy.sol.md)
+    * [SiloYieldTokenStrategy.sol](factor-building-blocks/leverage/strategy-contracts/siloyieldtokenstrategy.sol.md)
+    * [TenderLeverageStrategy.sol](factor-building-blocks/leverage/strategy-contracts/tenderleveragestrategy.sol.md)
   * [FAQ - Leverage Building Block](factor-building-blocks/leverage/faq-leverage-building-block.md)
 * [💸 Yield](factor-building-blocks/yield/README.md)
   * [Concepts](factor-building-blocks/yield/concepts/README.md)

@@ -6,11 +6,11 @@ description: Connecting Users To DeFi
 
 ## Overview
 
-<figure><img src="../../.gitbook/assets/Factor Discover.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Factor Discover.png" alt=""><figcaption></figcaption></figure>
 
 Studio Discover bridges the gap between professional strategy builders and DeFi users by providing an intuitive interface for users to explore and participate in a diverse array of professionally managed DeFi strategies. With easy access to an ever expanding pool of DeFi strategies, Studio Discover greatly simplifies the process of finding suitable opportunities based on personalized preferences and goals.
 
-Sitting at the top the [Factor Studio](../factor-studio.md) stack, Studio Discover provides a gateway for users to access a comprehensive suite of pre-built DeFi strategies directly from their browser. By equipping users with advanced tools and data required to navigate an increasingly complex space, Studio Discover facilitates informed decision making via supercharging DeFi accessibility for the masses.
+Sitting at the top the [Factor Studio](factor-studio.md) stack, Studio Discover provides a gateway for users to access a comprehensive suite of pre-built DeFi strategies directly from their browser. By equipping users with advanced tools and data required to navigate an increasingly complex space, Studio Discover facilitates informed decision making via supercharging DeFi accessibility for the masses.
 
 Critically, Studio Discover is a crucial component that fosters a thriving DeFi community. For strategy builders (i.e. Creators), Studio Discover functions as a valuable distribution channel amplifying the visibility of their strategies. Conversely, users get unlimited access to a myriad of competitive strategies thereby driving even greater innovation.
 
