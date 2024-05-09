@@ -60,8 +60,8 @@ Please refer to [Supported Protocols](../../getting-started/supported-protocols.
 * [Add Collateral To Position](../../factor-studio/studio-discover/leverage-user-guides/add-collateral-to-position.md)
 * [Withdraw Collateral From Position](../../factor-studio/studio-discover/leverage-user-guides/withdraw-collateral-from-position.md)
 * [Repay Position Debt](../../factor-studio/studio-discover/leverage-user-guides/repay-position-debt.md)
-* [Manage Your Loan](user-guides/manage-your-loan.md)
-* [Refinance Your Loan](user-guides/refinance-your-loan.md)
+* [Manage Your Loan](broken-reference)
+* [Refinance Your Loan](broken-reference)
 {% endtab %}
 
 {% tab title="Strategy Builders" %}
