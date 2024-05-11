@@ -2,6 +2,8 @@
 
 ## Overview
 
+<figure><img src="../../.gitbook/assets/LTIPP_Flywheel.png" alt=""><figcaption><p>LTIPP Flywheel</p></figcaption></figure>
+
 Factor is forever grateful to the Arbitrum Community for their [endorsement](https://snapshot.org/#/arbitrumfoundation.eth/proposal/0xb130d7261e821b87547910a32c29275bfd85edbe395bd15fe0a8f1d97738af47) of [Factor’s LTIPP application](https://forum.arbitrum.foundation/t/factor-ltipp-application-draft/21922).  The 340,000 ARB which has been earmarked for distribution over 12 weeks will be disbursed according to community votes on [Factor Scale](./). This means that in addition to Factor emissions of up to 100,000 [FCTR](../fctr-token/#fctr) weekly, the Factor community will able direct a further \~28,333ARB as liquidity incentives to various Factor strategy vaults.
 
 Arbitrum Foundation's [Long Term Incentives Pilot Progam](https://forum.arbitrum.foundation/t/long-term-incentives-pilot-program/20223) aims to drive greater network engagement by enabling the [ArbitrumDAO](https://arbitrum.foundation/) to direct protocol funds as liquidity incentives towards synergistic projects building on Arbitrum. The awarded LTIPP amount will be redistributed to the Arbitrum community as liquidity incentives via the recipient's protocol. This incentivizes Arbitrum users to try out up-and-coming use cases while generating greater network activity, a mutually beneficial arrangement for all.

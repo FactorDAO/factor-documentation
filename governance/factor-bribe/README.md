@@ -2,7 +2,7 @@
 description: Allocate ERC20 Bribe Rewards To Get Even More esFCTR Rewards
 ---
 
-# 🎁 Factor Bribes
+# 💼 Factor Bribes
 
 ## Overview
 
