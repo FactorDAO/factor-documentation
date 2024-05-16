@@ -75,6 +75,18 @@ When you stake FCTR tokens, they are converted into locked veFCTR. You can stake
 More information regarding veFCTR can be found on [Staking and Governance](staking-and-governance.md).
 {% endhint %}
 
+<details>
+
+<summary>veFCTR Price Formula</summary>
+
+As veFCTR is minted with every FCTR staking transaction, the total supply of veFCTR is dependent on the staking duration which each staker selects. The longer the FCTR staking period, the more veFCTR is minted for the staker.&#x20;
+
+Given this dynamic, the veFCTR price is a function of the veFCTR total supply whereby veFCTR total supply is always less than FCTR total supply:
+
+$$veFCTR\_Price_{USD}=FCTR\_Price_{USD}\times\frac{FCTR\_Supply}{veFCTR\_Supply}$$
+
+</details>
+
 ### esFCTR
 
 The esFCTR (escrowed FCTR) tokens represent rewards that are vested or locked for a certain period within the Factor protocol. [Factor Scale](../factor-scale/) and [Factor Boost](../factor-boost/) rewards are emitted as esFCTR which can then be converted 1:1 to FCTR following a 90 day linear vesting schedule. Users are required to claim the underlying FCTR once the esFCTR vesting period is completed.
