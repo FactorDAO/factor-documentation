@@ -32,6 +32,12 @@ By depositing into Factor yield vaults, you can:
 * **Reduce gas costs:** The gas costs required to execute the harvest, swap, and reinvestment operations are socialized as the vault combines all of the vault's liquidity adjustments into a single transaction.
 * **Reduce exposure to reward tokens:** More frequent reinvestment cycles reduce exposure to protocol reward tokens which are generally more volatile.
 
+{% hint style="success" %}
+**Get Started With Auto-Compounding Strategies!**
+
+You can visit our [Yield User Guides ](../../factor-studio/studio-discover/yield-user-guides/auto-compound-your-yields.md)if you would like to get started with leverage strategies.
+{% endhint %}
+
 ## Examples
 
 {% tabs %}

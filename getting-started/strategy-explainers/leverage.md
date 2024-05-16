@@ -42,6 +42,12 @@ By depositing into Factor leverage vaults, you can amplify your potential return
 * **Long position (**:ox:**):** Supply <mark style="color:green;">asset</mark> token which you believe will increase in value relative to the <mark style="color:red;">debt</mark> token thereby amplifying your exposure to any <mark style="color:green;">asset</mark> gains. For example, by taking a leveraged WETH/USDC position, the value of the debt (i.e. USDC) to the collateral (i.e. WETH) decreases if WETH increases in price relative to USDC.
 * **Short position (**:bear:**):** Borrow <mark style="color:red;">debt</mark> token which you believe will decrease in value relative to the <mark style="color:green;">asset</mark> token thereby reducing your <mark style="color:red;">debt</mark> obligations. For example, by taking a leveraged USDC/WETH position, the value of the debt (i.e. WETH) to the collateral (i.e. USDC) decreases if WETH decreases in price relative to USDC.
 
+{% hint style="success" %}
+**Get Started With Leverage Strategies!**
+
+You can visit our [Leverage User Guides](../../factor-studio/studio-discover/leverage-user-guides/create-a-leveraged-position.md) if you would like to get started with leverage strategies.
+{% endhint %}
+
 ## Examples
 
 {% tabs %}
