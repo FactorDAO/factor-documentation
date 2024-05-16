@@ -39,6 +39,9 @@
 ## Factor SDK
 
 * [📦 Factor SDK](factor-sdk/factor-sdk.md)
+* [↔️ REST APIs](factor-sdk/rest-apis/README.md)
+  * [Utility APIs](factor-sdk/rest-apis/utility-apis/README.md)
+    * [Pricing](factor-sdk/rest-apis/utility-apis/pricing.md)
 
 ## Factor Building Blocks
 
