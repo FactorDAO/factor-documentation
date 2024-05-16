@@ -136,6 +136,6 @@
 * [X](https://twitter.com/FactorDAO)
 * [Discord](https://discord.gg/factor)
 * [Telegram](https://t.me/FactorDAO)
-* [Substack](https://factordao.substack.com/)
+* [Medium](https://medium.com/@FactorDAO)
 * [Podcasts, Spaces & AMAs](https://factorlaunch.notion.site/Podcast-Spaces-and-AMA-b8e33ac7252f4c94bc0afc002e07dd86)
 * [Email Enquiries](mailto:info@factor.fi)
