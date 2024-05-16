@@ -83,7 +83,7 @@ As veFCTR is minted with every FCTR staking transaction, the total supply of veF
 
 Given this dynamic, the veFCTR price is a function of the veFCTR total supply whereby veFCTR total supply is always less than FCTR total supply:
 
-$$veFCTR\_Price_{USD}=FCTR\_Price_{USD}\times\frac{FCTR\_Supply}{veFCTR\_Supply}$$
+$$veFCTR\_Price_{USD}=FCTR\_Price_{USD}\times\frac{FCTR\_Staked}{veFCTR\_Supply}$$
 
 </details>
 
