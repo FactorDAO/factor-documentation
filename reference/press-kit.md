@@ -6,7 +6,7 @@
 
 **Core Team:**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Co-Founder</strong></td><td>Kurapika</td><td></td><td><a href="../.gitbook/assets/ProfPic_Kurapika.jpeg">ProfPic_Kurapika.jpeg</a></td><td><a href="https://twitter.com/Kurapika_DAO">https://twitter.com/Kurapika_DAO</a></td></tr><tr><td><strong>Co-Founder</strong></td><td>ShortCall</td><td></td><td><a href="../.gitbook/assets/black.jpeg">black.jpeg</a></td><td></td></tr><tr><td><strong>Product Manager</strong></td><td>Andrea0x_eth</td><td></td><td><a href="../.gitbook/assets/ProfPic_Andrea.jpeg">ProfPic_Andrea.jpeg</a></td><td><a href="https://twitter.com/Andrea0x_eth">https://twitter.com/Andrea0x_eth</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Co-Founder</strong></td><td>Kurapika</td><td></td><td><a href="../.gitbook/assets/ProfPic_Kurapika.jpeg">ProfPic_Kurapika.jpeg</a></td><td><a href="https://twitter.com/Kurapika_DAO">https://twitter.com/Kurapika_DAO</a></td></tr><tr><td><strong>Product Manager</strong></td><td>Andrea0x_eth</td><td></td><td><a href="../.gitbook/assets/ProfPic_Andrea.jpeg">ProfPic_Andrea.jpeg</a></td><td><a href="https://twitter.com/Andrea0x_eth">https://twitter.com/Andrea0x_eth</a></td></tr></tbody></table>
 
 **Launched**: February 2022
 
@@ -87,10 +87,6 @@ Factor is governed by the FactorDAO, a community-owned platform that empowers FC
 > _Factor was founded with a mission to revolutionise DeFi by creating a composable yet flexible layer that simplifies earnings for builders and strategists. We're not just building a platform; we're laying the foundation for a new building blocks era of democratising financial accessibility and empowerment._
 >
 > \- Kurapika, Co-Founder
-
-> _At Factor, we’re not just building. We’re creating a new foundation to revolutionise users’ interaction with the DeFi landscape for their on-chain management needs. Our streamlined composability layer, alongside our Yield Vaults, LP Management features, and upcoming launch of Factor Studio and public SDK, will grant everyone - users and protocols alike - access to a new level of permissionless capabilities, democratising access and accessibility for all without compromising on security._
->
-> \- ShortCall, Co-Founder
 
 ***
 
