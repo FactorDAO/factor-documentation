@@ -11,7 +11,7 @@
 5. Borrow <mark style="color:red;">debt</mark> token from lending protocol to repay flash loan from Balancer
 6. Repay Balancer flash loan using borrowed <mark style="color:red;">debt</mark> token
 
-By batching the generalized steps above, users get access to up to **4x leveraged exposure** on their initial position. The flash loaned value is added to the position's collateral as <mark style="color:green;">asset</mark> token while the position incurs interest payments on the <mark style="color:red;">debt</mark> token equalling the flash loaned value.
+By batching the generalized steps above, users get access to up to **multiple times leveraged exposure (maximum determined by underlying lending pool)** on their initial position. The flash loaned value is added to the position's collateral as <mark style="color:green;">asset</mark> token while the position incurs interest payments on the <mark style="color:red;">debt</mark> token equalling the flash loaned value.
 
 This allows users to take either a:
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Factor leverage strategy enables users to benefit from the differences between the cost of borrowing and the expected profit generated from the borrowed liquidity. Put simply, one-click on the Factor dApp enables you to **access up to 4x your initial capital value**. Leveraged positions opens a borrow position against your collateralized assets to enable access to further liquidity.
+The Factor leverage strategy enables users to benefit from the differences between the cost of borrowing and the expected profit generated from the borrowed liquidity. Put simply, one-click on the Factor dApp enables you to **access multiple times your initial capital value** (the maximum leverage is determined by the underlying lending pool). Leveraged positions opens a borrow position against your collateralized assets to enable access to further liquidity.
 
 [Factor Studio](https://docs.factor.fi/factor-studio/factor-studio) combines multiple DeFi primitives into a single leverage transaction to enable the creation of leverage on DeFi positions:
 
