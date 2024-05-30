@@ -218,7 +218,7 @@ FactorDAO was audited by SourceHat (formerly Solidity Finance). Click [here](htt
 
 ## Events & Milestones
 
-<figure><img src="../.gitbook/assets/Roadmap.png" alt=""><figcaption><p>Factor 2024 Roadmap</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Roadmap_May2024.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
