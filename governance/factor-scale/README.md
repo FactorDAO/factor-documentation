@@ -48,6 +48,12 @@ As a fail safe, the "Finalize Epoch" function can also be manually triggered via
 
 Every step, from voting to reward distribution, is transparent and aligns with the community’s sentiment.
 
+{% hint style="success" %}
+**Emissions Multiplier Calculations**
+
+Please visit the [Emissions Multiplier Calculations](emission-multiplier-calculations.md) page if you would like to find out more about how emissions are distributed in favor of veFCTR holders.
+{% endhint %}
+
 ## **How to use Factor Scale?**
 
 1. **Stake FCTR for** [**veFCTR**](../fctr-token/#vefctr)**:** Begin by staking your [FCTR](../fctr-token/#fctr) tokens to obtain [veFCTR](../fctr-token/#vefctr), granting you voting rights in the Factor Scale system.
