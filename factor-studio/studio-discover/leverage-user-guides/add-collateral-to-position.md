@@ -18,6 +18,16 @@ Please refer to the [Leverage Strategy Explainer](../../../getting-started/strat
 
 ## Increase Your Position's Collateral
 
+{% hint style="info" %}
+**Leverage Fees**
+
+Factor charges a small transaction-based fee that supports the development of the Factor ecosystem. 50% of the protocol's ongoing revenue is [shared with veFCTR ](../../../governance/fctr-token/faq-tokenomics.md#vefctr)holders to encourage greater community governance.
+
+The schedule of fees can be viewed [here](../../../governance/factordao/platform-fees.md#fee-structure).
+{% endhint %}
+
+## Increase Your Position's Collateral
+
 ### Step 1: Navigate to the target position
 
 You can access your position via the [Factor Discover](https://app.factor.fi/discover) overview. For easier access, you can also filter the page by the "My Vaults" quick filter to view your active positions.

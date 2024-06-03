@@ -34,6 +34,14 @@ Please refer to the [Leverage Strategy Explainer](../../../getting-started/strat
 
 </details>
 
+{% hint style="info" %}
+**Leverage Fees**
+
+Factor charges a small transaction-based fee that supports the development of the Factor ecosystem. 50% of the protocol's ongoing revenue is [shared with veFCTR ](../../../governance/fctr-token/faq-tokenomics.md#vefctr)holders to encourage greater community governance.
+
+The schedule of fees can be viewed [here](../../../governance/factordao/platform-fees.md#fee-structure).
+{% endhint %}
+
 ## Amplify Your DeFi Gains
 
 ### Step 1: Select A Leverage Strategy

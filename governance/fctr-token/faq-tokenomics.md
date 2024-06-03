@@ -113,7 +113,7 @@ esFCTR differs from regular FCTR in several key aspects:
 Revenue sharing in Tokenomics 2.0 is a significant incentive for veFCTR holders:
 
 * **50% Revenue Allocation**: A substantial portion (50%) of the protocol's revenue is distributed among veFCTR holders based on each holder's relative share.
-* **Source of Income**: This revenue originates from transaction fees. See our fee schedule [here](platform-fees.md)
+* **Source of Income**: This revenue originates from transaction fees. See our fee schedule [here](../factordao/platform-fees.md)
 
 </details>
 

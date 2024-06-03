@@ -15,6 +15,14 @@ With the Factor dApp,  you can adjust your position's leverage in just 2 clicks!
 Please refer to the [Leverage Strategy Explainer](../../../getting-started/strategy-explainers/leverage.md) if you would like to understand the leverage process and how Factor streamlines the management of leveraged positions.
 {% endhint %}
 
+{% hint style="info" %}
+**Leverage Fees**
+
+Factor charges a small transaction-based fee that supports the development of the Factor ecosystem. 50% of the protocol's ongoing revenue is [shared with veFCTR ](../../../governance/fctr-token/faq-tokenomics.md#vefctr)holders to encourage greater community governance.
+
+The schedule of fees can be viewed [here](../../../governance/factordao/platform-fees.md#fee-structure).
+{% endhint %}
+
 ## Change Your Position's Leverage
 
 ### Step 1: Navigate to the target position
