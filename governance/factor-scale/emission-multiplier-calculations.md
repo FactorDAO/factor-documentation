@@ -33,6 +33,12 @@ $$
 stakedLiq\% = \frac{stakedLiq_{user}}{stakedLiq_{pool}}
 $$
 
+{% hint style="info" %}
+**Staked Liquidity Amount & Leverage**
+
+As Factor enables users to increase their capital exposure via [Leverage](../../getting-started/strategy-explainers/leverage.md) strategies, the $$stakedLiquidity$$ amount also takes into account the leveraged portion by utilizing the debt portion of the user's position. That is, $$stakedLiquidity$$ for leveraged positions tracks the debt value.
+{% endhint %}
+
 * Proportion of [veFCTR](../fctr-token/#vefctr) supply held by the user:
 
 $$
