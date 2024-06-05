@@ -45,7 +45,7 @@ By depositing into Factor leverage vaults, you can amplify your potential return
 {% hint style="success" %}
 **Get Started With Leverage Strategies!**
 
-You can visit our [Leverage User Guides](../../factor-studio/studio-discover/leverage-user-guides/create-a-leveraged-position.md) if you would like to get started with leverage strategies.
+You can visit our [Leverage User Guides](../../factor-studio/studio-discover/leverage-user-guides/) if you would like to get started with leverage strategies.
 {% endhint %}
 
 ## Examples
