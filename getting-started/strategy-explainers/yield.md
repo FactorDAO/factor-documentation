@@ -120,7 +120,7 @@ Of note, [Factor Scale](../../governance/factor-scale/) rewards are linearly ves
 
 #### [Factor](https://app.factor.fi/)
 
-* Auto-compouding of accrued farming rewards via preiodic reinvestment cycles.
+* Auto-compounding of accrued farming rewards via periodic reinvestment cycles.
 * [esFCTR](../../governance/fctr-token/#esfctr) emission rewards allocated to target pools via [Factor Scale](../../governance/factor-scale/).
 * Direct ERC20 liquidity incentives via [Factor Boost](../../governance/factor-boost/).
 * Boosted Ether.fi Loyalty points.
