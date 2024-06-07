@@ -40,13 +40,14 @@ The decision flow below guides you through the key considerations when determini
 {% endtabs %}
 
 {% hint style="success" %}
-**Strategy Simulations**
+**Strategy Performance & Simulations**
 
 The interactive sheets below are meant help you gain an intuition of the potential strategy returns. Choose your tokens, add your strategy parameters, and see how Factor leverage strategies simplifies your DeFi journey.
 
-* [Leverage Long](https://docs.google.com/spreadsheets/d/19vwuheFm9lSNzmXJDw7D9VjB9jf4MyBvPeGcDxPzkw0/edit?usp=sharing)
-* [Leverage Short](https://docs.google.com/spreadsheets/d/1a7ChR5DjqDwr0ktqIdRPmGYGIv2hlLWDDHKg1OYNPsE/edit?usp=sharing)
-* [Pendle Leverage Long](https://docs.google.com/spreadsheets/d/1EzPB9GwADL1NBvRRC-xdisb4Z6WdfUZAQmhxEjIyaP0/edit?usp=sharing)
+* [Leverage Performance Modelling](../../../getting-started/strategy-explainers/leverage/leverage-performance-modelling.md)
+* [Leverage Long Simulation](../../../getting-started/strategy-explainers/leverage/leverage-long-simulation.md)
+* [Leverage Short Simulation](../../../getting-started/strategy-explainers/leverage/leverage-short-simulation.md)
+* [Leverage Long PT Simulation](../../../getting-started/strategy-explainers/leverage/leverage-long-pt-simulation.md)
 {% endhint %}
 
 ## Guides
