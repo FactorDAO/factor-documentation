@@ -7,7 +7,8 @@
 * [🕹️ Quickstart](getting-started/quickstart.md)
 * [🔗 Supported Protocols](getting-started/supported-protocols.md)
 * [🧠 Strategy Explainers](getting-started/strategy-explainers/README.md)
-  * [Leverage](getting-started/strategy-explainers/leverage.md)
+  * [Leverage](getting-started/strategy-explainers/leverage/README.md)
+    * [Leverage Performance Modelling](getting-started/strategy-explainers/leverage/leverage-performance-modelling.md)
   * [Yield](getting-started/strategy-explainers/yield.md)
 * [📖 Glossary](getting-started/glossary.md)
 

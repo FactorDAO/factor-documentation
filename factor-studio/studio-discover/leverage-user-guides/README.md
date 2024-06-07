@@ -7,7 +7,7 @@ This section is meant to guide you along your DeFi leverage journey from helping
 {% hint style="success" %}
 **Leverage Strategy Explainer**
 
-Please refer to the [Leverage Strategy Explainer](../../../getting-started/strategy-explainers/leverage.md) if you would like to intuitively understand how Factor combines multiple DeFi primitives into a single transaction to enable streamlined management of leveraged positions.
+Please refer to the [Leverage Strategy Explainer](../../../getting-started/strategy-explainers/leverage/) if you would like to intuitively understand how Factor combines multiple DeFi primitives into a single transaction to enable streamlined management of leveraged positions.
 {% endhint %}
 
 ## Choosing The Right Strategy

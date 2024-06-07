@@ -31,7 +31,7 @@ $$
 strategyAPY = \frac{(\text{strategyAssetValue}_{USD}\times{\text{supplyAPY}})-(\text{strategyDebtValue}_{USD}\times{\text{borrowAPY}})}{strategyNetValue_{USD}}
 $$
 
-For [leverage strategies](../../getting-started/strategy-explainers/leverage.md), the `strategyAPY` takes into account the costs of borrowing as well as any interest accrued from lending. The displayed `strategyAPY` is calculated based on the maximum leverage for that strategy:
+For [leverage strategies](../../getting-started/strategy-explainers/leverage/), the `strategyAPY` takes into account the costs of borrowing as well as any interest accrued from lending. The displayed `strategyAPY` is calculated based on the maximum leverage for that strategy:
 
 $$
 strategyAPY = \frac{(\text{strategyAssetValue}_{USD}\times{\text{supplyAPY}})-(\text{strategyMaxDebtValue}_{USD}\times{\text{borrowAPY}})}{strategyNetValue_{USD}}

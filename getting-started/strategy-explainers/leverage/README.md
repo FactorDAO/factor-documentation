@@ -18,9 +18,9 @@ Note that the flash loaned value is added to the position's collateral as <mark 
 {% hint style="info" %}
 **Liquidation Thresholds**
 
-Lending protocols each define their own [collateralization ratio](../glossary.md#collateralisation-ratio) that dictates the maximum value of debt tokens that can be borrowed relative to the value of the collateralized asset tokens.
+Lending protocols each define their own [collateralization ratio](../../glossary.md#collateralisation-ratio) that dictates the maximum value of debt tokens that can be borrowed relative to the value of the collateralized asset tokens.
 
-While this ensures the solvency of the protocol, this means that leveraged positions are liable to being liquidated once it becomes undercollateralized. The Factor dApp enables you to track key liquidation threshold metrics such as the position's [Health Factor ](../glossary.md#health-factor)as well as the projected [Liquidation Price](../glossary.md#liquidation-price).&#x20;
+While this ensures the solvency of the protocol, this means that leveraged positions are liable to being liquidated once it becomes undercollateralized. The Factor dApp enables you to track key liquidation threshold metrics such as the position's [Health Factor ](../../glossary.md#health-factor)as well as the projected [Liquidation Price](../../glossary.md#liquidation-price).&#x20;
 
 As crypto markets can be volatile, please pay particular attention to the liquidation thresholds and provide additional buffers to keep your funds safe.
 {% endhint %}
@@ -29,9 +29,9 @@ As crypto markets can be volatile, please pay particular attention to the liquid
 
 <summary>Related Concepts</summary>
 
-* [Collateralized Lending & Borrowing](../../factor-building-blocks/leverage/concepts/collateralized-lending-and-borrowing.md) -> Borrowing <mark style="color:red;">debt</mark> token from lending protocols by collateralizing <mark style="color:green;">asset</mark> token.
-* [Flash Loan](../../factor-building-blocks/flash-loan/concepts/flash-loan.md) -> Uncollateralized lending that enables the creation of leverage.
-* [Market Orders ](../../factor-building-blocks/swap/concepts/market-orders.md)-> Instant swaps of tokens on Decentralized Exchanges.
+* [Collateralized Lending & Borrowing](../../../factor-building-blocks/leverage/concepts/collateralized-lending-and-borrowing.md) -> Borrowing <mark style="color:red;">debt</mark> token from lending protocols by collateralizing <mark style="color:green;">asset</mark> token.
+* [Flash Loan](../../../factor-building-blocks/flash-loan/concepts/flash-loan.md) -> Uncollateralized lending that enables the creation of leverage.
+* [Market Orders ](../../../factor-building-blocks/swap/concepts/market-orders.md)-> Instant swaps of tokens on Decentralized Exchanges.
 
 </details>
 
@@ -55,7 +55,7 @@ By depositing into Factor leverage vaults, you can amplify your potential return
 {% hint style="success" %}
 **Get Started With Leverage Strategies!**
 
-You can visit our [Leverage User Guides](../../factor-studio/studio-discover/leverage-user-guides/) if you would like to get started with leverage strategies.
+You can visit our [Leverage User Guides](../../../factor-studio/studio-discover/leverage-user-guides/) if you would like to get started with leverage strategies.
 {% endhint %}
 
 ## Examples
@@ -79,7 +79,7 @@ You can visit our [Leverage User Guides](../../factor-studio/studio-discover/lev
 
 ### Strategy Execution
 
-<figure><img src="../../.gitbook/assets/Leverage_LongWETH.png" alt=""><figcaption><p>Leverage WETH long</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Leverage_LongWETH.png" alt=""><figcaption><p>Leverage WETH long</p></figcaption></figure>
 
 ### Strategy Results
 
@@ -119,7 +119,7 @@ Notice that for the collateral to always cover the debt obligations, WETH can on
 
 ### Strategy Execution
 
-<figure><img src="../../.gitbook/assets/Leverage_ShortWETH.png" alt=""><figcaption><p>Leverage WETH long</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Leverage_ShortWETH.png" alt=""><figcaption><p>Leverage WETH long</p></figcaption></figure>
 
 ### Strategy Results
 

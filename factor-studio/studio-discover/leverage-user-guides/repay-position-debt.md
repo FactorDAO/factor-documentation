@@ -13,7 +13,7 @@ Note that the repayment of debt only reduces the position's debt amount. Consequ
 {% hint style="success" %}
 **Leverage Strategy Explainers**
 
-Please refer to the [Leverage Strategy Explainer](../../../getting-started/strategy-explainers/leverage.md) if you would like to understand the leverage process and how Factor streamlines the management of leveraged positions.
+Please refer to the [Leverage Strategy Explainer](../../../getting-started/strategy-explainers/leverage/) if you would like to understand the leverage process and how Factor streamlines the management of leveraged positions.
 {% endhint %}
 
 ## Reduce Your Position's Debt
