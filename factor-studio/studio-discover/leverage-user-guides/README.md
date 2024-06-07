@@ -39,6 +39,14 @@ The decision flow below guides you through the key considerations when determini
 {% endtab %}
 {% endtabs %}
 
+{% hint style="success" %}
+**Strategy Simulations**
+
+The interactive sheets below are meant help you gain an intuition of the potential strategy returns. Choose your tokens, add your strategy parameters, and see how Factor leverage strategies simplifies your DeFi journey.
+
+* [Pendle Leverage Long](https://docs.google.com/spreadsheets/d/1EzPB9GwADL1NBvRRC-xdisb4Z6WdfUZAQmhxEjIyaP0/edit?usp=sharing)
+{% endhint %}
+
 ## Guides
 
 The user guides below provides a step-by-step walkthrough of how to create and manage a leveraged position on the [Factor dApp](https://app.factor.fi/).&#x20;

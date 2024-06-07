@@ -35,6 +35,14 @@ As crypto markets can be volatile, please pay particular attention to the liquid
 
 </details>
 
+{% hint style="success" %}
+**Strategy Simulations**
+
+The interactive sheets below are meant help you gain an intuition of the potential strategy returns. Choose your tokens, add your strategy parameters, and see how Factor leverage strategies simplifies your DeFi journey.
+
+* [Pendle Leverage Long](https://docs.google.com/spreadsheets/d/1EzPB9GwADL1NBvRRC-xdisb4Z6WdfUZAQmhxEjIyaP0/edit?usp=sharing)
+{% endhint %}
+
 ## What This Means
 
 By depositing into Factor leverage vaults, you can amplify your potential returns by taking either a:
