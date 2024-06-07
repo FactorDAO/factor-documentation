@@ -16,7 +16,7 @@ The decision flow below guides you through the key considerations when determini
 
 {% tabs %}
 {% tab title="Standard ERC20 Token" %}
-<figure><img src="../../../.gitbook/assets/Decision_Trees-Standard.jpg" alt=""><figcaption><p>Standard leverage strategy</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Leverage_Decision_Tree.png" alt=""><figcaption><p>Standard leverage strategy</p></figcaption></figure>
 
 #### Key Considerations
 
@@ -26,7 +26,7 @@ The decision flow below guides you through the key considerations when determini
 {% endtab %}
 
 {% tab title="Rebase/Yield Bearing Token (i.e. PT)" %}
-<figure><img src="../../../.gitbook/assets/PT_Leverage_Strat.jpeg" alt=""><figcaption><p>PT leverage strategy</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/PT_Leverage_Decision_Tree.png" alt=""><figcaption><p>PT leverage strategy</p></figcaption></figure>
 
 #### Key Considerations
 
