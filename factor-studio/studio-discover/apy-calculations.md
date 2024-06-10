@@ -53,7 +53,7 @@ $$
 strategyAPY=\left(1+\frac{protocolAPR}{n}\right)^n-1
 $$
 
-For [yield strategies](../../getting-started/strategy-explainers/yield.md), the `strategyAPY` is calculated by compounding the underlying protocol's APR by the frequency of reinvestments, $$n$$.
+For [yield strategies](../../getting-started/strategy-explainers/yield/), the `strategyAPY` is calculated by compounding the underlying protocol's APR by the frequency of reinvestments, $$n$$.
 
 $$
 positionAPY=\left(1+\frac{protocolAPR}{n}\right)^n-1

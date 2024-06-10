@@ -19,9 +19,17 @@ Note that a higher harvest frequency amplifies the effects of compounding while 
 
 <summary>Related Concepts</summary>
 
-* [Yield Farming](../../factor-building-blocks/yield/concepts/yield-farming.md) -> Providing liquidity to protocols which provide significant liquidity incentives
+* [Yield Farming](../../../factor-building-blocks/yield/concepts/yield-farming.md) -> Providing liquidity to protocols which provide significant liquidity incentives
 
 </details>
+
+{% hint style="success" %}
+**Strategy Performance & Simulations**
+
+The interactive sheets below are meant help you gain an intuition of the potential strategy returns. Choose your tokens, add your strategy parameters, and see how Factor Auto-Compound strategies simplifies your DeFi journey.
+
+* [Yield Performance Modelling](yield-performance-modelling.md)
+{% endhint %}
 
 ## What This Means
 
@@ -35,7 +43,7 @@ By depositing into Factor yield vaults, you can:
 {% hint style="success" %}
 **Get Started With Auto-Compounding Strategies!**
 
-You can visit our [Yield User Guides ](../../factor-studio/studio-discover/yield-user-guides/auto-compound-your-yields.md)if you would like to get started with leverage strategies.
+You can visit our [Yield User Guides ](../../../factor-studio/studio-discover/yield-user-guides/auto-compound-your-yields.md)if you would like to get started with leverage strategies.
 {% endhint %}
 
 ## Examples
@@ -60,7 +68,7 @@ You can visit our [Yield User Guides ](../../factor-studio/studio-discover/yield
     * Stake PENDLE to get mPendle with boosted yields and boosted Pendle voting power
     * [PNP](https://docs.penpiexyz.io/tokens/pnp-token) emissions allocated to target pools on Penpie
   * [Factor](https://app.factor.fi/)
-    * [esFCTR](../../governance/fctr-token/#esfctr) emission rewards allocated to target pools via [Factor Scale](../../governance/factor-scale/)
+    * [esFCTR](../../../governance/fctr-token/#esfctr) emission rewards allocated to target pools via [Factor Scale](../../../governance/factor-scale/)
 
 ### Strategy Parameters
 
@@ -77,7 +85,7 @@ You can visit our [Yield User Guides ](../../factor-studio/studio-discover/yield
   * [Lido wstETH](https://stake.lido.fi/) -> 3.2% APR
   * [Pendle wstETH pool ](https://app.pendle.finance/trade/pools/0x08a152834de126d2ef83d612ff36e4523fd0017f/zap/in?chain=arbitrum)-> 7.017% unboosted APY; 11.36% boosted APY (max)
   * [Penpie Lido wstETH](https://www.pendle.magpiexyz.io/stake/0x08a152834de126d2ef83D612ff36e4523FD0017F) -> 9.81% boosted APY (max)
-  * [Factor Scale](../../governance/factor-scale/) -> 264.65% APR
+  * [Factor Scale](../../../governance/factor-scale/) -> 264.65% APR
 
 ### Strategy Execution
 
@@ -112,7 +120,7 @@ The depositor is projected to earn 274.74% on Factor as compared to 9.81% on Pen
 
 It is important to note that during the period of this analysis, the Factor Scale rewards significantly boosted the projected APY as a large proportion of Factor emissions were allocated to limited vault liquidity. Nevertheless, this would make it the perfect time to yield farm.
 
-Of note, [Factor Scale](../../governance/factor-scale/) rewards are linearly vested as [esFCTR](../../governance/fctr-token/#esfctr) over 90 days hence are not automatically compounded by the strategy. While this vesting period ensures the long term sustainability of the Factor ecosystem, this also means that  your portfolio will be exposed to [FCTR](../../governance/fctr-token/#fctr)  price for an extended period. Nevertheless, the [FactorDAO](../../governance/factordao/) has been implementing long term [tokenomic](../../governance/fctr-token/#tokenomics) incentives to ensure the growth and evolution of a resilient platform via an actively involved community.&#x20;
+Of note, [Factor Scale](../../../governance/factor-scale/) rewards are linearly vested as [esFCTR](../../../governance/fctr-token/#esfctr) over 90 days hence are not automatically compounded by the strategy. While this vesting period ensures the long term sustainability of the Factor ecosystem, this also means that  your portfolio will be exposed to [FCTR](../../../governance/fctr-token/#fctr)  price for an extended period. Nevertheless, the [FactorDAO](../../../governance/factordao/) has been implementing long term [tokenomic](../../../governance/fctr-token/#tokenomics) incentives to ensure the growth and evolution of a resilient platform via an actively involved community.&#x20;
 {% endtab %}
 
 {% tab title="PendlePenpie: eETH" %}
@@ -121,8 +129,8 @@ Of note, [Factor Scale](../../governance/factor-scale/) rewards are linearly ves
 #### [Factor](https://app.factor.fi/)
 
 * Auto-compounding of accrued farming rewards via periodic reinvestment cycles.
-* [esFCTR](../../governance/fctr-token/#esfctr) emission rewards allocated to target pools via [Factor Scale](../../governance/factor-scale/).
-* Direct ERC20 liquidity incentives via [Factor Boost](../../governance/factor-boost/).
+* [esFCTR](../../../governance/fctr-token/#esfctr) emission rewards allocated to target pools via [Factor Scale](../../../governance/factor-scale/).
+* Direct ERC20 liquidity incentives via [Factor Boost](../../../governance/factor-boost/).
 * Boosted Ether.fi Loyalty points.
 
 #### [Penpie](https://www.pendle.magpiexyz.io/)

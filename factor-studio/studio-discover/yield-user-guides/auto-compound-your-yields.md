@@ -14,7 +14,7 @@ Note that a higher harvest frequency amplifies the effects of compounding while 
 {% hint style="info" %}
 **Yield Strategy Explainers**
 
-Please refer to the [Yield Strategy Explainer](../../../getting-started/strategy-explainers/yield.md) if you would like to understand the yield auto-compounding process and how Factor streamlines the management of liquidity positions.
+Please refer to the [Yield Strategy Explainer](../../../getting-started/strategy-explainers/yield/) if you would like to understand the yield auto-compounding process and how Factor streamlines the management of liquidity positions.
 {% endhint %}
 
 <details>
