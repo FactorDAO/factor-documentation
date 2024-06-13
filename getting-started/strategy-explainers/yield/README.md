@@ -2,6 +2,8 @@
 
 ## Overview
 
+<figure><img src="../../../.gitbook/assets/Auto-compound_animated.gif" alt=""><figcaption><p>Auto-compounding rewards</p></figcaption></figure>
+
 The Factor yield strategies automates the process of yield farming on various liquidity protocols. Instead of having to manually harvest liquidity incentives, depositors can just **deposit once into a yield strategy and watch their yields auto-compound**. Factor yield vaults leverages [Gelato Web3 Functions](https://docs.gelato.network/web3-services/web3-functions) to periodically trigger the harvesting of rewards. Not only are the transaction costs incurred per harvest socialized amongst strategy depositors but the higher frequency of harvesting results in upsized yields for depositors.
 
 As each protocol implements their own liquidity incentives, Factor yield strategies are usually tailored to a set of related underlying protocols. Nonetheless, yield strategies generally take the following approach:
