@@ -20,6 +20,14 @@ layout:
 
 # 🏭 Introduction to Factor
 
+{% hint style="success" %}
+**Arbitrum Foundation LTIPP Distribution Ongoing**
+
+ARB liquidity incentives from the [ArbitrumDAO](https://arbitrum.foundation/) are currently being distributed to Factor strategy depositors via [Factor Boost](governance/factor-boost/).  LTIPP strategy allocations are directed by the Factor community via [Factor Scale](governance/factor-scale/) votes.
+
+Please visit [Arbitrum Foundation LTIPP ](governance/factor-scale/arbitrum-foundation-ltipp.md)for further details on how Factor is collectively building the future of DeFi on Arbitrum.
+{% endhint %}
+
 ## Building The Composable Layer Of DeFi
 
 Factor is realising a future where building and automating complex DeFi strategies are as simple as a drag-and-drop, no coding required. At Factor, we are democratising access to open and permissionless financial rails by equipping users with powerful but intuitive tools that abstracts the intricacies of getting cross-protocol DeFi strategies to market. Factor promotes a thriving DeFi community by empowering users to create shareable strategies that are open to all.
