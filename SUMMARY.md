@@ -138,9 +138,9 @@
 * [Official Partners](https://factorlaunch.notion.site/74413491f17c4c2995bad59b1f88f160?v=1c0f6cbd65d14c0f83853979fac4b590)
 * [Partnership Form](https://forms.gle/xAhiB956tePz5vvv5)
 
-## Socials
+## Community
 
-* [Factor Arms](socials/factor-arms.md)
+* [Factor Arms](community/factor-arms.md)
 * [X](https://twitter.com/FactorDAO)
 * [Discord](https://discord.gg/factor)
 * [Telegram](https://t.me/FactorDAO)
