@@ -140,6 +140,7 @@
 
 ## Socials
 
+* [Factor Arms](socials/factor-arms.md)
 * [X](https://twitter.com/FactorDAO)
 * [Discord](https://discord.gg/factor)
 * [Telegram](https://t.me/FactorDAO)
