@@ -1,3 +1,7 @@
+---
+description: Strategies Not Code
+---
+
 # 🔜 Factor Studio
 
 ## Overview
@@ -6,8 +10,8 @@
 
 Factor Studio is making DeFi accessible to all by reimagining how DeFi strategies can be created and shared. As Factor’s flagship product, Factor Studio embodies our mission to democratize access to open and pemissionless rails through user-centric design. Finding and creating DeFi strategies with a real edge is already hard enough hence Factor Studio was crafted to make the journey to financial autonomy easier.
 
-* [**Studio Discover**](studio-discover.md)**:** Uncover the best performing managed strategies and earn passive yield by depositing into the strategies.
-* [**Studio Essential**](studio-essential.md) **(**_**coming soon**_**):** Combine varying strategies from multiple DeFi protocols into one automated strategy with ease.
+* [**Studio Discover**](studio-discover.md)**:** Uncover the best performing managed strategies and earn passive returns by depositing into the strategies.
+* [**Studio Essential**](studio-essential.md) **(**_**coming soon**_**):** Combine varying strategies across multiple DeFi protocols into one automated strategy with ease.
 * [**Studio Pro**](studio-pro.md) **(**_**coming soon**_**):** Shorten your time to market for building managed strategies and start earning fees through user deposits.
 * [**Factor SDK** ](../factor-sdk/factor-sdk.md)**(**_**coming soon**_**):** Develop and deploy custom strategies directly in your dapp or backend without having to worry about protocol integration specifics.
 
@@ -23,6 +27,8 @@ Factor Studio is a one-stop platform for creating Accessible, Composable, and Ef
 * **Strategies Not Code:** Factor Studio comes packaged with the [Strategy Builder](strategy-builder.md) enabling the creation of complex DeFi strategies via drag-and-dropping [Factor Building Blocks](../factor-building-blocks/factor-building-blocks.md). Focus on building strategies and not on code implementations.
 * **One Platform, All Of DeFi:** Mix-and-match intricate strategies across multiple DeFi protocols on a single platform. [Factor Adapters](../factor-adapters/factor-adapters.md) provides protocol abstractions that ensures seamless interoperability while being secure and permissionless.
 * **Shorten Your Time To Market:** Leverage Factor Studio’s multiple automation tools and strategy templates to get your strategy up and earning in no time. Shorter iteration times not only lowers your overheads but also enables you to find better product market fit.
+* **Inherited Security:** All of Factor Studio's factory contracts have been audited and undergoes consistent monitoring thereby ensuring your personalized strategy contracts are safe.
+* **Native Governance Integration:** Strategies created via Factor Studio are seamlessly integrated with Factor governance contracts allowing you and your depositors to benefit from FactorDAO rewards.
 
 ## Integrations
 
