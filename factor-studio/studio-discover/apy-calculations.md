@@ -63,7 +63,7 @@ As all liquidity within a yield strategy vault is fungible, the `strategyAPY` al
 
 ## Factor Scale APY
 
-[Factor Scale](../../governance/factor-scale/) emission rewards are distributed as [esFCTR](../../governance/fctr-token/#esfctr) at the end of every epoch (i.e. weekly) based on the proportion of votes that each strategy vault receives. The total amount of esFCTR allocated as epoch rewards to Factor Scale vaults depends on the [emission milestones](../../governance/factor-scale/#fctr-emission-milestones) reached.
+[Factor Scale](../../governance/factor-scale/) emission rewards are linearly distributed as [esFCTR](../../governance/fctr-token/#esfctr) based on the proportion of votes that each strategy vault receives in the previous epoch (i.e. weekly) voting period. The total amount of esFCTR allocated as epoch rewards to Factor Scale vaults depends on the [emission milestones](../../governance/factor-scale/#fctr-emission-milestones) reached.
 
 As Factor Scale emissions are only allocated to deposits within the epoch, the `scaleAPR` is calculated using information from the active epoch. Note that as there is a 90 day linear vesting schedule for esFCTR, Factor Scale rewards are not auto-compounded by the strategy vaults.
 
@@ -85,7 +85,7 @@ $$
 scaleAPR = \frac{voteCount_{vault}}{voteCount_{total}}\times\frac{scaleRewards_{annual}}{scaleVaultsTVL_{USD}}
 $$
 
-The `scaleAPY` assumes weekly compounding (i.e. `n` = 52):
+The `scaleAPY` assumes compounding upon vesting of esFCTR (i.e. 90 days esFCTR vesting which equates to`n` ≈ 4):
 
 $$
 scaleAPY=\left(1+\frac{scaleAPR}{n}\right)^n-1
