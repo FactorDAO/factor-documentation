@@ -140,7 +140,7 @@
 
 ## Community
 
-* [Factor Contributors](community/factor-arms.md)
+* [Factor Contributors](community/factor-contributors.md)
 * [X](https://twitter.com/FactorDAO)
 * [Discord](https://discord.gg/factor)
 * [Telegram](https://t.me/FactorDAO)
