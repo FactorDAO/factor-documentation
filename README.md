@@ -76,8 +76,6 @@ The full list of official partners can be found at the following link:
 
 ## Use Cases
 
-<figure><img src=".gitbook/assets/FactorUseCase.png" alt=""><figcaption></figcaption></figure>
-
 <details>
 
 <summary>DeFi Protocols</summary>
@@ -123,9 +121,7 @@ Leverage Factor’s infrastructure to launch new vehicles and grow TVL:
 
 <details>
 
-<summary>Allocators</summary>
-
-<img src=".gitbook/assets/image.png" alt="" data-size="original">
+<summary>Depositors</summary>
 
 Whether you are a treasury manager, on-chain fund, or an individual, Factor serves as a gateway to a vast ecosystem of tailored opportunities and projects.
 
