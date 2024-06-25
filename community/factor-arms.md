@@ -1,5 +1,5 @@
-# Factor Arms
+# Factor Contributors
 
 {% hint style="info" %}
-:construction: Factor Arms is currently in the works. Stay tuned for exciting updates coming real soon!
+:construction: Factor Contributors is currently in the works. Stay tuned for exciting updates coming real soon!
 {% endhint %}
