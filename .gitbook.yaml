@@ -31,6 +31,7 @@ redirects:
   products/yield: factor-building-blocks/yield/README.md
   products/yield/zap: factor-studio/factor-studio/README.md
   products/factor-studio: factor-studio/factor-studio/README.md
+  community/factor-arms: community/factor-contributors.md
   tokenomics/staking-and-governance: governance/fctr-token/staking-and-governance.md
   tokenomics/scale: governance/factor-scale/README.md
   tokenomics/platform-fees: governance/fctr-token/platform-fees.md
