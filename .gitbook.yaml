@@ -2,7 +2,7 @@ root: ./
 
 redirects:
   audits-and-security: security/security.md
-  community/factor-arms: socials/factor-arms.md
+  community/factor-arms: community/factor-contributors.md
   factor-building-blocks/leverage/user-guides: factor-studio/studio-discover/leverage-user-guides/README.md
   factor-building-blocks/leverage/user-guides/manage-your-loan: factor-studio/studio-discover/leverage-user-guides/README.md
   factor-building-blocks/leverage/user-guides/refinance-your-loan: factor-studio/studio-discover/leverage-user-guides/README.md
@@ -31,7 +31,6 @@ redirects:
   products/yield: factor-building-blocks/yield/README.md
   products/yield/zap: factor-studio/factor-studio/README.md
   products/factor-studio: factor-studio/factor-studio/README.md
-  community/factor-arms: community/factor-contributors.md
   tokenomics/staking-and-governance: governance/fctr-token/staking-and-governance.md
   tokenomics/scale: governance/factor-scale/README.md
   tokenomics/platform-fees: governance/fctr-token/platform-fees.md
