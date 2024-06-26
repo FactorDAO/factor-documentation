@@ -3,6 +3,7 @@ root: ./
 redirects:
   audits-and-security: security/security.md
   community/factor-arms: community/factor-contributors.md
+  dao-contribution: community/factor-contributors.md
   factor-building-blocks/leverage/user-guides: factor-studio/studio-discover/leverage-user-guides/README.md
   factor-building-blocks/leverage/user-guides/manage-your-loan: factor-studio/studio-discover/leverage-user-guides/README.md
   factor-building-blocks/leverage/user-guides/refinance-your-loan: factor-studio/studio-discover/leverage-user-guides/README.md
