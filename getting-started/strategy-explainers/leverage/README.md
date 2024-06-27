@@ -43,7 +43,7 @@ The interactive sheets below are meant help you gain an intuition of the potenti
 * [Leverage Performance Modelling](leverage-performance-modelling.md)
 * [Leverage Long Simulation](leverage-long-simulation.md)
 * [Leverage Short Simulation](leverage-short-simulation.md)
-* [Leverage Long PT Simulation](leverage-long-pt-simulation.md)
+* [Leverage Long PT Simulation](../pt-strategies/leverage-long-pt-simulation.md)
 {% endhint %}
 
 ## What This Means

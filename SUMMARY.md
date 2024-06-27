@@ -11,9 +11,10 @@
     * [Leverage Performance Modelling](getting-started/strategy-explainers/leverage/leverage-performance-modelling.md)
     * [Leverage Long Simulation](getting-started/strategy-explainers/leverage/leverage-long-simulation.md)
     * [Leverage Short Simulation](getting-started/strategy-explainers/leverage/leverage-short-simulation.md)
-    * [Leverage Long PT Simulation](getting-started/strategy-explainers/leverage/leverage-long-pt-simulation.md)
   * [Yield](getting-started/strategy-explainers/yield/README.md)
     * [Yield Performance Modelling](getting-started/strategy-explainers/yield/yield-performance-modelling.md)
+  * [PT Strategies](getting-started/strategy-explainers/pt-strategies/README.md)
+    * [Leverage Long PT Simulation](getting-started/strategy-explainers/pt-strategies/leverage-long-pt-simulation.md)
 * [📖 Glossary](getting-started/glossary.md)
 
 ## Factor Studio

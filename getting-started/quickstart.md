@@ -40,7 +40,7 @@ You can view the Factor tech stack [here](../#stack).
 * **Interactive Simulations** -> Experiment and find the optimal strategy parameters
   * [**Leverage Long**](strategy-explainers/leverage/leverage-long-simulation.md) -> Standard ERC20 Long Position
   * [**Leverage Short**](strategy-explainers/leverage/leverage-short-simulation.md) -> Standard ERC20 Short Position
-  * [**Leverage Long PT**](strategy-explainers/leverage/leverage-long-pt-simulation.md) -> Yield-bearing PT Long Position (via Pendle)
+  * [**Leverage Long PT**](strategy-explainers/pt-strategies/leverage-long-pt-simulation.md) -> Yield-bearing PT Long Position (via Pendle)
 {% endtab %}
 
 {% tab title="Yield" %}
