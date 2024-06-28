@@ -47,7 +47,6 @@ The interactive sheets below are meant help you gain an intuition of the potenti
 * [Leverage Performance Modelling](../../../getting-started/strategy-explainers/leverage/leverage-performance-modelling.md)
 * [Leverage Long Simulation](../../../getting-started/strategy-explainers/leverage/leverage-long-simulation.md)
 * [Leverage Short Simulation](../../../getting-started/strategy-explainers/leverage/leverage-short-simulation.md)
-* [Leverage Long PT Simulation](../../../getting-started/strategy-explainers/pt-strategies/leverage-long-pt-simulation.md)
 {% endhint %}
 
 ## Guides

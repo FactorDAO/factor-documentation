@@ -41,6 +41,12 @@ In effect, PT holders are going short (i.e. bearish) on the yield portion of the
 
 If 1 PT-TKN enables you to claim 1.1TKN at the maturity date, exchanging your TKN for PT-TKN means that you expect the total yield accrued during the maturity period to be less than 0.1TKN. Additionally, you can hold PT-TKN to ensure that you get a fixed 0.1TKN return at maturity and not have to worry about yield fluctuations for that period.
 
+{% hint style="success" %}
+**Get Started With PT Strategies!**
+
+You can visit our [PT User Guides](../../../factor-studio/studio-discover/pt-user-guides/) if you would like to get started with amplified PT yields.
+{% endhint %}
+
 ## PT Strategies
 
 Strategies utilizing PT takes advantage of the fixed income nature of PT whereby the value of a PT-TKN is always approaching that of its accounting asset at maturity date. To see why this is the case, remember that PT-TKN can be redeemed 1:1 for the accounting asset (i.e. TKN) on maturity.&#x20;
