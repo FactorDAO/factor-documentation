@@ -16,4 +16,6 @@ The interactive sheets below are meant help you gain an intuition of the potenti
 * [Yield Performance Modelling](../../../getting-started/strategy-explainers/yield/yield-performance-modelling.md)
 {% endhint %}
 
+## Guides
+
 <table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="auto-compound-your-yields.md"><strong>Auto-compound Your Yields</strong></a></td><td></td><td></td><td><a href="auto-compound-your-yields.md">auto-compound-your-yields.md</a></td></tr></tbody></table>

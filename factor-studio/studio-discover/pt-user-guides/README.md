@@ -16,4 +16,6 @@ The interactive sheets below are meant help you gain an intuition of the potenti
 * [Leverage Long PT Simulation](../../../getting-started/strategy-explainers/pt-strategies/leverage-long-pt-simulation.md)
 {% endhint %}
 
+## Guides
+
 <table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="redeem-your-pt.md"><strong>Redeem Your PT</strong></a></td><td></td><td></td><td><a href="redeem-your-pt.md">redeem-your-pt.md</a></td></tr></tbody></table>
