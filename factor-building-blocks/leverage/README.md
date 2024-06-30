@@ -46,7 +46,7 @@ Visit our [**Discover**](https://app.factor.fi/discover) page to see the latest 
 {% hint style="success" %}
 **Don't Limit Your Strategies To Just Leverage**
 
-[Factor Studio](../../factor-studio/factor-studio.md) enables different [Building Blocks](../factor-building-blocks.md) to be mixed-and-matched thereby facilitating multi-step strategies which span across the whole DeFi ecosystem.
+[Factor Studio](../../solutions/factor-studio.md) enables different [Building Blocks](../factor-building-blocks.md) to be mixed-and-matched thereby facilitating multi-step strategies which span across the whole DeFi ecosystem.
 
 Please refer to [Supported Protocols](../../getting-started/supported-protocols.md) to view the full list of DeFi protocols which have been integrated with Factor Studio.
 {% endhint %}
@@ -55,11 +55,11 @@ Please refer to [Supported Protocols](../../getting-started/supported-protocols.
 
 {% tabs %}
 {% tab title="Users" %}
-* [Create A Leveraged Position](../../factor-studio/studio-discover/leverage-user-guides/create-a-leveraged-position.md)
-* [Adjust Position Leverage](../../factor-studio/studio-discover/leverage-user-guides/adjust-position-leverage.md)
-* [Add Collateral To Position](../../factor-studio/studio-discover/leverage-user-guides/add-collateral-to-position.md)
-* [Withdraw Collateral From Position](../../factor-studio/studio-discover/leverage-user-guides/withdraw-collateral-from-position.md)
-* [Repay Position Debt](../../factor-studio/studio-discover/leverage-user-guides/repay-position-debt.md)
+* [Create A Leveraged Position](../../solutions/studio-discover/leverage-user-guides/create-a-leveraged-position.md)
+* [Adjust Position Leverage](../../solutions/studio-discover/leverage-user-guides/adjust-position-leverage.md)
+* [Add Collateral To Position](../../solutions/studio-discover/leverage-user-guides/add-collateral-to-position.md)
+* [Withdraw Collateral From Position](../../solutions/studio-discover/leverage-user-guides/withdraw-collateral-from-position.md)
+* [Repay Position Debt](../../solutions/studio-discover/leverage-user-guides/repay-position-debt.md)
 * [Manage Your Loan](broken-reference)
 * [Refinance Your Loan](broken-reference)
 {% endtab %}

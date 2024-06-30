@@ -8,7 +8,7 @@ description: Jump Right Into The Factor Ecosystem
 
 ### User Guides
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><a href="../factor-studio/studio-discover/leverage-user-guides/"><strong>Leverage Strategies</strong></a></td><td></td><td></td></tr><tr><td><a href="../factor-studio/studio-discover/yield-user-guides/"><strong>Yield Strategies (Auto-compound)</strong></a></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th></tr></thead><tbody><tr><td><a href="../solutions/studio-discover/leverage-user-guides/"><strong>Leverage Strategies</strong></a></td><td></td><td></td></tr><tr><td><a href="../solutions/studio-discover/yield-user-guides/"><strong>Yield Strategies (Auto-compound)</strong></a></td><td></td><td></td></tr></tbody></table>
 
 ## Developers
 
@@ -28,14 +28,14 @@ You can view the Factor tech stack [here](../#stack).
 
 ### Contracts
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="../factor-studio/studio-contracts/"><strong>Studio Contracts</strong></a></td><td></td><td></td><td><a href="../factor-studio/studio-contracts/">studio-contracts</a></td></tr><tr><td><a href="../factor-building-blocks/leverage/strategy-contracts/"><strong>Leverage Strategy Contracts</strong></a></td><td></td><td></td><td><a href="../factor-building-blocks/leverage/strategy-contracts/">strategy-contracts</a></td></tr><tr><td><a href="../factor-adapters/adapter-contracts/"><strong>Adapter Contracts</strong></a></td><td></td><td></td><td><a href="../factor-adapters/adapter-contracts/">adapter-contracts</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="../solutions/studio-contracts/"><strong>Studio Contracts</strong></a></td><td></td><td></td><td><a href="../solutions/studio-contracts/">studio-contracts</a></td></tr><tr><td><a href="../factor-building-blocks/leverage/strategy-contracts/"><strong>Leverage Strategy Contracts</strong></a></td><td></td><td></td><td><a href="../factor-building-blocks/leverage/strategy-contracts/">strategy-contracts</a></td></tr><tr><td><a href="../factor-adapters/adapter-contracts/"><strong>Adapter Contracts</strong></a></td><td></td><td></td><td><a href="../factor-adapters/adapter-contracts/">adapter-contracts</a></td></tr></tbody></table>
 
 ## Resources (by Strategy Type)
 
 {% tabs %}
 {% tab title="Leverage" %}
 * [**Leverage Strategy Explainer**](strategy-explainers/leverage/) -> Get an intuitive overview of the strategy
-* [**Leverage Strategy Decision Tree**](../factor-studio/studio-discover/leverage-user-guides/#choosing-the-right-strategy) -> Find out if this is the right strategy for you
+* [**Leverage Strategy Decision Tree**](../solutions/studio-discover/leverage-user-guides/#choosing-the-right-strategy) -> Find out if this is the right strategy for you
 * [**Leverage Performance Modelling**](strategy-explainers/leverage/leverage-performance-modelling.md) -> Understand how market movements affect your returns
 * **Interactive Simulations** -> Experiment and find the optimal strategy parameters
   * [**Leverage Long**](strategy-explainers/leverage/leverage-long-simulation.md) -> Standard ERC20 Long Position
