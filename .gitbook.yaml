@@ -28,10 +28,13 @@ redirects:
   important-links: README.md
   introducing-factor/key-features: README.md
   introducing-factor/key-differentiators: README.md
+  products/discover: solutions/studio-discover/README.md
   products/leverage: factor-building-blocks/leverage/README.md
   products/yield: factor-building-blocks/yield/README.md
   products/yield/zap: factor-studio/factor-studio/README.md
   products/factor-studio: factor-studio/factor-studio/README.md
+  products/studio-essential: solutions/studio-essential.md
+  products/studio-pro: solutions/studio-pro.md
   tokenomics/staking-and-governance: governance/fctr-token/staking-and-governance.md
   tokenomics/scale: governance/factor-scale/README.md
   tokenomics/platform-fees: governance/fctr-token/platform-fees.md
