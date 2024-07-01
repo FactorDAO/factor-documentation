@@ -131,7 +131,14 @@
 
 ## Security
 
-* [🔑 Security](security/security.md)
+* [🛡️ Security](security/security.md)
+* [📋 Audits](security/audits/README.md)
+  * [PeckShield](security/audits/peckshield/README.md)
+    * [Silo Yield](security/audits/peckshield/silo-yield.md)
+    * [Leverage Vault Wrapper](security/audits/peckshield/leverage-vault-wrapper.md)
+    * [Silo Leverage](security/audits/peckshield/silo-leverage.md)
+    * [Penpie](security/audits/peckshield/penpie.md)
+    * [Boost](security/audits/peckshield/boost.md)
 
 ## Reference
 
