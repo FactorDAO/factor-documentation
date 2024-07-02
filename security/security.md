@@ -14,14 +14,12 @@ Factor's commitment to security is evidenced by our consistent and thorough audi
 * **Q1 2023 Initial Audits by Sourcehat / Solidity Finance**:
   * Covered foundational contracts such as VaultGenesis, the FCTR token, BasketVault (1st gen vault architecture), and veFCTR contracts (staking).
 
-**Continuous Monitoring and Incident Response**
+{% hint style="success" %}
+**Audit Reports**
+
+Please visit out [Audits section](audits/) to view the list of audits which Factor has undertaken with various security blockchain security firms.
+{% endhint %}
+
+## **Continuous Monitoring and Incident Response**
 
 * **Chainalysis' Crypto Incident Response**: Beyond audits, Factor's smart contracts are under continuous surveillance by Chainalysis via Hyperledger's AI-driven technology. This proactive monitoring approach is crucial for early detection and mitigation of potential threats. In the event of an exploit, Chainalysis’ Global Response Team will quickly respond to the situation and increase the chances of asset recovery.
-
-## Audit Links
-
-{% embed url="https://sourcehat.com/audits/FactorDAOVaults/" %}
-
-{% embed url="https://sourcehat.com/audits/FactorDAOVaults/" %}
-
-{% embed url="https://sourcehat.com/audits/Factor/" %}

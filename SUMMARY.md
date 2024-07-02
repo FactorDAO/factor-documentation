@@ -134,11 +134,14 @@
 * [🛡️ Security](security/security.md)
 * [📋 Audits](security/audits/README.md)
   * [PeckShield](security/audits/peckshield/README.md)
-    * [Silo Yield](security/audits/peckshield/silo-yield.md)
     * [Leverage Vault Wrapper](security/audits/peckshield/leverage-vault-wrapper.md)
+    * [Silo Yield](security/audits/peckshield/silo-yield.md)
     * [Silo Leverage](security/audits/peckshield/silo-leverage.md)
     * [Penpie](security/audits/peckshield/penpie.md)
-    * [Boost](security/audits/peckshield/boost.md)
+    * [Factor Boost](security/audits/peckshield/factor-boost.md)
+  * [SourceHat](security/audits/sourcehat/README.md)
+    * [FactorDAO Vaults](https://sourcehat.com/audits/FactorDAOVaults/)
+    * [FCTR & Voting Escrow](https://sourcehat.com/audits/Factor/)
 
 ## Reference
 
