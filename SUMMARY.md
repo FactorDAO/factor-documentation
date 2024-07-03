@@ -50,6 +50,7 @@
 * [↔️ REST APIs](factor-sdk/rest-apis/README.md)
   * [Utility APIs](factor-sdk/rest-apis/utility-apis/README.md)
     * [Pricing](factor-sdk/rest-apis/utility-apis/pricing.md)
+    * [Stats](factor-sdk/rest-apis/utility-apis/stats.md)
 
 ## Factor Building Blocks
 
