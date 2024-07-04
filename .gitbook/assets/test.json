@@ -1,0 +1,105 @@
+{
+    "openapi": "3.0.0",
+    "paths": {
+      "/": {
+        "get": {
+          "operationId": "AppController_getHealthStatus",
+          "parameters": [],
+          "responses": {
+            "200": {
+              "description": ""
+            }
+          }
+        }
+      },
+      "/prices/{tokens}": {
+        "get": {
+          "operationId": "PricesController_findOne",
+          "parameters": [
+            {
+              "name": "tokens",
+              "required": true,
+              "in": "path",
+              "description": "A comma separated list of tokens to get prices for.\u003Cbr\u003EEach token queried should follow the following format: {chainName}:{tokenAddress}.\u003Cbr\u003ECurrently supports chainName='arbitrum'",
+              "example": "arbitrum:0x6dD963C510c2D2f09d5eDdB48Ede45FeD063Eb36,arbitrum:0x82aF49447D8a07e3bd95BD0d56f35241523fBab1,arbitrum:0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "Success",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "object",
+                    "properties": {
+                      "coin": {
+                        "description": "List of coins",
+                        "type": "object",
+                        "properties": {
+                          "address": {
+                            "type": "object",
+                            "properties": {
+                              "price": {
+                                "description": "The price of the token in USD.",
+                                "type": "integer"
+                              },
+                              "prices": {
+                                "description": "Prices queried from multiple sources",
+                                "type": "object",
+                                "properties": {
+                                  "name": {
+                                    "description": "Price source queried.",
+                                    "type": "object",
+                                    "properties": {
+                                      "source": {
+                                        "description": "The source queried.",
+                                        "type": "string"
+                                      },
+                                      "price": {
+                                        "description": "The price returned by the source.",
+                                        "type": "integer"
+                                      },
+                                      "symbol": {
+                                        "description": "The token symbol.",
+                                        "type": "string"
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "info": {
+      "title": "Factor Price API",
+      "description": "This is the Factor Price API documentation, you can use it to read the average price of a specific ERC20 token. This price is calculated by the average of different sources and it's cached every minute.",
+      "version": "1.0",
+      "contact": {
+  
+      }
+    },
+    "tags": [],
+    "servers": [
+      {
+        "url": "https://factor-price-api-main.fly.dev"
+      }
+    ],
+    "components": {
+      "schemas": {
+  
+      }
+    }
+  }
