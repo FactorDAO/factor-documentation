@@ -38,31 +38,35 @@
                       "coin": {
                         "description": "List of coins",
                         "type": "object",
-                        "additionalProperties": {
-                          "type": "object",
-                          "properties": {
-                            "price": {
-                              "description": "The price of the token in USD.",
-                              "type": "integer"
-                            },
-                            "prices": {
-                              "description": "Prices queried from multiple sources.",
-                              "type": "object",
-                              "additionalProperties": {
-                                "description": "Price source queried.",
+                        "properties": {
+                          "address": {
+                            "type": "object",
+                            "properties": {
+                              "price": {
+                                "description": "The price of the token in USD.",
+                                "type": "integer"
+                              },
+                              "prices": {
+                                "description": "Prices queried from multiple sources",
                                 "type": "object",
                                 "properties": {
-                                  "source": {
-                                    "description": "The source queried.",
-                                    "type": "string"
-                                  },
-                                  "price": {
-                                    "description": "The price returned by the source.",
-                                    "type": "integer"
-                                  },
-                                  "symbol": {
-                                    "description": "The token symbol.",
-                                    "type": "string"
+                                  "name": {
+                                    "description": "Price source queried.",
+                                    "type": "object",
+                                    "properties": {
+                                      "source": {
+                                        "description": "The source queried.",
+                                        "type": "string"
+                                      },
+                                      "price": {
+                                        "description": "The price returned by the source.",
+                                        "type": "integer"
+                                      },
+                                      "symbol": {
+                                        "description": "The token symbol.",
+                                        "type": "string"
+                                      }
+                                    }
                                   }
                                 }
                               }
