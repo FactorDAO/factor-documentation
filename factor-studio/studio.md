@@ -2,7 +2,7 @@
 description: Personalized No-Code DeFi Strategies
 ---
 
-# 🏠 Studio Essential
+# 🏠 Studio
 
 {% hint style="info" %}
 :hourglass:Coming real soon to a [dapp](https://app.factor.fi/discover) near you!
@@ -10,9 +10,9 @@ description: Personalized No-Code DeFi Strategies
 
 ## Overview
 
-Studio Essential enables anyone to create automated multi-protocol DeFi strategies directly from the [Factor dapp](https://app.factor.fi/), no code required. Drag-and-drop strategies from across DeFi protocols in the [Strategy Builder](strategy-builder.md) or take advantage of established DeFi strategy templates to generate permissionless strategies that are fully owned and controlled by you. Studio Essential abstracts away the technical complexities, empowering users to focus on creating effective DeFi strategies in record time.
+Studio enables anyone to create automated multi-protocol DeFi strategies directly from the [Factor dapp](https://app.factor.fi/), no code required. Drag-and-drop strategies from across DeFi protocols in the [Strategy Builder](strategy-builder.md) or take advantage of established DeFi strategy templates to generate permissionless strategies that are fully owned and controlled by you. Studio abstracts away the technical complexities, empowering users to focus on creating effective DeFi strategies in record time.
 
-Studio Essential leverages multiple Factor solutions ([Strategy Builder](strategy-builder.md), [Factor Building Blocks](broken-reference), [Factor Adapters](broken-reference)) to create a simplified strategy mixer interface. All of Studio's factory contracts have been [audited and undergoes continuous monitoring](broken-reference) ensuring permissionless and secure creation of customizable smart contracts that automate your DeFi strategies.&#x20;
+Studio leverages multiple Factor solutions ([Strategy Builder](strategy-builder.md), [Factor Building Blocks](broken-reference), [Factor Adapters](broken-reference)) to create a simplified strategy mixer interface. All of Studio's factory contracts have been [audited and undergoes continuous monitoring](broken-reference) ensuring permissionless and secure creation of customizable smart contracts that automate your DeFi strategies.&#x20;
 
 ## Features
 

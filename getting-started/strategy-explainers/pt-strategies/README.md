@@ -44,7 +44,7 @@ If 1 PT-TKN enables you to claim 1.1TKN at the maturity date, exchanging your TK
 {% hint style="success" %}
 **Get Started With PT Strategies!**
 
-You can visit our [PT User Guides](../../../solutions/studio-discover/pt-user-guides/) if you would like to get started with amplified PT yields.
+You can visit our [PT User Guides](../../../factor-discover/factor-discover/pt-user-guides/) if you would like to get started with amplified PT yields.
 {% endhint %}
 
 ## PT Strategies

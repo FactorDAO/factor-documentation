@@ -45,7 +45,7 @@ By depositing into Factor yield vaults, you can:
 {% hint style="success" %}
 **Get Started With Auto-Compounding Strategies!**
 
-You can visit our [Yield User Guides ](../../../solutions/studio-discover/yield-user-guides/auto-compound-your-yields.md)if you would like to get started with leverage strategies.
+You can visit our [Yield User Guides ](../../../factor-discover/factor-discover/yield-user-guides/auto-compound-your-yields.md)if you would like to get started with leverage strategies.
 {% endhint %}
 
 ## Examples

@@ -2,7 +2,7 @@
 description: Strategies Not Code
 ---
 
-# 🔜 Factor Studio
+# 🎨 Factor Studio
 
 ## Overview
 
@@ -10,10 +10,8 @@ description: Strategies Not Code
 
 Factor Studio is making DeFi accessible to all by reimagining how DeFi strategies can be created and shared. As Factor’s flagship product, Factor Studio embodies our mission to democratize access to open and pemissionless rails through user-centric design. Finding and creating DeFi strategies with a real edge is already hard enough hence Factor Studio was crafted to make the journey to financial autonomy easier.
 
-* [**Studio Discover**](studio-discover/)**:** Uncover the best performing managed strategies and earn passive returns by depositing into the strategies.
-* [**Studio Essential**](studio-essential.md) **(**_**coming soon**_**):** Combine varying strategies across multiple DeFi protocols into one automated strategy with ease.
-* [**Studio Pro**](studio-pro.md) **(**_**coming soon**_**):** Shorten your time to market for building managed strategies and start earning fees through user deposits.
-* [**Factor SDK** ](../factor-sdk/factor-sdk.md)**(**_**coming soon**_**):** Develop and deploy custom strategies directly in your dapp or backend without having to worry about protocol integration specifics.
+* [**Studio**](studio.md) **(**_**coming soon**_**):** Combine varying strategies across multiple DeFi protocols into one automated strategy with ease.
+* [**Studio Pro**](studio-pro.md) **(**_**coming soon**_**):** Shorten your time to market for building managed strategies and start earning fees through user deposits on [Factor Discover](../factor-discover/factor-discover/).
 
 Built on the premise of flexible building blocks, Factor Studio functions as DeFi’s composability layer enabling cross-protocol strategies to be seamlessly integrated and automated. By abstracting implementation and operational complexities, Factor Studio enable DeFi strategies to be quickly iterated upon with no coding knowledge required. These strategies can then be shared resulting in a thriving community where anyone can participate.
 

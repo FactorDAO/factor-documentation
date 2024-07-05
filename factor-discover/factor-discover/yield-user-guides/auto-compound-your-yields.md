@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Factor Studio](../../factor-studio.md) enables yield farmers to amplify their yield rewards while reducing their liquidity management overheads through automated strategy vaults. Yield farmers just need to **deposit once into a yield strategy vault and watch their yields auto-compound**. Yield strategy vaults periodically reinvests any accrued liquidity incentives through conveniently batching the following steps for each harvest event:
+[Factor Studio](../../../factor-studio/factor-studio.md) enables yield farmers to amplify their yield rewards while reducing their liquidity management overheads through automated strategy vaults. Yield farmers just need to **deposit once into a yield strategy vault and watch their yields auto-compound**. Yield strategy vaults periodically reinvests any accrued liquidity incentives through conveniently batching the following steps for each harvest event:
 
 1. Harvest (i.e. claim) farming rewards accrued to the position
 2. Swap reward tokens to pool tokens
@@ -29,9 +29,11 @@ Please refer to the [Yield Strategy Explainer](../../../getting-started/strategy
 
 ### Step 1: Select A Yield Farming Strategy
 
-Navigate to[ Studio Discover](https://app.factor.fi/discover) where you will be able to sort and filter through a myriad of `Yield` curated strategies. This includes yield protocols, strategy types, projected APYs, vault protocol rewards, and much more.
+Navigate to[ Factor Discover](https://app.factor.fi/discover) where you will be able to sort and filter through a myriad of `Yield` curated strategies. This includes yield protocols, strategy types, projected APYs, vault protocol rewards, and much more.
 
+{% hint style="success" %}
 Take advantage of [Factor Boost](../../../governance/factor-boost/) (🚀) and [Factor Scale](../../../governance/factor-scale/) (⚖️) incentivized vaults to get even more profits!
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/Discover_Yield_Search.png" alt=""><figcaption><p>Discover DeFi yield strategies</p></figcaption></figure>
 

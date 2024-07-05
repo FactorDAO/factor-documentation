@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Factor Studio](../../factor-studio.md) enables the creation of leveraged strategies through combining multiple DeFi primitives (see Related Concepts below) into a single transaction:
+[Factor Studio](../../../factor-studio/factor-studio.md) enables the creation of leveraged strategies through combining multiple DeFi primitives (see Related Concepts below) into a single transaction:
 
 1. Supply initial <mark style="color:green;">asset</mark> token to lending protocol (i.e. Silo, Aave, etc.)
 2. Flash loan <mark style="color:red;">debt</mark> token from Balancer
@@ -46,9 +46,11 @@ The schedule of fees can be viewed [here](../../../governance/factordao/platform
 
 ### Step 1: Select A Leverage Strategy
 
-Navigate to[ Studio Discover](https://app.factor.fi/discover) where you will be able to sort and filter through a myriad of `Long`/`Short` curated strategies. This includes lending protocols, strategy types, projected APYs, vault protocol rewards, and much more.
+Navigate to[ Factor Discover](https://app.factor.fi/discover) where you will be able to sort and filter through a myriad of `Long`/`Short` curated strategies. This includes lending protocols, strategy types, projected APYs, vault protocol rewards, and much more.
 
+{% hint style="success" %}
 Take advantage of [Factor Boost](../../../governance/factor-boost/) (:rocket:) and [Factor Scale](../../../governance/factor-scale/) (:scales:) incentivized vaults to get even more profits!
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/Discover_Leverage_Identify.png" alt=""><figcaption><p>Discover DeFi leverage strategies</p></figcaption></figure>
 

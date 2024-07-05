@@ -49,6 +49,15 @@ The interactive sheets below are meant help you gain an intuition of the potenti
 * [Leverage Short Simulation](../../../getting-started/strategy-explainers/leverage/leverage-short-simulation.md)
 {% endhint %}
 
+<details>
+
+<summary>Related Concepts</summary>
+
+* [Collateralized Lending & Borrowing](../../../factor-building-blocks/leverage/concepts/collateralized-lending-and-borrowing.md)
+* [Looping](../../../factor-building-blocks/leverage/concepts/looping.md)
+
+</details>
+
 ## Guides
 
 The user guides below provides a step-by-step walkthrough of how to create and manage a leveraged position on the [Factor dApp](https://app.factor.fi/).&#x20;

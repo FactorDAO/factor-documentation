@@ -21,7 +21,7 @@ Factor offers various strategy types that enable you to amplify your PT gains.
 
 {% tabs %}
 {% tab title="Yield" %}
-1. Visit the [Discover](https://app.factor.fi/) page and search for your PT Yield Strategy.
+1. Visit the [Factor Discover](https://app.factor.fi/) page and search for your PT Yield Strategy.
 2. On the strategy page, you will be able to find a withdraw option to the right of the page.\
    ![](<../../../.gitbook/assets/image (28).png>)
 3. Withdraw all your matured PT from Factor.
@@ -32,7 +32,7 @@ Factor offers various strategy types that enable you to amplify your PT gains.
 {% endtab %}
 
 {% tab title="Leverage" %}
-1. Visit the [Discover](https://app.factor.fi/) page and search for your PT Leverage Strategy.
+1. Visit the [Factor Discover](https://app.factor.fi/) page and search for your PT Leverage Strategy.
 2. Select the position to close and you will be able to see a "Close Position" option.\
    ![](<../../../.gitbook/assets/image (31).png>)
 3. As your PT has now matured, it is recommended that you **select the debt asset** as the token to receive when closing the position. This will save you the additional step of having to redeem your PT on Pendle.

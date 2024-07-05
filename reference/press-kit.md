@@ -78,7 +78,7 @@ Stake $FCTR and participate in building the future of Factor while earning long 
 
 </details>
 
-With integrations across multiple protocols, Factor is a user-friendly and secure gateway to the rest of DeFi. All of Factor's smart contracts are audited by PeckShield & [SourceHat](https://sourcehat.com/audits/Factor/) with live contracts being actively monitored by Chainalysis. Whether you're a protocol, treasury, builder, or individual strategist, Factor streamlines your path to financial autonomy, ensuring a seamless journey for all.
+With integrations across multiple protocols, Factor is a user-friendly and secure gateway to the rest of DeFi. All of Factor's smart contracts are audited by [PeckShield](../security/audits/peckshield/) & [SourceHat](../security/audits/sourcehat/) with live contracts being actively monitored by Chainalysis. Whether you're a protocol, treasury, builder, or individual strategist, Factor streamlines your path to financial autonomy, ensuring a seamless journey for all.
 
 Factor is governed by the FactorDAO, a community-owned platform that empowers FCTR token holders to participate in the governance of the protocol. By aligning protocol growth with long-term individual incentives, the FactorDAO places FCTR holders at the center of Factor’s future. FactorDAO consensus guides the direction of the Factor team which operates a fully remote ream with \~25 builders spread around the globe.
 
@@ -92,21 +92,15 @@ Factor is governed by the FactorDAO, a community-owned platform that empowers FC
 
 ## Factor Solutions
 
-### Factor Studio Journeys
+### Factor Studio
 
 <figure><img src="../.gitbook/assets/FactorStudioArchitecture.png" alt=""><figcaption><p>Factor Studio Overview</p></figcaption></figure>
 
 Factor Studio is a one-stop platform for creating Accessible, Composable, and Efficient DeFi strategies. Factor Studio reimagines how DeFi strategies can be created and shared via creating synergies between various Factor products.
 
 {% tabs %}
-{% tab title="Studio Discover" %}
-Studio Discover bridges the gap between professional strategy builders and DeFi users by providing an intuitive interface for users to explore and participate in a diverse array of professionally managed DeFi strategies.
-
-* **Features:** Professionally Curated Vaults, Compare Strategies, Safety & Risk Metrics, Community Insights, Personalised Profiles
-{% endtab %}
-
-{% tab title="Studio Essential" %}
-Studio Essential enables Creators to combine varying strategies from multiple DeFi protocols into one automated strategy. Just connect your wallet to the Factor dapp and gain access to an infinite world of DeFi opportunities, no coding required.
+{% tab title="Studio" %}
+Studio enables Creators to combine varying strategies from multiple DeFi protocols into one automated strategy. Just connect your wallet to the Factor dapp and gain access to an infinite world of DeFi opportunities, no coding required.
 
 * **Features:** Mix-and-Match Strategies Across DeFi, Intuitive No-Code Interface, Deploy Automated Strategies Permissionlessly
 {% endtab %}
@@ -117,6 +111,12 @@ Studio Pro (coming soon!) significantly shortens the time to market for deployin
 * **Features:** Create Automated Managed Strategies, Simplified Strategy Deployment Workflow, Transparent And Automated Fees
 {% endtab %}
 {% endtabs %}
+
+### Factor Discover
+
+Factor Discover bridges the gap between professional strategy builders and DeFi users by providing an intuitive interface for users to explore and participate in a diverse array of professionally managed DeFi strategies.
+
+* **Features:** Professionally Curated Vaults, Compare Strategies, Safety & Risk Metrics, Community Insights, Personalised Profiles
 
 ### Factor Studio Technology
 

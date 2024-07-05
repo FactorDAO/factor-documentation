@@ -1,5 +1,9 @@
 # 🌊 LP Management
 
+{% hint style="info" %}
+:hourglass:Coming soon to a [dapp](https://app.factor.fi/discover) near you!
+{% endhint %}
+
 ## Overview
 
 Factor LP (Liquidity Pool) Management Building Block provides a robust suite of convenience features that greatly simplifies the liquidity management process across AMMs. The LP Management Building Block supports liquidity functions across multiple pool types, including [concentrated liquidity pools](concepts/concentrated-liquidity.md). The LP Management Building Block reimagines the liquidity provision experience and enables users to launch a wide range of automated LP strategies with simple configuration flows and flexible parameters.
@@ -41,4 +45,4 @@ Factor has integrated with leading liquidity protocols, offering a broad spectru
 * [Trader Joe](https://www.traderjoexyz.com/)
 * [Uniswap V3](https://uniswap.org/)
 
-Visit our [**Discover**](https://app.factor.fi/discover) page to see the latest liquidity strategies.
+Visit our [**Factor Discover**](https://app.factor.fi/discover) page to see the latest liquidity strategies.

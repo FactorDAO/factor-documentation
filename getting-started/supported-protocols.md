@@ -36,6 +36,7 @@ Factor Studio enables Creators to build strategies spanning across multiple DeFi
 * [GMX](https://gmx.io/)
 * [Lodestar Finance](https://www.lodestarfinance.io/)
 * [MUX Protocol](https://mux.network/#/)
+* [Pendle](https://www.pendle.finance/)
 * [Penpie](https://docs.penpiexyz.io/)
 * [Radiant](https://radiant.capital/)
 * [Umami Finance](https://umami.finance/)

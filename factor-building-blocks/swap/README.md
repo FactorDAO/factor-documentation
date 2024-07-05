@@ -37,12 +37,12 @@ Factor has integrated with leading yield farming protocols, offering a broad spe
 * [Uniswap V3](https://uniswap.org/)
 * [Vela Exchange](https://www.vela.exchange/)
 
-Visit our [**Discover**](https://app.factor.fi/discover) page to see the latest swap strategies.
+Visit our [**Factor Discover**](https://app.factor.fi/discover) page to see the latest swap strategies.
 
 {% hint style="success" %}
 **Don't Limit Your Strategies To Just Swaps**
 
-[Factor Studio](../../solutions/factor-studio.md) enables different [Building Blocks](../factor-building-blocks.md) to be mixed-and-matched thereby facilitating multi-step strategies which span across the whole DeFi ecosystem.
+[Factor Studio](../../factor-studio/factor-studio.md) enables different [Building Blocks](../factor-building-blocks.md) to be mixed-and-matched thereby facilitating multi-step strategies which span across the whole DeFi ecosystem.
 
 Please refer to [Supported Protocols](../../getting-started/supported-protocols.md) to view the full list of DeFi protocols which have been integrated with Factor Studio.
 {% endhint %}

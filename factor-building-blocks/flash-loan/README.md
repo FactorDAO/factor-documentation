@@ -27,12 +27,12 @@ Factor is continuously working to integrate with the leading flash loan protocol
 
 * [Balancer](https://balancer.fi/)
 
-Visit our [**Discover**](https://app.factor.fi/discover) page to see the latest flash loan strategies.
+Visit our [**Factor Discover**](https://app.factor.fi/discover) page to see the latest flash loan strategies.
 
 {% hint style="info" %}
 **Don't Limit Your Strategies To Just Flash Loans**
 
-[Factor Studio](../../solutions/factor-studio.md) enables different [Building Blocks](../factor-building-blocks.md) to be mixed-and-matched thereby facilitating multi-step strategies which span across the whole DeFi ecosystem.
+[Factor Studio](../../factor-studio/factor-studio.md) enables different [Building Blocks](../factor-building-blocks.md) to be mixed-and-matched thereby facilitating multi-step strategies which span across the whole DeFi ecosystem.
 
 Please refer to [Supported Protocols](../../getting-started/supported-protocols.md) to view the full list of DeFi protocols which have been integrated with Factor Studio.
 {% endhint %}
