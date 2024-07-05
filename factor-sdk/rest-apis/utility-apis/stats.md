@@ -16,7 +16,7 @@
 [https://factor-stats-api.fly.dev/api-json](https://factor-stats-api.fly.dev/api-json)
 {% endswagger %}
 
-{% swagger src="https://factor-stats-api.fly.dev/api-json" path="/stats/vault/{address}" method="get" %}
+{% swagger src="https://factor-stats-api.fly.dev/api-json" path="/stats/user/{address}" method="get" %}
 [https://factor-stats-api.fly.dev/api-json](https://factor-stats-api.fly.dev/api-json)
 {% endswagger %}
 
