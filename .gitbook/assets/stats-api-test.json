@@ -1,0 +1,1773 @@
+{
+    "openapi": "3.0.0",
+    "paths": {
+      "/": {
+        "get": {
+          "operationId": "AppController_getHealthStatus",
+          "parameters": [],
+          "responses": {
+            "200": {
+              "description": ""
+            }
+          }
+        }
+      },
+      "/stats/leverage": {
+        "get": {
+          "operationId": "StatsController_getLeverageStats",
+          "summary": "",
+          "description": "Returns statistics for all leverage strategy vaults.",
+          "parameters": [],
+          "responses": {
+            "200": {
+              "description": "success",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "protocol": {
+                          "type": "string",
+                          "description": "The lending protocol used for the leverage strategy."
+                        },
+                        "market": {
+                          "type": "string",
+                          "description": "The lending protocol market that is utilized for the leverage strategy."
+                        },
+                        "vaultAddress": {
+                          "type": "string",
+                          "description": "The address of the strategy vault."
+                        },
+                        "totalDepositUsd": {
+                          "type": "string",
+                          "description": "The USD value of deposits in the strategy vault."
+                        },
+                        "totalTvlUsd": {
+                          "type": "string",
+                          "description": "The TVL of the strategy vault denominated in USD."
+                        },
+                        "netAPY": {
+                          "type": "string",
+                          "description": "The net estimated percentage returns for the strategy."
+                        },
+                        "apyVote": {
+                          "type": "string",
+                          "description": "The APY from Factor Scale incentives allocated to this vault based on current vault deposits."
+                        },
+                        "apyVoteProjected": {
+                          "type": "string",
+                          "description": "The estimated APY from Factor Scale incentives allocated to this vault."
+                        },
+                        "voteWeight": {
+                          "type": "string",
+                          "description": "The Factor Scale weight modifier applied to each vote fot this strategy."
+                        },
+                        "scaleRewardPriceUsd": {
+                          "type": "string",
+                          "description": "The USD value of the incentive token distributed via Factor Scale."
+                        },
+                        "scaleRewardPerSecond": {
+                          "type": "string",
+                          "description": "The USD value per second of Factor Scale incentives which is being distributed to depositors in this strategy."
+                        },
+                        "pairTvl": {
+                          "type": "string",
+                          "description": "The USD value of the tokens that are deposited in the strategy."
+                        },
+                        "pairName": {
+                          "type": "string",
+                          "description": "The strategy name which includes the token pair."
+                        },
+                        "isRestaking": {
+                          "type": "boolean",
+                          "description": "Indicates if the strategy is a restaking strategy."
+                        },
+                        "isStakable": {
+                          "type": "boolean",
+                          "description": "Indicates if the strategy can be staked to be eligible for FactorDAO rewards."
+                        },
+                        "stakedVaultAddress": {
+                          "type": "boolean",
+                          "description": "The address of the staked vault. Factor implements a governance wrapper that enables the strategy to receive FactorDAO incentives."
+                        },
+                        "strategy": {
+                          "type": "string",
+                          "description": "The strategy type."
+                        },
+                        "borrowRate": {
+                          "type": "string",
+                          "description": "The interest rate that is charged for borrowing the debt token."
+                        },
+                        "maxLeverage": {
+                          "type": "string",
+                          "description": "The maximum amount of leverage allowable for the strategy. This is determined by the underlying lending pool."
+                        },
+                        "assetDetails": {
+                          "type": "object",
+                          "description": "Asset token details",
+                          "properties": {
+                            "priceUsd": {
+                              "type": "string",
+                              "description": "The USD value of the asset token."
+                            },
+                            "symbol": {
+                              "type": "string",
+                              "description": "The asset token symbol."
+                            },
+                            "address": {
+                              "type": "string",
+                              "description": "The asset token smart contract address."
+                            },
+                            "supplyApy": {
+                              "type": "string",
+                              "description": "The interest earned when lending the asset token to the underlying lending pool."
+                            },
+                            "borrowApr": {
+                              "type": "string",
+                              "description": "The interest owed when borrowing the asset token from the underlying lending pool."
+                            },
+                            "additionalSupplyApy": {
+                              "type": "array",
+                              "description": "Additional sources of lending interest.",
+                              "items": {
+                                "type": "object",
+                                "properties": {
+                                  "label": {
+                                    "type": "string",
+                                    "description": "The type of additional interest earned on the asset token."
+                                  },
+                                  "apy": {
+                                    "type": "string",
+                                    "description": "The additional interest amount in APY."
+                                  }
+                                }
+                              }
+                            },
+                            "additionalBorrowApy": {
+                              "type": "array",
+                              "description": "Additional sources of borrow interest.",
+                              "items": {
+                                "type": "object",
+                                "properties": {
+                                  "label": {
+                                    "type": "string",
+                                    "description": "The type of additional interest owed on the asset token."
+                                  },
+                                  "apy": {
+                                    "type": "string",
+                                    "description": "The additional interest amount in APY."
+                                  }
+                                }
+                              }
+                            },
+                            "totalSupplyApy": {
+                              "type": "string",
+                              "description": "The total interest rate earned on the asset token."
+                            },
+                            "totalBorrowApy": {
+                              "type": "string",
+                              "description": "The total interest rate owed on the asset token."
+                            },
+                            "loanToValue": {
+                              "type": "string",
+                              "description": "The ratio between the value of the strategy assets to the total amount loaned"
+                            },
+                            "threshold": {
+                              "type": "string",
+                              "description": "The liquidation threshold for the leverage pair denominated in asset token."
+                            },
+                            "maxLeverage": {
+                              "type": "string",
+                              "description": "The maximum amount of leverage for the asset token."
+                            },
+                            "minHealthFactor": {
+                              "type": "string",
+                              "description": "The minimum Health Factor value below which the position is liable to be force liquidated."
+                            },
+                            "isAsset": {
+                              "type": "boolean",
+                              "description": "Indictaes whether the token is the asset token."
+                            },
+                            "isDebt": {
+                              "type": "boolean",
+                              "description": "Indictaes whether the token is the debt token."
+                            },
+                            "isDisabled": {
+                              "type": "boolean",
+                              "description": "Indicates if the token has been disabled on Factor."
+                            },
+                            "ptTokenMetadata": {
+                              "type": "object",
+                              "description": "Metadata associated with the principal token for Pendle PT leverage strategies.",
+                              "properties": {
+                                "underlyingTokenSymbol": {
+                                  "type": "string",
+                                  "description": "The symbol for the token underlying the PT."
+                                },
+                                "expiryTimestamp": {
+                                  "type": "integer",
+                                  "description": "The UNIX timestamp at which the PT matures/expires."
+                                },
+                                "pendleMarketAddress": {
+                                  "type": "string",
+                                  "description": "The address of the Pendle market for the PT."
+                                },
+                                "isExpired": {
+                                  "type": "boolean",
+                                  "description": "Indicates if the PT has already matured/expired."
+                                },
+                                "underlyingTokenAddress": {
+                                  "type": "string",
+                                  "description": "The address of the token underlying the PT."
+                                }
+                              }
+                            },
+                            "market": {
+                              "type": "string",
+                              "description": "The market for the asset token on the underlying lending protocol."
+                            },
+                            "protocol": {
+                              "type": "string",
+                              "description": "The underlying lending protocol."
+                            },
+                            "vaultAddress": {
+                              "type": "string",
+                              "description": "The address of the asset vault on the underlying lending protocol."
+                            }
+                          }
+                        },
+                        "debtDetails": {
+                          "type": "object",
+                          "description": "Debt token details",
+                          "properties": {
+                            "priceUsd": {
+                              "type": "string",
+                              "description": "The USD value of the debt token."
+                            },
+                            "symbol": {
+                              "type": "string",
+                              "description": "The debt token symbol."
+                            },
+                            "address": {
+                              "type": "string",
+                              "description": "The debt token smart contract address."
+                            },
+                            "supplyApy": {
+                              "type": "string",
+                              "description": "The interest earned when lending the debt token to the underlying lending pool."
+                            },
+                            "borrowApr": {
+                              "type": "string",
+                              "description": "The interest owed when borrowing the debt token from the underlying lending pool."
+                            },
+                            "additionalSupplyApy": {
+                              "type": "array",
+                              "description": "Additional sources of lending interest.",
+                              "items": {
+                                "type": "object",
+                                "properties": {
+                                  "label": {
+                                    "type": "string",
+                                    "description": "The type of additional interest earned on the debt token."
+                                  },
+                                  "apy": {
+                                    "type": "string",
+                                    "description": "The additional interest amount in APY."
+                                  }
+                                }
+                              }
+                            },
+                            "additionalBorrowApy": {
+                              "type": "array",
+                              "description": "Additional sources of borrow interest.",
+                              "items": {
+                                "type": "object",
+                                "properties": {
+                                  "label": {
+                                    "type": "string",
+                                    "description": "The type of additional interest owed on the debt token."
+                                  },
+                                  "apy": {
+                                    "type": "string",
+                                    "description": "The additional interest amount in APY."
+                                  }
+                                }
+                              }
+                            },
+                            "totalSupplyApy": {
+                              "type": "string",
+                              "description": "The total interest rate earned on the debt token."
+                            },
+                            "totalBorrowApy": {
+                              "type": "string",
+                              "description": "The total interest rate owed on the debt token."
+                            },
+                            "loanToValue": {
+                              "type": "string",
+                              "description": "The ratio between the value of the strategy debt to the total amount loaned"
+                            },
+                            "threshold": {
+                              "type": "string",
+                              "description": "The liquidation threshold for the leverage pair denominated in debt token."
+                            },
+                            "maxLeverage": {
+                              "type": "string",
+                              "description": "The maximum amount of leverage for the debt token."
+                            },
+                            "minHealthFactor": {
+                              "type": "string",
+                              "description": "The minimum Health Factor value below which the position is liable to be force liquidated."
+                            },
+                            "isAsset": {
+                              "type": "boolean",
+                              "description": "Indictaes whether the token is the asset token."
+                            },
+                            "isDebt": {
+                              "type": "boolean",
+                              "description": "Indictaes whether the token is the debt token."
+                            },
+                            "isDisabled": {
+                              "type": "boolean",
+                              "description": "Indicates if the token has been disabled on Factor."
+                            },
+                            "market": {
+                              "type": "string",
+                              "description": "The market for the debt token on the underlying lending protocol."
+                            },
+                            "protocol": {
+                              "type": "string",
+                              "description": "The underlying lending protocol."
+                            },
+                            "vaultAddress": {
+                              "type": "string",
+                              "description": "The address of the debt vault on the underlying lending protocol."
+                            }
+                          }
+                        },
+                        "openedPositions": {
+                          "type": "array",
+                          "description": "Array of positions which have been opened for this strategy."
+                        },
+                        "apyBoost": {
+                          "type": "string",
+                          "description": "The APY of incentives allocated to this strategy via Factor Boost based on current deposits."
+                        },
+                        "apyBoostProjected": {
+                          "type": "string",
+                          "description": "The estimated APY of Factor Boost incentives allocated to this strategy."
+                        },
+                        "boostRewardTokens": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "vaultAddress": {
+                                "type": "string",
+                                "description": "The address of the Boost vault where the incentive token is held."
+                              },
+                              "tokenAddress": {
+                                "type": "string",
+                                "description": "The address of the token being distributed via Factor Boost."
+                              },
+                              "tokenSymbol": {
+                                "type": "string",
+                                "description": "The symbol of the token being distributed via Factor Boost."
+                              },
+                              "minAmount": {
+                                "type": "string",
+                                "description": "The minimum amount of Boost incentive tokens that can be distributed in wei."
+                              },
+                              "minAmountFmt": {
+                                "type": "string",
+                                "description": "The minimum amount of Boost incentive tokens that can be distributed. Formatted per incentive token decimals."
+                              },
+                              "totalRewardAmount": {
+                                "type": "string",
+                                "description": "The amount of incentive tokens which have been allocated to Factor Boost for this period in wei."
+                              },
+                              "totalRewardAmountFmt": {
+                                "type": "string",
+                                "description": "The amount of incentive tokens which have been allocated to Factor Boost for this period. Formatted per incentive token decimals."
+                              },
+                              "lastUpdateTime": {
+                                "type": "string",
+                                "description": "The UNIX timestamp at which the Boost allocation was last updated."
+                              },
+                              "periodFinish": {
+                                "type": "string",
+                                "description": "The UNIX timestamp at which the Boost allocation will be completed."
+                              },
+                              "rewardPerTokenStored": {
+                                "type": "string",
+                                "description": "The amount of incentive tokens that is allocated to each deposit token within the strategy in wei."
+                              },
+                              "rewardPerTokenStoredFmt": {
+                                "type": "string",
+                                "description": "The amount of incentive tokens that is allocated to each deposit token within the strategy in wei. Formatted per incentive token decimals."
+                              },
+                              "rewardRate": {
+                                "type": "string",
+                                "description": "The APR that depositors to the strategy will earn based on the period which this incentive token will be distributed."
+                              },
+                              "rewardRateFmt": {
+                                "type": "string",
+                                "description": "The APR that depositors to the strategy will earn based on the period which this incentive token will be distributed. Formatted per incentive token decimals."
+                              },
+                              "tokenDecimal": {
+                                "type": "string",
+                                "description": "The number of decimals specified by the incentive token contract."
+                              },
+                              "priceUsd": {
+                                "type": "string",
+                                "description": "The USD value of the incentive token."
+                              },
+                              "apy": {
+                                "type": "string",
+                                "description": "The APY of this Boost vault."
+                              }
+                            }
+                          }
+                        },
+                        "isBoosted": {
+                          "type": "boolean",
+                          "description": "Indicates if the strategy is receiving Factor Boost incentives."
+                        },
+                        "isScaled": {
+                          "type": "boolean",
+                          "description": "Indicates if the strategy is receiving Factor Scale incentives."
+                        },
+                        "fetched_at": {
+                          "type": "string",
+                          "description": "The UNIX timestamp at which the data for this strategy was retrieved."
+                        },
+                        "identifier": {
+                          "type": "string",
+                          "description": "The identifier to uniquely identify the strategy."
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "tags": [
+            "Leverage Strategies"
+          ]
+        }
+      },
+      "/stats/yield": {
+        "get": {
+          "operationId": "StatsController_getYieldStats",
+          "summary": "",
+          "description": "Returns statistics for all yield strategy vaults.",
+          "parameters": [],
+          "responses": {
+            "200": {
+              "description": "success",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "array",
+                    "description": "An array of objects, each representing a yield strategy vault.",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "vaultAddress": {
+                          "type": "string",
+                          "description": "The address of the strategy vault."
+                        },
+                        "vaultName": {
+                          "type": "string",
+                          "description": "The strategy name which includes the underlying token as well as the lending protocol."
+                        },
+                        "vaultSymbol": {
+                          "type": "string",
+                          "description": "The symbol of the yield vault which is a concatenation of protocol, token, and auto-compounder strategy type."
+                        },
+                        "isStagging": {
+                          "type": "boolean",
+                          "description": "Indicates if the strategy is in the staging environment."
+                        },
+                        "isStakable": {
+                          "type": "boolean",
+                          "description": "Indicates if the strategy can be staked to be eligible for FactorDAO rewards."
+                        },
+                        "tvlUsd": {
+                          "type": "string",
+                          "description": "The TVL of the strategy vault denominated in USD."
+                        },
+                        "apyBase": {
+                          "type": "string",
+                          "description": "The base Annual Percentage Yield that is accrued by the strategy."
+                        },
+                        "apyVote": {
+                          "type": "string",
+                          "description": "The APY from Factor Scale incentives allocated to this vault based on current vault deposits."
+                        },
+                        "apyVoteProjected": {
+                          "type": "string",
+                          "description": "The estimated APY from Factor Scale incentives allocated to this vault."
+                        },
+                        "isScaled": {
+                          "type": "boolean",
+                          "description": "Indicates if the strategy is receiving Factor Scale incentives."
+                        },
+                        "voteWeight": {
+                          "type": "string",
+                          "description": "The Factor Scale weight modifier applied to each vote fot this strategy."
+                        },
+                        "scaleRewardPerSecond": {
+                          "type": "string",
+                          "description": "The USD value per second of Factor Scale incentives which is being distributed to depositors in this strategy."
+                        },
+                        "scaleRewardPriceUsd": {
+                          "type": "string",
+                          "description": "The USD value of the incentive token distributed via Factor Scale."
+                        },
+                        "assetAddress": {
+                          "type": "string",
+                          "description": "The contract address of the underlying token (i.e. asset) of the yield strategy vault."
+                        },
+                        "assetName": {
+                          "type": "string",
+                          "description": "The name of the underlying token (i.e. asset) of the yield strategy vault."
+                        },
+                        "assetSymbol": {
+                          "type": "string",
+                          "description": "The symbol of the underlying token (i.e. asset) of the yield strategy vault."
+                        },
+                        "assetDecimals": {
+                          "type": "string",
+                          "description": "The number of decimals of the underlying token (i.e. asset) of the yield strategy vault."
+                        },
+                        "assetPriceUsd": {
+                          "type": "string",
+                          "description": "The USD value of the underlying token (i.e. asset) of the yield strategy vault."
+                        },
+                        "sharePriceUsd": {
+                          "type": "string",
+                          "description": "The USD value of each of the yield strategy vault's share."
+                        },
+                        "monthlyVolumeUsd": {
+                          "type": "string",
+                          "description": "The USD value of the volume of tokens that is facilitated by this yield strategy."
+                        },
+                        "apyBoost": {
+                          "type": "string",
+                          "description": "The APY of incentives allocated to this strategy via Factor Boost based on current deposits."
+                        },
+                        "apyBoostProjected": {
+                          "type": "string",
+                          "description": "The estimated APY of Factor Boost incentives allocated to this strategy."
+                        },
+                        "boostRewardTokens": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "vaultAddress": {
+                                "type": "string",
+                                "description": "The address of the Boost vault where the incentive token is held."
+                              },
+                              "tokenAddress": {
+                                "type": "string",
+                                "description": "The address of the token being distributed via Factor Boost."
+                              },
+                              "tokenSymbol": {
+                                "type": "string",
+                                "description": "The symbol of the token being distributed via Factor Boost."
+                              },
+                              "minAmount": {
+                                "type": "string",
+                                "description": "The minimum amount of Boost incentive tokens that can be distributed in wei."
+                              },
+                              "minAmountFmt": {
+                                "type": "string",
+                                "description": "The minimum amount of Boost incentive tokens that can be distributed. Formatted per incentive token decimals."
+                              },
+                              "totalRewardAmount": {
+                                "type": "string",
+                                "description": "The amount of incentive tokens which have been allocated to Factor Boost for this period in wei."
+                              },
+                              "totalRewardAmountFmt": {
+                                "type": "string",
+                                "description": "The amount of incentive tokens which have been allocated to Factor Boost for this period. Formatted per incentive token decimals."
+                              },
+                              "lastUpdateTime": {
+                                "type": "string",
+                                "description": "The UNIX timestamp at which the Boost allocation was last updated."
+                              },
+                              "periodFinish": {
+                                "type": "string",
+                                "description": "The UNIX timestamp at which the Boost allocation will be completed."
+                              },
+                              "rewardPerTokenStored": {
+                                "type": "string",
+                                "description": "The amount of incentive tokens that is allocated to each deposit token within the strategy in wei."
+                              },
+                              "rewardPerTokenStoredFmt": {
+                                "type": "string",
+                                "description": "The amount of incentive tokens that is allocated to each deposit token within the strategy in wei. Formatted per incentive token decimals."
+                              },
+                              "rewardRate": {
+                                "type": "string",
+                                "description": "The APR that depositors to the strategy will earn based on the period which this incentive token will be distributed."
+                              },
+                              "rewardRateFmt": {
+                                "type": "string",
+                                "description": "The APR that depositors to the strategy will earn based on the period which this incentive token will be distributed. Formatted per incentive token decimals."
+                              },
+                              "tokenDecimal": {
+                                "type": "string",
+                                "description": "The number of decimals specified by the incentive token contract."
+                              },
+                              "priceUsd": {
+                                "type": "string",
+                                "description": "The USD value of the incentive token."
+                              },
+                              "apy": {
+                                "type": "string",
+                                "description": "The APY of this Boost vault."
+                              }
+                            }
+                          }
+                        },
+                        "isBoosted": {
+                          "type": "boolean",
+                          "description": "Indicates if the strategy is receiving Factor Boost incentives."
+                        },
+                        "isRestaking": {
+                          "type": "boolean",
+                          "description": "Indicates if the strategy is a restaking strategy."
+                        },
+                        "fetched_at": {
+                          "type": "string",
+                          "description": "The UNIX timestamp at which the data for this strategy was retrieved."
+                        },
+                        "identifier": {
+                          "type": "string",
+                          "description": "The identifier to uniquely identify the strategy."
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "tags": [
+            "Yield Strategies"
+          ]
+        }
+      },
+      "/stats/counters": {
+        "get": {
+          "operationId": "StatsController_getProtocolCounters",
+          "summary": "",
+          "description": "Returns various counts which includes platform TVL, integrations, and strategies.",
+          "parameters": [],
+          "responses": {
+            "200": {
+              "description": "success",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "object",
+                    "properties": {
+                      "totalTvl": {
+                        "type": "string",
+                        "description": "The TVL of all deposits on Factor vaults denominated in USD."
+                      },
+                      "protocols": {
+                        "type": "string",
+                        "description": "The number of integrated protocols."
+                      },
+                      "pairs": {
+                        "type": "string",
+                        "description": "The number of token pairs/markets which are available on Factor."
+                      },
+                      "leverageVaults": {
+                        "type": "string",
+                        "description": "The number of leverage strategy vaults."
+                      },
+                      "yieldVaults": {
+                        "type": "string",
+                        "description": "The number of yield strategy vaults."
+                      },
+                      "totalVaults": {
+                        "type": "string",
+                        "description": "The total number of strategy vaults on Factor."
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "tags": [
+            "Protocol Counters"
+          ]
+        }
+      },
+      "/stats/user/{address}": {
+        "get": {
+          "operationId": "StatsController_getVaultData",
+          "summary": "",
+          "description": "Returns user strategy data.",
+          "parameters": [
+            {
+              "name": "address",
+              "required": true,
+              "in": "path",
+              "description": "The user wallet address that is being queried.",
+              "example": "0x2bfc3A4Ef52Fe6cD2c5236dA08005C59EaFB43a7",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "success",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "object",
+                    "properties": {
+                      "userLeverageVaults": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "protocol": {
+                              "type": "string",
+                              "description": "The lending protocol used for the leverage strategy."
+                            },
+                            "market": {
+                              "type": "string",
+                              "description": "The lending protocol market that is utilized for the leverage strategy."
+                            },
+                            "vaultAddress": {
+                              "type": "string",
+                              "description": "The address of the strategy vault."
+                            },
+                            "totalDepositUsd": {
+                              "type": "string",
+                              "description": "The USD value of deposits in the strategy vault."
+                            },
+                            "totalTvlUsd": {
+                              "type": "string",
+                              "description": "The TVL of the strategy vault denominated in USD."
+                            },
+                            "netAPY": {
+                              "type": "string",
+                              "description": "The net estimated percentage returns for the strategy."
+                            },
+                            "apyVote": {
+                              "type": "string",
+                              "description": "The APY from Factor Scale incentives allocated to this vault based on current vault deposits."
+                            },
+                            "apyVoteProjected": {
+                              "type": "string",
+                              "description": "The estimated APY from Factor Scale incentives allocated to this vault."
+                            },
+                            "voteWeight": {
+                              "type": "string",
+                              "description": "The Factor Scale weight modifier applied to each vote fot this strategy."
+                            },
+                            "scaleRewardPriceUsd": {
+                              "type": "string",
+                              "description": "The USD value of the incentive token distributed via Factor Scale."
+                            },
+                            "scaleRewardPerSecond": {
+                              "type": "string",
+                              "description": "The USD value per second of Factor Scale incentives which is being distributed to depositors in this strategy."
+                            },
+                            "pairTvl": {
+                              "type": "string",
+                              "description": "The USD value of the tokens that are deposited in the strategy."
+                            },
+                            "pairName": {
+                              "type": "string",
+                              "description": "The strategy name which includes the token pair."
+                            },
+                            "isRestaking": {
+                              "type": "boolean",
+                              "description": "Indicates if the strategy is a restaking strategy."
+                            },
+                            "isStakable": {
+                              "type": "boolean",
+                              "description": "Indicates if the strategy can be staked to be eligible for FactorDAO rewards."
+                            },
+                            "stakedVaultAddress": {
+                              "type": "boolean",
+                              "description": "The address of the staked vault. Factor implements a governance wrapper that enables the strategy to receive FactorDAO incentives."
+                            },
+                            "strategy": {
+                              "type": "string",
+                              "description": "The strategy type."
+                            },
+                            "borrowRate": {
+                              "type": "string",
+                              "description": "The interest rate that is charged for borrowing the debt token."
+                            },
+                            "maxLeverage": {
+                              "type": "string",
+                              "description": "The maximum amount of leverage allowable for the strategy. This is determined by the underlying lending pool."
+                            },
+                            "assetDetails": {
+                              "type": "object",
+                              "description": "Asset token details",
+                              "properties": {
+                                "priceUsd": {
+                                  "type": "string",
+                                  "description": "The USD value of the asset token."
+                                },
+                                "symbol": {
+                                  "type": "string",
+                                  "description": "The asset token symbol."
+                                },
+                                "address": {
+                                  "type": "string",
+                                  "description": "The asset token smart contract address."
+                                },
+                                "supplyApy": {
+                                  "type": "string",
+                                  "description": "The interest earned when lending the asset token to the underlying lending pool."
+                                },
+                                "borrowApr": {
+                                  "type": "string",
+                                  "description": "The interest owed when borrowing the asset token from the underlying lending pool."
+                                },
+                                "additionalSupplyApy": {
+                                  "type": "array",
+                                  "description": "Additional sources of lending interest.",
+                                  "items": {
+                                    "type": "object",
+                                    "properties": {
+                                      "label": {
+                                        "type": "string",
+                                        "description": "The type of additional interest earned on the asset token."
+                                      },
+                                      "apy": {
+                                        "type": "string",
+                                        "description": "The additional interest amount in APY."
+                                      }
+                                    }
+                                  }
+                                },
+                                "additionalBorrowApy": {
+                                  "type": "array",
+                                  "description": "Additional sources of borrow interest.",
+                                  "items": {
+                                    "type": "object",
+                                    "properties": {
+                                      "label": {
+                                        "type": "string",
+                                        "description": "The type of additional interest owed on the asset token."
+                                      },
+                                      "apy": {
+                                        "type": "string",
+                                        "description": "The additional interest amount in APY."
+                                      }
+                                    }
+                                  }
+                                },
+                                "totalSupplyApy": {
+                                  "type": "string",
+                                  "description": "The total interest rate earned on the asset token."
+                                },
+                                "totalBorrowApy": {
+                                  "type": "string",
+                                  "description": "The total interest rate owed on the asset token."
+                                },
+                                "loanToValue": {
+                                  "type": "string",
+                                  "description": "The ratio between the value of the strategy assets to the total amount loaned"
+                                },
+                                "threshold": {
+                                  "type": "string",
+                                  "description": "The liquidation threshold for the leverage pair denominated in asset token."
+                                },
+                                "maxLeverage": {
+                                  "type": "string",
+                                  "description": "The maximum amount of leverage for the asset token."
+                                },
+                                "minHealthFactor": {
+                                  "type": "string",
+                                  "description": "The minimum Health Factor value below which the position is liable to be force liquidated."
+                                },
+                                "isAsset": {
+                                  "type": "boolean",
+                                  "description": "Indictaes whether the token is the asset token."
+                                },
+                                "isDebt": {
+                                  "type": "boolean",
+                                  "description": "Indictaes whether the token is the debt token."
+                                },
+                                "isDisabled": {
+                                  "type": "boolean",
+                                  "description": "Indicates if the token has been disabled on Factor."
+                                },
+                                "ptTokenMetadata": {
+                                  "type": "object",
+                                  "description": "Metadata associated with the principal token for Pendle PT leverage strategies.",
+                                  "properties": {
+                                    "underlyingTokenSymbol": {
+                                      "type": "string",
+                                      "description": "The symbol for the token underlying the PT."
+                                    },
+                                    "expiryTimestamp": {
+                                      "type": "integer",
+                                      "description": "The UNIX timestamp at which the PT matures/expires."
+                                    },
+                                    "pendleMarketAddress": {
+                                      "type": "string",
+                                      "description": "The address of the Pendle market for the PT."
+                                    },
+                                    "isExpired": {
+                                      "type": "boolean",
+                                      "description": "Indicates if the PT has already matured/expired."
+                                    },
+                                    "underlyingTokenAddress": {
+                                      "type": "string",
+                                      "description": "The address of the token underlying the PT."
+                                    }
+                                  }
+                                },
+                                "market": {
+                                  "type": "string",
+                                  "description": "The market for the asset token on the underlying lending protocol."
+                                },
+                                "protocol": {
+                                  "type": "string",
+                                  "description": "The underlying lending protocol."
+                                },
+                                "vaultAddress": {
+                                  "type": "string",
+                                  "description": "The address of the asset vault on the underlying lending protocol."
+                                }
+                              }
+                            },
+                            "debtDetails": {
+                              "type": "object",
+                              "description": "Debt token details",
+                              "properties": {
+                                "priceUsd": {
+                                  "type": "string",
+                                  "description": "The USD value of the debt token."
+                                },
+                                "symbol": {
+                                  "type": "string",
+                                  "description": "The debt token symbol."
+                                },
+                                "address": {
+                                  "type": "string",
+                                  "description": "The debt token smart contract address."
+                                },
+                                "supplyApy": {
+                                  "type": "string",
+                                  "description": "The interest earned when lending the debt token to the underlying lending pool."
+                                },
+                                "borrowApr": {
+                                  "type": "string",
+                                  "description": "The interest owed when borrowing the debt token from the underlying lending pool."
+                                },
+                                "additionalSupplyApy": {
+                                  "type": "array",
+                                  "description": "Additional sources of lending interest.",
+                                  "items": {
+                                    "type": "object",
+                                    "properties": {
+                                      "label": {
+                                        "type": "string",
+                                        "description": "The type of additional interest earned on the debt token."
+                                      },
+                                      "apy": {
+                                        "type": "string",
+                                        "description": "The additional interest amount in APY."
+                                      }
+                                    }
+                                  }
+                                },
+                                "additionalBorrowApy": {
+                                  "type": "array",
+                                  "description": "Additional sources of borrow interest.",
+                                  "items": {
+                                    "type": "object",
+                                    "properties": {
+                                      "label": {
+                                        "type": "string",
+                                        "description": "The type of additional interest owed on the debt token."
+                                      },
+                                      "apy": {
+                                        "type": "string",
+                                        "description": "The additional interest amount in APY."
+                                      }
+                                    }
+                                  }
+                                },
+                                "totalSupplyApy": {
+                                  "type": "string",
+                                  "description": "The total interest rate earned on the debt token."
+                                },
+                                "totalBorrowApy": {
+                                  "type": "string",
+                                  "description": "The total interest rate owed on the debt token."
+                                },
+                                "loanToValue": {
+                                  "type": "string",
+                                  "description": "The ratio between the value of the strategy debt to the total amount loaned"
+                                },
+                                "threshold": {
+                                  "type": "string",
+                                  "description": "The liquidation threshold for the leverage pair denominated in debt token."
+                                },
+                                "maxLeverage": {
+                                  "type": "string",
+                                  "description": "The maximum amount of leverage for the debt token."
+                                },
+                                "minHealthFactor": {
+                                  "type": "string",
+                                  "description": "The minimum Health Factor value below which the position is liable to be force liquidated."
+                                },
+                                "isAsset": {
+                                  "type": "boolean",
+                                  "description": "Indictaes whether the token is the asset token."
+                                },
+                                "isDebt": {
+                                  "type": "boolean",
+                                  "description": "Indictaes whether the token is the debt token."
+                                },
+                                "isDisabled": {
+                                  "type": "boolean",
+                                  "description": "Indicates if the token has been disabled on Factor."
+                                },
+                                "market": {
+                                  "type": "string",
+                                  "description": "The market for the debt token on the underlying lending protocol."
+                                },
+                                "protocol": {
+                                  "type": "string",
+                                  "description": "The underlying lending protocol."
+                                },
+                                "vaultAddress": {
+                                  "type": "string",
+                                  "description": "The address of the debt vault on the underlying lending protocol."
+                                }
+                              }
+                            },
+                            "openedPositions": {
+                              "type": "array",
+                              "description": "An array of user leverage strategy positions.",
+                              "items": {
+                                "type": "object",
+                                "properties": {
+                                  "id": {
+                                    "type": "string",
+                                    "description": "The position identifier."
+                                  },
+                                  "address": {
+                                    "type": "string",
+                                    "description": "The position contract address."
+                                  },
+                                  "asset": {
+                                    "type": "object",
+                                    "properties": {
+                                      "address": {
+                                        "type": "string",
+                                        "description": "The address of the asset token held by the position."
+                                      },
+                                      "amount": {
+                                        "type": "string",
+                                        "description": "The amount of asset tokens held by the position denominated in wei."
+                                      },
+                                      "amountFmt": {
+                                        "type": "string",
+                                        "description": "The amount of asset tokens held by the position formatted based on asset decimals."
+                                      },
+                                      "amountUsd": {
+                                        "type": "string",
+                                        "description": "The USD value of asset tokens held by the position."
+                                      }
+                                    }
+                                  },
+                                  "debt": {
+                                    "type": "object",
+                                    "properties": {
+                                      "address": {
+                                        "type": "string",
+                                        "description": "The address of the debt token held by the position."
+                                      },
+                                      "amount": {
+                                        "type": "string",
+                                        "description": "The amount of debt tokens held by the position denominated in wei."
+                                      },
+                                      "amountFmt": {
+                                        "type": "string",
+                                        "description": "The amount of debt tokens held by the position formatted based on debt decimals."
+                                      },
+                                      "amountUsd": {
+                                        "type": "string",
+                                        "description": "The USD value of debt tokens held by the position."
+                                      }
+                                    }
+                                  },
+                                  "netValueUsd": {
+                                    "type": "string",
+                                    "description": "The net USD value of the position (i.e. asset minus debt)."
+                                  },
+                                  "tvlUsd": {
+                                    "type": "string",
+                                    "description": "The TVL of the position in USD."
+                                  }
+                                }
+                              }
+                            },
+                            "apyBoost": {
+                              "type": "string",
+                              "description": "The APY of incentives allocated to this strategy via Factor Boost based on current deposits."
+                            },
+                            "apyBoostProjected": {
+                              "type": "string",
+                              "description": "The estimated APY of Factor Boost incentives allocated to this strategy."
+                            },
+                            "boostRewardTokens": {
+                              "type": "array",
+                              "items": {
+                                "type": "object",
+                                "properties": {
+                                  "vaultAddress": {
+                                    "type": "string",
+                                    "description": "The address of the Boost vault where the incentive token is held."
+                                  },
+                                  "tokenAddress": {
+                                    "type": "string",
+                                    "description": "The address of the token being distributed via Factor Boost."
+                                  },
+                                  "tokenSymbol": {
+                                    "type": "string",
+                                    "description": "The symbol of the token being distributed via Factor Boost."
+                                  },
+                                  "minAmount": {
+                                    "type": "string",
+                                    "description": "The minimum amount of Boost incentive tokens that can be distributed in wei."
+                                  },
+                                  "minAmountFmt": {
+                                    "type": "string",
+                                    "description": "The minimum amount of Boost incentive tokens that can be distributed. Formatted per incentive token decimals."
+                                  },
+                                  "totalRewardAmount": {
+                                    "type": "string",
+                                    "description": "The amount of incentive tokens which have been allocated to Factor Boost for this period in wei."
+                                  },
+                                  "totalRewardAmountFmt": {
+                                    "type": "string",
+                                    "description": "The amount of incentive tokens which have been allocated to Factor Boost for this period. Formatted per incentive token decimals."
+                                  },
+                                  "lastUpdateTime": {
+                                    "type": "string",
+                                    "description": "The UNIX timestamp at which the Boost allocation was last updated."
+                                  },
+                                  "periodFinish": {
+                                    "type": "string",
+                                    "description": "The UNIX timestamp at which the Boost allocation will be completed."
+                                  },
+                                  "rewardPerTokenStored": {
+                                    "type": "string",
+                                    "description": "The amount of incentive tokens that is allocated to each deposit token within the strategy in wei."
+                                  },
+                                  "rewardPerTokenStoredFmt": {
+                                    "type": "string",
+                                    "description": "The amount of incentive tokens that is allocated to each deposit token within the strategy in wei. Formatted per incentive token decimals."
+                                  },
+                                  "rewardRate": {
+                                    "type": "string",
+                                    "description": "The APR that depositors to the strategy will earn based on the period which this incentive token will be distributed."
+                                  },
+                                  "rewardRateFmt": {
+                                    "type": "string",
+                                    "description": "The APR that depositors to the strategy will earn based on the period which this incentive token will be distributed. Formatted per incentive token decimals."
+                                  },
+                                  "tokenDecimal": {
+                                    "type": "string",
+                                    "description": "The number of decimals specified by the incentive token contract."
+                                  },
+                                  "priceUsd": {
+                                    "type": "string",
+                                    "description": "The USD value of the incentive token."
+                                  },
+                                  "apy": {
+                                    "type": "string",
+                                    "description": "The APY of this Boost vault."
+                                  }
+                                }
+                              }
+                            },
+                            "isBoosted": {
+                              "type": "boolean",
+                              "description": "Indicates if the strategy is receiving Factor Boost incentives."
+                            },
+                            "isScaled": {
+                              "type": "boolean",
+                              "description": "Indicates if the strategy is receiving Factor Scale incentives."
+                            },
+                            "fetched_at": {
+                              "type": "string",
+                              "description": "The UNIX timestamp at which the data for this strategy was retrieved."
+                            },
+                            "identifier": {
+                              "type": "string",
+                              "description": "The identifier to uniquely identify the strategy."
+                            }
+                          }
+                        }
+                      },
+                      "userYieldVaults": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "vaultAddress": {
+                              "type": "string",
+                              "description": "The address of the strategy vault."
+                            },
+                            "vaultName": {
+                              "type": "string",
+                              "description": "The strategy name which includes the underlying token as well as the lending protocol."
+                            },
+                            "vaultSymbol": {
+                              "type": "string",
+                              "description": "The symbol of the yield vault which is a concatenation of protocol, token, and auto-compounder strategy type."
+                            },
+                            "isStagging": {
+                              "type": "boolean",
+                              "description": "Indicates if the strategy is in the staging environment."
+                            },
+                            "isStakable": {
+                              "type": "boolean",
+                              "description": "Indicates if the strategy can be staked to be eligible for FactorDAO rewards."
+                            },
+                            "tvlUsd": {
+                              "type": "string",
+                              "description": "The TVL of the strategy vault denominated in USD."
+                            },
+                            "apyBase": {
+                              "type": "string",
+                              "description": "The base Annual Percentage Yield that is accrued by the strategy."
+                            },
+                            "apyVote": {
+                              "type": "string",
+                              "description": "The APY from Factor Scale incentives allocated to this vault based on current vault deposits."
+                            },
+                            "apyVoteProjected": {
+                              "type": "string",
+                              "description": "The estimated APY from Factor Scale incentives allocated to this vault."
+                            },
+                            "isScaled": {
+                              "type": "boolean",
+                              "description": "Indicates if the strategy is receiving Factor Scale incentives."
+                            },
+                            "voteWeight": {
+                              "type": "string",
+                              "description": "The Factor Scale weight modifier applied to each vote fot this strategy."
+                            },
+                            "scaleRewardPerSecond": {
+                              "type": "string",
+                              "description": "The USD value per second of Factor Scale incentives which is being distributed to depositors in this strategy."
+                            },
+                            "scaleRewardPriceUsd": {
+                              "type": "string",
+                              "description": "The USD value of the incentive token distributed via Factor Scale."
+                            },
+                            "assetAddress": {
+                              "type": "string",
+                              "description": "The contract address of the underlying token (i.e. asset) of the yield strategy vault."
+                            },
+                            "assetName": {
+                              "type": "string",
+                              "description": "The name of the underlying token (i.e. asset) of the yield strategy vault."
+                            },
+                            "assetSymbol": {
+                              "type": "string",
+                              "description": "The symbol of the underlying token (i.e. asset) of the yield strategy vault."
+                            },
+                            "assetDecimals": {
+                              "type": "string",
+                              "description": "The number of decimals of the underlying token (i.e. asset) of the yield strategy vault."
+                            },
+                            "assetPriceUsd": {
+                              "type": "string",
+                              "description": "The USD value of the underlying token (i.e. asset) of the yield strategy vault."
+                            },
+                            "sharePriceUsd": {
+                              "type": "string",
+                              "description": "The USD value of each of the yield strategy vault's share."
+                            },
+                            "monthlyVolumeUsd": {
+                              "type": "string",
+                              "description": "The USD value of the volume of tokens that is facilitated by this yield strategy."
+                            },
+                            "apyBoost": {
+                              "type": "string",
+                              "description": "The APY of incentives allocated to this strategy via Factor Boost based on current deposits."
+                            },
+                            "apyBoostProjected": {
+                              "type": "string",
+                              "description": "The estimated APY of Factor Boost incentives allocated to this strategy."
+                            },
+                            "boostRewardTokens": {
+                              "type": "array",
+                              "items": {
+                                "type": "object",
+                                "properties": {
+                                  "vaultAddress": {
+                                    "type": "string",
+                                    "description": "The address of the Boost vault where the incentive token is held."
+                                  },
+                                  "tokenAddress": {
+                                    "type": "string",
+                                    "description": "The address of the token being distributed via Factor Boost."
+                                  },
+                                  "tokenSymbol": {
+                                    "type": "string",
+                                    "description": "The symbol of the token being distributed via Factor Boost."
+                                  },
+                                  "minAmount": {
+                                    "type": "string",
+                                    "description": "The minimum amount of Boost incentive tokens that can be distributed in wei."
+                                  },
+                                  "minAmountFmt": {
+                                    "type": "string",
+                                    "description": "The minimum amount of Boost incentive tokens that can be distributed. Formatted per incentive token decimals."
+                                  },
+                                  "totalRewardAmount": {
+                                    "type": "string",
+                                    "description": "The amount of incentive tokens which have been allocated to Factor Boost for this period in wei."
+                                  },
+                                  "totalRewardAmountFmt": {
+                                    "type": "string",
+                                    "description": "The amount of incentive tokens which have been allocated to Factor Boost for this period. Formatted per incentive token decimals."
+                                  },
+                                  "lastUpdateTime": {
+                                    "type": "string",
+                                    "description": "The UNIX timestamp at which the Boost allocation was last updated."
+                                  },
+                                  "periodFinish": {
+                                    "type": "string",
+                                    "description": "The UNIX timestamp at which the Boost allocation will be completed."
+                                  },
+                                  "rewardPerTokenStored": {
+                                    "type": "string",
+                                    "description": "The amount of incentive tokens that is allocated to each deposit token within the strategy in wei."
+                                  },
+                                  "rewardPerTokenStoredFmt": {
+                                    "type": "string",
+                                    "description": "The amount of incentive tokens that is allocated to each deposit token within the strategy in wei. Formatted per incentive token decimals."
+                                  },
+                                  "rewardRate": {
+                                    "type": "string",
+                                    "description": "The APR that depositors to the strategy will earn based on the period which this incentive token will be distributed."
+                                  },
+                                  "rewardRateFmt": {
+                                    "type": "string",
+                                    "description": "The APR that depositors to the strategy will earn based on the period which this incentive token will be distributed. Formatted per incentive token decimals."
+                                  },
+                                  "tokenDecimal": {
+                                    "type": "string",
+                                    "description": "The number of decimals specified by the incentive token contract."
+                                  },
+                                  "priceUsd": {
+                                    "type": "string",
+                                    "description": "The USD value of the incentive token."
+                                  },
+                                  "apy": {
+                                    "type": "string",
+                                    "description": "The APY of this Boost vault."
+                                  }
+                                }
+                              }
+                            },
+                            "isBoosted": {
+                              "type": "boolean",
+                              "description": "Indicates if the strategy is receiving Factor Boost incentives."
+                            },
+                            "isRestaking": {
+                              "type": "boolean",
+                              "description": "Indicates if the strategy is a restaking strategy."
+                            },
+                            "fetched_at": {
+                              "type": "string",
+                              "description": "The UNIX timestamp at which the data for this strategy was retrieved."
+                            },
+                            "identifier": {
+                              "type": "string",
+                              "description": "The identifier to uniquely identify the strategy."
+                            },
+                            "userData": {
+                              "type": "object",
+                              "description": "Contains the user specific data for this unstaked strategy.",
+                              "properties": {
+                                "asset": {
+                                  "type": "object",
+                                  "description": "The asset token amounts held by the user in this strategy.",
+                                  "properties": {
+                                    "balance": {
+                                      "type": "string",
+                                      "description": "The number of asset tokens held by the user in this strategy."
+                                    },
+                                    "balanceFmt": {
+                                      "type": "string",
+                                      "description": "The number of asset tokens held by the user in this strategy scaled by the asset decimals."
+                                    },
+                                    "balanceUsd": {
+                                      "type": "string",
+                                      "description": "The USD value of the asset tokens held by the user in this strategy."
+                                    }
+                                  }
+                                },
+                                "share": {
+                                  "type": "object",
+                                  "description": "The strategy vault shares held by the user.",
+                                  "properties": {
+                                    "balance": {
+                                      "type": "string",
+                                      "description": "The number of strategy shares held by the user."
+                                    },
+                                    "balanceFmt": {
+                                      "type": "string",
+                                      "description": "The number of strategy shares held by the user scaled by the share decimals."
+                                    },
+                                    "balanceUsd": {
+                                      "type": "string",
+                                      "description": "The USD value of the strategy shares held by the user."
+                                    }
+                                  }
+                                },
+                                "pnl": {
+                                  "type": "object",
+                                  "description": "The user's profit and loss for this strategy.",
+                                  "properties": {
+                                    "assetAddress": {
+                                      "type": "string",
+                                      "description": "The address of the asset which the PnL is calculated on."
+                                    },
+                                    "pnlAsset": {
+                                      "type": "string",
+                                      "description": "The PnL of the user in asset tokens denominated in wei."
+                                    },
+                                    "pnlAssetFmt": {
+                                      "type": "string",
+                                      "description": "The PnL of the user in asset tokens formatted by the asset decimals."
+                                    },
+                                    "pnlUsd": {
+                                      "type": "string",
+                                      "description": "The USD value of the user's PnL."
+                                    },
+                                    "pnlPercentage": {
+                                      "type": "string",
+                                      "description": "The percentage of profit/loss incurred by the user."
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "stakedUserData": {
+                              "type": "object",
+                              "description": "Contains the user specific data for this staked strategy.",
+                              "properties": {
+                                "asset": {
+                                  "type": "object",
+                                  "description": "The asset token amounts held by the user in this strategy.",
+                                  "properties": {
+                                    "balance": {
+                                      "type": "string",
+                                      "description": "The number of asset tokens held by the user in this strategy."
+                                    },
+                                    "balanceFmt": {
+                                      "type": "string",
+                                      "description": "The number of asset tokens held by the user in this strategy scaled by the asset decimals."
+                                    },
+                                    "balanceUsd": {
+                                      "type": "string",
+                                      "description": "The USD value of the asset tokens held by the user in this strategy."
+                                    }
+                                  }
+                                },
+                                "share": {
+                                  "type": "object",
+                                  "description": "The strategy vault shares held by the user.",
+                                  "properties": {
+                                    "balance": {
+                                      "type": "string",
+                                      "description": "The number of strategy shares held by the user."
+                                    },
+                                    "balanceFmt": {
+                                      "type": "string",
+                                      "description": "The number of strategy shares held by the user scaled by the share decimals."
+                                    },
+                                    "balanceUsd": {
+                                      "type": "string",
+                                      "description": "The USD value of the strategy shares held by the user."
+                                    }
+                                  }
+                                },
+                                "pnl": {
+                                  "type": "object",
+                                  "description": "The user's profit and loss for this strategy.",
+                                  "properties": {
+                                    "assetAddress": {
+                                      "type": "string",
+                                      "description": "The address of the asset which the PnL is calculated on."
+                                    },
+                                    "pnlAsset": {
+                                      "type": "string",
+                                      "description": "The PnL of the user in asset tokens denominated in wei."
+                                    },
+                                    "pnlAssetFmt": {
+                                      "type": "string",
+                                      "description": "The PnL of the user in asset tokens formatted by the asset decimals."
+                                    },
+                                    "pnlUsd": {
+                                      "type": "string",
+                                      "description": "The USD value of the user's PnL."
+                                    },
+                                    "pnlPercentage": {
+                                      "type": "string",
+                                      "description": "The percentage of profit/loss incurred by the user."
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "tags": [
+            "User Stats"
+          ]
+        }
+      },
+      "/stats/dao-revenues/current": {
+        "get": {
+          "operationId": "StatsController_getLastDaoRevenue",
+          "summary": "",
+          "description": "Returns the FactorDAO revenues for the current cycle.",
+          "parameters": [],
+          "responses": {
+            "200": {
+              "description": "success",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "object",
+                    "properties": {
+                      "estimatedAPR": {
+                        "type": "string",
+                        "description": "The estimated APR that a FCTR staker can expect to receive at the next revenue share distribution."
+                      },
+                      "actualAPR": {
+                        "type": "string",
+                        "description": "The actual APR that a FCTR staker will receive on revenue share distribution based on FactorDAO's month-to-date revenue."
+                      },
+                      "actualDividendUSD": {
+                        "type": "string",
+                        "description": "The month-to-date revenue share accrued by FactorDAO that will distributed at the next cycle."
+                      },
+                      "todayIncome": {
+                        "type": "string",
+                        "description": "The income generated by the FactorDAO for today, denominated in USD."
+                      },
+                      "veFCTRSupply": {
+                        "type": "string",
+                        "description": "The total supply of veFCTR tokens (i.e. staked FCTR tokens adjusted for stake duration)."
+                      },
+                      "veFCTRTotalUSD": {
+                        "type": "string",
+                        "description": "The USD value of all veFCTR tokens."
+                      },
+                      "block": {
+                        "type": "string",
+                        "description": "The current block count (i.e. block height)."
+                      },
+                      "factorPrice": {
+                        "type": "string",
+                        "description": "The USD price of the FCTR token."
+                      },
+                      "lastDistributionUSD": {
+                        "type": "string",
+                        "description": "The USD value of all revenue share amounts that were distributed in the last cycle."
+                      },
+                      "fetchedAt": {
+                        "type": "string",
+                        "description": "The UNIX timestamp at which the FactorDAO revenues were retrieved."
+                      },
+                      "last30": {
+                        "type": "object",
+                        "description": "DAO revenue figures for the last 30 days.",
+                        "properties": {
+                          "averageAPR": {
+                            "type": "string",
+                            "description": "The daily moving/rolling average APR per veFCTR."
+                          },
+                          "totalDividends": {
+                            "type": "string",
+                            "description": "The USD value of FactorDAO revenue allocated to veFCTR revenue share."
+                          },
+                          "dailyAverageDividends": {
+                            "type": "string",
+                            "description": "The daily moving/rolling average USD value of revenue shaare that is allocated to veFCTR revenue share."
+                          }
+                        }
+                      },
+                      "last60": {
+                        "type": "object",
+                        "description": "DAO revenue figures for the last 30 days.",
+                        "properties": {
+                          "averageAPR": {
+                            "type": "string",
+                            "description": "The daily moving/rolling average APR per veFCTR."
+                          },
+                          "totalDividends": {
+                            "type": "string",
+                            "description": "The USD value of FactorDAO revenue allocated to veFCTR revenue share."
+                          },
+                          "dailyAverageDividends": {
+                            "type": "string",
+                            "description": "The daily moving/rolling average USD value of revenue shaare that is allocated to veFCTR revenue share."
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "tags": [
+            "FactorDAO Revenues"
+          ]
+        }
+      },
+      "/stats/dao-revenues/{year}/{month}": {
+        "get": {
+          "operationId": "StatsController_getMonthlyDaoRevenues",
+          "summary": "",
+          "description": "Returns the FactorDAO revenues for the month queried.",
+          "parameters": [
+            {
+              "name": "year",
+              "required": true,
+              "in": "path",
+              "description": "The year which is being queried in YYYY format.",
+              "example": "2024",
+              "schema": {
+                "type": "string"
+              }
+            },
+            {
+              "name": "month",
+              "required": true,
+              "in": "path",
+              "description": "The month which is being queried in MM format with no leading zeroes.",
+              "example": "6",
+              "schema": {
+                "type": "string"
+              }
+            }
+          ],
+          "responses": {
+            "200": {
+              "description": "success",
+              "content": {
+                "application/json": {
+                  "schema": {
+                    "type": "array",
+                    "description": "An array of FactorDAO daily revenues for the month queried.",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "breakdown": {
+                          "type": "object",
+                          "properties": {
+  
+                          }
+                        },
+                        "revenue": {
+                          "type": "string",
+                          "description": "The USD value of FactorDAO revenue accrued for the day."
+                        },
+                        "factorPrice": {
+                          "type": "string",
+                          "description": "The USD price of the FCTR token."
+                        },
+                        "block": {
+                          "type": "string",
+                          "description": "The current block count (i.e. block height)."
+                        },
+                        "vetoken_supply": {
+                          "type": "string",
+                          "description": "The total supply of veFCTR tokens (i.e. staked FCTR tokens adjusted for stake duration)."
+                        },
+                        "last_distribution": {
+                          "type": "string",
+                          "description": "The amount of USDC tokens (in wei) distributed in the last cycle."
+                        },
+                        "day": {
+                          "type": "string",
+                          "description": "The day of the month."
+                        },
+                        "month": {
+                          "type": "string",
+                          "description": "The month of the year."
+                        },
+                        "year": {
+                          "type": "string",
+                          "description": "The year that is queried."
+                        },
+                        "fetched_At": {
+                          "type": "string",
+                          "description": "The UNIX timestamp at which the FactorDAO revenues were retrieved."
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "tags": [
+            "FactorDAO Revenues"
+          ]
+        }
+      }
+    },
+    "info": {
+      "title": "Factor Stats API",
+      "description": "",
+      "version": "1.0",
+      "contact": {
+  
+      }
+    },
+    "tags": [],
+    "servers": [
+      {
+        "url": "https://factor-stats-api.fly.dev"
+      }
+    ],
+    "components": {
+      "schemas": {
+  
+      }
+    }
+  }
