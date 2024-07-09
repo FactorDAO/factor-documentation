@@ -93,7 +93,7 @@ Due to the inherent complexity with managing PT strategies, it is recommended th
 
 ### PT Yield Strategies
 
-Auto-compounding strategies take advantage of yield farming rewards which are provided to PT holders. To incentivize adoption of PT, protocols will provide additional rewards which are external to PT performance. This includes the claiming of governance tokens as well as liquidity incentive tokens.
+Auto-compounding strategies take advantage of yield farming rewards which are provided to LP token holders. To incentivize adoption of PT, protocols will provide additional rewards which are external to PT performance. This includes the claiming of governance tokens as well as liquidity incentive tokens.
 
 {% hint style="success" %}
 **Yield Strategies Explained**
@@ -101,11 +101,11 @@ Auto-compounding strategies take advantage of yield farming rewards which are pr
 Please view our [Yield Strategy Explainer](../) if you would like a deeper dive into how yields can be auto-compounded.
 {% endhint %}
 
-PT yield strategies forego any trading risks and instead enable you to grow your initial PT holdings by regularly harvesting all accrued rewards and swapping for more PT. By automating this harvest and swap routine, your rewards can be compounded as you gain incrementally more PT with each cycle.
+PT yield strategies forego any trading risks and instead enable you to grow your initial LP token holdings by regularly harvesting all accrued rewards and swapping for more LP tokens. By automating this harvest and swap routine, your rewards can be compounded as you gain incrementally more LP tokens with each cycle.
 
-Auto-compounding immediately swaps all available rewards for PT at each execution cycle hence the amount of PT acquired will be dependent on the market conditions. Critically, **as PT rewards are only realized at maturity, each subsequent PT swap will have gradually less discount as it gets closer to maturity**. Put simply, your newly acquire PT fixed returns will generally reduce with every compounding cycle.
+Auto-compounding immediately swaps all available rewards for LP tokens at each execution cycle hence the amount of PT acquired will be dependent on the market conditions. Critically, **as PT rewards are only realized at maturity, each subsequent PT swap will have gradually less discount as it gets closer to maturity**. Put simply, your newly acquire PT fixed returns will generally reduce with every compounding cycle.
 
-PT yield strategies are a good way to increase your fixed returns without any downside risks as compared to just holding your initial PT amount. Moreover, by consistently swapping your accrued reward tokens for PT, you reduce your reward token exposure risks due to the reduced reward token holding times.
+PT yield strategies are a good way to increase your fixed returns without any downside risks as compared to just holding your initial LP token amount. Moreover, by consistently swapping your accrued reward tokens for LP tokens, you reduce your reward token exposure risks due to the reduced reward token holding times.
 
 {% hint style="warning" %}
 **Look Out For:**
