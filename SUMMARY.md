@@ -17,21 +17,6 @@
     * [Leverage Long PT Simulation](getting-started/strategy-explainers/pt-strategies/leverage-long-pt-simulation.md)
 * [📖 Glossary](getting-started/glossary.md)
 
-## Factor Studio
-
-* [🎨 Factor Studio](factor-studio/factor-studio.md)
-* [🏠 Studio](factor-studio/studio.md)
-* [👥 Studio Pro](factor-studio/studio-pro.md)
-* [🏗️ Strategy Builder](factor-studio/strategy-builder.md)
-* [📜 Studio Contracts](factor-studio/studio-contracts/README.md)
-  * [Leverage](factor-studio/studio-contracts/leverage/README.md)
-    * [FactorLeverageDescriptor.sol](factor-studio/studio-contracts/leverage/factorleveragedescriptor.sol.md)
-    * [FactorLeverageVault.sol](factor-studio/studio-contracts/leverage/factorleveragevault.sol.md)
-    * [WrapperFactorLeverageVault.sol](factor-studio/studio-contracts/leverage/wrapperfactorleveragevault.sol.md)
-  * [LP Management](factor-studio/studio-contracts/lp-management/README.md)
-    * [FactorLPVault.sol](factor-studio/studio-contracts/lp-management/factorlpvault.sol.md)
-    * [FactorLPDescriptor.sol](factor-studio/studio-contracts/lp-management/factorlpdescriptor.sol.md)
-
 ## Factor Discover
 
 * [🔍 Factor Discover](factor-discover/factor-discover/README.md)
@@ -46,6 +31,21 @@
   * [PT User Guides](factor-discover/factor-discover/pt-user-guides/README.md)
     * [Redeem Your PT](factor-discover/factor-discover/pt-user-guides/redeem-your-pt.md)
   * [APY Calculations](factor-discover/factor-discover/apy-calculations.md)
+
+## Factor Studio
+
+* [🎨 Factor Studio](factor-studio/factor-studio.md)
+* [🏠 Studio](factor-studio/studio.md)
+* [👥 Studio Pro](factor-studio/studio-pro.md)
+* [🏗️ Strategy Builder](factor-studio/strategy-builder.md)
+* [📜 Studio Contracts](factor-studio/studio-contracts/README.md)
+  * [Leverage](factor-studio/studio-contracts/leverage/README.md)
+    * [FactorLeverageDescriptor.sol](factor-studio/studio-contracts/leverage/factorleveragedescriptor.sol.md)
+    * [FactorLeverageVault.sol](factor-studio/studio-contracts/leverage/factorleveragevault.sol.md)
+    * [WrapperFactorLeverageVault.sol](factor-studio/studio-contracts/leverage/wrapperfactorleveragevault.sol.md)
+  * [LP Management](factor-studio/studio-contracts/lp-management/README.md)
+    * [FactorLPVault.sol](factor-studio/studio-contracts/lp-management/factorlpvault.sol.md)
+    * [FactorLPDescriptor.sol](factor-studio/studio-contracts/lp-management/factorlpdescriptor.sol.md)
 
 ## Factor SDK
 
@@ -113,8 +113,8 @@
   * [FactorDAO Multisig Addresses](governance/factordao/factordao-multisig-addresses.md)
   * [Platform Fees](governance/factordao/platform-fees.md)
 * [🪙 FCTR Token](governance/fctr-token/README.md)
-  * [🌱 Initial Distribution](governance/fctr-token/initial-distribution.md)
   * [🌿 Staking and Governance](governance/fctr-token/staking-and-governance.md)
+  * [🌱 Initial Distribution](governance/fctr-token/initial-distribution.md)
   * [📜 Contract Addresses](governance/fctr-token/contract-addresses.md)
   * [❔ FAQ - Tokenomics](governance/fctr-token/faq-tokenomics.md)
 * [⚖️ Factor Scale](governance/factor-scale/README.md)
@@ -149,10 +149,9 @@
 
 ## Reference
 
-* [Press Kit](reference/press-kit.md)
-* [Official Website](https://factor.fi/)
 * [dApp](https://app.factor.fi/)
-* [Official Partners](https://factorlaunch.notion.site/74413491f17c4c2995bad59b1f88f160?v=1c0f6cbd65d14c0f83853979fac4b590)
+* [Official Website](https://factor.fi/)
+* [Press Kit](reference/press-kit.md)
 * [Partnership Form](https://forms.gle/xAhiB956tePz5vvv5)
 
 ## Community
@@ -162,5 +161,4 @@
 * [Discord](https://discord.gg/factor)
 * [Telegram](https://t.me/FactorDAO)
 * [Medium](https://medium.com/@FactorDAO)
-* [Podcasts, Spaces & AMAs](https://factorlaunch.notion.site/Podcast-Spaces-and-AMA-b8e33ac7252f4c94bc0afc002e07dd86)
 * [Email Enquiries](mailto:info@factor.fi)
