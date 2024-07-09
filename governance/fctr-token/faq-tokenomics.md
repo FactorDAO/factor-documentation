@@ -1,4 +1,4 @@
-# ❔ FAQ - Tokenomics
+# FAQ - Tokenomics
 
 <details>
 
@@ -123,6 +123,6 @@ Revenue sharing in Tokenomics 2.0 is a significant incentive for veFCTR holders:
 
 <summary>How do I Migrate My Staked Position?</summary>
 
-Please see our walkthrough [here](faq-tokenomics.md#governance-migration).
+Please see our walkthrough [here](../factordao/user-guides/migrate-from-v1-to-v2.md).
 
 </details>

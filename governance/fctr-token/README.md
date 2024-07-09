@@ -2,16 +2,16 @@
 
 ## Overview
 
-The FactorDAO (FCTR) token promotes the sustainability of the Factor ecosystem by incentivizing genuine community governance which shapes the protocol's development and trajectory. Implemented as an [ERC20](https://docs.openzeppelin.com/contracts/5.x/erc20) token on Arbitrum, FCTR plays an essential role in governing the Factor platform through the FactorDAO and facilitating its various operations.
+The FactorDAO (FCTR) token promotes the sustainability of the Factor ecosystem by incentivizing genuine community governance which shapes the protocol's development and trajectory. Implemented as an [ERC20](https://docs.openzeppelin.com/contracts/5.x/erc20) token on Arbitrum, FCTR plays an essential role in governing the Factor platform through the FactorDAO and facilitating the [Factor Flywheel](../factordao/factor-flywheel.md).
 
-By staking FCTR, Factorians are able to vote on FactorDAO governance processes as well as influence the distribution of platform revenue via [Factor Scale](../factor-scale/). In return for securing the Factor ecosystem, FCTR stakers also earn a share of the protocol's revenue.
+By staking FCTR, Factorians are able to vote on FactorDAO governance processes as well as influence the distribution of ecosystem incentives via [Factor Scale](../factor-scale/) (protocol emissions) or [Factor Boost](../factor-boost/) (liquidity incentives). In return for securing the Factor ecosystem, FCTR stakers also earn a share of the protocol's revenue.
 
 {% hint style="success" %}
 **Factor Ethos**
 
-Factor operates based on principles of fairness, community involvement, and sustainable development. These core values are mirrored in our tokenomics model, which has been carefully designed to emphasize the equitable distribution of the majority of $FCTR tokens directly to our community. This approach empowers our community members to actively participate in governing our protocol, ensuring their central role in decision-making processes.
+Factor operates based on principles of fairness, community involvement, and sustainable development. These core values are mirrored in our [tokenomics](initial-distribution.md) model, which has been carefully designed to emphasize the equitable distribution of the majority of FCTR tokens directly to our community. This approach empowers our community members to actively participate in governing our protocol, ensuring their central role in decision-making processes.
 
-With over 80% of the FCTR supply allocated to the community, we emphasize our trust in the collective wisdom and decision-making capabilities of an active community. We firmly believe that this strategy will drive DeFi innovation to unprecedented levels and nurture a collaborative ecosystem.
+With **over 80% of the FCTR supply allocated to the community**, we emphasize our trust in the collective wisdom and decision-making capabilities of an active community. We firmly believe that this strategy will drive DeFi innovation to unprecedented levels and nurture a collaborative ecosystem.
 {% endhint %}
 
 ### At A Glance
@@ -39,9 +39,9 @@ Each of the tokens above plays a vital role in securing the Factor ecosystem thr
 Launched on Arbitrum in February 2023, FCTR was immediately distributed via a fair launch lasting 4 days on the [Camelot DEX](https://app.camelot.exchange/launchpad/factor/). With 13,394 participating users, the Fair Launch raised 7,578,366USDC whereupon 10% of FCTR total supply was distributed. The remaining FCTR tokens were allocated to ecosystem growth initiatives with linear vesting ending 4 years after the Token Generation Event (i.e. Feb-19-2027 09:27:37 PM +UTC).
 
 {% hint style="info" %}
-:seedling: **FCTR Initial Distribution**
+**FCTR Distribution**
 
-More details regarding the initial distribution of FCTR can be found [here](initial-distribution.md).
+More details regarding the distribution of FCTR can be found [here](initial-distribution.md).
 {% endhint %}
 
 As Factor's main token, the FCTR token democratizes access to value exchange on the Factor platform. **By owning FCTR tokens, users get the right to participate in Factor governance processes while also directly benefitting from ecosystem growth.**
@@ -61,7 +61,7 @@ veFCTR (vote-escrow FCTR) is a special governance token that enables holders to 
 
 veFCTR is minted when FCTR tokens are staked into the FactorDAO governance contract. The ratio of veFCTR minted per FCTR is determined by the staking duration whereby a max lock of 2 years results in the maximum of 1veFCTR:1FCTR. The veFCTR balance is subject to a time-based linear decay which  corresponds to the time left in the staking period for the underlying FCTR.  In short, the longer the FCTR staking period, the more veFCTR allocated.
 
-By staking FCTR tokens for up to a maximum of 2 years, **FCTR stakers are also able increase their emissions multiplier up till a maximum of 2.5x**. In addition to staking duration, the emissions multiplier also rewards veFCTR holders with a larger proportion of holdings as well as their strategy deposit amount. The emissions multiplier does not decay and remains the same for the period that the underlying FCTR is staked.
+By staking FCTR tokens for up to a maximum of 2 years, **FCTR stakers are also able increase their emissions multiplier** (on [Factor Scale](../factor-scale/)) **up till a maximum of 2.5x**. In addition to staking duration, the emissions multiplier also rewards veFCTR holders with a larger proportion of veFCTR holdings as well as strategy deposit amounts. The emissions multiplier does not decay and remains the same for the period that the underlying FCTR is staked.
 
 {% hint style="success" %}
 **Emissions Multiplier Calculations**
@@ -71,7 +71,7 @@ Please visit the [Emissions Multiplier Calculations](../factor-scale/emission-mu
 
 Put simply, the longer the commitment, the more voting power and rewards (i.e. emissions) the FCTR staker receives. This discourages speculation and instead incentivizes prolonged engagement with the protocol. Critically, the conversion to veFCTR also limits the influence of large token holders (i.e. whales) thereby ensuring a more balanced governance process.
 
-In addition to governance rights, **50% of the protocol's ongoing revenue is automatically distributed to veFCTR holders as** [**USDC**](https://arbiscan.io/token/0xaf88d065e77c8cc2239327c5edb3a432268e5831). This revenue sharing model greatly encourages long term FCTR staking which in turn aligns FCTR holders and Factor ecosystem growth.
+In addition to governance rights, **50% of the protocol's ongoing revenue is automatically distributed to veFCTR holders as** [**USDC**](https://arbiscan.io/token/0xaf88d065e77c8cc2239327c5edb3a432268e5831) **every month**. This revenue sharing model greatly encourages long term FCTR staking which in turn aligns FCTR holders and Factor ecosystem growth.
 
 {% hint style="info" %}
 **Get veFCTR Tokens**&#x20;
@@ -95,6 +95,6 @@ $$veFCTR\_Price_{USD}=FCTR\_Price_{USD}\times\frac{FCTR\_Staked}{veFCTR\_Supply}
 
 ### esFCTR
 
-The esFCTR (escrowed FCTR) tokens represent rewards that are vested or locked for a certain period within the Factor protocol. [Factor Scale](../factor-scale/) and [Factor Boost](../factor-boost/) rewards are emitted as esFCTR which can then be converted 1:1 to FCTR following a 90 day linear vesting schedule. Users are required to claim the underlying FCTR once the esFCTR vesting period is completed.
+The esFCTR (escrowed FCTR) tokens represent rewards that are vested or locked for a certain period within the Factor protocol. [Factor Scale](../factor-scale/) rewards are emitted as esFCTR which can then be converted 1:1 to FCTR following a 90 day linear vesting schedule. Users are required to claim the underlying FCTR once the esFCTR vesting period is completed.
 
 esFCTR minimizes short-term speculation as it is programmed to be non-transferable for the duration of the vesting period. As reward beneficiaries remain vested for this duration, there are more incentives for them to continue participating to ensure the future of the protocol.
