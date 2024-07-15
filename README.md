@@ -63,7 +63,7 @@ Toggle between the tabs below for a complete overview of all the Factor Solution
 {% endtab %}
 
 {% tab title="Stack" %}
-<figure><img src=".gitbook/assets/FactorStack.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Factor_Overview_Detailed.png" alt=""><figcaption><p>Factor Stack</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

@@ -92,9 +92,9 @@ Factor is governed by the FactorDAO, a community-owned platform that empowers FC
 
 ## Factor Solutions
 
-### Factor Studio
+<figure><img src="../.gitbook/assets/Factor_Overview_Venn.png" alt=""><figcaption><p>Factor Solutions Overview</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/FactorStudioArchitecture.png" alt=""><figcaption><p>Factor Studio Overview</p></figcaption></figure>
+### Factor Studio
 
 Factor Studio is a one-stop platform for creating Accessible, Composable, and Efficient DeFi strategies. Factor Studio reimagines how DeFi strategies can be created and shared via creating synergies between various Factor products.
 
@@ -118,7 +118,7 @@ Factor Discover bridges the gap between professional strategy builders and DeFi 
 
 * **Features:** Professionally Curated Vaults, Compare Strategies, Safety & Risk Metrics, Community Insights, Personalised Profiles
 
-### Factor Studio Technology
+### Factor Technology Solutions
 
 <details>
 

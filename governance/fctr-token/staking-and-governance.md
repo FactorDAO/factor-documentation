@@ -1,4 +1,4 @@
-# 🌿 Staking and Governance
+# Staking and Governance
 
 Stake [FCTR](./#fctr) to receive [veFCTR](./#vefctr), the token that forms the core of Factor's governance. By holding [veFCTR](./#vefctr), users get access to a range of ecosystem benefits:
 
