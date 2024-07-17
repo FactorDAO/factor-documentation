@@ -6,6 +6,8 @@ description: Allocate ERC20 Bribe Rewards To Get Even More esFCTR Rewards
 
 ## Overview
 
+<figure><img src="../../.gitbook/assets/FactorBribesInfographic.gif" alt=""><figcaption></figcaption></figure>
+
 Factor Bribes enables anyone to influence the distribution of [Factor Scale](../factor-scale/) rewards through bribing [veFCTR](../fctr-token/#vefctr) holders to vote for a specified vault. By bribing Factor Scale voters, **bribers achieve greater capital efficiency as the value of the protocol rewards can potentially outweigh their initial bribe amount**. Being permissionless, Factor Bribe creates a competitive governance bribing market therefore ensuring the best rewards for Factor voters.
 
 Factor Bribes' rewards are accumulated in a separate pool with the protocol automatically tracking the distribution of [Factor Scale votes](../factor-scale/#voting-process) to calculate the bribe rewards accumulated to a [veFCTR](../fctr-token/#vefctr) voter. Bribe rewards are distributed proportionally based on the amount of vote weight each voter allocated to a bribed vault during a specific epoch. Bribe rewards can be claimed upon the completion of the relevant Factor Scale epoch.
