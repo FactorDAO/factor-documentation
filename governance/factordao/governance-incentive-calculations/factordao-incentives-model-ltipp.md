@@ -24,4 +24,4 @@ Due to the unpredictable behaviour of loading live data, the preview above might
 ## Notes
 
 * The numbers above are approximate and are meant to provide users with an intuitive feel of governance value flows.
-* The calculations do not take into account the [emissions multiplier](../../factor-scale/emission-multiplier-calculations.md) to aid with ease of understanding.
+* The calculations do not take into account the [emissions multiplier](../../factor-scale/emission-multiplier-calculations/) to aid with ease of understanding.

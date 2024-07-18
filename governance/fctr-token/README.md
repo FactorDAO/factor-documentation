@@ -66,7 +66,7 @@ By staking FCTR tokens for up to a maximum of 2 years, **FCTR stakers are also a
 {% hint style="success" %}
 **Emissions Multiplier Calculations**
 
-Please visit the [Emissions Multiplier Calculations](../factor-scale/emission-multiplier-calculations.md) page if you would like to find out more about how emissions are distributed in favor of veFCTR holders.
+Please visit the [Emissions Multiplier Calculations](../factor-scale/emission-multiplier-calculations/) page if you would like to find out more about how emissions are distributed in favor of veFCTR holders.
 {% endhint %}
 
 Put simply, the longer the commitment, the more voting power and rewards (i.e. emissions) the FCTR staker receives. This discourages speculation and instead incentivizes prolonged engagement with the protocol. Critically, the conversion to veFCTR also limits the influence of large token holders (i.e. whales) thereby ensuring a more balanced governance process.

@@ -2,7 +2,7 @@
 
 ## Overview
 
-The [Factor Scale](./) emissions multiplier ensures that users that contribute the most network security (i.e. economic security through staked [FCTR](../fctr-token/#fctr)) also receive the most rewards for staking their liquidity into various strategies. By assigning a weight to the user's staked liquidity, the emission multiplier rewards users holding more [veFCTR](../fctr-token/#vefctr) with a greater share of the strategy's allocated rewards.
+The [Factor Scale](../) emissions multiplier ensures that users that contribute the most network security (i.e. economic security through staked [FCTR](../../fctr-token/#fctr)) also receive the most rewards for staking their liquidity into various strategies. By assigning a weight to the user's staked liquidity, the emission multiplier rewards users holding more [veFCTR](../../fctr-token/#vefctr) with a greater share of the strategy's allocated rewards.
 
 ### TLDR
 
@@ -14,14 +14,20 @@ The [Factor Scale](./) emissions multiplier ensures that users that contribute t
 
 <summary>Emission Multiplier Flow</summary>
 
-1. User stakes [FCTR](../fctr-token/#fctr) to receive an amount of [veFCTR](../fctr-token/#vefctr) depending on staked duration (up to 1FCTR:1veFCTR for max stake duration).
-2. User provides liquidity to the target strategy which is eligible for [Factor Scale](./) emissions.
+1. User stakes [FCTR](../../fctr-token/#fctr) to receive an amount of [veFCTR](../../fctr-token/#vefctr) depending on staked duration (up to 1FCTR:1veFCTR for max stake duration).
+2. User provides liquidity to the target strategy which is eligible for [Factor Scale](../) emissions.
 3. User stakes the liquidity position in order to be eligible for rewards.
-4. With the [veFCTR](../fctr-token/#vefctr) obtained in 1, user votes for their target strategy on [Factor Scale](./).
+4. With the [veFCTR](../../fctr-token/#vefctr) obtained in 1, user votes for their target strategy on [Factor Scale](../).
 5. When the voting period for the epoch ends, the total emissions allocated for the epoch is distributed in proportion to the number of votes that the strategy receives. (i.e. if strategy receives 10% of total votes for that epoch, it receives 10% of emissions).
 6. For each strategy, the allocated emissions amount is then distributed over the course of the epoch according to the gauge weighted liquidity provided by LPs  who have staked their liquidity in the strategy.
 
 </details>
+
+{% hint style="info" %}
+**Emissions Multiplier Model**
+
+You can view the expected multiplier based on your veFCTR and strategy deposit proportions in the [Emissions Multiplier Model](emissions-multiplier-model.md).
+{% endhint %}
 
 ## Weighted Liquidity Formulas
 
@@ -36,26 +42,26 @@ $$
 {% hint style="info" %}
 **Staked Liquidity Amount & Leverage**
 
-As Factor enables users to increase their capital exposure via [Leverage](../../getting-started/strategy-explainers/leverage/) strategies, the $$stakedLiquidity$$ amount also takes into account the leveraged portion by utilizing the debt portion of the user's position. That is, $$stakedLiquidity$$ for leveraged positions tracks the debt value.
+As Factor enables users to increase their capital exposure via [Leverage](../../../getting-started/strategy-explainers/leverage/) strategies, the $$stakedLiquidity$$ amount also takes into account the leveraged portion by utilizing the debt portion of the user's position. That is, $$stakedLiquidity$$ for leveraged positions tracks the debt value.
 {% endhint %}
 
-* Proportion of [veFCTR](../fctr-token/#vefctr) supply held by the user:
+* Proportion of [veFCTR](../../fctr-token/#vefctr) supply held by the user:
 
 $$
 veFCTR\% = \frac{veFCTR_{user}}{veFCTR_{supply}}
 $$
 
-In general, the larger the proportion of [veFCTR](../fctr-token/#vefctr) supply held, the larger the emissions multiplier.
+In general, the larger the proportion of [veFCTR](../../fctr-token/#vefctr) supply held, the larger the emissions multiplier.
 
 ### Weighted Liquidity
 
-By applying a [veFCTR](../fctr-token/#vefctr) holding weight to the staked liquidity provided by the user, it enables [veFCTR](../fctr-token/#vefctr) holders to access up to 2.5x the emissions for their staked liquidity. The weighted liquidity for a user is calculated based on the following formula:
+By applying a [veFCTR](../../fctr-token/#vefctr) holding weight to the staked liquidity provided by the user, it enables [veFCTR](../../fctr-token/#vefctr) holders to access up to 2.5x the emissions for their staked liquidity. The weighted liquidity for a user is calculated based on the following formula:
 
 $$
 min \biggl( (0.4 \times stakedLiq_{user}) + (0.6 \times stakedLiq_{pool} \times \frac{veFCTR_{user}}{veFCTR_{supply}}) , stakedLiq_{user} \biggl)
 $$
 
-The above formula is used to calculate the $$weightedLiq$$ for every depositor in the strategy, including those who do not have [veFCTR](../fctr-token/#vefctr) staked. The [esFCTR](../fctr-token/#esfctr) emissions allocated to the pool for that epoch is then linearly streamed throughout the epoch based on the proportion of the strategy's $$weightedLiquidity$$ that the user holds at that point in time.
+The above formula is used to calculate the $$weightedLiq$$ for every depositor in the strategy, including those who do not have [veFCTR](../../fctr-token/#vefctr) staked. The [esFCTR](../../fctr-token/#esfctr) emissions allocated to the pool for that epoch is then linearly streamed throughout the epoch based on the proportion of the strategy's $$weightedLiquidity$$ that the user holds at that point in time.
 
 Based on the above formula, there are a few critical points to take note of:
 
@@ -128,7 +134,7 @@ $$
 
 {% tab title="Max Multiplier" %}
 {% hint style="info" %}
-This example builds upon the [Baseline](emission-multiplier-calculations.md#baseline) example. Changes to calculations are highlighted in **bold**.
+This example builds upon the [Baseline](./#baseline) example. Changes to calculations are highlighted in **bold**.
 {% endhint %}
 
 **Users**
@@ -196,7 +202,7 @@ $$
 
 {% tab title="Larger veFCTR %" %}
 {% hint style="info" %}
-This example builds upon the [Baseline](emission-multiplier-calculations.md#baseline) example. Changes to calculations are highlighted in **bold**.
+This example builds upon the [Baseline](./#baseline) example. Changes to calculations are highlighted in **bold**.
 {% endhint %}
 
 **Users**
@@ -264,7 +270,7 @@ $$
 
 {% tab title="Larger StakedLiquidity %" %}
 {% hint style="info" %}
-This example builds upon the [Baseline](emission-multiplier-calculations.md#baseline) example. Changes to calculations are highlighted in **bold**.
+This example builds upon the [Baseline](./#baseline) example. Changes to calculations are highlighted in **bold**.
 {% endhint %}
 
 **Users**
@@ -332,7 +338,7 @@ $$
 
 {% tab title="Increased veFCTR Supply" %}
 {% hint style="info" %}
-This example builds upon the [Baseline](emission-multiplier-calculations.md#baseline) example. Changes to calculations are highlighted in **bold**.
+This example builds upon the [Baseline](./#baseline) example. Changes to calculations are highlighted in **bold**.
 {% endhint %}
 
 **Users**
@@ -401,7 +407,7 @@ $$
 
 {% tab title="Increased Staked Liquidity" %}
 {% hint style="info" %}
-This example builds upon the [Baseline](emission-multiplier-calculations.md#baseline) example. Changes to calculations are highlighted in **bold**.
+This example builds upon the [Baseline](./#baseline) example. Changes to calculations are highlighted in **bold**.
 {% endhint %}
 
 **Users**

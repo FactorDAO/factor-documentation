@@ -51,7 +51,7 @@ Every step, from voting to reward distribution, is transparent and aligns with t
 {% hint style="success" %}
 **Emissions Multiplier Calculations**
 
-Please visit the [Emissions Multiplier Calculations](emission-multiplier-calculations.md) page if you would like to find out more about how emissions are distributed in favor of veFCTR holders.
+Please visit the [Emissions Multiplier Calculations](emission-multiplier-calculations/) page if you would like to find out more about how emissions are distributed in favor of veFCTR holders.
 {% endhint %}
 
 ## **How to use Factor Scale?**
