@@ -46,8 +46,8 @@ Harvest fees are variable fees that are dependent on the profitability of the st
 
 <summary>Leverage Strategies</summary>
 
-* **Add Leverage:** 0.2% of added collateral
-* **Remove Leverage:** 0.2% of removed collateral
+* **Add Leverage:** 0.2% of the total position collateral
+* **Remove Leverage:** 0.2% of the total position collateral
 * **Leverage Adjustments:** 0.2% of adjusted position
 * **Debt Refinancing:** 0.2% of the newly created position
 * **Asset Switching:** 0.2% of the new asset amount
