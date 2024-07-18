@@ -16,7 +16,7 @@ For the whitelisting of reward tokens, please email [info@factor.fi](mailto:info
 
 Factor Boost rewards are distributed linearly over the period of 7 days from when the reward tokens are deposited. The number of reward tokens allocated per block is then distributed proportionally based on the total deposits in the vault for the specified block. In cases where the target vault has an existing rewards schedule, any additional rewards added will be apportioned according to the remaining time of the first created rewards schedule. As Factor Boost matures, more advanced rewards scheduling options will be supported.
 
-Factor Boost is currently available to our partners via the Factor dapp with public access coming very soon! While the concepts underlying Factor Boost has largely targeted protocols, the ease of creating vault reward schedules via the Factor dapp ensures equitable access to incentivization mechanics. Strategies which grow the Factor ecosystem might also receive additional boosts via [FCTR](../fctr-token/#fctr) tokens disbursed by Factor.
+Factor Boost is currently available to the public via the [Factor dapp](https://app.factor.fi/incentives/boost) . While the concepts underlying Factor Boost has largely targeted protocols, the ease of creating vault reward schedules via the Factor dapp ensures equitable access to incentivization mechanics. Strategies which grow the Factor ecosystem might also receive additional boosts via [FCTR](../fctr-token/#fctr) tokens disbursed by Factor.
 
 {% hint style="success" %}
 **Factor Boost Incentive Matching Program**
