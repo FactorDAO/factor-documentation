@@ -5,7 +5,9 @@
 {% hint style="info" %}
 **Try It Out!**
 
-You can change the model parameters by making edits to the [Google Sheets](https://docs.google.com/spreadsheets/d/1iR8e7OmkbC8B8IzJcLUV5tderOvxkrx6h0eaRJeC4D0/edit?usp=sharing).
+You can change the model parameters by making edits to the [Google Sheets](https://docs.google.com/spreadsheets/d/1iR8e7OmkbC8B8IzJcLUV5tderOvxkrx6h0eaRJeC4D0/edit?usp=sharing).\
+\
+Due to the unpredictable behaviour of loading live data, the preview above might display a division error. Please visit the link above to view the full data if the this happens.
 {% endhint %}
 
 ## Usage Overview
