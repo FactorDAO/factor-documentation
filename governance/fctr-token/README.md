@@ -2,7 +2,7 @@
 
 ## Overview
 
-The FactorDAO (FCTR) token promotes the sustainability of the Factor ecosystem by incentivizing genuine community governance which shapes the protocol's development and trajectory. Implemented as an [ERC20](https://docs.openzeppelin.com/contracts/5.x/erc20) token on Arbitrum, FCTR plays an essential role in governing the Factor platform through the FactorDAO and facilitating the [Factor Flywheel](../factordao/factor-flywheel.md).
+The FactorDAO (FCTR) token promotes the sustainability of the Factor ecosystem by incentivizing genuine community governance which shapes the protocol's development and trajectory. Implemented as an [ERC20](https://docs.openzeppelin.com/contracts/5.x/erc20) token on Arbitrum, FCTR plays an essential role in governing the Factor platform through the [FactorDAO](../factordao/) and facilitating the [Factor Flywheel](../factordao/factor-flywheel.md).
 
 By staking FCTR, Factorians are able to vote on FactorDAO governance processes as well as influence the distribution of ecosystem incentives via [Factor Scale](../factor-scale/) (protocol emissions) or [Factor Boost](../factor-boost/) (liquidity incentives). In return for securing the Factor ecosystem, FCTR stakers also earn a share of the protocol's revenue.
 
@@ -33,6 +33,14 @@ The relevant contracts for each of the tokens can be found on the [Contract Addr
 {% endhint %}
 
 Each of the tokens above plays a vital role in securing the Factor ecosystem through permissionless and democratic means. Factor **enforces a maximum supply cap of 100,000,000 FCTR tokens** thereby ensuring no inflationary mechanisms nor any circumstances that could introduce unsustainable tokenomics. Factorians always maintain full ownership over their tokens and have the freedom to utilize the underlying value of the tokens however they see fit.
+
+{% hint style="success" %}
+**FactorDAO Interactive Calculations**
+
+Given the intricacy of the various governance levers, the sheets below aims to provide users with an intuitive understanding of Factor governance flows:
+
+* [FactorDAO Incentives Model (LTIPP)](../factordao/governance-incentive-calculations/factordao-incentives-model-ltipp.md)
+{% endhint %}
 
 ### FCTR
 
