@@ -30,19 +30,19 @@ The schedule of fees can be viewed [here](../../../governance/factordao/platform
 
 ### Step 1: Navigate to the target position
 
-You can access your position via the [Factor Discover](https://app.factor.fi/discover) overview. For easier access, you can also filter the page by the "My Vaults" quick filter to view your active positions.
+You can access your position via your personalized [dashboard](https://app.factor.fi/strategies/dashboard).
 
-<figure><img src="../../../.gitbook/assets/Discover_Leverage_ViewExisting.png" alt=""><figcaption><p>Discover overview</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Leverage_Guide_Adjust_1.png" alt=""><figcaption><p>Discover overview</p></figcaption></figure>
 
-Upon clicking the "Manage Position" button, you can then select the target position. Note that the following page displays all the positions created for a particular strategy.
+Upon clicking the "Expand" button, you can then select the target position. Note that the following page displays all the positions created for a particular strategy.
 
-<figure><img src="../../../.gitbook/assets/Discover_Leverage_Positions.png" alt=""><figcaption><p>Select a position</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Leverage_Guide_Adjust_2.png" alt=""><figcaption><p>Select a position</p></figcaption></figure>
 
 ### Step 2: Select the amount of collateral to add
 
 Once on the position management dashboard, you can then select the "Add Collateral" tab specify the additional amount of <mark style="color:green;">asset</mark> token to be added to the position.
 
-<figure><img src="../../../.gitbook/assets/Discover_Leverage_AddCollateralApprove.png" alt=""><figcaption><p>Input the amount of additional collateral</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Leverage_Add_1.png" alt=""><figcaption><p>Input the amount of additional collateral</p></figcaption></figure>
 
 ### Step 3: Approve additional collateral amount
 
@@ -52,11 +52,11 @@ To add additional collateral to the position, the strategy contract will require
 
 With an additional collateral amount selected, you can execute the changes by selecting the "Add Collateral" button. This will require a signature via the connected wallet as Factor updates the position's configurations and executes the multi-step process on the underlying protocols.
 
-<figure><img src="../../../.gitbook/assets/Discover_Leverage_AddCollateral.png" alt=""><figcaption><p>Add collateral to the position</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Leverage_Add_2.png" alt=""><figcaption><p>Add collateral to the position</p></figcaption></figure>
 
 ### Step 5: View new collateral amount
 
-<figure><img src="../../../.gitbook/assets/Discover_Leverage_CollateralAdded.png" alt=""><figcaption><p>Updated position metrics</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Leverage_Add_3.png" alt=""><figcaption><p>Updated position metrics</p></figcaption></figure>
 
 Once the collateral addition has been executed, notice that the position's key metrics have been adjusted according to the additional <mark style="color:green;">asset</mark> token added as collateral.
 

@@ -24,7 +24,7 @@ To facilitate a seamless transition to the new governance model, the unstaking f
 
 ### **Step 1: Migration notification**
 
-Visit the [Factor dapp](https://app.factor.fi/discover) and ensure that you're connected with the same address that was used for staking in the previous governance contract. For Factorians with an existing staked position, you should see a notification banner indicating your eligibility for the migration.
+Visit the [Factor legacy dapp](https://legacy.factor.fi/) and ensure that you're connected with the same address that was used for staking in the previous governance contract. For Factorians with an existing staked position, you should see a notification banner indicating your eligibility for the migration.
 
 <figure><img src="../../../.gitbook/assets/GovernanceMigration_Banner.png" alt=""><figcaption><p>Migration notification</p></figcaption></figure>
 

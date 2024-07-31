@@ -23,7 +23,8 @@ Factor offers various strategy types that enable you to amplify your PT gains.
 {% tab title="Yield" %}
 1. Visit the [Factor Discover](https://app.factor.fi/) page and search for your PT Yield Strategy.
 2. On the strategy page, you will be able to find a withdraw option to the right of the page.\
-   ![](<../../../.gitbook/assets/image (28).png>)
+   ![](../../../.gitbook/assets/UG\_PT\_Yield\_1.png)\
+
 3. Withdraw all your matured PT from Factor.
 4. Visit the [Pendle Trade page](https://app.pendle.finance/trade/markets) and search for your PT under the "Inactive" tab.\
    &#x20;![](<../../../.gitbook/assets/image (29).png>)
@@ -34,10 +35,10 @@ Factor offers various strategy types that enable you to amplify your PT gains.
 {% tab title="Leverage" %}
 1. Visit the [Factor Discover](https://app.factor.fi/) page and search for your PT Leverage Strategy.
 2. Select the position to close and you will be able to see a "Close Position" option.\
-   ![](<../../../.gitbook/assets/image (31).png>)
+   ![](../../../.gitbook/assets/UG\_PT\_Leverage\_1.png)
 3. As your PT has now matured, it is recommended that you **select the debt asset** as the token to receive when closing the position. This will save you the additional step of having to redeem your PT on Pendle.
 4. Once you have selected an asset and a slippage tolerance, you can then simulate the expected output.
 5. You can then proceed to claim your PT value by clicking on the "Close Position" button.\
-   ![](<../../../.gitbook/assets/image (32).png>)
+   ![](../../../.gitbook/assets/UG\_PT\_Leverage\_2.png)
 {% endtab %}
 {% endtabs %}

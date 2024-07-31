@@ -35,7 +35,7 @@ Navigate to[ Factor Discover](https://app.factor.fi/discover) where you will be 
 Take advantage of [Factor Boost](../../../governance/factor-boost/) (🚀) and [Factor Scale](../../../governance/factor-scale/) (⚖️) incentivized vaults to get even more profits!
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Discover_Yield_Search.png" alt=""><figcaption><p>Discover DeFi yield strategies</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Yield_Add_1.png" alt=""><figcaption><p>Discover DeFi yield strategies</p></figcaption></figure>
 
 Once you have identified your preferred strategy, select the "Deposit" button to get started on your automated yield farming journey.
 
@@ -43,30 +43,28 @@ Once you have identified your preferred strategy, select the "Deposit" button to
 
 Factor yield strategies take advantage of DeFi's modularity to automate liquidity management for underlying liquidity protocols. As such, liquidity must first be deposited into the underlying protocol's contract.
 
-<figure><img src="../../../.gitbook/assets/Discover_Yield_GetLP.png" alt=""><figcaption><p>Deposit liquidity to the relevant external protocol pool</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Yield_Add_2.png" alt=""><figcaption><p>Deposit liquidity to the relevant external protocol pool</p></figcaption></figure>
 
 The Factor dApp enables convenient access to the relevant pool via the link at the bottom right of the deposit interface. This will open the corresponding protocol dApp in a new tab whereupon you can follow the protocol specific instructions for depositing liquidity into the target pool.
 
 Once liquidity has been successfully added into the underlying protocol, you should be able to see the LP token (i.e. token representing the protocol's liquidity) balance on the Factor interface.
 
-<figure><img src="../../../.gitbook/assets/Discover_Yield_GotLP.png" alt=""><figcaption><p>LP token balance is updated</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Yield_Add_3.png" alt=""><figcaption><p>LP token balance is updated</p></figcaption></figure>
 
 ### Step 3: Approve yield strategy vault
 
-You will then be required to approve a spending amount for the yield strategy contract. This enables the yield contract to debit the recently acquired LP token from your wallet so that it can manage your yield harvests. This is an on-chain transaction which requires a signature from the connected web3 wallet.
-
-<figure><img src="../../../.gitbook/assets/Discover_Yield_Approve.png" alt=""><figcaption><p>Approve </p></figcaption></figure>
+By clicking on the "Deposit" button, you will then be required to approve a spending amount for the yield strategy contract. This enables the yield contract to debit the recently acquired LP token from your wallet so that it can manage your yield harvests. This is an on-chain transaction which requires a signature from the connected web3 wallet.
 
 ### Step 4: Deposit into the yield strategy <a href="#step-4-add-liquidity-to-your-leveraged-position" id="step-4-add-liquidity-to-your-leveraged-position"></a>
 
 Once approval has been given, you can then start to auto-compound your yields by adding liquidity to the yield strategy vault!
 
-By selecting the "Deposit" button and signing the transaction request, Factor deposits your LP tokens into the strategy vault which then makes it eligible to be included in the next harvesting cycle (as outlined in the [Introduction](auto-compound-your-yields.md#introduction)).
+Following the approval, you will then be requested to sign the transaction request. Factor deposits your LP tokens into the strategy vault which then makes it eligible to be included in the next harvesting cycle (as outlined in the [Introduction](auto-compound-your-yields.md#introduction)).
 
-<figure><img src="../../../.gitbook/assets/Discover_Yield_Deposit.png" alt=""><figcaption><p>Deposit into the yield vault</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Yield_Add_4.png" alt=""><figcaption><p>Deposit into the yield vault</p></figcaption></figure>
 
 ### Step 5: View your active position <a href="#step-5-view-your-active-position" id="step-5-view-your-active-position"></a>
 
 Upon deposit confirmation, you can view your updated yield vault balance on the Factor dApp.
 
-<figure><img src="../../../.gitbook/assets/Discover_Yield_Success.png" alt=""><figcaption><p>Yield vault position balance</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Yield_Add_5.png" alt=""><figcaption><p>Yield vault position balance</p></figcaption></figure>

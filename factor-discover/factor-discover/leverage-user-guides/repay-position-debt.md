@@ -30,33 +30,33 @@ The schedule of fees can be viewed [here](../../../governance/factordao/platform
 
 ### Step 1: Navigate to the target position
 
-You can access your position via the [Factor Discover](https://app.factor.fi/discover) overview. For easier access, you can also filter the page by the "My Vaults" quick filter to view your active positions.
+You can access your position via your personalized [dashboard](https://app.factor.fi/strategies/dashboard).
 
-<figure><img src="../../../.gitbook/assets/Discover_Leverage_ViewExisting.png" alt=""><figcaption><p>Discover overview</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Leverage_Guide_Adjust_1.png" alt=""><figcaption><p>Discover overview</p></figcaption></figure>
 
-Upon clicking the "Manage Position" button, you can then select the target position. Note that the following page displays all the positions created for a particular strategy.
+Upon clicking the "Expand" button, you can then select the target position. Note that the following page displays all the positions created for a particular strategy.
 
-<figure><img src="../../../.gitbook/assets/Discover_Leverage_RepaySelect.png" alt=""><figcaption><p>Select a position</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Leverage_Guide_Adjust_2.png" alt=""><figcaption><p>Select a position</p></figcaption></figure>
 
 ### Step 2: Specify amount of debt to repay
 
 Once on the position management dashboard, you can then select the "Repay" tab to specify the amount of <mark style="color:red;">debt</mark> token to be repaid.
 
-<figure><img src="../../../.gitbook/assets/Discover_Leverage_RepayApprove.png" alt=""><figcaption><p>Repay debt</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Leverage_Repay_1 (1).png" alt=""><figcaption><p>Repay debt</p></figcaption></figure>
 
 ### Step 3: Approve debt to be repaid
 
 To repay your position's debt, the strategy contract will require authorization to debit the <mark style="color:red;">debt</mark> token from your wallet. You will be prompted to sign an approval request if further spending allowance is required by the strategy contract.
 
-### Step 4: Confirm the collateral withdrawal
+### Step 4: Confirm the repayment
 
-<figure><img src="../../../.gitbook/assets/Discover_Leverage_Repay.png" alt=""><figcaption><p>Execute repayment</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Leverage_Repay_2 (1).png" alt=""><figcaption><p>Execute repayment</p></figcaption></figure>
 
 With the repayment amount selected, you can execute the changes by selecting the "Repay More" button. This will require a signature via the connected wallet as Factor updates the position's configurations and executes the multi-step process on the underlying protocols.
 
 ### Step 5: View new collateral amount
 
-<figure><img src="../../../.gitbook/assets/Discover_Leverage_RepaySuccess.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Leverage_Repay_3.png" alt=""><figcaption></figcaption></figure>
 
 Once the repayment has been executed, notice that the position's key metrics have been adjusted according to the <mark style="color:red;">debt</mark> token that was repaid:
 

@@ -52,19 +52,18 @@ Navigate to[ Factor Discover](https://app.factor.fi/discover) where you will be 
 Take advantage of [Factor Boost](../../../governance/factor-boost/) (:rocket:) and [Factor Scale](../../../governance/factor-scale/) (:scales:) incentivized vaults to get even more profits!
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Discover_Leverage_Identify.png" alt=""><figcaption><p>Discover DeFi leverage strategies</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Leverage_Create_1.png" alt=""><figcaption><p>Discover DeFi leverage strategies</p></figcaption></figure>
 
-Once you have identified your preferred strategy, select the "Open Position" button to get started on your leverage journey.
+Once you have identified your preferred strategy, select the "Expand" button to get started on your leverage journey.
 
 ### Step 2: Create a leveraged position
 
 By creating a position, you are configuring the leverage parameters which best suits your personal risk to reward tolerance. Factor enables you to create multiple positions per strategy whose parameters are editable.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Discover_Leverage_OpenPosition.png" alt=""><figcaption><p>Open strategy position</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Leverage_Create_2.png" alt=""><figcaption><p>Open strategy position</p></figcaption></figure>
 
 The Factor dApp enables you to adjust the following:
 
-* **Stake the position to earn protocol rewards (**_**A**_**):** By choosing to stake the newly created position, any liquidity held by the position will be eligible to earn protocol rewards accrued from [Factor Scale](../../../governance/factor-scale/) and [Factor Boost](../../../governance/factor-boost/).
 * **Select initial collateral amount (**_**B**_**):** Specify the amount of collateral (i.e. supply/<mark style="color:green;">asset</mark> token) that will be deposited into the leverage vault. This is the amount of <mark style="color:green;">asset</mark> tokens which will be debited from your wallet to fund the leveraged position.
 * **Select leverage multiplier (**_**C**_**):** Specify the amount of leverage that you are willing to take for the position. The higher the leverage, the greater the potential gains OR losses. **A 2x leverage means your leveraged position value is twice that of your initial collateral amount**.
 
@@ -74,28 +73,31 @@ With the above parameters configured, you can then proceed to create the positio
 
 With the position created, you will then need to approve a spending amount for the Factor strategy contract. This allows the strategy contract to debit the <mark style="color:green;">asset</mark> token (i.e. collateral) from your wallet for the purposes of funding the leveraged strategy. This is an on-chain transaction which requires a signature.
 
-<figure><img src="../../../.gitbook/assets/Discover_Leverage_Approve.png" alt=""><figcaption><p>Approve Factor contract</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Leverage_Create_3.png" alt=""><figcaption><p>Approve Factor contract</p></figcaption></figure>
 
 ### Step 4: Add liquidity to your leveraged position
 
 Once approval has been given, you can then start to earn yields by adding liquidity to your newly created position!&#x20;
 
-By selecting the "Add Leverage" button and signing the transaction request, Factor executes the steps outlined in the [Introduction](create-a-leveraged-position.md#introduction) that adds liquidity and therefore leverage to your newly created active position.
+By signing the deposit transaction request, Factor executes the steps outlined in the [Introduction](create-a-leveraged-position.md#introduction) that adds liquidity and therefore leverage to your newly created active position.
 
-<figure><img src="../../../.gitbook/assets/Discover_Leverage_AddLeverage.png" alt=""><figcaption><p>Add leverage to position </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Leverage_Create_4.png" alt=""><figcaption><p>Add leverage to position </p></figcaption></figure>
 
 ### Step 5: View your active position
 
 Factor dApp makes it easy for you to view and manage the performance of your leveraged position.
 
-<figure><img src="../../../.gitbook/assets/Discover_Leverage_PositionSummary.png" alt=""><figcaption><p>Position summary</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UG_Leverage_Create_5.png" alt=""><figcaption><p>Position summary</p></figcaption></figure>
 
 The leverage position dashboard consists of the following metrics:
 
-* [**Health Factor**](../../../getting-started/glossary.md#health-factor)**:** The lower the Health Factor, the higher the likelihood of liquidation with a Health Factor of 1 indicating that the position is at risk of being liquidated.
-* **Liquidation Price:** The <mark style="color:green;">asset</mark> token price at which the leveraged position will be exposed to liquidation risks.&#x20;
-* **Projected Yield:** The estimated percentage returns which comprising the strategy APY, [Factor Boost ](../../../governance/factor-boost/)APY, and [Factor Scale](../../../governance/factor-scale/) APY.
 * **Net Value:** The USD value the position's collateral minus the position's debt.
-* **Position Value:** The USD values of the <mark style="color:red;">debt</mark> amount as well as the <mark style="color:green;">asset</mark> (i.e. collateral) amount which includes the leveraged portion (i.e. flash loaned value).
+* **Liquidation Price:** The <mark style="color:green;">asset</mark> token price at which the leveraged position will be exposed to liquidation risks.&#x20;
+* [**Health Factor**](../../../getting-started/glossary.md#health-factor)**:** The lower the Health Factor, the higher the likelihood of liquidation with a Health Factor of 1 indicating that the position is at risk of being liquidated.
+* **Leverage Multiplier:** The additional borrow value as a ratio of the collateralized <mark style="color:green;">asset</mark> value (i.e. the multiplier between a position's total collateralized + borrowed <mark style="color:green;">assets</mark> against the collateralized <mark style="color:green;">asset</mark> amount).
+
+In addition to the position specific factors above, you can also view the following strategy information:
+
+* **Projected Yield:** The estimated percentage returns which comprising the strategy APY, [Factor Boost ](../../../governance/factor-boost/)APY, and [Factor Scale](../../../governance/factor-scale/) APY.
 * **Supply APY:** The yield generated from supplying <mark style="color:green;">asset</mark> token as collateral to the underlying lending protocol.&#x20;
 * **Borrow APY:** The interest owed on the <mark style="color:red;">debt</mark> token amount which was borrowed from the underlying lending protocol.
