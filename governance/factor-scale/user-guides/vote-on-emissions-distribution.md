@@ -5,6 +5,14 @@
 By voting with your [veFCTR](../../fctr-token/) on [Factor Scale](../), you will be able to influence the distribution of Factor emission rewards to your preferred strategy vaults. Factor has allocated up to 100,000 [FCTR](../../fctr-token/#fctr) per epoch to be allocated to curated strategies based on [veFCTR](../../fctr-token/#vefctr) voting on [Factor Scale](../). By allocating your vote (i.e. 1 [veFCTR](../../fctr-token/#vefctr):1 vote) to a strategy, you are directing a proportion of the emission rewards to the vault based on your protocol contributions.
 
 {% hint style="info" %}
+**Vote Carryover**
+
+Note that while your votes will be carried over automatically to the next voting epoch, any newly acquired [veFCTR](../../fctr-token/#vefctr) after your initial vote confirmation will not be counted.
+
+That is, any additional [FCTR](../../fctr-token/#fctr) staked will require another round of voting confirmation to be counted towards the next epoch.
+{% endhint %}
+
+{% hint style="info" %}
 **Emissions Multiplier**
 
 Factor Scale implements an emissions multiplier for every veFCTR used to vote on the emissions rewards. More details on the voting process can be found [here](../#voting-process).
