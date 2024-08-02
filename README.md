@@ -30,6 +30,8 @@ Please visit [Arbitrum Foundation LTIPP ](governance/factor-scale/arbitrum-found
 
 ## Building The Composable Layer Of DeFi
 
+<figure><img src=".gitbook/assets/Factor_Overview_Venn.png" alt=""><figcaption><p>Factor Solutions</p></figcaption></figure>
+
 Factor is realising a future where building and automating complex DeFi strategies are as simple as a drag-and-drop, no coding required. At Factor, we are democratising access to open and permissionless financial rails by equipping users with powerful but intuitive tools that abstracts the intricacies of getting cross-protocol DeFi strategies to market. Factor promotes a thriving DeFi community by empowering users to create shareable strategies that are open to all.
 
 * **Strategy Creators:** Combine varying strategies from multiple DeFi protocols into one automated strategy using [Factor Studio](factor-studio/factor-studio.md)'s drag-and-drop interface.
