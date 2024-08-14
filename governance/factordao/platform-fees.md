@@ -4,7 +4,7 @@
 
 Factor generates its primary revenue through transaction-based fees across Factor strategy vaults. The platform is designed to balance revenue generation while incentivizing greater governance participation through the redistribution of platform revenues:
 
-* **veFCTR Revenue Share:** 50% of the protocol's ongoing revenue is automatically distributed to veFCTR holders as [USDC](https://arbiscan.io/token/0xaf88d065e77c8cc2239327c5edb3a432268e5831)
+* **veFCTR Revenue Share:** 50% of the protocol's ongoing revenue is automatically distributed to veFCTR holders as FCTR
 * [**Factor Scale**](../factor-scale/)**:** Weekly gauge emissions rewards
 * [**Factor Boost**](../factor-boost/)**:** Liquidity incentives for strategy depositors
 
