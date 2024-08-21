@@ -38,6 +38,8 @@ Combining what Lego did for creativity and what Shopify did for ecommerce, Facto
 
 Factor is creating DeFi’s composability layer connecting protocols, creators, and users to infinite earning opportunities.
 
+***
+
 ## Factor Users
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Factor Users</p></figcaption></figure>
@@ -48,6 +50,8 @@ Factor is creating DeFi’s composability layer connecting protocols, creators, 
 * **Developers:** Leverage the [Factor SDK](factor-sdk/factor-sdk.md) to effortlessly create custom strategies directly on your app or backend without having to worry about protocol integration specifics.
 * **Protocols & DAOs:** Generate permissionless protocol incentives and distribution systems with ease while benefitting from Factor's emissions voting or partnership funds.
 * **Factorians:** Stake [FCTR](governance/fctr-token/) and participate in building the future of Factor while earning long term protocol incentives.
+
+***
 
 ## Factor Solutions
 
@@ -83,6 +87,8 @@ With integrations across multiple protocols, Factor is a user-friendly and secur
 Visit the [Security](security/security.md) docs for more detailed info!
 {% endhint %}
 
+***
+
 ## Factor Governance
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
@@ -92,6 +98,8 @@ Factor is governed by the [FactorDAO](governance/factordao/), a community-owned 
 {% hint style="success" %}
 Visit the [FactorDAO](governance/factordao/) & [FCTR Token](governance/fctr-token/) docs for more info!
 {% endhint %}
+
+***
 
 ## Factor Ecosystem
 
@@ -108,6 +116,8 @@ Visit the [Factor Flywheel](governance/factordao/factor-flywheel.md) to see how 
 The full list of official partners can be found at the following link:
 
 {% embed url="https://factorlaunch.notion.site/74413491f17c4c2995bad59b1f88f160?v=1c0f6cbd65d14c0f83853979fac4b590" fullWidth="false" %}
+
+***
 
 ## Use Cases
 
