@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Factor Governance</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27) (1).png" alt=""><figcaption><p>Factor Governance</p></figcaption></figure>
 
 At the heart of every successful protocol lies a myriad of stakeholders all intricately connected through protocol governance. Here at Factor, we strongly believe that proper governance incentives plays a crucial role in aligning stakeholder goals thereby encouraging more organic and decentralized community governance.&#x20;
 

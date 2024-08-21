@@ -1,5 +1,5 @@
 ---
-description: ACE - Accessible, Composable, and Efficient.
+description: Create Anything DeFi
 cover: .gitbook/assets/IMG_4452.jpg
 coverY: -13.438633938100319
 layout:
@@ -28,24 +28,30 @@ ARB liquidity incentives from the [ArbitrumDAO](https://arbitrum.foundation/) ar
 Please visit [Arbitrum Foundation LTIPP ](governance/factor-scale/arbitrum-foundation-ltipp.md)for further details on how Factor is collectively building the future of DeFi on Arbitrum.
 {% endhint %}
 
-## Building The Composable Layer Of DeFi
+## Create, Distribute, & Monetize Any DeFi Strategy In Minutes
 
-<figure><img src=".gitbook/assets/Factor_Overview_Venn.png" alt=""><figcaption><p>Factor Solutions</p></figcaption></figure>
+Factor is leading a revolution where anyone can access millions of strategies in a single click. How?
 
-Factor is realising a future where building and automating complex DeFi strategies are as simple as a drag-and-drop, no coding required. At Factor, we are democratising access to open and permissionless financial rails by equipping users with powerful but intuitive tools that abstracts the intricacies of getting cross-protocol DeFi strategies to market. Factor promotes a thriving DeFi community by empowering users to create shareable strategies that are open to all.
+With Factor, anyone can drag-and-drop protocols from across DeFi to create automated and permissionless strategies. Focus on creating the best strategies, no coding required. Any DeFi primitive, any actions, deployed across chains in minutes (with negligible overheads).
+
+Combining what Lego did for creativity and what Shopify did for ecommerce, Factor is changing the way strategies are created and distributed forever.
+
+Factor is creating DeFi’s composability layer connecting protocols, creators, and users to infinite earning opportunities.
+
+## Factor Users
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Factor Users</p></figcaption></figure>
 
 * **Strategy Creators:** Combine varying strategies from multiple DeFi protocols into one automated strategy using [Factor Studio](factor-studio/factor-studio.md)'s drag-and-drop interface.
-* **Strategy Managers:** Have what it takes to consistently create successful strategies? Shorten your time to market and earn more fees by allowing users to deposit to your automated strategies.
+* **Strategy Managers:** Have what it takes to consistently create successful strategies? Shorten your time to market and earn more fees by allowing users to deposit into your public strategies.
 * **Depositors:** Participate in professionally-managed and community-curated strategies by depositing funds into automated strategy vaults on [Factor Discover](factor-discover/factor-discover/) to earn passive yield.
 * **Developers:** Leverage the [Factor SDK](factor-sdk/factor-sdk.md) to effortlessly create custom strategies directly on your app or backend without having to worry about protocol integration specifics.
-* **Protocols & DAOs:** Generate permissionless protocol incentives and distribution systems with ease while benefitting from Factor's revenue share or partnership funds.
+* **Protocols & DAOs:** Generate permissionless protocol incentives and distribution systems with ease while benefitting from Factor's emissions voting or partnership funds.
 * **Factorians:** Stake [FCTR](governance/fctr-token/) and participate in building the future of Factor while earning long term protocol incentives.
 
-With integrations across multiple protocols, Factor is a user-friendly and secure gateway to the rest of DeFi. All of Factor's smart contracts are audited by [PeckShield](security/audits/peckshield/) & [SourceHat](security/audits/sourcehat/) with live contracts being [actively monitored by Chainalysis](security/security.md#continuous-monitoring-and-incident-response). Whether you're a protocol, treasury, builder, or individual strategist, Factor streamlines your path to financial autonomy, ensuring a seamless journey for all.
-
-Factor is governed by the [FactorDAO](governance/factordao/), a community-owned platform that empowers [FCTR](governance/fctr-token/#fctr) token holders to participate in the governance of the protocol. By aligning protocol growth with long-term individual incentives, the [FactorDAO](governance/factordao/) places [FCTR](governance/fctr-token/#fctr) holders at the center of Factor’s future. FactorDAO consensus guides the direction of the Factor team which operates a fully remote ream with \~25 builders spread around the globe.
-
 ## Factor Solutions
+
+<figure><img src=".gitbook/assets/Factor_Overview_Venn.png" alt=""><figcaption><p>Factor Solutions</p></figcaption></figure>
 
 {% hint style="success" %}
 **Factor Stack**
@@ -68,6 +74,32 @@ Toggle between the tabs below for a complete overview of all the Factor Solution
 <figure><img src=".gitbook/assets/Factor_Overview_Detailed.png" alt=""><figcaption><p>Factor Stack</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
+
+### Security
+
+With integrations across multiple protocols, Factor is a user-friendly and secure gateway to the rest of DeFi. All of Factor's smart contracts are audited by [PeckShield](security/audits/peckshield/) & [SourceHat](security/audits/sourcehat/) with live contracts being [actively monitored by Chainalysis](security/security.md#continuous-monitoring-and-incident-response). Whether you're a protocol, treasury, builder, or individual strategist, Factor streamlines your path to financial autonomy, ensuring a seamless journey for all.
+
+{% hint style="success" %}
+Visit the [Security](security/security.md) docs for more detailed info!
+{% endhint %}
+
+## Factor Governance
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Factor is governed by the [FactorDAO](governance/factordao/), a community-owned platform that empowers [FCTR](governance/fctr-token/#fctr) token holders to participate in the governance of the protocol. By aligning protocol growth with long-term individual incentives, the [FactorDAO](governance/factordao/) places [FCTR](governance/fctr-token/#fctr) holders at the center of Factor’s future. FactorDAO consensus guides the direction of the Factor team which operates a fully remote ream with \~25 builders spread around the globe.
+
+{% hint style="success" %}
+Visit the [FactorDAO](governance/factordao/) & [FCTR Token](governance/fctr-token/) docs for more info!
+{% endhint %}
+
+## Factor Ecosystem
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Growing the ecosystem</p></figcaption></figure>
+
+{% hint style="success" %}
+Visit the [Factor Flywheel](governance/factordao/factor-flywheel.md) to see how Factor is creating synergies for everyone!
+{% endhint %}
 
 ### Partners Include
 
