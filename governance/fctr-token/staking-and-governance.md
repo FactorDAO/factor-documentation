@@ -4,7 +4,7 @@ Stake [FCTR](./#fctr) to receive [veFCTR](./#vefctr), the token that forms the c
 
 * Eligibility to vote on FactorDAO governance proposals (1[veFCTR](./#vefctr):1vote) and determine the future of the Factor platform
 * Power to influence the distribution of emissions rewards via voting for their favourite strategies on [Factor Scale](staking-and-governance.md#factor-scale)
-* Revenue sharing perks whereby 50% of Factor platform revenue is automatically disbursed as [USDC](https://arbiscan.io/token/0xaf88d065e77c8cc2239327c5edb3a432268e5831) to [veFCTR](./#vefctr) holders
+* Revenue sharing perks whereby 50% of Factor platform revenue is automatically disbursed as [FCTR](./#fctr) to [veFCTR](./#vefctr) holders
 
 FactorDAO's staking design rewards longer term commitments via leveraging both a staking multiplier as well as an emissions multiplier. The staking multiplier enables [FCTR](./#fctr) stakers to receive up to a maximum of 1[veFCTR](./#vefctr):1[FCTR](./#fctr) by staking for the max duration of 2 years, subject to time-based linear decay of the staking duration. The emissions multiplier rewards longer term stakers by introducing a 2.5x multiplier which is subject to the staking duration, proportion of veFCTR holdings, and strategy liquidity contributions. More info regarding the multipliers can be found on the [veFCTR](./#vefctr) explainer.
 
