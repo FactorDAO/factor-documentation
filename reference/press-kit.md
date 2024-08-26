@@ -32,13 +32,13 @@ Factor is creating DeFi’s composability layer connecting protocols, creators, 
 
 {% tabs %}
 {% tab title="Users" %}
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * [**Factor Users**](../#factor-users)
 {% endtab %}
 
 {% tab title="Ecosystem" %}
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * [**Factor Flywheel**](../governance/factordao/factor-flywheel.md)
 {% endtab %}

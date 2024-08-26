@@ -42,7 +42,7 @@ Factor is creating DeFi’s composability layer connecting protocols, creators, 
 
 ## Factor Users
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Factor Users</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Factor Users</p></figcaption></figure>
 
 * **Strategy Creators:** Combine varying strategies from multiple DeFi protocols into one automated strategy using [Factor Studio](factor-studio/factor-studio.md)'s drag-and-drop interface.
 * **Strategy Managers:** Have what it takes to consistently create successful strategies? Shorten your time to market and earn more fees by allowing users to deposit into your public strategies.
@@ -103,7 +103,7 @@ Visit the [FactorDAO](governance/factordao/) & [FCTR Token](governance/fctr-toke
 
 ## Factor Ecosystem
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Growing the ecosystem</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Growing the ecosystem</p></figcaption></figure>
 
 {% hint style="success" %}
 Visit the [Factor Flywheel](governance/factordao/factor-flywheel.md) to see how Factor is creating synergies for everyone!

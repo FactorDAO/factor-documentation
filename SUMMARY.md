@@ -105,6 +105,7 @@
 
 * [🏛️ FactorDAO](governance/factordao/README.md)
   * [Factor Flywheel](governance/factordao/factor-flywheel.md)
+  * [Factor Participants](governance/factordao/factor-participants.md)
   * [Governance Incentive Calculations](governance/factordao/governance-incentive-calculations/README.md)
     * [FactorDAO Incentives Model (LTIPP)](governance/factordao/governance-incentive-calculations/factordao-incentives-model-ltipp.md)
   * [User Guides](governance/factordao/user-guides/README.md)

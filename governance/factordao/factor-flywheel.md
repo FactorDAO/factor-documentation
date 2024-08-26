@@ -1,20 +1,20 @@
 # Factor Flywheel
 
+## :arrow\_up: FCTR = :arrow\_up: Earning Opportunities
+
+{% tabs %}
+{% tab title="Simplified" %}
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Detailed" %}
 <figure><img src="../../.gitbook/assets/Factor Product Overview-Flywheel Color (1).jpeg" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
-## **Users**
-
-* **Depositors:** Search for automated strategies and deposit tokens on [**Factor Discover**](../../factor-discover/factor-discover/) to gain exposure to curated DeFi strategies.
-* **Strategists:** Create complex multi-protocol strategies and share automated alphas with depositors on [**Factor Studio**](../../factor-studio/factor-studio.md) to earn strategy management fees.
-* **Protocols:** Seamlessly bridge protocol value by creating integrated strategies and participate in directing ecosystem incentives via [**Factor Bribes**](../factor-bribe/) or [**Factor Boost**](../factor-boost/).
-
-## **Governance**
-
-* **FactorDAO:** Facilitate decentralized governance of the protocol through coordinating governance proposals and incentives as determined by governance token holders. Owner of the publicly viewable [multisig treasury](https://docs.factor.fi/governance/factordao/factordao-multisig-addresses) which funds various protocol growth initiatives.
-* **Governance Token Holders:** Purchasers of the [FCTR](https://docs.factor.fi/governance/fctr-token#fctr) token which represents protocol value.
-* **Governance Token Stakers:** [FCTR](https://docs.factor.fi/governance/fctr-token#fctr) holders who have [staked](https://docs.factor.fi/governance/fctr-token/staking-and-governance) (i.e. time locked) their [FCTR](https://docs.factor.fi/governance/fctr-token#fctr) in exchange for protocol governance rights and rewards. This includes protocol revenue share, directing emissions via [**Factor Scale**](../factor-scale/)**,** and receiving voting incentives via [**Factor Bribes**](../factor-bribe/).
-
-## **Operations**
-
-* **Core Team:** Supports the development, operations, and marketing of the Factor platform based on directives provided by the FactorDAO.
-* **Contributors:** The [**Factor Contributors**](../../community/factor-contributors.md) initiative guides enthusiastic community members that have volunteered their time and resources towards growing the protocol.
+1. **Depositor Incentives & Rewards** -> Distributed as liquidity incentives, strategy Depositors earn additional FCTR when automating their yields on Factor. Earnings can be amplified via staking FCTR and voting on the distribution of protocol emissions.
+2. **More Deposits** -> Greater rewards attract more deposits into the Factor ecosystem.
+3. **New Protocol Revenue Streams** -> Protocols seeking more revenue channels will integrate with Factor to enable their protocol to be mixed-and-matched seamlessly.
+4. **More Strategy Options & Value Facilitated** -> Strategists get even more options to drag-and-drop various integrated protocols into one automated strategy. Depositors get an endless array of simplified strategies to choose from, Strategists are rewarded for sharing their alpha, Protocols generate more revenue due to increased volume.
+5. **Long Term FCTR Incentives** -> 50% of Factor protocol revenue is used to buyback FCTR which is then redistributed to stakers who can then restake gain even more influence and rewards. More FCTR staked with an increased demand for FCTR results in upsized yields for depositors which facilitates more revenue for Strategists and Protocols.
+6. Repeat ad infinitum
