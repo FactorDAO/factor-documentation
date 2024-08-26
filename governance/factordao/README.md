@@ -27,7 +27,7 @@ As a means to coordinate users in an ever changing environment, governance mecha
 
 [Stake FCTR](user-guides/stake-fctr.md) to participate in governing Factor and get rewarded in the process:
 
-* [x] 50% protocol revenue share distributed monthly in USDC
+* [x] 50% protocol revenue share distributed monthly in [FCTR](../fctr-token/#fctr)
 * [x] Direct FCTR emissions by voting on [Factor Scale](../factor-scale/)
 * [x] Supercharge strategy rewards as all stakers receive up to a 2.5x emission multiplier
 * [x] Participate in [Factor Bribes](../factor-bribe/) and claim voting incentives
