@@ -84,7 +84,7 @@ In addition to governance rights, **50% of the protocol's ongoing revenue is aut
 {% hint style="info" %}
 **Get veFCTR Tokens**&#x20;
 
-When you stake FCTR tokens, they are converted into locked veFCTR. You can stake your FCTR tokens [here](https://app.factor.fi/governance/staking).
+When you stake FCTR tokens, they are converted into locked veFCTR. You can stake your FCTR tokens [here](https://app.factor.fi/governance/stake).
 
 More information regarding veFCTR can be found on [Staking and Governance](staking-and-governance.md).
 {% endhint %}
