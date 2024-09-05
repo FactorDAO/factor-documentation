@@ -158,6 +158,7 @@
 * [Press Kit](reference/press-kit.md)
 * [Partnership Form](https://forms.gle/xAhiB956tePz5vvv5)
 * [Media Kit](https://docs.factor.fi/reference/press-kit#media-kit)
+* [Geo Restrictions](reference/geo-restrictions.md)
 
 ## Community
 
