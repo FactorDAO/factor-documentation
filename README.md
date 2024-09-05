@@ -20,14 +20,6 @@ layout:
 
 # 🏭 Introduction to Factor
 
-{% hint style="success" %}
-**Arbitrum Foundation LTIPP Distribution Ongoing**
-
-ARB liquidity incentives from the [ArbitrumDAO](https://arbitrum.foundation/) are currently being distributed to Factor strategy depositors via [Factor Boost](governance/factor-boost/).  LTIPP strategy allocations are directed by the Factor community via [Factor Scale](governance/factor-scale/) votes.
-
-Please visit [Arbitrum Foundation LTIPP ](governance/factor-scale/arbitrum-foundation-ltipp.md)for further details on how Factor is collectively building the future of DeFi on Arbitrum.
-{% endhint %}
-
 ## Create, Distribute, & Monetize Any DeFi Strategy In Minutes
 
 Factor is leading a revolution where anyone can access millions of strategies in a single click. How?
@@ -107,6 +99,10 @@ Visit the [FactorDAO](governance/factordao/) & [FCTR Token](governance/fctr-toke
 
 {% hint style="success" %}
 Visit the [Factor Flywheel](governance/factordao/factor-flywheel.md) to see how Factor is creating synergies for everyone!
+{% endhint %}
+
+{% hint style="info" %}
+Distribution of [Arbitrum Foundation LTIPP](governance/factor-scale/arbitrum-foundation-ltipp.md) was completed 05 Sep 2024.
 {% endhint %}
 
 ### Partners Include
