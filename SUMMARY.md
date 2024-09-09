@@ -36,6 +36,7 @@
 
 * [🎨 Factor Studio](factor-studio/factor-studio/README.md)
   * [Automated Strategies](factor-studio/factor-studio/automated-strategies.md)
+  * [Conditional Strategies](factor-studio/factor-studio/conditional-strategies.md)
 * [🏠 Studio](factor-studio/studio.md)
 * [👥 Studio Pro](factor-studio/studio-pro.md)
 * [🏗️ Strategy Builder](factor-studio/strategy-builder.md)
