@@ -36,7 +36,7 @@ Factor is creating DeFi’s composability layer connecting protocols, creators, 
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Factor Users</p></figcaption></figure>
 
-* **Strategy Creators:** Combine varying strategies from multiple DeFi protocols into one automated strategy using [Factor Studio](factor-studio/factor-studio.md)'s drag-and-drop interface.
+* **Strategy Creators:** Combine varying strategies from multiple DeFi protocols into one automated strategy using [Factor Studio](factor-studio/factor-studio/)'s drag-and-drop interface.
 * **Strategy Managers:** Have what it takes to consistently create successful strategies? Shorten your time to market and earn more fees by allowing users to deposit into your public strategies.
 * **Depositors:** Participate in professionally-managed and community-curated strategies by depositing funds into automated strategy vaults on [Factor Discover](factor-discover/factor-discover/) to earn passive yield.
 * **Developers:** Leverage the [Factor SDK](factor-sdk/factor-sdk.md) to effortlessly create custom strategies directly on your app or backend without having to worry about protocol integration specifics.
@@ -57,7 +57,7 @@ Toggle between the tabs below for a complete overview of all the Factor Solution
 
 {% tabs %}
 {% tab title="Products" %}
-* [**Factor Studio**](factor-studio/factor-studio.md)**:** One-stop platform for creating Accessible, Composable, and Efficient DeFi strategies. Factor Studio reimagines how DeFi strategies can be created and shared via creating synergies between various Factor products.
+* [**Factor Studio**](factor-studio/factor-studio/)**:** One-stop platform for creating Accessible, Composable, and Efficient DeFi strategies. Factor Studio reimagines how DeFi strategies can be created and shared via creating synergies between various Factor products.
 * [**Factor Discover**](factor-discover/factor-discover/): Explore and participate in a diverse array of permissionless and curated DeFi strategies. With easy access to an ever expanding pool of DeFi strategies, Factor Discover greatly simplifies the process of finding suitable opportunities based on personalized preferences and goals.
 * [**Factor Building Blocks**](./#factor-building-blocks)**:** Simplifying DeFi strategy creation by abstracting the complexity of comparable protocols into a single intent-based interface. Building Blocks allow users to focus on strategy creation without having to worry about the exact details of strategy implementation across protocols.
 * [**Factor Adapters**](./#factor-adapters)**:** Enabling Factor Studio to securely and permissionlessly interact with external DeFi protocols on-chain. Factor Adapters generalizes core financial operations by implementing protocol-specific smart contracts that interface directly with external protocol smart contracts.

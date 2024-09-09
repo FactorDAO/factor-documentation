@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[Factor Studio](../../../factor-studio/factor-studio.md) enables yield farmers to amplify their yield rewards while reducing their liquidity management overheads through automated strategy vaults. Yield farmers just need to **deposit once into a yield strategy vault and watch their yields auto-compound**. Yield strategy vaults periodically reinvests any accrued liquidity incentives through conveniently batching the following steps for each harvest event:
+[Factor Studio](../../../factor-studio/factor-studio/) enables yield farmers to amplify their yield rewards while reducing their liquidity management overheads through automated strategy vaults. Yield farmers just need to **deposit once into a yield strategy vault and watch their yields auto-compound**. Yield strategy vaults periodically reinvests any accrued liquidity incentives through conveniently batching the following steps for each harvest event:
 
 1. Harvest (i.e. claim) farming rewards accrued to the position
 2. Swap reward tokens to pool tokens

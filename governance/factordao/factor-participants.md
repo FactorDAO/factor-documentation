@@ -3,7 +3,7 @@
 ## **Users**
 
 * **Depositors:** Search for automated strategies and deposit tokens on [**Factor Discover**](../../factor-discover/factor-discover/) to gain exposure to curated DeFi strategies.
-* **Strategists:** Create complex multi-protocol strategies and share automated alphas with depositors on [**Factor Studio**](../../factor-studio/factor-studio.md) to earn strategy management fees.
+* **Strategists:** Create complex multi-protocol strategies and share automated alphas with depositors on [**Factor Studio**](../../factor-studio/factor-studio/) to earn strategy management fees.
 * **Protocols:** Seamlessly bridge protocol value by creating integrated strategies and participate in directing ecosystem incentives via [**Factor Bribes**](../factor-bribe/) or [**Factor Boost**](../factor-boost/).
 
 ## **Governance**
