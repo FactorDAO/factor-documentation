@@ -60,6 +60,7 @@
 ## Factor Building Blocks
 
 * [🧱 Factor Building Blocks](factor-building-blocks/factor-building-blocks.md)
+* [➡️ Lend](factor-building-blocks/lend.md)
 * [🔄 Leverage](factor-building-blocks/leverage/README.md)
   * [Concepts](factor-building-blocks/leverage/concepts/README.md)
     * [Collateralized Lending & Borrowing](factor-building-blocks/leverage/concepts/collateralized-lending-and-borrowing.md)
