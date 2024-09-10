@@ -6,6 +6,12 @@
 
 * [🕹️ Quickstart](getting-started/quickstart.md)
 * [🔗 Supported Protocols](getting-started/supported-protocols.md)
+* [🔐 Strategy Cheatsheet](getting-started/strategy-cheatsheet/README.md)
+  * [Swaps](getting-started/strategy-cheatsheet/swaps/README.md)
+    * [Conditional Market Order](getting-started/strategy-cheatsheet/swaps/conditional-market-order.md)
+    * [Automated Market Order](getting-started/strategy-cheatsheet/swaps/automated-market-order.md)
+    * [Automated Swap & Earn](getting-started/strategy-cheatsheet/swaps/automated-swap-and-earn.md)
+    * [Leverage Trade](getting-started/strategy-cheatsheet/swaps/leverage-trade.md)
 * [🧠 Strategy Explainers](getting-started/strategy-explainers/README.md)
   * [Leverage](getting-started/strategy-explainers/leverage/README.md)
     * [Leverage Performance Modelling](getting-started/strategy-explainers/leverage/leverage-performance-modelling.md)

@@ -34,7 +34,7 @@ Factor is creating DeFi’s composability layer connecting protocols, creators, 
 
 ## Factor Users
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Factor Users</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Factor Users</p></figcaption></figure>
 
 * **Strategy Creators:** Combine varying strategies from multiple DeFi protocols into one automated strategy using [Factor Studio](factor-studio/factor-studio/)'s drag-and-drop interface.
 * **Strategy Managers:** Have what it takes to consistently create successful strategies? Shorten your time to market and earn more fees by allowing users to deposit into your public strategies.
@@ -83,7 +83,7 @@ Visit the [Security](security/security.md) docs for more detailed info!
 
 ## Factor Governance
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 Factor is governed by the [FactorDAO](governance/factordao/), a community-owned platform that empowers [FCTR](governance/fctr-token/#fctr) token holders to participate in the governance of the protocol. By aligning protocol growth with long-term individual incentives, the [FactorDAO](governance/factordao/) places [FCTR](governance/fctr-token/#fctr) holders at the center of Factor’s future. FactorDAO consensus guides the direction of the Factor team which operates a fully remote ream with \~25 builders spread around the globe.
 
@@ -95,7 +95,7 @@ Visit the [FactorDAO](governance/factordao/) & [FCTR Token](governance/fctr-toke
 
 ## Factor Ecosystem
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Growing the ecosystem</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (2).png" alt=""><figcaption><p>Growing the ecosystem</p></figcaption></figure>
 
 {% hint style="success" %}
 Visit the [Factor Flywheel](governance/factordao/factor-flywheel.md) to see how Factor is creating synergies for everyone!
