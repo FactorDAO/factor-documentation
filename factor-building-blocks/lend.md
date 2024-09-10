@@ -23,7 +23,7 @@ Factor has integrated with leading lending protocols, offering a broad spectrum 
 Visit our [**Factor Discover**](https://app.factor.fi/discover) page to see the latest leverage strategies.
 
 {% hint style="success" %}
-**Don't Limit Your Strategies To Just Leverage**
+**Don't Limit Your Strategies To Just Lending**
 
 [Factor Studio](../factor-studio/factor-studio/) enables different [Building Blocks](factor-building-blocks.md) to be mixed-and-matched thereby facilitating multi-step strategies which span across the whole DeFi ecosystem.
 
