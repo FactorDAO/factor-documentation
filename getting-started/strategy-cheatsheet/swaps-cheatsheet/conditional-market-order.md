@@ -6,7 +6,7 @@
 
 Swap your tokens at the market price only if your target price is reached during transaction execution.&#x20;
 
-Your tokens are immediately swapped at the best available prices as the selected protocol dynamically reroutes your trade to more capital efficient sources.
+Your tokens are immediately swapped at the best available rates as the selected protocol dynamically reroutes your trade to more capital efficient sources.
 
 ## Strategy Building Blocks
 

@@ -20,6 +20,7 @@
     * [Carry Trade](getting-started/strategy-cheatsheet/lending-cheasheet/carry-trade.md)
   * [Borrowing Cheatsheet](getting-started/strategy-cheatsheet/borrowing-cheatsheet/README.md)
     * [Collateralized Borrow](getting-started/strategy-cheatsheet/borrowing-cheatsheet/collateralized-borrow.md)
+    * [Collateralized Borrow Zap](getting-started/strategy-cheatsheet/borrowing-cheatsheet/collateralized-borrow-zap.md)
   * [Liquidity Provision Cheatsheet](getting-started/strategy-cheatsheet/liquidity-provision-cheatsheet.md)
   * [Flash Loan Cheatsheet](getting-started/strategy-cheatsheet/flash-loan-cheatsheet.md)
 * [🧠 Strategy Explainers](getting-started/strategy-explainers/README.md)
