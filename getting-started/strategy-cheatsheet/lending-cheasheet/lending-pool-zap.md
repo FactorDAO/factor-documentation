@@ -27,6 +27,6 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 
 <summary><a href="../../../factor-building-blocks/lend.md"><strong>Lend</strong></a></summary>
 
-* Lend all of the output tokens form the swap.
+* Lend all of the output tokens from the swap.
 
 </details>
