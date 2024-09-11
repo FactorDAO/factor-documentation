@@ -16,6 +16,7 @@
     * [Leverage Trade](getting-started/strategy-cheatsheet/swaps-cheatsheet/leverage-trade.md)
   * [Lending Cheasheet](getting-started/strategy-cheatsheet/lending-cheasheet/README.md)
     * [Lending Pool Zap](getting-started/strategy-cheatsheet/lending-cheasheet/lending-pool-zap.md)
+    * [Earn Negative Interest](getting-started/strategy-cheatsheet/lending-cheasheet/earn-negative-interest.md)
   * [Borrowing Cheatsheet](getting-started/strategy-cheatsheet/borrowing-cheatsheet.md)
   * [Liquidity Provision Cheatsheet](getting-started/strategy-cheatsheet/liquidity-provision-cheatsheet.md)
   * [Flash Loan Cheatsheet](getting-started/strategy-cheatsheet/flash-loan-cheatsheet.md)
