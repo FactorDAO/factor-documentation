@@ -7,6 +7,7 @@
 * [🕹️ Quickstart](getting-started/quickstart.md)
 * [🔗 Supported Protocols](getting-started/supported-protocols.md)
 * [🔐 Strategy Cheatsheet](getting-started/strategy-cheatsheet/README.md)
+  * [Flash Loan Cheatsheet](getting-started/strategy-cheatsheet/flash-loan-cheatsheet.md)
   * [Lending Cheasheet](getting-started/strategy-cheatsheet/lending-cheasheet.md)
   * [Borrowing Cheatsheet](getting-started/strategy-cheatsheet/borrowing-cheatsheet.md)
   * [Swaps Cheatsheet](getting-started/strategy-cheatsheet/swaps-cheatsheet/README.md)
