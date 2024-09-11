@@ -12,6 +12,7 @@
     * [Automated Market Order](getting-started/strategy-cheatsheet/swaps-cheatsheet/automated-market-order.md)
     * [Automated Swap & Earn](getting-started/strategy-cheatsheet/swaps-cheatsheet/automated-swap-and-earn.md)
     * [Automated Scale Order](getting-started/strategy-cheatsheet/swaps-cheatsheet/automated-scale-order.md)
+    * [Interest On Pending Trades](getting-started/strategy-cheatsheet/swaps-cheatsheet/interest-on-pending-trades.md)
     * [Leverage Trade](getting-started/strategy-cheatsheet/swaps-cheatsheet/leverage-trade.md)
   * [Lending Cheasheet](getting-started/strategy-cheatsheet/lending-cheasheet.md)
   * [Borrowing Cheatsheet](getting-started/strategy-cheatsheet/borrowing-cheatsheet.md)
