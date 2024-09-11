@@ -7,6 +7,7 @@
 * [🕹️ Quickstart](getting-started/quickstart.md)
 * [🔗 Supported Protocols](getting-started/supported-protocols.md)
 * [🔐 Strategy Cheatsheet](getting-started/strategy-cheatsheet/README.md)
+  * [Lending Cheasheet](getting-started/strategy-cheatsheet/lending-cheasheet.md)
   * [Swaps Cheatsheet](getting-started/strategy-cheatsheet/swaps-cheatsheet/README.md)
     * [Conditional Market Order](getting-started/strategy-cheatsheet/swaps-cheatsheet/conditional-market-order.md)
     * [Automated Market Order](getting-started/strategy-cheatsheet/swaps-cheatsheet/automated-market-order.md)
