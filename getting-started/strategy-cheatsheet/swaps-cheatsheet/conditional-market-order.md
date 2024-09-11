@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Swap your tokens at the market price only if your target price is reached during transaction execution.&#x20;
 
