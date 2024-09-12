@@ -27,6 +27,7 @@
     * [Asset Switching](getting-started/strategy-cheatsheet/borrowing-cheatsheet/asset-switching.md)
   * [Liquidity Provision Cheatsheet](getting-started/strategy-cheatsheet/liquidity-provision-cheatsheet/README.md)
     * [Liquidity Pool Zap](getting-started/strategy-cheatsheet/liquidity-provision-cheatsheet/liquidity-pool-zap.md)
+    * [Yield Farm Zap](getting-started/strategy-cheatsheet/liquidity-provision-cheatsheet/yield-farm-zap.md)
   * [Flash Loan Cheatsheet](getting-started/strategy-cheatsheet/flash-loan-cheatsheet.md)
 * [🧠 Strategy Explainers](getting-started/strategy-explainers/README.md)
   * [Leverage](getting-started/strategy-explainers/leverage/README.md)
