@@ -6,7 +6,7 @@
 
 Switch your debt token for an existing loan in a single transaction. This strategy provides you with the opportunity to benefit from lower borrow interest or relative devaluation of the newly borrowed token.
 
-By utilizing a flash loan, you can easily switch your debt without having to source the required capital to repay your initial loan. Depending on the flash loan token available, you might need to add additional swap blocks to account in differences between tokens that are flash loaned, repaid, and borrowed. Your tokens are immediately swapped at the best available rates ensuring minimal slippage when switching your debt.
+By utilizing a [flash loan](../../../factor-building-blocks/flash-loan/concepts/flash-loan.md),  you can easily switch your debt without having to source the required capital to repay your initial loan. Depending on the flash loan token available, you might need to add additional swap blocks to account in differences between tokens that are flash loaned, repaid, and borrowed. Your tokens are immediately swapped at the best available rates ensuring minimal slippage when switching your debt.
 
 The maximum amount that you can borrow is determined by the [collateralization ratio](../../glossary.md#collateralisation-ratio) of the underlying lending pool. Please pay attention to the [health factor](../../glossary.md#health-factor) of your position when borrowing to ensure that you do not lose funds through forced liquidations. Your position can be liquidated if the value of your debt exceeds the collateral value.
 
