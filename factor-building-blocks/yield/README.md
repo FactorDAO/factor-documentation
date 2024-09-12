@@ -1,4 +1,4 @@
-# 💸 Yield
+# 💰 Yield
 
 ## Overview
 
