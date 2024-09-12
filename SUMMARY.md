@@ -28,6 +28,7 @@
   * [Liquidity Provision Cheatsheet](getting-started/strategy-cheatsheet/liquidity-provision-cheatsheet/README.md)
     * [Liquidity Pool Zap](getting-started/strategy-cheatsheet/liquidity-provision-cheatsheet/liquidity-pool-zap.md)
     * [Yield Farm Zap](getting-started/strategy-cheatsheet/liquidity-provision-cheatsheet/yield-farm-zap.md)
+    * [Automated LP Adjustments](getting-started/strategy-cheatsheet/liquidity-provision-cheatsheet/automated-lp-adjustments.md)
   * [Flash Loan Cheatsheet](getting-started/strategy-cheatsheet/flash-loan-cheatsheet.md)
 * [🧠 Strategy Explainers](getting-started/strategy-explainers/README.md)
   * [Leverage](getting-started/strategy-explainers/leverage/README.md)
