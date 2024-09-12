@@ -1,12 +1,12 @@
-# Debt Refinancing
+# Asset Switching
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Switch your lending provider to take advantage of favourable borrow rates in a single transaction. This strategy assumes you have an existing borrow position.
+Switch the lending provider or collateral token underlying your borrow position in a single transaction. This strategy provides you with the opportunity to benefit from higher supply interest across lending markets or the relative price increase of the new collateral token. This strategy assumes you have an existing borrow position.
 
-By utilizing a [flash loan](../../../factor-building-blocks/flash-loan/concepts/flash-loan.md), you can easily refinance your borrow position without having to source the required capital to repay your initial loan. Depending on the flash loan token available, you might need to add additional swap blocks to account in differences between tokens that are flash loaned, repaid, and borrowed. Your tokens are immediately swapped at the best available rates ensuring minimal slippage when switching lending providers.
+By utilizing a [flash loan](../../../factor-building-blocks/flash-loan/concepts/flash-loan.md), you can easily asset switch without having to source the required capital to repay your initial loan. Depending on the flash loan token available, you might need to add additional swap blocks to account in differences between tokens that are flash loaned, repaid, and borrowed. Your tokens are immediately swapped at the best available rates ensuring minimal slippage when asset switching.
 
 ## Strategy Building Blocks
 
@@ -41,9 +41,17 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 
 <details>
 
+<summary><a href="../../../factor-building-blocks/swap/"><strong>Swap</strong></a></summary>
+
+* Exchange all of your withdrawn collateral token for the new target collateral token.
+
+</details>
+
+<details>
+
 <summary><a href="../../../factor-building-blocks/lend.md"><strong>Lend</strong></a></summary>
 
-* Lend all of the withdrawn tokens to the target lending market.
+* Lend all of the newly swapped collateral tokens to the target lending market.
 * The tokens which you can borrow will be determined by the underlying lending market.
 
 </details>

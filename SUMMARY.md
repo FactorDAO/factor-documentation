@@ -24,6 +24,7 @@
     * [Debt Switching](getting-started/strategy-cheatsheet/borrowing-cheatsheet/debt-switching.md)
     * [Automated Debt Readjustments](getting-started/strategy-cheatsheet/borrowing-cheatsheet/automated-debt-readjustments.md)
     * [Debt Refinancing](getting-started/strategy-cheatsheet/borrowing-cheatsheet/debt-refinancing.md)
+    * [Asset Switching](getting-started/strategy-cheatsheet/borrowing-cheatsheet/asset-switching.md)
   * [Liquidity Provision Cheatsheet](getting-started/strategy-cheatsheet/liquidity-provision-cheatsheet.md)
   * [Flash Loan Cheatsheet](getting-started/strategy-cheatsheet/flash-loan-cheatsheet.md)
 * [🧠 Strategy Explainers](getting-started/strategy-explainers/README.md)
