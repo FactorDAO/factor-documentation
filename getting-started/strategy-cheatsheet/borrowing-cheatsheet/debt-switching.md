@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 Switch your debt token for an existing loan in a single transaction. This strategy provides you with the opportunity to benefit from lower borrow interest or relative devaluation of the newly borrowed token.
 

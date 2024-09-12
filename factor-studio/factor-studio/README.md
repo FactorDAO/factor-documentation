@@ -15,7 +15,7 @@ Factor Studio is making DeFi accessible to all by reimagining how DeFi strategie
 
 Built on the premise of flexible building blocks, Factor Studio functions as DeFi’s composability layer enabling cross-protocol strategies to be seamlessly integrated and automated. By abstracting implementation and operational complexities, Factor Studio enable DeFi strategies to be quickly iterated upon with no coding knowledge required. These strategies can then be shared resulting in a thriving community where anyone can participate.
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 Factor Studio is a one-stop platform for creating Accessible, Composable, and Efficient DeFi strategies.
 

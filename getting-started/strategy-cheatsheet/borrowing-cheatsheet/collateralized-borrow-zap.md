@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Use any token to enter a lending market and take out a collateralized loan in a single transaction. Collateralized borrows enable you to source more liquidity for your strategy while maintaining full exposure to your collateral.
 

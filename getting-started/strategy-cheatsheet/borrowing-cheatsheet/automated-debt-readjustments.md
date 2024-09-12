@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 Prevent your borrow positions from being forced liquidated by automatically repaying a portion of accrued debt whenever your position approaches the [liquidation threshold](../../glossary.md#liquidation-price).
 
