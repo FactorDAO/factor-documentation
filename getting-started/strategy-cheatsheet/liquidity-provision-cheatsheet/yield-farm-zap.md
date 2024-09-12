@@ -6,7 +6,7 @@
 
 [Zap into any liquidity pool](liquidity-pool-zap.md) and immediately stake your liquidity to start earning yield farming rewards. Earn additional rewards or incentives for committing liquidity long term to staking protocols. The [LP Management Building Block](../../../factor-building-blocks/lp-management/) also supports management of concentrated liquidity positions in addition to the standard AMM implementation.
 
-Your tokens are immediately swapped at the best available rates as the selected protocol dynamically reroutes your trade to more capital efficient sources.
+Your tokens are immediately swapped at the best available rates and staked to earn yield farming rewards.
 
 ## Strategy Building Blocks
 
