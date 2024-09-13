@@ -18,6 +18,7 @@
     * [Lending Pool Zap](getting-started/strategy-cheatsheet/lending-cheatsheet/lending-pool-zap.md)
     * [Earn Negative Interest](getting-started/strategy-cheatsheet/lending-cheatsheet/earn-negative-interest.md)
     * [Carry Trade](getting-started/strategy-cheatsheet/lending-cheatsheet/carry-trade.md)
+    * [Leveraged Fixed Yields](getting-started/strategy-cheatsheet/lending-cheatsheet/leveraged-fixed-yields.md)
   * [Borrowing Cheatsheet](getting-started/strategy-cheatsheet/borrowing-cheatsheet/README.md)
     * [Collateralized Borrow](getting-started/strategy-cheatsheet/borrowing-cheatsheet/collateralized-borrow.md)
     * [Collateralized Borrow Zap](getting-started/strategy-cheatsheet/borrowing-cheatsheet/collateralized-borrow-zap.md)
