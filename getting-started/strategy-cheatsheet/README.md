@@ -16,7 +16,7 @@ By providing you with various strategy examples, the Strategy Cheatsheet is mean
 
 ### ➡️ [Lending](lending-cheatsheet/)
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Lending Pool Zap</strong></td><td></td><td></td><td><a href="lending-cheatsheet/lending-pool-zap.md">lending-pool-zap.md</a></td></tr><tr><td><strong>Earn Negative Interest</strong></td><td></td><td></td><td><a href="lending-cheatsheet/earn-negative-interest.md">earn-negative-interest.md</a></td></tr><tr><td><strong>Carry Trade</strong></td><td></td><td></td><td><a href="lending-cheatsheet/carry-trade.md">carry-trade.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Lending Pool Zap</strong></td><td></td><td></td><td><a href="lending-cheatsheet/lending-pool-zap.md">lending-pool-zap.md</a></td></tr><tr><td><strong>Earn Negative Interest</strong></td><td></td><td></td><td><a href="lending-cheatsheet/earn-negative-interest.md">earn-negative-interest.md</a></td></tr><tr><td><strong>Carry Trade</strong></td><td></td><td></td><td><a href="lending-cheatsheet/carry-trade.md">carry-trade.md</a></td></tr><tr><td><strong>Leveraged Fixed Yields</strong></td><td></td><td></td><td><a href="lending-cheatsheet/leveraged-fixed-yields.md">leveraged-fixed-yields.md</a></td></tr></tbody></table>
 
 ### ⬅️ [Borrowing](borrowing-cheatsheet/)
 
