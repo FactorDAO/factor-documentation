@@ -2,11 +2,11 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Prevent your borrow positions from being forced liquidated by automatically repaying a portion of accrued debt whenever your position approaches the [liquidation threshold](../../glossary.md#liquidation-price).
+Prevent your borrow positions from being forced liquidated by automatically repaying a portion of accrued debt whenever your position approaches the [liquidation threshold](../../glossary.md#liquidation-price). By utilizing a flash loan for debt repayment, you do not need to set aside reserved capital and can easily pay down your debt through partial sales of your collateral.
 
-This strategy requires an existing borrow position to be opened whereupon your automated strategy will monitor the position's health. Note that this automated strategy requires an allocation of repayment funds which will be debited when the repayment condition is met.
+This strategy requires an existing borrow position to be opened whereupon your automated strategy will monitor the position's health.&#x20;
 
 ## Strategy Building Blocks
 
@@ -49,9 +49,34 @@ This is an automated strategy whereby you can configure a time-based one-time/re
 
 <details>
 
+<summary><a href="../../../factor-building-blocks/flash-loan/"><strong>Flash Loan</strong></a></summary>
+
+* Flash loan the debt token to be partially repaid. The amount to loan will be dependent on the target [health factor](../../glossary.md#health-factor) after adjustments.
+* If there is no flash loan market for your debt token, you will need to add a Swap Building Block and flash loan the value of your debt to be swapped.
+
+</details>
+
+<details>
+
 <summary><a href="../../../factor-building-blocks/borrow.md"><strong>Repay</strong></a></summary>
 
-* Repay a portion of your debt position. This requires the automated strategy to be pre-funded.
-* If needed, you can add a [Swap Building Block](../../../factor-building-blocks/swap/) before this block if your debt and allocated tokens differ.
+* Repay a portion of your debt position.
+
+</details>
+
+<details>
+
+<summary><a href="../../../factor-building-blocks/lend.md"><strong>Withdraw</strong></a></summary>
+
+* Withdraw the value of your flash loan from your collateral.
+
+</details>
+
+<details>
+
+<summary><a href="../../../factor-building-blocks/swap/">Swap</a></summary>
+
+* Swap the withdrawn collateral for the flash loan token.
+* The flash loan debt is automatically credited from your strategy.
 
 </details>
