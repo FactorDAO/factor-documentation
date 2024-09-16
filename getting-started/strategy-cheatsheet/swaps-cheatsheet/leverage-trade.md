@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 Create leveraged long or short strategies giving you greater exposure to potential upside and enabling downside speculation. This strategy enables users to benefit from the differences between the cost of borrowing and the expected profit generated from the borrowed liquidity.
 
@@ -18,20 +18,13 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 
 <details>
 
-<summary><a href="../../../factor-building-blocks/lend.md">Lend</a></summary>
-
-* Lend all tokens to the lending protocol.
-  * Longs: The token lent is the token which you are bullish on.
-  * Shorts: The token lent is a stable token which will maintain it's value relative to the debt token which you are bearish on.
-
-</details>
-
-<details>
-
 <summary><a href="../../../factor-building-blocks/flash-loan/"><strong>Flash Loan</strong></a></summary>
 
-* Flash loan the debt token.
-* The amount that you can flash loan will be dependent on the maximum collateralization ratio for your selected lending pool (i.e. $$\text{collatRatio}=\frac{value_\text{flashLoan}}{value_\text{initiaclCollateral}+value_\text{flashLoan}}$$ )
+* Create a flash loan for the asset token.
+  * Longs: Asset token is the token which you are bullish on.
+  * Shorts: Asset token is a stable token with debt being the token you are bearish on.
+* The amount that you can flash loan will be dependent on the maximum collateralization ratio for your selected lending pool (i.e. $$\text{collatRatio}=\frac{value_\text{flashLoan}}{value_\text{initiaclCollateral}+value_\text{flashLoan}}$$ ).
+* If there is no existing flash loan market for either your asset token, you will have to add an additional [Swap Building Block](../../../factor-building-blocks/swap/) per below.
 
 </details>
 
@@ -39,7 +32,8 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 
 <summary><a href="../../../factor-building-blocks/swap/">Swap</a></summary>
 
-* Swap the flash loaned debt token for more asset tokens.
+* This is an optional block in the case where there is no flash loan market for your asset token.
+* Swap the flash loaned token for your target asset token.
 
 </details>
 
@@ -47,7 +41,7 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 
 <summary><a href="../../../factor-building-blocks/lend.md"><strong>Lend</strong></a></summary>
 
-* Add the newly acquired asset tokens to the same lending pool to increase the amount of collateral.
+* Add the newly acquired asset tokens to the target lending pool as collateral.
 
 </details>
 
@@ -56,6 +50,15 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 <summary><a href="../../../factor-building-blocks/borrow.md"><strong>Borrow</strong></a></summary>
 
 * Borrow the flash loan debt amount.
+* If the debt and flash loan token differs, you will need to add an additional swap step per below.
+
+</details>
+
+<details>
+
+<summary><a href="../../../factor-building-blocks/swap/">Swap</a></summary>
+
+* Swap the debt token for the flash loan token.
 * The flash loan debt will be automatically deducted from your strategy.
 
 </details>
