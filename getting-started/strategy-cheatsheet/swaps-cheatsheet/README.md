@@ -4,7 +4,7 @@
 
 Strategies which focus on profits realized through the active trading of tokens.
 
-<figure><img src="../../../.gitbook/assets/Cheatsheet - Swap (4).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cheatsheet - Swap (5).jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [**Swap Building Block**](../../../factor-building-blocks/swap/)
