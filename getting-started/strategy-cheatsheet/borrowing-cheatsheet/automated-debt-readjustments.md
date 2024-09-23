@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 Prevent your borrow positions from being forced liquidated by automatically repaying a portion of accrued debt whenever your position approaches the [liquidation threshold](../../glossary.md#liquidation-price). By utilizing a flash loan for debt repayment, you do not need to set aside reserved capital and can easily pay down your debt through partial sales of your collateral.
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Earn amplified fixed yields by lending yield tokens on leverage and pocket the difference between the fixed yields and borrow cost. This strategy takes advantage of the yield markets for yield-bearing tokens whereby users can acquire principal tokens at a discount and hold it until maturity to realize fixed-yields.
 

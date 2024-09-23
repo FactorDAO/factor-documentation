@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 Maximize your yield farming rewards by adjusting your staked position in a single transaction. With this strategy, your LP position continues to earn staking rewards without missing a single block.&#x20;
 

@@ -2,9 +2,9 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Automatically trigger a market order whenever your target condition is met.  This can be for a single trade (conditional market order, take profit market, stop loss market), part of automated portfolio rebalancing/DCA, synthetic asset rebalancing, or even on-chain copy trading.
+Automatically trigger a market order whenever your target condition is met. This can be for a single trade (conditional market order, take profit market, stop loss market), part of automated portfolio rebalancing/DCA, synthetic asset rebalancing, or even on-chain copy trading.
 
 Your tokens are immediately swapped at the best available prices as the selected protocol dynamically reroutes your trade to more capital efficient sources.
 
