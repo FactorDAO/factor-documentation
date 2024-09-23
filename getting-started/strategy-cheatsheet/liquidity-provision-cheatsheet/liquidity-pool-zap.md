@@ -25,7 +25,15 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 
 <details>
 
-<summary><a href="../../../factor-building-blocks/lp-management/"><strong>Provide Liquidity</strong></a></summary>
+<summary><a href="../../../factor-studio/studio-contracts/lp-management/"><strong>Create LP</strong></a></summary>
+
+* Create a concentrated liquidity position for the token pair.
+
+</details>
+
+<details>
+
+<summary><a href="../../../factor-building-blocks/lp-management/"><strong>Add Liquidity</strong></a></summary>
 
 * Select the target pool.
 * Adjust the price range to provide liquidity to.
