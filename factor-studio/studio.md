@@ -4,10 +4,6 @@ description: Personalized No-Code DeFi Strategies
 
 # 🏠 Studio
 
-{% hint style="info" %}
-:hourglass:Coming real soon to a [dapp](https://app.factor.fi/discover) near you!
-{% endhint %}
-
 ## Overview
 
 Studio enables anyone to create automated multi-protocol DeFi strategies directly from the [Factor dapp](https://app.factor.fi/), no code required. Mix-and-match strategies from across DeFi protocols in the [Strategy Builder](strategy-builder.md) or take advantage of established DeFi strategy templates to generate permissionless strategies that are fully owned and controlled by you. Studio abstracts away the technical complexities, empowering users to focus on creating effective DeFi strategies in record time.
