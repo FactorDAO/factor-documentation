@@ -56,3 +56,12 @@ Harvest fees are variable fees that are dependent on the profitability of the st
 * **Liquidation Fees:** 0%
 
 </details>
+
+{% hint style="info" %}
+**Factor Studio Beta**
+
+Strategies created via Factor Studio during beta release will have the following fees:
+
+* Deposit: 0.1% of deposited amount
+* Withdraw: 0.1% of withdrawal amount
+{% endhint %}
