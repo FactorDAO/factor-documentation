@@ -12,7 +12,7 @@ Factor Studio comes packaged with [Gelato Web3 Functions](https://docs.gelato.ne
 
 ## Automating Your Strategies
 
-You can easily add time-based triggers to any of your drag-and-drop strategies via the Factor Studio interface. Automation triggers are specified at a per strategy level enabling you to chain as many [Factor Building Blocks](../../factor-building-blocks/factor-building-blocks.md) into a single automated strategy, By pairing recurring triggers with the IF Conditional Building Block, your strategies can be automatically executed only when the market conditions are suitable.
+You can easily add time-based triggers to any of your mix-and-match strategies via the Factor Studio interface. Automation triggers are specified at a per strategy level enabling you to chain as many [Factor Building Blocks](../../factor-building-blocks/factor-building-blocks.md) into a single automated strategy, By pairing recurring triggers with the IF Conditional Building Block, your strategies can be automatically executed only when the market conditions are suitable.
 
 Strategy automation is fully on-chain thereby ensuring the reliability of strategy execution. Due to this design, you will first have to prefund your strategy with the required gas tokens for the transaction. Your strategy will not be executed if there is insufficient gas in the strategy contract.
 

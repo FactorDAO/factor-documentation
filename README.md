@@ -24,7 +24,7 @@ layout:
 
 Factor is leading a revolution where anyone can access millions of strategies in a single click. How?
 
-With Factor, anyone can drag-and-drop protocols from across DeFi to create automated and permissionless strategies. Focus on creating the best strategies, no coding required. Any DeFi primitive, any actions, deployed across chains in minutes (with negligible overheads).
+With Factor, anyone can mix-and-match protocols from across DeFi to create automated and permissionless strategies. Focus on creating the best strategies, no coding required. Any DeFi primitive, any actions, deployed across chains in minutes (with negligible overheads).
 
 Combining what Lego did for creativity and what Shopify did for ecommerce, Factor is changing the way strategies are created and distributed forever.
 
@@ -36,7 +36,7 @@ Factor is creating DeFi’s composability layer connecting protocols, creators, 
 
 <figure><img src=".gitbook/assets/image (1) (1) (2).png" alt=""><figcaption><p>Factor Users</p></figcaption></figure>
 
-* **Strategy Creators:** Combine varying strategies from multiple DeFi protocols into one automated strategy using [Factor Studio](factor-studio/factor-studio/)'s drag-and-drop interface.
+* **Strategy Creators:** Combine varying strategies from multiple DeFi protocols into one automated strategy using [Factor Studio](factor-studio/factor-studio/)'s mix-and-match interface.
 * **Strategy Managers:** Have what it takes to consistently create successful strategies? Shorten your time to market and earn more fees by allowing users to deposit into your public strategies.
 * **Depositors:** Participate in professionally-managed and community-curated strategies by depositing funds into automated strategy vaults on [Factor Discover](factor-discover/factor-discover/) to earn passive yield.
 * **Developers:** Leverage the [Factor SDK](factor-sdk/factor-sdk.md) to effortlessly create custom strategies directly on your app or backend without having to worry about protocol integration specifics.

@@ -24,7 +24,7 @@
 
 Factor is leading a revolution where anyone can access millions of strategies in a single click. How?
 
-With Factor, anyone can drag-and-drop protocols from across DeFi to create automated and permissionless strategies. Focus on creating the best strategies, no coding required. Any DeFi primitive, any actions, deployed across chains in minutes (with negligible overheads).
+With Factor, anyone can mix-and-match protocols from across DeFi to create automated and permissionless strategies. Focus on creating the best strategies, no coding required. Any DeFi primitive, any actions, deployed across chains in minutes (with negligible overheads).
 
 Combining what Lego did for creativity and what Shopify did for ecommerce, Factor is changing the way strategies are created and distributed forever.
 
@@ -97,7 +97,7 @@ Factor Discover bridges the gap between professional strategy builders and DeFi 
 
 <summary>Strategy Builder</summary>
 
-Strategy Builder provides a no-code drag-and-drop canvas where creators can experiment, test, and deploy various strategy combinations. Strategy Builder handles the complex tasks of packaging your strategy and executing it on-chain.
+Strategy Builder provides a no-code mix-and-match canvas where creators can experiment, test, and deploy various strategy combinations. Strategy Builder handles the complex tasks of packaging your strategy and executing it on-chain.
 
 * **Features:** Drag-and-Drop Composable Strategies, No-Code Interface, Strategy Simulation And Testing, Prebuilt Strategy Templates
 
