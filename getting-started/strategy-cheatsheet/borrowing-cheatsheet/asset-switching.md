@@ -33,7 +33,7 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 
 <details>
 
-<summary><a href="../../../factor-building-blocks/lend/"><strong>Withdraw</strong></a></summary>
+<summary><a href="../../../factor-building-blocks/lend.md"><strong>Withdraw</strong></a></summary>
 
 * Withdraw all of your collateral token from the lending pool.
 
@@ -49,7 +49,7 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 
 <details>
 
-<summary><a href="../../../factor-building-blocks/lend/"><strong>Lend</strong></a></summary>
+<summary><a href="../../../factor-building-blocks/lend.md"><strong>Lend</strong></a></summary>
 
 * Lend all of the newly swapped collateral tokens to the target lending market.
 * The tokens which you can borrow will be determined by the underlying lending market.

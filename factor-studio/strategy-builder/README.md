@@ -8,14 +8,14 @@ description: Drag-And-Drop DeFi Strategies
 
 The Strategy Builder provides a mix-and-match canvas where creators can experiment, test, and deploy various strategy combinations. Strategy Builder provides an intuitive interface for users to mix-and-match various Factor Building Blocks without the need to code. With Strategy Builder, users are able to focus on creating actual DeFi strategies while significantly reducing the time to market.
 
-DeFi strategies are only limited by your imagination as Strategy Builder is natively integrated with strategy abstractions ([Factor Building Blocks](../factor-building-blocks/factor-building-blocks.md)) that can seamlessly interface with the rest of the DeFi ecosystem (via [Factor Adapters](../factor-adapters/factor-adapters.md)). This includes operations such as liquidity provision, lending, swaps, etc. Strategy Builder handles the complex tasks of packaging your strategy and executing it on-chain.
+DeFi strategies are only limited by your imagination as Strategy Builder is natively integrated with strategy abstractions ([Factor Building Blocks](../../factor-building-blocks/factor-building-blocks.md)) that can seamlessly interface with the rest of the DeFi ecosystem (via [Factor Adapters](../../factor-adapters/factor-adapters.md)). This includes operations such as liquidity provision, lending, swaps, etc. Strategy Builder handles the complex tasks of packaging your strategy and executing it on-chain.
 
 <details>
 
 <summary>Related Concepts</summary>
 
-* [Factor Building Blocks](../factor-building-blocks/factor-building-blocks.md)
-* [Factor Adapters](../factor-adapters/factor-adapters.md)
+* [Factor Building Blocks](../../factor-building-blocks/factor-building-blocks.md)
+* [Factor Adapters](../../factor-adapters/factor-adapters.md)
 
 </details>
 

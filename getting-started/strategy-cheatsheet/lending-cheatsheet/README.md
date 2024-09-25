@@ -7,5 +7,5 @@ Strategies which focus on generating yield through the lending of tokens for sup
 <figure><img src="../../../.gitbook/assets/Cheatsheet - Lend (2).jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[**Lend Building Block**](../../../factor-building-blocks/lend/)
+[**Lend Building Block**](../../../factor-building-blocks/lend.md)
 {% endhint %}

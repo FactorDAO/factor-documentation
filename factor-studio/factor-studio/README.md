@@ -22,7 +22,7 @@ Factor Studio is a one-stop platform for creating Accessible, Composable, and Ef
 ## Features
 
 * **A Journey For Every User:** Whether you’re a beginner or a certified Degen, Factor Studio streamlines your DeFi journey through strategy automations and user-friendly interfaces (dapps or SDK).
-* **Strategies Not Code:** Factor Studio comes packaged with the [Strategy Builder](../strategy-builder.md) enabling the creation of complex DeFi strategies via mix-and-matching [Factor Building Blocks](../../factor-building-blocks/factor-building-blocks.md). Focus on building strategies and not on code implementations.
+* **Strategies Not Code:** Factor Studio comes packaged with the [Strategy Builder](../strategy-builder/) enabling the creation of complex DeFi strategies via mix-and-matching [Factor Building Blocks](../../factor-building-blocks/factor-building-blocks.md). Focus on building strategies and not on code implementations.
 * **One Platform, All Of DeFi:** Mix-and-match intricate strategies across multiple DeFi protocols on a single platform. [Factor Adapters](../../factor-adapters/factor-adapters.md) provides protocol abstractions that ensures seamless interoperability while being secure and permissionless.
 * **Shorten Your Time To Market:** Leverage Factor Studio’s multiple automation tools and strategy templates to get your strategy up and earning in no time. Shorter iteration times not only lowers your overheads but also enables you to find better product market fit.
 * **Inherited Security:** All of Factor Studio's factory contracts have been audited and undergoes consistent monitoring thereby ensuring your personalized strategy contracts are safe.
