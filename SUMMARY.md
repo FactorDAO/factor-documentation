@@ -72,6 +72,7 @@
     * [Lend](factor-studio/strategy-builder/building-blocks-user-guide/lend.md)
     * [Borrow](factor-studio/strategy-builder/building-blocks-user-guide/borrow.md)
     * [Swap](factor-studio/strategy-builder/building-blocks-user-guide/swap.md)
+    * [Flash Loan](factor-studio/strategy-builder/building-blocks-user-guide/flash-loan.md)
 * [📜 Studio Contracts](factor-studio/studio-contracts/README.md)
   * [Leverage](factor-studio/studio-contracts/leverage/README.md)
     * [FactorLeverageDescriptor.sol](factor-studio/studio-contracts/leverage/factorleveragedescriptor.sol.md)

@@ -13,6 +13,6 @@ You will need to collateralize assets via the Lending Building Block before you 
 <figure><img src="../../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 1. **Debt Token:** Select the token to borrow by searching via token symbol or name. Tokens borrowed will be charged a dynamic borrow interest.
-2. **Lending Amount:** The number of debt tokens to borrow from the selected lending market. The number of tokens available to borrow will be dependent on the value of your collateral as well as the [collateralization ratio](../../../getting-started/glossary.md#collateralisation-ratio) of your selected market.
+2. **Borrow Amount:** The number of debt tokens to borrow from the selected lending market. The number of tokens available to borrow will be dependent on the value of your collateral as well as the [collateralization ratio](../../../getting-started/glossary.md#collateralisation-ratio) of your selected market.
 3. **Protocol:** Select the underlying lending protocol to borrow from.
 4. **Lending Market:** Select a lending market which you have previously provided collateral to.
