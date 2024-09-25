@@ -44,7 +44,7 @@ This is an automated strategy whereby you can configure a time-based one-time/re
 
 <details>
 
-<summary><a href="../../../factor-building-blocks/lend.md">Lend</a></summary>
+<summary><a href="../../../factor-building-blocks/lend/">Lend</a></summary>
 
 * Lend all of the swapped tokens to the selected lending pool to earn maximum supply interest.
 

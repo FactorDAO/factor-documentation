@@ -18,7 +18,7 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 
 <details>
 
-<summary><a href="../../../factor-building-blocks/lend.md">Lend</a></summary>
+<summary><a href="../../../factor-building-blocks/lend/">Lend</a></summary>
 
 * Lend all tokens to trade from to the lending protocol.
 
@@ -43,7 +43,7 @@ This is an automated strategy whereby you can configure a time-based one-time/re
 
 <details>
 
-<summary><a href="../../../factor-building-blocks/lend.md"><strong>Withdraw</strong></a></summary>
+<summary><a href="../../../factor-building-blocks/lend/"><strong>Withdraw</strong></a></summary>
 
 * Withdraw all tokens in the lending pool (interest would have accrued automatically).
 

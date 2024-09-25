@@ -25,7 +25,7 @@ Visit our [**Factor Discover**](https://app.factor.fi/discover) page to see the 
 {% hint style="success" %}
 **Don't Limit Your Strategies To Just Lending**
 
-[Factor Studio](../factor-studio/factor-studio/) enables different [Building Blocks](factor-building-blocks.md) to be mixed-and-matched thereby facilitating multi-step strategies which span across the whole DeFi ecosystem.
+[Factor Studio](../../factor-studio/factor-studio/) enables different [Building Blocks](../factor-building-blocks.md) to be mixed-and-matched thereby facilitating multi-step strategies which span across the whole DeFi ecosystem.
 
-Please refer to [Supported Protocols](../getting-started/supported-protocols.md) to view the full list of DeFi protocols which have been integrated with [Factor Studio](../factor-studio/factor-studio/).
+Please refer to [Supported Protocols](../../getting-started/supported-protocols.md) to view the full list of DeFi protocols which have been integrated with [Factor Studio](../../factor-studio/factor-studio/).
 {% endhint %}

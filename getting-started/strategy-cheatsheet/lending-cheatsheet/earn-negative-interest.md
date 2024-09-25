@@ -18,7 +18,7 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 
 <details>
 
-<summary><a href="../../../factor-building-blocks/lend.md">Lend</a></summary>
+<summary><a href="../../../factor-building-blocks/lend/">Lend</a></summary>
 
 * Lend all tokens to the lending protocol.
 

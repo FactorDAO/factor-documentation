@@ -49,7 +49,7 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 
 <details>
 
-<summary><a href="../../../factor-building-blocks/lend.md"><strong>Lend</strong></a></summary>
+<summary><a href="../../../factor-building-blocks/lend/"><strong>Lend</strong></a></summary>
 
 * Lend additional LP tokens to the selected lending pool.
 

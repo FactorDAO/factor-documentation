@@ -88,7 +88,8 @@
 ## Factor Building Blocks
 
 * [🧱 Factor Building Blocks](factor-building-blocks/factor-building-blocks.md)
-* [➡️ Lend](factor-building-blocks/lend.md)
+* [➡️ Lend](factor-building-blocks/lend/README.md)
+  * [User Guide](factor-building-blocks/lend/user-guide.md)
 * [⬅️ Borrow](factor-building-blocks/borrow.md)
 * [🔄 Leverage](factor-building-blocks/leverage/README.md)
   * [Concepts](factor-building-blocks/leverage/concepts/README.md)
