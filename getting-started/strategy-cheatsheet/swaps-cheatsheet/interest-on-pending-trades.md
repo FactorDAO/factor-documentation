@@ -10,6 +10,11 @@ This strategy requires that you first have a lending position in the token that 
 
 Upon your target price being reached, your tokens are immediately withdrawn and the initial loan amount is immediately swapped at optimal market rates. By specifying a swap amount that is equal to the initial lending amount, any interest earned will then accrue to the strategy for the duration of the wait period.
 
+## Potential Alpha
+
+* **Earn Short Term Lending Interest:** Earn additional yields on otherwise idle reserved tokens while waiting for your target price to be hit.
+* **Buy Low, Sell High:** Automatically trade at your desired price and earn from any token appreciation.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}

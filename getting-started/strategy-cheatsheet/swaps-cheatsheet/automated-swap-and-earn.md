@@ -8,6 +8,11 @@ Trigger a swap when your target price is reached and immediately lend for supply
 
 Your tokens are swapped at the best available prices and the tokens received are added to your selected lending pool in a single transaction.
 
+## Potential Alpha
+
+* **Buy Low, Sell High:** Automatically trade at your desired price and earn from any token appreciation.
+* **Earn Lending Interest:** Put your tokens to work and earn a supply interest by depositing it into  various lending markets.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}

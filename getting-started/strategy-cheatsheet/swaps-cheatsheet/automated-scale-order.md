@@ -6,6 +6,12 @@
 
 Automatically add single-sided concentrated liquidity when your target price is reached and DCA into/out of a token while earning AMM trading fees. All of your tokens are traded against as the market  traverses over your selected range in a single direction. Additionally, your position also earns trading fees for any bi-directional trades that occurs within the range.
 
+## Potential Alpha
+
+* **Gradually Buy At Lower Prices:** Purchase tokens along a smooth price curve starting from your start price to your specified end price.
+* **Gradually Sell At Higher Prices:** Sell tokens along a smooth price curve starting from your start price to your specified end price.
+* **Earn From Market Spreads:** Earn additional trading fees from short term volatility within your selected range.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}

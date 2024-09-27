@@ -8,6 +8,10 @@ Automatically trigger a market order whenever your target condition is met. This
 
 Your tokens are immediately swapped at the best available prices as the selected protocol dynamically reroutes your trade to more capital efficient sources.
 
+## Potential Alpha
+
+* **Buy Low, Sell High:** Automatically trade at your desired price and earn from any token appreciation.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}

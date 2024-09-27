@@ -10,6 +10,12 @@ Create leveraged long or short strategies giving you greater exposure to potenti
 [**Leverage Strategy Explainer**](../../strategy-explainers/leverage/)
 {% endhint %}
 
+## Potential Alpha
+
+* **Multiply Your Gains:** Get access to more liquidity thereby increasing your capital efficiency through leverage.
+* **Offset Borrowing Costs:** Collateralize tokens with higher supply interest and you can even cover your borrow costs plus more.
+* **Amplify Native Yields:** Take advantage of tokens with native yield as your collateral value rises relative to your debt value.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}
