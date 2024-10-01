@@ -47,7 +47,7 @@ For ease of reference, integrated protocols have been categorized according to e
 * [Gelato](https://www.gelato.network/)
 {% endtab %}
 
-{% tab title="Factor DIscover" %}
+{% tab title="Factor Discover" %}
 ## Swap
 
 * [OpenOcean](https://openocean.finance/)
