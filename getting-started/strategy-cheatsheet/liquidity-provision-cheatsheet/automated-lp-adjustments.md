@@ -54,7 +54,7 @@ This is an automated strategy whereby you can configure a time-based one-time/re
 
 <details>
 
-<summary><a href="../../../factor-studio/studio-contracts/lp-management/"><strong>Create LP</strong></a></summary>
+<summary><a href="../../../factor-building-blocks/lp-management/"><strong>Create LP</strong></a></summary>
 
 * Create a concentrated liquidity position for the token pair.
 
