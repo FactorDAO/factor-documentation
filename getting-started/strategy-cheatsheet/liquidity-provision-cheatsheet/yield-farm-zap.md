@@ -8,6 +8,11 @@
 
 Your tokens are immediately swapped at the best available rates and staked to earn yield farming rewards.
 
+## Potential Alpha
+
+* **Start Earning Immediately:** Abstract away the complexities of participating in yield farms and start earning trading fees and liquidity rewards in record time.
+* **Minimize Risks & Overheads:** Reduce the amount of time required to create a position while simultaneously eliminating any market volatility risks during the position adjustment process.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}

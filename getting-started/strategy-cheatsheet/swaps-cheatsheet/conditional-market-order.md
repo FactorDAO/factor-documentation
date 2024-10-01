@@ -8,6 +8,11 @@ Swap your tokens at the market price only if your target price is reached during
 
 Your tokens are immediately swapped at the best available rates as the selected protocol dynamically reroutes your trade to more capital efficient sources.
 
+## Potential Alpha
+
+* **Swap At Superior Rates:** Your swaps are rerouted via more capital efficient sources resulting in deeper liquidity and better rates.
+* **Additional Price Verification:** Add additional checks to your swaps that ensures your trades are only executed when the aggregated market price is equal to your target price.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}

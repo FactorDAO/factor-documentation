@@ -8,6 +8,11 @@ Add double-sided liquidity to AMM DEXs with just a single token and start earnin
 
 Your tokens are immediately swapped at the best available rates as the selected protocol dynamically reroutes your trade to more capital efficient sources.
 
+## Potential Alpha
+
+* **Start Earning Immediately:** Abstract away the complexities of liquidity provision and start earning trading fees with a single transaction.
+* **Minimize Risks & Overheads:** Reduce the amount of time required to create a position while simultaneously eliminating any market volatility risks during the position adjustment process.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}

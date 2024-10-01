@@ -10,6 +10,11 @@ This strategy requires an existing staked LP position. You can easily exit your 
 
 For any adjustments of token ratios to meet LP deposit requirements, your tokens are immediately swapped at the best available rates and staked to earn yield farming rewards.
 
+## Potential Alpha
+
+* **Non Stop Yields:** Automate position adjustments to ensure that your position is always in range and earning trading fees and any liquidity incentives.
+* **Minimize Risks & Overheads:** Reduce the amount of time required to create a position while simultaneously eliminating any market volatility risks during the position adjustment process.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}

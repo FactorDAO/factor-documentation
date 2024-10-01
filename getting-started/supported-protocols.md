@@ -12,9 +12,10 @@ For ease of reference, integrated protocols have been categorized according to e
 {% tab title="Factor Studio" %}
 ## Swap
 
-* [Camelot](https://camelot.exchange/)
-* [Uniswap](https://uniswap.org/)
-* [Pendle](https://www.pendle.finance/)
+* [OpenOcean](https://openocean.finance/)
+* [Camelot](https://camelot.exchange/) _(coming soon)_
+* [Uniswap](https://uniswap.org/) _(coming soon)_
+* [Pendle](https://www.pendle.finance/) _(coming soon)_
 
 ## Lending
 
@@ -24,12 +25,13 @@ For ease of reference, integrated protocols have been categorized according to e
 
 ## LP Management
 
-* [Camelot](https://camelot.exchange/)
 * [Uniswap V3](https://uniswap.org/)
-* [Pendle](https://www.pendle.finance/)
+* [Camelot](https://camelot.exchange/) _(coming soon)_
+* [Pendle](https://www.pendle.finance/) _(coming soon)_
 
 ## Flash Loan
 
+* [Aave](https://aave.com/)
 * [Balancer](https://balancer.fi/)
 
 ## Stake

@@ -8,6 +8,11 @@ Earn amplified fixed yields by lending yield tokens on leverage and pocket the d
 
 Refer to [PT Strategies](../../strategy-explainers/pt-strategies/) for a detailed strategy explainer.
 
+## Potential Alpha
+
+* **Multiply Your Fixed Yields:** Lend a yield token whose value is always increasing relative to the underlying borrow token and watch your debt burden decrease over time.
+* **Fixed Yields > Variable Borrow Rate:** You will turn a profit as long as the fixed yields locked in at position creation is greater than the average borrow interest for holding the position until maturity.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}

@@ -8,6 +8,12 @@ Switch your lending provider to take advantage of favourable borrow rates in a s
 
 By utilizing a [flash loan](../../../factor-building-blocks/flash-loan/concepts/flash-loan.md), you can easily refinance your borrow position without having to source the required capital to repay your initial loan. Depending on the flash loan token available, you might need to add additional swap blocks to account in differences between tokens that are flash loaned, repaid, and borrowed. Your tokens are immediately swapped at the best available rates ensuring minimal slippage when switching lending providers.
 
+## Potential Alpha
+
+* **Borrow At Lower Rates:** Pay less borrow interest on your existing loans by consistently switching loan providers and lending markets.
+* **No Upfront Capital Required:** With flash loans, your otherwise idle tokens reserved for repayment can be freed for other yield generating activities, maximizing your capital efficiency.
+* **Save Time, Minimize Risks:** By completing the whole process in a single transaction, you not only save yourself time but also reduce your exposure to market volatility risks.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}

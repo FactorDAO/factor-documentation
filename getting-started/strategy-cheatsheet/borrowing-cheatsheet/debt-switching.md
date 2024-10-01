@@ -10,6 +10,11 @@ By utilizing a [flash loan](../../../factor-building-blocks/flash-loan/concepts/
 
 The maximum amount that you can borrow is determined by the [collateralization ratio](../../glossary.md#collateralisation-ratio) of the underlying lending pool. Please pay attention to the [health factor](../../glossary.md#health-factor) of your position when borrowing to ensure that you do not lose funds through forced liquidations. Your position can be liquidated if the value of your debt exceeds the collateral value.
 
+## Potential Alpha
+
+* **Borrow At Lower Rates:** Pay less borrow interest on your existing loans by consistently switching between various debt tokens.
+* **Benefit From Price Divergence:** Switch your debt to a more bearish token and reduce your debt burden as debt token price drops.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}

@@ -8,6 +8,10 @@ Immediately earn supply interest upon swapping for the lending token in a single
 
 Your tokens are immediately swapped at the best available rates as the selected protocol dynamically reroutes your trade to more capital efficient sources. This ensures you can maximize the amount of tokens lent and earn more supply interest.
 
+## Potential Alpha
+
+* **Maximize Supply Interest:** Not a single second is wasted as your newly acquired tokens are immediately added to the lending pool to earn interest.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}

@@ -8,6 +8,11 @@ Prevent your borrow positions from being forced liquidated by automatically repa
 
 This strategy requires an existing borrow position to be opened whereupon your automated strategy will monitor the position's health.&#x20;
 
+## Potential Alpha
+
+* **Automated Liquidation Protection:** Reduce the likelihood of your position being forced liquidated by selling some asset token to reduce the debt burden.
+* **No Upfront Capital Required:** With flash loans, your otherwise idle tokens reserved for repayment can be freed for other yield generating activities, maximizing your capital efficiency.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}

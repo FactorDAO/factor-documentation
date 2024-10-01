@@ -10,6 +10,11 @@ This strategy requires an existing LP position to be opened. If your market cond
 
 For any adjustments of token ratios to meet LP deposit requirements, your tokens are swapped at the best available rates and immediately added to the new LP position to generate fees.
 
+## Potential Alpha
+
+* **Non Stop Yields:** Automate position adjustments to ensure that your position is always in range and earning trading fees and any liquidity incentives.
+* **Minimize Risks & Overheads:** Reduce the amount of time required to create a position while simultaneously eliminating any market volatility risks during the position adjustment process.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}

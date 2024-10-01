@@ -8,6 +8,11 @@ Borrow against your collateralized tokens in a single transaction. You earn supp
 
 The maximum amount that you can borrow is determined by the [collateralization ratio](../../glossary.md#collateralisation-ratio) of the underlying lending pool. Please pay attention to the [health factor](../../glossary.md#health-factor) of your position when borrowing to ensure that you do not lose funds through forced liquidations. Your position can be liquidated if the value of your debt exceeds the collateral value.
 
+## Potential Alpha
+
+* **Access More Capital:** Get access to more liquidity while maintaining full exposure to your asset token plus added supply interest.
+* **Benefit From Price Divergence:** Lend a bullish token and borrow stables or lend stables and borrow a bearish token to reduce your debt burden.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}

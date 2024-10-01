@@ -10,6 +10,11 @@ This strategy requires that you first have a lending position which can function
 
 By automating checks for negative borrow interest conditions, your strategy can automatically trigger a borrow whenever borrow rates for your lending market is negative. You can borrow up to the maximum [collateralization ratio](../../glossary.md#collateralisation-ratio) but pay attention to the [health factor](../../glossary.md#health-factor) of your position to avoid forced liquidations.
 
+## Potential Alpha
+
+* **Get Paid To Borrow:** Get access to more liquidity and generate even more yield whenever a borrow market becomes under-utilized.
+* **Leverage Borrow Incentives:** Take advantage of liquidity incentives provided to various borrow markets and earn yield for borrowing tokens.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}

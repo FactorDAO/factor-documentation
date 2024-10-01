@@ -8,6 +8,11 @@ Pocket the interest difference between two lending markets by creating a carry t
 
 While carry trades can be created between varying token lending markets by swapping the borrowed tokens, this also introduces the risk of token price divergences. Due to generally lower carry trade interest differentials, it is recommended that the borrow and lending token is the same. Note that there might also be price fluctuation risks between the collateralized token and borrow token as well.
 
+## Potential Alpha
+
+* **Earn Yield Differentials:** Pocket the interest difference between various lending markets by borrowing low and lending high.
+* **Debt vs Asset Divergence:** Borrow stables and lend out a bullish token to increase your asset to debt ratio. Alternatively lend stables and borrow a bearish token to reduce your debt burden.
+
 ## Strategy Building Blocks
 
 {% hint style="success" %}
