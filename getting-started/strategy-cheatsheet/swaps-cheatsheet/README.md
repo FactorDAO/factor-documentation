@@ -4,7 +4,7 @@
 
 Strategies which focus on profits realized through the active trading of tokens.
 
-<figure><img src="../../../.gitbook/assets/Cheatsheet - Swap (5).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Cheatsheet - Swap.jpg" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://medium.com/@FactorDAO/mix-match-automate-defi-swaps-341d1030bf31" %}
 
