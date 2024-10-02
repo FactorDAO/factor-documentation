@@ -33,3 +33,7 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 * Lend another of the tokens in the multi-token strategy to a selected lending pool.
 
 </details>
+
+## Example
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
