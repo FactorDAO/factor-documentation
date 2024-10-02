@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Borrow as many different tokens as needed against newly added collateral in a single transaction. Diversify your borrow interest and get access to more borrowing markets in a single multi-token strategy.
 
@@ -42,3 +42,7 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 * Input a borrow amount which includes a buffer for any price fluctuations. This includes the value of any remaining borrows utilizing the same collateral.
 
 </details>
+
+## Example
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

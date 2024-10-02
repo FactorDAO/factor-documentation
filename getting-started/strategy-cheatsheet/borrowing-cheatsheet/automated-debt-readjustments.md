@@ -85,3 +85,7 @@ This is an automated strategy whereby you can configure a time-based one-time/re
 * The flash loan debt is automatically credited from your strategy.
 
 </details>
+
+## Example
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

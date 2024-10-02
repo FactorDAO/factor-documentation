@@ -72,3 +72,7 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 * If your flash loan token differs from the new debt token, add an additional [Swap Building Block](../../../factor-building-blocks/swap/) to exchange borrowed tokens for flash loan tokens.
 
 </details>
+
+## Example
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

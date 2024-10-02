@@ -54,3 +54,7 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 * If the new debt token is different from the flash loan token, initiate a swap to exchange all of the newly borrowed tokens for flash loan tokens.
 
 </details>
+
+## Example
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

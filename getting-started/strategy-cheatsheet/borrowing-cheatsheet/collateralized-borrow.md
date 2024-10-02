@@ -36,3 +36,7 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 * Input a borrow amount which includes a buffer for any price fluctuations.
 
 </details>
+
+## Example
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
