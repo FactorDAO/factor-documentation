@@ -46,7 +46,7 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 
 <details>
 
-<summary><a href="../../../factor-studio/studio-contracts/lp-management/"><strong>Provide Liquidity</strong></a></summary>
+<summary><a href="../../../factor-studio/studio-contracts/lp-management/"><strong>Create LP</strong></a></summary>
 
 * You will now be left with the remaining tokens left to trade from which can then be added to a new single sided liquidity position.
 * Create a new position with a narrower range. The price range adjustment will depend on the direction of trade:

@@ -16,6 +16,7 @@
     * [Scale Order Partial Fill Yield](getting-started/strategy-cheatsheet/swaps-cheatsheet/scale-order-partial-fill-yield.md)
     * [Interest On Pending Trades](getting-started/strategy-cheatsheet/swaps-cheatsheet/interest-on-pending-trades.md)
     * [Leverage Trade](getting-started/strategy-cheatsheet/swaps-cheatsheet/leverage-trade.md)
+    * [Leverage DCA](getting-started/strategy-cheatsheet/swaps-cheatsheet/leverage-dca.md)
   * [Lending Cheatsheet](getting-started/strategy-cheatsheet/lending-cheatsheet/README.md)
     * [Lending Pool Zap](getting-started/strategy-cheatsheet/lending-cheatsheet/lending-pool-zap.md)
     * [Multi Lend](getting-started/strategy-cheatsheet/lending-cheatsheet/multi-lend.md)

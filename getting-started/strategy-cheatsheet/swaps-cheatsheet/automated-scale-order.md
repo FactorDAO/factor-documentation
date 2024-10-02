@@ -37,7 +37,7 @@ This is an automated strategy whereby you can configure a time-based one-time/re
 
 <details>
 
-<summary><a href="../../../factor-studio/studio-contracts/lp-management/"><strong>Provide Liquidity</strong></a></summary>
+<summary><a href="../../../factor-studio/studio-contracts/lp-management/"><strong>Create LP</strong></a></summary>
 
 * Select the token to add.
   * Token purchases: Token to add is the token to swap from.

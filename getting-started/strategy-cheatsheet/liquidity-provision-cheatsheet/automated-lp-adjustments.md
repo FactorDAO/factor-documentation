@@ -57,13 +57,6 @@ This is an automated strategy whereby you can configure a time-based one-time/re
 <summary><a href="../../../factor-building-blocks/lp-management/"><strong>Create LP</strong></a></summary>
 
 * Create a concentrated liquidity position for the token pair.
-
-</details>
-
-<details>
-
-<summary><a href="../../../factor-building-blocks/lp-management/"><strong>Add Liquidity</strong></a></summary>
-
 * Select the target pool.
 * Adjust the price range to provide liquidity to.
 * Add the required ratio of tokens.
