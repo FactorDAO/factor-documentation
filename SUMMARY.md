@@ -10,6 +10,7 @@
   * [Swaps Cheatsheet](getting-started/strategy-cheatsheet/swaps-cheatsheet/README.md)
     * [Conditional Market Order](getting-started/strategy-cheatsheet/swaps-cheatsheet/conditional-market-order.md)
     * [Automated Market Order](getting-started/strategy-cheatsheet/swaps-cheatsheet/automated-market-order.md)
+    * [Multi Swap](getting-started/strategy-cheatsheet/swaps-cheatsheet/multi-swap.md)
     * [Automated Swap & Earn](getting-started/strategy-cheatsheet/swaps-cheatsheet/automated-swap-and-earn.md)
     * [Automated Scale Order](getting-started/strategy-cheatsheet/swaps-cheatsheet/automated-scale-order.md)
     * [Interest On Pending Trades](getting-started/strategy-cheatsheet/swaps-cheatsheet/interest-on-pending-trades.md)
