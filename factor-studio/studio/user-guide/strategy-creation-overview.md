@@ -11,7 +11,7 @@ Kickstart your strategy creation journey by selecting:
 
 ## Step 2: Configure Strategy Parameters
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can then set the parameters for each block in the canvas.
 
@@ -19,7 +19,7 @@ Upon finalizing the params, you can click "Set" and view the Strategy Details on
 
 ## Step 3: Configure Deployment
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once you are happy with your strategy, you can deploy your strategy vault by clicking the "Configure Deployment" button at the bottom of the page.&#x20;
 

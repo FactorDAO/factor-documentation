@@ -26,6 +26,7 @@
   * [Borrowing Cheatsheet](getting-started/strategy-cheatsheet/borrowing-cheatsheet/README.md)
     * [Collateralized Borrow](getting-started/strategy-cheatsheet/borrowing-cheatsheet/collateralized-borrow.md)
     * [Collateralized Borrow Zap](getting-started/strategy-cheatsheet/borrowing-cheatsheet/collateralized-borrow-zap.md)
+    * [Multi Borrow](getting-started/strategy-cheatsheet/borrowing-cheatsheet/multi-borrow.md)
     * [Debt Switching](getting-started/strategy-cheatsheet/borrowing-cheatsheet/debt-switching.md)
     * [Automated Debt Readjustments](getting-started/strategy-cheatsheet/borrowing-cheatsheet/automated-debt-readjustments.md)
     * [Debt Refinancing](getting-started/strategy-cheatsheet/borrowing-cheatsheet/debt-refinancing.md)
