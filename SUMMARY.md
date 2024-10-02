@@ -22,6 +22,7 @@
     * [Market Making To Lending Switch](getting-started/strategy-cheatsheet/lending-cheatsheet/market-making-to-lending-switch.md)
     * [Earn Negative Interest](getting-started/strategy-cheatsheet/lending-cheatsheet/earn-negative-interest.md)
     * [Carry Trade](getting-started/strategy-cheatsheet/lending-cheatsheet/carry-trade.md)
+    * [Leveraged Staking Yields](getting-started/strategy-cheatsheet/lending-cheatsheet/leveraged-staking-yields.md)
     * [Leveraged Fixed Yields](getting-started/strategy-cheatsheet/lending-cheatsheet/leveraged-fixed-yields.md)
   * [Borrowing Cheatsheet](getting-started/strategy-cheatsheet/borrowing-cheatsheet/README.md)
     * [Collateralized Borrow](getting-started/strategy-cheatsheet/borrowing-cheatsheet/collateralized-borrow.md)
