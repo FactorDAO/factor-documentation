@@ -39,3 +39,7 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 * Input token amount
 
 </details>
+
+## Example
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

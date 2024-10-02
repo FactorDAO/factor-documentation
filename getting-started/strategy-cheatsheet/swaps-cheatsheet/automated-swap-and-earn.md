@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Trigger a swap when your target price is reached and immediately lend for supply interest.
 
@@ -54,3 +54,7 @@ This is an automated strategy whereby you can configure a time-based one-time/re
 * Lend all of the swapped tokens to the selected lending pool to earn maximum supply interest.
 
 </details>
+
+## Example
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

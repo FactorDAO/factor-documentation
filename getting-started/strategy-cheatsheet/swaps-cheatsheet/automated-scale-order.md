@@ -2,9 +2,9 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Automatically add single-sided concentrated liquidity when your target price is reached and DCA into/out of a token while earning AMM trading fees. All of your tokens are traded against as the market  traverses over your selected range in a single direction. Additionally, your position also earns trading fees for any bi-directional trades that occurs within the range.
+Automatically add single-sided concentrated liquidity when your target price is reached and DCA into/out of a token while earning AMM trading fees. All of your tokens are traded against as the market traverses over your selected range in a single direction. Additionally, your position also earns trading fees for any bi-directional trades that occurs within the range.
 
 ## Potential Alpha
 
@@ -46,3 +46,7 @@ This is an automated strategy whereby you can configure a time-based one-time/re
 * Select the token amount.
 
 </details>
+
+## Example
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Earn supply interest on your allocated trade funds while waiting for your target price to be reached.
 
@@ -64,3 +64,7 @@ This is an automated strategy whereby you can configure a time-based one-time/re
 * Choose an input token amount that is equal to the initial lending amount. Remaining interest remains in the strategy.
 
 </details>
+
+## Example
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
