@@ -1,7 +1,7 @@
 ---
 description: Create Anything DeFi
-cover: .gitbook/assets/IMG_4452.jpg
-coverY: -13.438633938100319
+cover: .gitbook/assets/Banner.png
+coverY: 0
 layout:
   cover:
     visible: true
