@@ -28,7 +28,7 @@ The following features are in addition to those on [Studio](studio/#features).
 {% endhint %}
 
 * [x] **Public Strategies In Minutes:** Get your DeFi strategy to market in record time without having to worry about various operational overheads.
-* [x] **Permissionless Deposits:** Anyone can deposit into user-createdl strategies and still benefit from strategy automation and optimisation by the strategy manager.
+* [x] **Permissionless Deposits:** Anyone can deposit into user created strategies and still benefit from strategy automation and optimisation by the strategy manager.
 * [x] **Permissionless Asset Management:** Strategy managers can operationalize their public strategy without ever taking custody of depositor funds. Various strategy fees can be configured by the strategy manager.
 * [x] **Seamless Strategy Distribution:** All user created strategies are immediately available for deposits via [Discover](broken-reference). More advanced users can utilize the [Factor SDK ](broken-reference)to distribute it on their own UI.
 * [x] **Open And Transparent:** Anyone can become a strategy manager and all strategy actions are done on-chain providing accessibility and accountability.
