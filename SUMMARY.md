@@ -208,8 +208,8 @@
 ## Community
 
 * [Factor Contributors](community/factor-contributors.md)
-* [X](https://twitter.com/FactorDAO)
+* [X](https://x.com/Factor_fi)
 * [Discord](https://discord.gg/factor)
-* [Telegram](https://t.me/FactorDAO)
-* [Medium](https://medium.com/@FactorDAO)
+* [Telegram](https://t.me/FactorFi)
+* [Medium](https://medium.com/@factor.fi)
 * [Email Enquiries](mailto:info@factor.fi)
