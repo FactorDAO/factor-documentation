@@ -26,12 +26,12 @@ For ease of reference, integrated protocols have been categorized according to e
 ## LP Management
 
 * [Uniswap V3](https://uniswap.org/)
-* [Camelot](https://camelot.exchange/) _(coming soon)_
+* [Camelot](https://camelot.exchange/)
 * [Pendle](https://www.pendle.finance/) _(coming soon)_
 
 ## Flash Loan
 
-* [Aave](https://aave.com/)
+* [Aave](https://aave.com/) _(coming soon)_
 * [Balancer](https://balancer.fi/)
 
 ## Stake
