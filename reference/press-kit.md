@@ -219,11 +219,19 @@ FactorDAO was audited by SourceHat (formerly Solidity Finance). Click [here](htt
 
 {% tabs %}
 {% tab title="Icon" %}
+#### Transparent
+
 <figure><img src="../.gitbook/assets/Logo.svg" alt=""><figcaption></figcaption></figure>
 
 {% file src="../.gitbook/assets/Logo.svg" %}
 Icon
 {% endfile %}
+
+#### Opaque
+
+<figure><img src="../.gitbook/assets/Factor_logo.png" alt=""><figcaption></figcaption></figure>
+
+{% file src="../.gitbook/assets/Factor_logo.png" %}
 {% endtab %}
 
 {% tab title="Primary (Black)" %}

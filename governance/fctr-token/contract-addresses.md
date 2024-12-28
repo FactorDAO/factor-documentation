@@ -13,7 +13,7 @@
 
 <summary>veFCTR</summary>
 
-* FactorTransparentUpgradeableProxy**:** [`0x43D75A4248e8fDBd63778Ea449349173697A7050`](https://arbiscan.io/address/0x43D75A4248e8fDBd63778Ea449349173697A7050)
+* FactorTransparentUpgradeableProx&#x79;**:** [`0x43D75A4248e8fDBd63778Ea449349173697A7050`](https://arbiscan.io/address/0x43D75A4248e8fDBd63778Ea449349173697A7050)
 * VotingEscrowMainchain (Implementation): [`0x7Bb709d85651DCA26f9F45fDdDf06FF94D506191`](https://arbiscan.io/address/0x7Bb709d85651DCA26f9F45fDdDf06FF94D506191)
 * ProxyAdmin: [`0xfec1dd8ee1f0fee80761625bf8d460eb0a9a7833`](https://arbiscan.io/address/0xfec1dd8ee1f0fee80761625bf8d460eb0a9a7833)
 
