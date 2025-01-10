@@ -48,6 +48,8 @@
     * [Yield Performance Modelling](getting-started/strategy-explainers/yield/yield-performance-modelling.md)
   * [PT Strategies](getting-started/strategy-explainers/pt-strategies/README.md)
     * [Leverage Long PT Simulation](getting-started/strategy-explainers/pt-strategies/leverage-long-pt-simulation.md)
+  * [Delta Neutral Yields](getting-started/strategy-explainers/delta-neutral-yields/README.md)
+    * [Levered USD & ETH Carry](getting-started/strategy-explainers/delta-neutral-yields/levered-usd-and-eth-carry.md)
 * [📖 Glossary](getting-started/glossary.md)
 
 ## Factor Discover
