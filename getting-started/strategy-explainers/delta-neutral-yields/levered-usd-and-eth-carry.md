@@ -68,8 +68,9 @@ For ease of reference, the example below assumes a starting capital of $100 `USD
 
 1. Swap $50 `USD` for `rETH`
 2. Flash loan $215 `rETH` (5.3x max lev with 10% buffer) from Balancer
-3. Lend $265 rETH on Compound
+3. Lend $265 `rETH` on Compound
 4. Borrow $215 `ETH`
+5. Swap `ETH` for `rETH` to repay flash loan
 
 #### Results
 
@@ -91,8 +92,8 @@ For ease of reference, the example below assumes a starting capital of $100 `USD
 
 The net yields for this strategy are as follows:
 
-* 7.85% USD
-* 2.29% ETH
-* 1.35% COMP
+* 7.85% `USD`
+* 2.29% `ETH`
+* 1.35% `COMP`
 
 This is a blended \~11.5% yield which is an additional 2.5% yield as compared to just a pure USD lending strategy (i.e. a 24% yield improvement).
