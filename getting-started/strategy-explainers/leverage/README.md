@@ -59,6 +59,22 @@ By depositing into Factor leverage vaults, you can amplify your potential return
 You can visit our [Leverage User Guides](../../../factor-discover/factor-discover/leverage-user-guides/) if you would like to get started with leverage strategies.
 {% endhint %}
 
+## Leverage Multiplier
+
+To calculate the effective amount of leverage for the position, you can input the position's loan-to-value (LTV) ratio into the following formula:
+
+$$
+LevMultiplier = \frac{1}{1-borrow\%}
+$$
+
+For example, a $$borrow\%$$ of 50% will give a 2x multiplier while a 66% $$borrow\%$$ will be a 3x multiplier.
+
+Each lending market specifies a max LTV which caps the maximum leverage that can be acquired via loops:
+
+$$
+LevMultiplier_{max} = \frac{1}{1-borrow\%_{max}}
+$$
+
 ## Examples
 
 {% tabs %}
