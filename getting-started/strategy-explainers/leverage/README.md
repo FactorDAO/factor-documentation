@@ -69,10 +69,10 @@ $$
 
 For example, a $$borrow\%$$ of 50% will give a 2x multiplier while a 66% $$borrow\%$$ will be a 3x multiplier.
 
-Each lending market specifies a max LTV which caps the maximum leverage that can be acquired via loops:
+Each lending market specifies a max LTV which caps the maximum leverage that can be acquired via repeated loops:&#x20;
 
 $$
-LevMultiplier_{max} = \frac{1}{1-borrow\%_{max}}
+LevMultiplier_{max} = \frac{1}{1-borrow_{max}\%}
 $$
 
 ## Examples
