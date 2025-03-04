@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 Automatically adjust your AMM LP position according to market conditions to continue earning trading fees or dynamically adjust spreads. The [LP Management Building Block](../../../factor-building-blocks/lp-management/) also supports management of concentrated liquidity positions in addition to the standard AMM implementation.
 

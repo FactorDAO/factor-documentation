@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 Switch your debt token for an existing loan in a single transaction. This strategy provides you with the opportunity to benefit from lower borrow interest or relative devaluation of the newly borrowed token.
 
@@ -57,4 +57,4 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 
 ## Example
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>

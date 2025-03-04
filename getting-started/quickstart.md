@@ -4,11 +4,13 @@ description: Jump Right Into The Factor Ecosystem
 
 # 🕹️ Quickstart
 
-## Users
+## Depositors
 
-### User Guides
+<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="../factor-discover/factor-discover/public-strategies-user-guides/deposit-into-user-created-strategies.md"><strong>Community Created Strategies</strong></a></td><td></td><td></td><td></td></tr><tr><td><a href="../factor-discover/factor-discover/leverage-user-guides/"><strong>Leverage Strategies</strong></a></td><td></td><td></td><td></td></tr><tr><td><a href="../factor-discover/factor-discover/yield-user-guides/"><strong>Yield Strategies (Auto-compound)</strong></a></td><td></td><td></td><td></td></tr><tr><td><a href="../factor-discover/factor-discover/pt-user-guides/"><strong>PT User Guides</strong></a></td><td></td><td></td><td><a href="../factor-discover/factor-discover/pt-user-guides/">pt-user-guides</a></td></tr></tbody></table>
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="../factor-discover/factor-discover/leverage-user-guides/"><strong>Leverage Strategies</strong></a></td><td></td><td></td><td></td></tr><tr><td><a href="../factor-discover/factor-discover/yield-user-guides/"><strong>Yield Strategies (Auto-compound)</strong></a></td><td></td><td></td><td></td></tr><tr><td><a href="../factor-discover/factor-discover/pt-user-guides/"><strong>PT User Guides</strong></a></td><td></td><td></td><td><a href="../factor-discover/factor-discover/pt-user-guides/">pt-user-guides</a></td></tr></tbody></table>
+## Strategists
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><a href="../factor-studio/studio-pro/user-guide/"><strong>Create Public Strategies</strong></a></td></tr><tr><td><a href="../factor-studio/studio/user-guide/private-strategy-creation.md"><strong>Create Private Strategies</strong></a></td></tr></tbody></table>
 
 ## Developers
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Create leveraged long or short strategies giving you greater exposure to potential upside and enabling downside speculation. This strategy enables users to benefit from the differences between the cost of borrowing and the expected profit generated from the borrowed liquidity.
 
@@ -71,4 +71,4 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 
 ## Example
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>

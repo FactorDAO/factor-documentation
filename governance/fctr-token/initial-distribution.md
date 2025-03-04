@@ -50,4 +50,4 @@ No team tokens were available at [TGE](./#at-a-glance). Note that while team tok
 
 [FCTR](./#fctr) reaches its full circulating supply of 100,000,000 tokens 4 years after [TGE](./#at-a-glance). The max supply is capped and there are no inflationary mechanisms beyond this.
 
-<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>

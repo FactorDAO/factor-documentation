@@ -55,6 +55,9 @@
 ## Factor Discover
 
 * [🔍 Factor Discover](factor-discover/factor-discover/README.md)
+  * [Public Strategies User Guides](factor-discover/factor-discover/public-strategies-user-guides/README.md)
+    * [Deposit Into User Created Strategies](factor-discover/factor-discover/public-strategies-user-guides/deposit-into-user-created-strategies.md)
+    * [Withdraw From User Created Strategies](factor-discover/factor-discover/public-strategies-user-guides/withdraw-from-user-created-strategies.md)
   * [Leverage User Guides](factor-discover/factor-discover/leverage-user-guides/README.md)
     * [Create A Leveraged Position](factor-discover/factor-discover/leverage-user-guides/create-a-leveraged-position.md)
     * [Adjust Position Leverage](factor-discover/factor-discover/leverage-user-guides/adjust-position-leverage.md)
@@ -66,16 +69,33 @@
   * [PT User Guides](factor-discover/factor-discover/pt-user-guides/README.md)
     * [Redeem Your PT](factor-discover/factor-discover/pt-user-guides/redeem-your-pt.md)
   * [APY Calculations](factor-discover/factor-discover/apy-calculations.md)
+* [⚙️ Factor Operated Strategies](factor-discover/factor-operated-strategies/README.md)
+  * [Yield Type Strategies](factor-discover/factor-operated-strategies/yield-type-strategies/README.md)
+    * [Additional rETH Yields On USDC Lend](factor-discover/factor-operated-strategies/yield-type-strategies/additional-reth-yields-on-usdc-lend.md)
+    * [Amplified rETH Yields On USDC Lend](factor-discover/factor-operated-strategies/yield-type-strategies/amplified-reth-yields-on-usdc-lend.md)
+    * [Additional Liquid Staked ETH Yields On USDC Lend](factor-discover/factor-operated-strategies/yield-type-strategies/additional-liquid-staked-eth-yields-on-usdc-lend.md)
+    * [Additional Liquid Restaked ETH Yields On USDC Lend](factor-discover/factor-operated-strategies/yield-type-strategies/additional-liquid-restaked-eth-yields-on-usdc-lend.md)
+  * [Trading Type Strategies](factor-discover/factor-operated-strategies/trading-type-strategies/README.md)
+    * [WBTC Base Switch On rETH For ETH & USDC Yields](factor-discover/factor-operated-strategies/trading-type-strategies/wbtc-base-switch-on-reth-for-eth-and-usdc-yields.md)
+  * [Delta Neutral Type Strategies](factor-discover/factor-operated-strategies/delta-neutral-type-strategies/README.md)
+    * [Delta Neutral ETH With rETH & USDC Yields](factor-discover/factor-operated-strategies/delta-neutral-type-strategies/delta-neutral-eth-with-reth-and-usdc-yields.md)
 
 ## Factor Studio
 
 * [🎨 Factor Studio](factor-studio/factor-studio/README.md)
   * [Automated Strategies](factor-studio/factor-studio/automated-strategies.md)
   * [Conditional Strategies](factor-studio/factor-studio/conditional-strategies.md)
-* [🏠 Studio](factor-studio/studio/README.md)
+* [🏠 Private Strategies](factor-studio/studio/README.md)
   * [User Guide](factor-studio/studio/user-guide/README.md)
-    * [Strategy Creation Overview](factor-studio/studio/user-guide/strategy-creation-overview.md)
-* [👥 Studio Pro](factor-studio/studio-pro.md)
+    * [Private Strategy Creation](factor-studio/studio/user-guide/private-strategy-creation.md)
+* [👥 Public Strategies](factor-studio/studio-pro/README.md)
+  * [User Guide](factor-studio/studio-pro/user-guide/README.md)
+    * [Public Strategy Creation](factor-studio/studio-pro/user-guide/public-strategy-creation.md)
+    * [Create An Exit Strategy](factor-studio/studio-pro/user-guide/create-an-exit-strategy.md)
+    * [Making Your Strategy Public](factor-studio/studio-pro/user-guide/making-your-strategy-public.md)
+    * [Strategy Execution](factor-studio/studio-pro/user-guide/strategy-execution.md)
+  * [Security](factor-studio/studio-pro/security.md)
+  * [Exit Strategy](factor-studio/studio-pro/exit-strategy.md)
 * [🏗️ Strategy Builder](factor-studio/strategy-builder/README.md)
   * [Building Blocks User Guide](factor-studio/strategy-builder/building-blocks-user-guide/README.md)
     * [Lend](factor-studio/strategy-builder/building-blocks-user-guide/lend.md)
@@ -200,7 +220,9 @@
 
 ## Reference
 
-* [dApp](https://app.factor.fi/)
+* [Discover Pro dApp](https://pro.factor.fi/)
+* [Studio dApp](https://studio.factor.fi)
+* [Discover dApp](https://app.factor.fi)
 * [Official Website](https://factor.fi/)
 * [Press Kit](reference/press-kit.md)
 * [Partnership Form](https://forms.gle/xAhiB956tePz5vvv5)

@@ -107,7 +107,7 @@ Distribution of [Arbitrum Foundation LTIPP](governance/factor-scale/arbitrum-fou
 
 ### Partners Include
 
-<figure><img src=".gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The full list of official partners can be found at the following link:
 

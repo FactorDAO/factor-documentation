@@ -14,6 +14,19 @@ Sitting at the top the [Factor Studio](../../factor-studio/factor-studio/), Fact
 
 Critically, Factor Discover is a crucial component that fosters a thriving DeFi community. For strategy builders (i.e. Creators), Factor Discover functions as a valuable distribution channel amplifying the visibility of their strategies. Conversely, users get unlimited access to a myriad of competitive strategies thereby driving even greater innovation.
 
+{% hint style="info" %}
+**Factor Discover Versions**
+
+As Factor continues to decentralize the permissionless asset management space, the goal will be to have a single Discover dapp that is dedicated to public strategies.
+
+During this transition period, there will be 2 versions of Discover:
+
+* [https://app.factor.fi/](https://app.factor.fi/) → Factor deployed strategies.
+* [https://pro.factor.fi/](https://pro.factor.fi/) (temporary) → Community created strategies via Factor Studio
+
+As the public strategy space matures, the `app` subdomain will host just the public strategies.
+{% endhint %}
+
 ## Features
 
 * **Access To Unlimited Permissionless Strategies:** With no limitations on what DeFi strategies can be built on [Factor Studio](../../factor-studio/factor-studio/), Discover users are able to engage with any public community built strategies.

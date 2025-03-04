@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Borrow against your collateralized tokens in a single transaction. You earn supply interest on the token lent while being charged a borrow interest on the token borrowed. Collateralized borrows enable you to source more liquidity for your strategy while maintaining full exposure to your collateral.
 
@@ -39,4 +39,4 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 
 ## Example
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>

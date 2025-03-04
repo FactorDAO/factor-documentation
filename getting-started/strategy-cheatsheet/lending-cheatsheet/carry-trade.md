@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pocket the interest difference between two lending markets by creating a carry trade. Carry trade opportunities arise when the interest charged on borrows is lower than the supply interest on another market.
 
@@ -54,4 +54,4 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 
 ## Example
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>

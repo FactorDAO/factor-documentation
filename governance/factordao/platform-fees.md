@@ -34,6 +34,14 @@ Harvest fees are variable fees that are dependent on the profitability of the st
 
 <details>
 
+<summary>Public Strategies</summary>
+
+Factor receives a 20% cut on any fees configured & received by the Strategy Manager.
+
+</details>
+
+<details>
+
 <summary>Yield Strategies</summary>
 
 * **Deposit:** 0.2% of deposited amount
@@ -56,12 +64,3 @@ Harvest fees are variable fees that are dependent on the profitability of the st
 * **Liquidation Fees:** 0%
 
 </details>
-
-{% hint style="info" %}
-**Factor Studio Beta**
-
-Strategies created via Factor Studio during beta release will have the following fees:
-
-* Deposit: 0.1% of deposited amount
-* Withdraw: 0.1% of withdrawal amount
-{% endhint %}

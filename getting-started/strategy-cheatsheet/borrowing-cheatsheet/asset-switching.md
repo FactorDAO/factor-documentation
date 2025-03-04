@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 Switch the lending provider or collateral token underlying your borrow position in a single transaction. This strategy provides you with the opportunity to benefit from higher supply interest across lending markets or the relative price increase of the new collateral token. This strategy assumes you have an existing borrow position.
 
@@ -75,4 +75,4 @@ The building block order mirrors the Factor Studio UI and can be expanded for fu
 
 ## Example
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
