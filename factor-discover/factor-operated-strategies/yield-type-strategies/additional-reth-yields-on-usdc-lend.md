@@ -91,3 +91,9 @@ Create a copy of the sheet below and tweak it to create your own personalized st
 {% embed url="https://docs.google.com/spreadsheets/d/1EYxoyRmWFF7O1tLAGpf_dBMqtyTpexfxaEgDQ2TiyDk/edit?usp=sharing" %}
 [https://docs.google.com/spreadsheets/d/1EYxoyRmWFF7O1tLAGpf\_dBMqtyTpexfxaEgDQ2TiyDk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1EYxoyRmWFF7O1tLAGpf_dBMqtyTpexfxaEgDQ2TiyDk/edit?usp=sharing)
 {% endembed %}
+
+## Estimated Returns
+
+{% embed url="https://docs.google.com/spreadsheets/d/1_SAtMjfsbUuGSxeVfAanTA1XTtWTuH5vvYI9Fu6seY4/edit?usp=sharing" %}
+[https://docs.google.com/spreadsheets/d/1\_SAtMjfsbUuGSxeVfAanTA1XTtWTuH5vvYI9Fu6seY4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1_SAtMjfsbUuGSxeVfAanTA1XTtWTuH5vvYI9Fu6seY4/edit?usp=sharing)
+{% endembed %}

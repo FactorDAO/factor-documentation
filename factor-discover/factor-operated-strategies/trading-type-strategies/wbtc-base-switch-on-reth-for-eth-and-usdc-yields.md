@@ -91,3 +91,11 @@ Create a copy of the sheet below and tweak it to create your own personalized st
 {% embed url="https://docs.google.com/spreadsheets/d/1FvNDdfvoec_mQCiDzIPjEGrJWM652I1S2fWFMlK83qE/edit?usp=sharing" %}
 [https://docs.google.com/spreadsheets/d/1FvNDdfvoec\_mQCiDzIPjEGrJWM652I1S2fWFMlK83qE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1FvNDdfvoec_mQCiDzIPjEGrJWM652I1S2fWFMlK83qE/edit?usp=sharing)
 {% endembed %}
+
+## Estimate Returns
+
+The profitability of this strategy depends on the performance of ETH relative to WBTC. Aside from potential trading returns, the strategy also earns a net yield of \~6.7% (as of 06/03/25) that comprises of:
+
+* USDC lending interest
+* rETH liquid staking yields
+* WBTC borrow costs
