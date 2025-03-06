@@ -23,7 +23,7 @@ You can view the balances for your strategy on DeBank. A link will also be provi
 
 ### Step 2: Update Strategy Amounts
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Update the amounts to be used during execution based on the balances in Step 1.
 

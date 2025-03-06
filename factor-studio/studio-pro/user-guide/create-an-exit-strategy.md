@@ -59,7 +59,7 @@ To facilitate easy withdrawal of funds, the token amounts per exit strategy will
 
 ### Step 3: Test your exit strategy
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To ensure your strategy executes as intended, you can test your strategy. This will simulate the execution of your strategy and provide you with the corresponding results.
 

@@ -10,7 +10,7 @@ If you want to create a private strategy, you can view the [Private Strategy Cre
 
 ## Step 1: Mix-and-match Strategies
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Kickstart your strategy creation journey by visiting [Studio](https://studio.factor.fi/) and selecting:
 
@@ -19,7 +19,7 @@ Kickstart your strategy creation journey by visiting [Studio](https://studio.fac
 
 ## Step 2: Configure Strategy Parameters
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Upon selecting a block, you will see 2 tabs on your canvas:
 
@@ -40,7 +40,7 @@ View our [Exit Strategy guide](create-an-exit-strategy.md) for more details.
 
 ## Step 3: Test Your Strategy
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To ensure your strategy executes as intended, you can test your strategy. This will simulate the execution of your strategy and provide you with the corresponding results.
 
@@ -48,7 +48,7 @@ You can view any execution errors by following the notification to the Tenderly 
 
 ## Step 4: Configure Deployment
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once your strategy has passed the test, you can deploy your strategy vault by clicking the "Configure Deployment" button at the bottom of the page.&#x20;
 

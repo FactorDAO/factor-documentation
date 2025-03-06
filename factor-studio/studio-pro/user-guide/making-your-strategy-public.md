@@ -75,7 +75,7 @@ These fees accrue to the [FactorDAO Protocol Rewards](../../../governance/factor
 
 ### Step 6: Integrations Configuration
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 The integrations page allows you to specify what tokens your strategy can interact with.&#x20;
 
@@ -101,7 +101,7 @@ The price baseline configuration pulls live pricing data from the selected oracl
 
 ### Step 7: Review Your Strategy
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 You will be able to review your strategy summary on the final page.
 
@@ -109,7 +109,7 @@ Once you're happy with all the configurations, you can proceed to publish your s
 
 ### Step 8: Share Your Strategy
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 That's it! Your strategy is now public and can be accessed directly via Discover.&#x20;
 

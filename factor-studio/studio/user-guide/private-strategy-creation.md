@@ -10,7 +10,7 @@ If you want to create a public strategy, you can view the [Public Strategy Creat
 
 ## Step 1: Mix-and-match Strategies
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Kickstart your strategy creation journey by visiting [Studio](https://studio.factor.fi/) and selecting:
 
@@ -19,7 +19,7 @@ Kickstart your strategy creation journey by visiting [Studio](https://studio.fac
 
 ## Step 2: Configure Strategy Parameters
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can then set the parameters for each block in the canvas.
 
@@ -27,13 +27,13 @@ Upon finalizing the params, you can click on the canvas to close the block and v
 
 ## Step 3: Test Your Strategy
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 To ensure your strategy executes as intended, you can test your strategy. This will simulate the execution of your strategy and provide you with the corresponding results.
 
 ## Step 4: Configure Deployment
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once your strategy has passed the test, you can deploy your strategy vault by clicking the "Configure Deployment" button at the bottom of the page.&#x20;
 
@@ -41,7 +41,7 @@ This is an on-chain transaction which deploys your strategy vault for you. The s
 
 ## Step 5: Fund Your Strategy
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Upon deploying your strategy, you will be able to view the contract address under the Strategy Details.
 

@@ -8,7 +8,7 @@ Visit Discover to deposit into this strategy and automate your yields!
 
 ## Description
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p><a href="https://studio.factor.fi/builder?hash=0xb53572bd4b8e3a597bfb7589faec5828432da28cfd9e16de9cd93097c7ce35ab">https://studio.factor.fi/builder?hash=0xb53572bd4b8e3a597bfb7589faec5828432da28cfd9e16de9cd93097c7ce35ab</a></p></figcaption></figure>
 
 An ETH rotation play which earns USD yields on rETH by switching the base asset from USD → WBTC. This strategy profits when ETH outperforms WBTC and is profitable as long as the generated USDC lending interest is greater than rETH to WBTC underperformance.
 
