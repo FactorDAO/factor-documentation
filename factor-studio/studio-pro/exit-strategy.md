@@ -8,7 +8,7 @@ description: Supporting Permissionless Vault Withdrawals
 
 In addition to being non-custodial, true permissionless asset management also means that Depositors should be able to withdraw any amount of their tokens at anytime. This means that Depositors should be able to unwind their vault position without requiring Strategy Manager approval nor having to incur the opportunity costs of waiting.
 
-Instead of having to speculate on when and how much a Depositor will withdraw, Fator Studio enables Managers to specify an exit flow which can be independently executed by the Depositor. This maximizes potential vault returns while simultaneously minimizing any manual overheads and risks.
+Instead of having to speculate on when and how much a Depositor will withdraw, Factor Studio enables Managers to specify an exit flow which can be independently executed by the Depositor. This maximizes potential vault returns while simultaneously minimizing any manual overheads and risks.
 
 {% hint style="success" %}
 **Vault Composition**
