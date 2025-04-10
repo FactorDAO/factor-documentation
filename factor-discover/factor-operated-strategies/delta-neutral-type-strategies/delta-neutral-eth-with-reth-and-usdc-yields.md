@@ -8,7 +8,7 @@ Visit Discover to deposit into this strategy and automate your yields!
 
 ## Description
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p><a href="https://studio.factor.fi/builder?hash=0xd2e21a69f28fdfa35c61b8308a18bed944f4c87fc8979836b85709881f925928">https://studio.factor.fi/builder?hash=0xd2e21a69f28fdfa35c61b8308a18bed944f4c87fc8979836b85709881f925928</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xd2e21a69f28fdfa35c61b8308a18bed944f4c87fc8979836b85709881f925928">https://studio.factor.fi/?hash=0xd2e21a69f28fdfa35c61b8308a18bed944f4c87fc8979836b85709881f925928</a></p></figcaption></figure>
 
 By combining 2 opposing Long and Short positions, this strategy earns yields while maintaining its value throughout short term market volatility. A fall in ETH’s price is covered by a short ETH position and vice versa.
 
