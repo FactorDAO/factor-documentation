@@ -233,7 +233,7 @@
 
 * [Factor Contributors](community/factor-contributors.md)
 * [X](https://x.com/Factor_fi)
-* [Discord](https://discord.gg/factor)
+* [Discord](https://discord.gg/factor-981676208251088916)
 * [Telegram](https://t.me/FactorFi)
 * [Medium](https://medium.com/@factor.fi)
 * [Email Enquiries](mailto:info@factor.fi)
