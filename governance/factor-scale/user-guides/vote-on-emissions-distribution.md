@@ -22,40 +22,24 @@ Factor Scale implements an emissions multiplier for every veFCTR used to vote on
 
 ### Step 1: Access Factor Scale
 
-Navigate to the [Factor Scale page](https://app.factor.fi/incentives/scale) to start influecing emmission rewards. If you're already on the Factor [dapp](https://app.factor.fi/discover), you can access Factor Scale via the "Scale" option in the navigation bar.
+Navigate to the [Factor Scale page](https://pro.factor.fi/governance/scale) to start influencing emission rewards. If you're already on the Factor [dapp](https://pro.factor.fi/strategies), you can access Factor Scale via the "Governance" option in the navigation bar.
 
-<figure><img src="../../../.gitbook/assets/Scale_Nav.png" alt=""><figcaption><p>Factor Scale page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### Step 2: Add your votes
+### Step 2: Navigating Factor Scale
 
-Once, you're on the Scale page, you can start to allocate your votes by selecting the "Add vote" button which will open up the strategy vault picker.
+Factor Scale enables you to search for your favourite [curated vaults](https://docs.factor.fi/governance/factor-scale#overview) and allocate a percentage of your total voting power towards. You will also be able to see your total voting power, vote allocations,  as well as any unallocated votes.
 
-<figure><img src="../../../.gitbook/assets/Scale_AddVoteAction.png" alt=""><figcaption><p>Vote with your veFCTR</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-### Step 3: Navigating the vault picker
+### Step 3: Add your votes
 
-Factor Scale enables you to search for your favourite [curated vaults](https://docs.factor.fi/governance/factor-scale#overview) and allocate a percentage of your total voting power towards it via a vault picker pop-up. You will also be able to see your total voting power, vote allocations,  as well as any unallocated vaults to the right of the pop-up.
+Once, you're on the Scale page, you can start to allocate your votes by specifying a vote percentage for each of the shortlisted vaults. Note that the sum of all the percentages across unallocated and allocated votes can not exceed 100%.
 
-<figure><img src="../../../.gitbook/assets/Scale_Search.png" alt=""><figcaption><p>Pop-up to select your vaults</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-### Step 4: Search for your vault
-
-With so many strategies being created on Factor, navigating them all (even the curated ones) is a task hence the pop-up provides a convenient search function. You will be able to search for your vault by typing the vault name into the search bar.
-
-<figure><img src="../../../.gitbook/assets/Scale_SearchSilo.png" alt=""><figcaption><p>Search for vaults</p></figcaption></figure>
-
-### Step 5: Allocate your votes
-
-Once you've found your desired vault, you can then specify a percentage of your total voting power that will be allocated to that vault. Note that the sum of all the percentages across unallocated and allocated votes can not exceed 100%.
-
-<figure><img src="../../../.gitbook/assets/Scale_VoteProportion.png" alt=""><figcaption><p>Allocate voting power to a vault</p></figcaption></figure>
-
-### Step 6: Confirm your vote allocation&#x20;
+### Step 4: Confirm your vote allocation&#x20;
 
 Once you're happy with how your votes will be distributed, click on the "Vote" button to confirm your choice. This will require a signature as your votes are recorded on-chain. Upon confirmation, you will be able to view your updated votes distribution.
 
-<figure><img src="../../../.gitbook/assets/Scale_VoteAllocationOverview.png" alt=""><figcaption><p>Distribution of votes</p></figcaption></figure>
-
-You can even view your allocation in more details by visiting the My Votes tab under the main [Scale page](https://app.factor.fi/incentives/scale).
-
-<figure><img src="../../../.gitbook/assets/Scale_MyVotes.png" alt=""><figcaption><p>My votes</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

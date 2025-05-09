@@ -75,7 +75,7 @@ These fees accrue to the [FactorDAO Protocol Rewards](../../../governance/factor
 
 ### Step 6: Integrations Configuration
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The integrations page allows you to specify what tokens your strategy can interact with.&#x20;
 
@@ -101,7 +101,7 @@ The price baseline configuration pulls live pricing data from the selected oracl
 
 ### Step 7: Review Your Strategy
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You will be able to review your strategy summary on the final page.
 

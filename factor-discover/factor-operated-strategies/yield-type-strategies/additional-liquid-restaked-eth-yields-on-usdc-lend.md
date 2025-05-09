@@ -8,7 +8,7 @@ Visit Discover to deposit into this strategy and automate your yields!
 
 ## Description
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0x1d711d4ec0159a6f9a678c85517df63805a01970707157e880e2c11b8e5aa282">https://studio.factor.fi/?hash=0x1d711d4ec0159a6f9a678c85517df63805a01970707157e880e2c11b8e5aa282</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0x1d711d4ec0159a6f9a678c85517df63805a01970707157e880e2c11b8e5aa282">https://studio.factor.fi/?hash=0x1d711d4ec0159a6f9a678c85517df63805a01970707157e880e2c11b8e5aa282</a></p></figcaption></figure>
 
 This strategy earns USDC lending interest on Aave and borrows ETH to generate additional ETH restaking yields.
 

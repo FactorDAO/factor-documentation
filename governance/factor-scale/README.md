@@ -58,5 +58,5 @@ Please visit the [Emissions Multiplier Calculations](emission-multiplier-calcula
 
 1. **Stake FCTR for** [**veFCTR**](../fctr-token/#vefctr)**:** Begin by staking your [FCTR](../fctr-token/#fctr) tokens to obtain [veFCTR](../fctr-token/#vefctr), granting you voting rights in the Factor Scale system.
 2. **Stake Vault Position:** Stake your vault position (i.e. contributed liquidity) to qualify for emission rewards.
-3. **Voting on the Dashboard:** Participate in voting via the Scale dashboard to influence the allocation of Scale rewards.
+3. **Voting on the Dashboard:** Participate in voting via the [Scale dashboard](https://pro.factor.fi/governance/scale) to influence the allocation of Scale rewards.
 4. **Track and Adapt:** Monitor the impact of your votes on reward distribution, and the impact of Scale rewards on strategy APYs.

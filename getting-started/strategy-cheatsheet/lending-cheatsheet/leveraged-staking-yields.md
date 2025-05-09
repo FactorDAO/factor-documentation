@@ -2,7 +2,7 @@
 
 ## Overview
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Gain leveraged staking yield exposure by borrowing against your staking tokens. By borrowing base tokens against your yield-bearing tokens, you get safe access to leveraged staking yields.
 

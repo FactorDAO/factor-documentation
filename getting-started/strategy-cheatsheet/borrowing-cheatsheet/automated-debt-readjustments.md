@@ -88,4 +88,4 @@ This is an automated strategy whereby you can configure a time-based one-time/re
 
 ## Example
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

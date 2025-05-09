@@ -21,7 +21,7 @@ The FactorDAO facilitates decentralized governance of the protocol through coord
 * DAO token swaps to enhance collaboration between Factor and other protocols
 * Contributor compensations and community growth initiatives
 
-As a means to coordinate users in an ever changing environment, governance mechanisms are meant to evolve accordingly hence we invite you to participate in the future of Factor through joining our [Discord](https://discord.gg/factor) or even [becoming a FCTR staker](https://app.factor.fi/governance).
+As a means to coordinate users in an ever changing environment, governance mechanisms are meant to evolve accordingly hence we invite you to participate in the future of Factor through joining our [Discord](https://discord.gg/factor-981676208251088916) or even [becoming a FCTR staker](https://pro.factor.fi/governance/stake).
 
 ## Getting Started With Factor Governance
 

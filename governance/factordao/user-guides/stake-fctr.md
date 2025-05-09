@@ -14,7 +14,7 @@ For Factorians who have staked position prior to 27th Feb 2024 0500AM UTC, pleas
 
 ### Step 1: Staking your FCTR tokens
 
-Navigate to the [governance page](https://app.factor.fi/governance) on the Factor dapp. This can be done via selecting the "Stake FCTR" tab on the navigation bar.
+Navigate to the [governance page](https://pro.factor.fi/governance/stake) on the Factor dapp. This can be done via selecting the "Stake FCTR" tab on the navigation bar.
 
 <figure><img src="../../../.gitbook/assets/UG_Gov_Stake_1.png" alt=""><figcaption><p>Stake your FCTR</p></figcaption></figure>
 

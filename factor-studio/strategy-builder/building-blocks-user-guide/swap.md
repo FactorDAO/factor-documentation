@@ -6,7 +6,7 @@ The [Swap Building Block](../../../factor-building-blocks/swap/) functions as an
 
 ## Actions
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Input Token:** Select the token to swap from by searching via token symbol or name.
 2. **Input Token Amount:** The number of input tokens that will be swapped.
