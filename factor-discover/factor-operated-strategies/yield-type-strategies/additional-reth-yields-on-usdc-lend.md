@@ -6,6 +6,12 @@ Visit Discover to deposit into this strategy and automate your yields!
 :arrow\_right: [Strategy Link](https://pro.factor.fi/strategies/0x99E11bF7f92b1D486F8D88Bc5F467C695836f8A2)
 {% endhint %}
 
+{% hint style="info" %}
+Visit Studio to copy/fork and tweak this strategy!
+
+:arrow\_right: [Strategy Builder Link](https://studio.factor.fi/?hash=0x894ba2383b0e7923446f5df18e38dd450266ebe3e5961a27f79eb86dbaace6e3)
+{% endhint %}
+
 ## Description
 
 <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0x894ba2383b0e7923446f5df18e38dd450266ebe3e5961a27f79eb86dbaace6e3">https://studio.factor.fi/?hash=0x894ba2383b0e7923446f5df18e38dd450266ebe3e5961a27f79eb86dbaace6e3</a></p></figcaption></figure>

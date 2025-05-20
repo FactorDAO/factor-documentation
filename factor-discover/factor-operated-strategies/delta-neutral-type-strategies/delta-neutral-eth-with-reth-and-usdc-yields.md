@@ -6,15 +6,21 @@ Visit Discover to deposit into this strategy and automate your yields!
 :arrow\_right: [Strategy Link](https://pro.factor.fi/strategies/0x1489426648E9E563d0c70D3381aF5ED5dd5CFB77)
 {% endhint %}
 
+{% hint style="info" %}
+Visit Studio to copy/fork and tweak this strategy!
+
+:arrow\_right: [Strategy Builder Link](https://studio.factor.fi/?hash=0xd2e21a69f28fdfa35c61b8308a18bed944f4c87fc8979836b85709881f925928)
+{% endhint %}
+
 ## Description
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xd2e21a69f28fdfa35c61b8308a18bed944f4c87fc8979836b85709881f925928">https://studio.factor.fi/?hash=0xd2e21a69f28fdfa35c61b8308a18bed944f4c87fc8979836b85709881f925928</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xd2e21a69f28fdfa35c61b8308a18bed944f4c87fc8979836b85709881f925928">https://studio.factor.fi/?hash=0xd2e21a69f28fdfa35c61b8308a18bed944f4c87fc8979836b85709881f925928</a></p></figcaption></figure>
 
 By combining 2 opposing Long and Short positions, this strategy earns yields while maintaining its value throughout short term market volatility. A fall in ETH’s price is covered by a short ETH position and vice versa.
 
-Half of the USDC deposited is used to create a 2.67x USDC/ETH Short position with a 20% liquidation buffer. This earns 1.33x USDC lending interest (on initial deposit amount) with a 0.83x ETH borrow position. If ETH price drops relative to USDC, the debt owed decreases and vice versa.
+Half of the USDC deposited is used to create a 2x USDC/ETH Short position with a 20% liquidation buffer. This earns 1x USDC lending interest (on initial deposit amount) with a 0.5x ETH borrow position. If ETH price drops relative to USDC, the debt owed decreases and vice versa.
 
-To offset the risks of increasing debt on the USDC/ETH short position, the remaining USDC deposited is used to create a 1.67x rETH/ETH Long position. The dollar amount of the rETH lent on this rETH/ETH Long position equals the ETH debt on the USDC/ETH Short position. As rETH liquid staking yields is consistently greater than ETH borrow interest, this also earns a 0.83x rETH interest carry. This rETH/ETH Long position is maintained by incurring a 0.33x ETH debt.
+To offset the risks of increasing debt on the USDC/ETH short position, the remaining USDC deposited is swapped for rETH. The upside exposure of holding rETH cancels out the downside exposure of the ETH debt from the above short USDC/ETH position. Additionally, rETH continues to earn liquid staking yields which historically has been above the ETH borrow interest.
 
 \+ USDC Supply Interest
 
@@ -28,17 +34,12 @@ To offset the risks of increasing debt on the USDC/ETH short position, the remai
 
 {% tabs %}
 {% tab title="Main strategy" %}
-1. Create 2.67x USDC/ETH Short
-   1. Flash loan 1.67x of 50% $USDC balance
+1. Create 2x USDC/ETH Short
+   1. Flash loan 2x of 50% $USDC balance
    2. Lend 50% initial $USDC + flash loaned $USDC amount
    3. Borrow $ETH to cover flash loan
    4. Swap $ETH → $USDC
-2. Create a 1.67x rETH/ETH Long
-   1. Flash loan 0.67x of 50% $USDC balance in rETH
-   2. Swap initial 50% USDC → rETH
-   3. Lend all rETH
-   4. Borrow ETH to cover flash loan
-   5. Swap ETH → rETH
+2. Swap 50% $USDC deposit for $rETH
 {% endtab %}
 
 {% tab title="Exit Strategy" %}

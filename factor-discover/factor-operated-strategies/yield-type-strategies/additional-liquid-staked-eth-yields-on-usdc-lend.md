@@ -6,9 +6,13 @@ Visit Discover to deposit into this strategy and automate your yields!
 :arrow\_right: [Strategy Link](https://pro.factor.fi/strategies/0xfe67342abc06e69b4d319ef6b298b135cff596cc)
 {% endhint %}
 
-## Description
+{% hint style="info" %}
+Visit Studio to copy/fork and tweak this strategy!
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0x203b3da5bb64d3119528042d367a214d8778eca0821dc91d9d285bbaf47c9a87">https://studio.factor.fi/?hash=0x203b3da5bb64d3119528042d367a214d8778eca0821dc91d9d285bbaf47c9a87</a></p></figcaption></figure>
+:arrow\_right: [Strategy Builder Link](https://studio.factor.fi/?hash=0x203b3da5bb64d3119528042d367a214d8778eca0821dc91d9d285bbaf47c9a87)
+{% endhint %}
+
+## Description
 
 This strategy earns USDC lending interest on Aave and borrows ETH to generate additional ETH liquid staking yields.
 
@@ -21,6 +25,8 @@ By swapping borrowed ETH for rETH & wstETH, this strategy earns the the differen
 \+ wstETH Liquid Staking Yields
 
 \- ETH Borrow Interest
+
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0x203b3da5bb64d3119528042d367a214d8778eca0821dc91d9d285bbaf47c9a87">https://studio.factor.fi/?hash=0x203b3da5bb64d3119528042d367a214d8778eca0821dc91d9d285bbaf47c9a87</a></p></figcaption></figure>
 
 ## Strategy
 
