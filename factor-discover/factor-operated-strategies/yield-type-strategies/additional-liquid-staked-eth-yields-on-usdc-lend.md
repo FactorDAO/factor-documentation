@@ -1,6 +1,6 @@
 # Additional Liquid Staked ETH Yields On USDC Lend
 
-{% embed url="https://www.youtube.com/watch?v=D2w3WjtpNPs" %}
+{% embed url="https://www.youtube.com/watch?v=3N_VuTHjQl4" %}
 
 {% hint style="success" %}
 Visit Discover to deposit into this strategy and automate your yields!
