@@ -76,6 +76,7 @@
     * [Amplified rETH Yields On USDC Lend - Aave & Compound](factor-discover/factor-operated-strategies/yield-type-strategies/amplified-reth-yields-on-usdc-lend-aave-and-compound.md)
     * [Amplified wstETH Yields On USDC Lend - Aave](factor-discover/factor-operated-strategies/yield-type-strategies/amplified-wsteth-yields-on-usdc-lend-aave.md)
     * [Amplified cbETH Yields On USDC Lend - Aave](factor-discover/factor-operated-strategies/yield-type-strategies/amplified-cbeth-yields-on-usdc-lend-aave.md)
+    * [Amplified cbETH Yields On cbBTC Lend - Aave](factor-discover/factor-operated-strategies/yield-type-strategies/amplified-cbeth-yields-on-cbbtc-lend-aave.md)
     * [3.5x Leveraged cbETH:ETH Yields - Aave](factor-discover/factor-operated-strategies/yield-type-strategies/3.5x-leveraged-cbeth-eth-yields-aave.md)
     * [Additional Liquid Staked ETH Yields On USDC Lend](factor-discover/factor-operated-strategies/yield-type-strategies/additional-liquid-staked-eth-yields-on-usdc-lend.md)
     * [Additional Liquid Restaked ETH Yields On USDC Lend](factor-discover/factor-operated-strategies/yield-type-strategies/additional-liquid-restaked-eth-yields-on-usdc-lend.md)
