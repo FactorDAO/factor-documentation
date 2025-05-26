@@ -14,7 +14,7 @@ Visit Studio to copy/fork and tweak this strategy!
 
 ## Description
 
-<figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0x3daac7c10909d7184cc0cb3e1cdd8f1cf8c601eb9437d69aa7d1b1e84a35f979">https://studio.factor.fi/?hash=0x3daac7c10909d7184cc0cb3e1cdd8f1cf8c601eb9437d69aa7d1b1e84a35f979</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (61).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0x3daac7c10909d7184cc0cb3e1cdd8f1cf8c601eb9437d69aa7d1b1e84a35f979">https://studio.factor.fi/?hash=0x3daac7c10909d7184cc0cb3e1cdd8f1cf8c601eb9437d69aa7d1b1e84a35f979</a></p></figcaption></figure>
 
 The vault deposits USDC into Aave to earn lending interest.
 
@@ -58,7 +58,7 @@ Borrowed ETH is swapped for wstETH to create a leveraged wstETH/ETH position on 
 
 Factor Discover also enables Depositors to permissionlessly withdraw from any strategy at anytime via an Exit Strategy.
 
-Visit our [Exit Strategy explainer](../../../factor-studio/studio-pro/exit-strategy.md) to see how Factor Studio strategies can maximize returns while ensuring truly permissionless withdrawals.
+Visit our [Exit Strategy explainer](../../../../factor-studio/studio-pro/exit-strategy.md) to see how Factor Studio strategies can maximize returns while ensuring truly permissionless withdrawals.
 {% endhint %}
 
 ## Protocol Parameters

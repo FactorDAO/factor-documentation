@@ -1,4 +1,4 @@
-# Amplified rETH Yields On USDC Lend
+# Amplified rETH Yields On USDC Lend - Aave & Compound
 
 {% hint style="info" %}
 Compound is coming soon! Mix-and-match borrows across multiple lending protocols on Factor Studio!
@@ -50,7 +50,7 @@ Borrowed ETH is swapped for rETH to create a leveraged rETH/ETH position on Comp
 
 Factor Discover also enables Depositors to permissionlessly withdraw from any strategy at anytime via an Exit Strategy.
 
-Visit our [Exit Strategy explainer](../../../factor-studio/studio-pro/exit-strategy.md) to see how Factor Studio strategies can maximize returns while ensuring truly permissionless withdrawals.
+Visit our [Exit Strategy explainer](../../../../factor-studio/studio-pro/exit-strategy.md) to see how Factor Studio strategies can maximize returns while ensuring truly permissionless withdrawals.
 {% endhint %}
 
 ## Protocol Parameters

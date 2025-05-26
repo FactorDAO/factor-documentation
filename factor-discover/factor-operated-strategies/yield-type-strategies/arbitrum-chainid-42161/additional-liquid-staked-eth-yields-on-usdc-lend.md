@@ -28,7 +28,7 @@ By swapping borrowed ETH for rETH & wstETH, this strategy earns the the differen
 
 \- ETH Borrow Interest
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0x203b3da5bb64d3119528042d367a214d8778eca0821dc91d9d285bbaf47c9a87">https://studio.factor.fi/?hash=0x203b3da5bb64d3119528042d367a214d8778eca0821dc91d9d285bbaf47c9a87</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0x203b3da5bb64d3119528042d367a214d8778eca0821dc91d9d285bbaf47c9a87">https://studio.factor.fi/?hash=0x203b3da5bb64d3119528042d367a214d8778eca0821dc91d9d285bbaf47c9a87</a></p></figcaption></figure>
 
 ## Strategy
 
@@ -56,7 +56,7 @@ By swapping borrowed ETH for rETH & wstETH, this strategy earns the the differen
 
 Factor Discover also enables Depositors to permissionlessly withdraw from any strategy at anytime via an Exit Strategy.
 
-Visit our [Exit Strategy explainer](../../../factor-studio/studio-pro/exit-strategy.md) to see how Factor Studio strategies can maximize returns while ensuring truly permissionless withdrawals.
+Visit our [Exit Strategy explainer](../../../../factor-studio/studio-pro/exit-strategy.md) to see how Factor Studio strategies can maximize returns while ensuring truly permissionless withdrawals.
 {% endhint %}
 
 ## Protocol Parameters
