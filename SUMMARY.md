@@ -86,7 +86,10 @@
   * [Trading Type Strategies](factor-discover/factor-operated-strategies/trading-type-strategies/README.md)
     * [WBTC Base Switch On rETH For ETH & USDC Yields](factor-discover/factor-operated-strategies/trading-type-strategies/wbtc-base-switch-on-reth-for-eth-and-usdc-yields.md)
   * [Delta Neutral Type Strategies](factor-discover/factor-operated-strategies/delta-neutral-type-strategies/README.md)
-    * [Delta Neutral ETH With rETH & USDC Yields](factor-discover/factor-operated-strategies/delta-neutral-type-strategies/delta-neutral-eth-with-reth-and-usdc-yields.md)
+    * [Arbitrum (ChainID: 42161)](factor-discover/factor-operated-strategies/delta-neutral-type-strategies/arbitrum-chainid-42161/README.md)
+      * [Delta Neutral ETH With rETH & USDC Yields](factor-discover/factor-operated-strategies/delta-neutral-type-strategies/arbitrum-chainid-42161/delta-neutral-eth-with-reth-and-usdc-yields.md)
+    * [Base (ChainID: 8453)](factor-discover/factor-operated-strategies/delta-neutral-type-strategies/base-chainid-8453/README.md)
+      * [Delta Neutral ETH With cbETH & USDC Yields](factor-discover/factor-operated-strategies/delta-neutral-type-strategies/base-chainid-8453/delta-neutral-eth-with-cbeth-and-usdc-yields.md)
 
 ## Factor Studio
 

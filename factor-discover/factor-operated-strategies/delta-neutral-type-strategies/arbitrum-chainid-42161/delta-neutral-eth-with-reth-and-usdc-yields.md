@@ -14,7 +14,7 @@ Visit Studio to copy/fork and tweak this strategy!
 
 ## Description
 
-<figure><img src="../../../.gitbook/assets/image (62).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xd2e21a69f28fdfa35c61b8308a18bed944f4c87fc8979836b85709881f925928">https://studio.factor.fi/?hash=0xd2e21a69f28fdfa35c61b8308a18bed944f4c87fc8979836b85709881f925928</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (62).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xd2e21a69f28fdfa35c61b8308a18bed944f4c87fc8979836b85709881f925928">https://studio.factor.fi/?hash=0xd2e21a69f28fdfa35c61b8308a18bed944f4c87fc8979836b85709881f925928</a></p></figcaption></figure>
 
 By combining 2 opposing Long and Short positions, this strategy earns yields while maintaining its value throughout short term market volatility. A fall in ETH’s price is covered by a short ETH position and vice versa.
 
@@ -53,7 +53,7 @@ To offset the risks of increasing debt on the USDC/ETH short position, the remai
 
 Factor Discover also enables Depositors to permissionlessly withdraw from any strategy at anytime via an Exit Strategy.
 
-Visit our [Exit Strategy explainer](../../../factor-studio/studio-pro/exit-strategy.md) to see how Factor Studio strategies can maximize returns while ensuring truly permissionless withdrawals.
+Visit our [Exit Strategy explainer](../../../../factor-studio/studio-pro/exit-strategy.md) to see how Factor Studio strategies can maximize returns while ensuring truly permissionless withdrawals.
 {% endhint %}
 
 ## Protocol Parameters
