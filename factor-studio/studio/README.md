@@ -2,7 +2,15 @@
 description: Personalized No-Code DeFi Strategies
 ---
 
-# 🏠 Studio
+# 🏠 Private Strategies
+
+{% hint style="warning" %}
+**Private Strategy Support**
+
+To kickstart community-created strategies, support for public strategies have been prioritized to get more users familiar with the permissionless asset management space.
+
+Depending on future demand, support for private strategies can be resumed once a critical mass has been achieved.
+{% endhint %}
 
 ## Overview
 

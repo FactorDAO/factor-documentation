@@ -96,9 +96,6 @@
 * [🎨 Factor Studio](factor-studio/factor-studio/README.md)
   * [Automated Strategies](factor-studio/factor-studio/automated-strategies.md)
   * [Conditional Strategies](factor-studio/factor-studio/conditional-strategies.md)
-* [🏠 Private Strategies](factor-studio/studio/README.md)
-  * [User Guide](factor-studio/studio/user-guide/README.md)
-    * [Private Strategy Creation](factor-studio/studio/user-guide/private-strategy-creation.md)
 * [👥 Public Strategies](factor-studio/studio-pro/README.md)
   * [User Guide](factor-studio/studio-pro/user-guide/README.md)
     * [Public Strategy Creation](factor-studio/studio-pro/user-guide/public-strategy-creation.md)
@@ -121,6 +118,9 @@
   * [LP Management](factor-studio/studio-contracts/lp-management/README.md)
     * [FactorLPVault.sol](factor-studio/studio-contracts/lp-management/factorlpvault.sol.md)
     * [FactorLPDescriptor.sol](factor-studio/studio-contracts/lp-management/factorlpdescriptor.sol.md)
+* [🏠 Private Strategies](factor-studio/studio/README.md)
+  * [User Guide](factor-studio/studio/user-guide/README.md)
+    * [Private Strategy Creation](factor-studio/studio/user-guide/private-strategy-creation.md)
 
 ## Factor SDK
 
