@@ -75,7 +75,7 @@ These fees accrue to the [FactorDAO Protocol Rewards](../../../governance/factor
 
 ### Step 6: Integrations Configuration
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The integrations page allows you to specify what tokens your strategy can interact with.&#x20;
 

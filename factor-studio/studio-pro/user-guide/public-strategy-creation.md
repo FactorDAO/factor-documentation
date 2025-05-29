@@ -19,7 +19,7 @@ Kickstart your strategy creation journey by visiting [Studio](https://studio.fac
 
 ## Step 2: Configure Strategy Parameters
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Upon selecting a block, you will see 2 tabs on your canvas:
 
@@ -48,7 +48,7 @@ You can view any execution errors by following the notification to the Tenderly 
 
 ## Step 4: Configure Deployment
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once your strategy has passed the test, you can deploy your strategy vault by clicking the "Configure Deployment" button at the bottom of the page.&#x20;
 
