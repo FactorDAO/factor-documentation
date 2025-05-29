@@ -78,7 +78,7 @@
       * [Amplified wstETH Yields On USDC Lend - Aave](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/amplified-wsteth-yields-on-usdc-lend-aave.md)
       * [Additional Liquid Staked ETH Yields On USDC Lend](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/additional-liquid-staked-eth-yields-on-usdc-lend.md)
       * [Additional Liquid Restaked ETH Yields On USDC Lend](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/additional-liquid-restaked-eth-yields-on-usdc-lend.md)
-      * [Diversified USDC Lending Yields - Aave & USDC](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/diversified-usdc-lending-yields-aave-and-usdc.md)
+      * [Diversified USDC Lending Yields - Aave & Compound](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/diversified-usdc-lending-yields-aave-and-compound.md)
     * [Base (ChainID: 8453)](factor-discover/factor-operated-strategies/yield-type-strategies/base-chainid-8453/README.md)
       * [3.5x Leveraged cbETH:ETH Yields - Aave](factor-discover/factor-operated-strategies/yield-type-strategies/base-chainid-8453/3.5x-leveraged-cbeth-eth-yields-aave.md)
       * [Amplified cbETH Yields On USDC Lend - Aave](factor-discover/factor-operated-strategies/yield-type-strategies/base-chainid-8453/amplified-cbeth-yields-on-usdc-lend-aave.md)
