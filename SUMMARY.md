@@ -102,7 +102,7 @@
   * [User Guide](factor-studio/studio-pro/user-guide/README.md)
     * [Public Strategy Creation](factor-studio/studio-pro/user-guide/public-strategy-creation.md)
     * [Create An Exit Strategy](factor-studio/studio-pro/user-guide/create-an-exit-strategy.md)
-    * [Making Your Strategy Public](factor-studio/studio-pro/user-guide/making-your-strategy-public.md)
+    * [Deployment WIzard](factor-studio/studio-pro/user-guide/deployment-wizard.md)
     * [Strategy Execution](factor-studio/studio-pro/user-guide/strategy-execution.md)
   * [Security](factor-studio/studio-pro/security.md)
   * [Exit Strategy](factor-studio/studio-pro/exit-strategy.md)
