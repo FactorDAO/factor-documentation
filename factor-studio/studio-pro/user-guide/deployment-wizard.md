@@ -1,14 +1,14 @@
-# Deployment WIzard
+# Deployment Wizard
 
 ## Overview
 
 Studio Pro comes equipped with a deployment wizard that simplifies strategy configuration. As anyone can create any strategy with Factor Studio, the deployment wizard allows easy configuration of:
 
-* Strategy Metadata: Name, description, logo, symbol, etc.
-* Vault Security: Contract upgradeability, withdraw cooldowns, timelocks, etc.
-* Fees: Fee amounts and receiver.
-* Deposit Safeguards: Price deviaiton limits, max debt ratio, TVL caps, etc.
-* Integrations: Tokens, protocols, markets, etc.
+* [Strategy Metadata](deployment-wizard.md#step-2-vault-info): Name, description, logo, symbol, etc.
+* [Vault Security:](deployment-wizard.md#step-2-vault-info) Contract upgradeability, withdraw cooldowns, timelocks, etc.
+* [Fees:](deployment-wizard.md#step-4-fees-configuration) Fee amounts, type, and receiver.
+* [Deposit Safeguards:](deployment-wizard.md#step-5-deposit-safeguards) Price deviaiton limits, max debt ratio, TVL caps, etc.
+* [Integrations:](deployment-wizard.md#step-6-integrations-configuration) Tokens, protocols, markets, etc.
 
 ## Public Strategies For All
 
