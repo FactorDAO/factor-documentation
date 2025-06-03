@@ -3,10 +3,18 @@
 {% hint style="success" %}
 Visit Discover to deposit into this strategy and automate your yields!
 
-:arrow\_right: Strategy Link
+:arrow\_right: [Strategy Link](https://pro.factor.fi/strategies/0x4A3de8A60A853f0436E0fA38c0FDcF0b8035E525)
+{% endhint %}
+
+{% hint style="info" %}
+Visit Studio to copy/fork and tweak this strategy!
+
+:arrow\_right: [Strategy Builder Link](https://studio.factor.fi/?hash=0xa383182aa4e1feece921d7e65ff0ce55476964a4bc27398772abb084291e696a)
 {% endhint %}
 
 ## Description
+
+<figure><img src="../../../../.gitbook/assets/image (75).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xa383182aa4e1feece921d7e65ff0ce55476964a4bc27398772abb084291e696a">https://studio.factor.fi/?hash=0xa383182aa4e1feece921d7e65ff0ce55476964a4bc27398772abb084291e696a</a></p></figcaption></figure>
 
 The vault deposits USDC into Aave to earn lending interest.
 

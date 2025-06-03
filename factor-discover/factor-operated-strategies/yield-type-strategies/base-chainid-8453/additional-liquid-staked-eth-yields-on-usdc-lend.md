@@ -3,10 +3,18 @@
 {% hint style="success" %}
 Visit Discover to deposit into this strategy and automate your yields!
 
-:arrow\_right: Strategy Link
+:arrow\_right: [Strategy Link](https://pro.factor.fi/strategies/0x5F25Ba28239E59a8a835521aba067f06462Ee345)
+{% endhint %}
+
+{% hint style="info" %}
+Visit Studio to copy/fork and tweak this strategy!
+
+:arrow\_right: [Strategy Builder Link](https://studio.factor.fi/?hash=0x2b26a8bf684f160582c14a78293fe2ca16003d6d982864171d735cba3f749978)
 {% endhint %}
 
 ## Description
+
+<figure><img src="../../../../.gitbook/assets/image (77).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0x2b26a8bf684f160582c14a78293fe2ca16003d6d982864171d735cba3f749978">https://studio.factor.fi/?hash=0x2b26a8bf684f160582c14a78293fe2ca16003d6d982864171d735cba3f749978</a></p></figcaption></figure>
 
 This strategy earns USDC lending interest on Aave and borrows ETH to generate additional ETH liquid staking yields.
 
