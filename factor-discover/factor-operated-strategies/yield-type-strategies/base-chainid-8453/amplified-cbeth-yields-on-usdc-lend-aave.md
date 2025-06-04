@@ -14,7 +14,7 @@ Visit Studio to copy/fork and tweak this strategy!
 
 ## Description
 
-<figure><img src="../../../../.gitbook/assets/image (75).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xa383182aa4e1feece921d7e65ff0ce55476964a4bc27398772abb084291e696a">https://studio.factor.fi/?hash=0xa383182aa4e1feece921d7e65ff0ce55476964a4bc27398772abb084291e696a</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (79).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xa383182aa4e1feece921d7e65ff0ce55476964a4bc27398772abb084291e696a">https://studio.factor.fi/?hash=0xa383182aa4e1feece921d7e65ff0ce55476964a4bc27398772abb084291e696a</a></p></figcaption></figure>
 
 The vault deposits USDC into Aave to earn lending interest.
 
