@@ -3,18 +3,18 @@
 {% hint style="success" %}
 Visit Discover to deposit into this strategy and automate your yields!
 
-:arrow\_right: [Strategy Link](https://pro.factor.fi/strategies/0xE3aA3021807244104aF88a4026f391C16717e62e)
+:arrow\_right: [Strategy Link](https://pro.factor.fi/strategies/0x96BdCd124782f2A7B310F28fB5a3cBe3f66897d5)
 {% endhint %}
 
 {% hint style="info" %}
 Visit Studio to copy/fork and tweak this strategy!
 
-:arrow\_right: [Strategy Builder Link](https://studio.factor.fi/?hash=0x99d4d514caca997bf8b60702f213caefdebc3fa58ed0699eb501139ba77ffc3f)
+:arrow\_right: [Strategy Builder Link](https://studio.factor.fi/?hash=0x0bb0ff9b3dcddc11b93071c6f75cac9cff05b924ac6fb724789ae2290af6246a)
 {% endhint %}
 
 ## Description
 
-<figure><img src="../../../../.gitbook/assets/image (76).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0x99d4d514caca997bf8b60702f213caefdebc3fa58ed0699eb501139ba77ffc3f">https://studio.factor.fi/?hash=0x99d4d514caca997bf8b60702f213caefdebc3fa58ed0699eb501139ba77ffc3f</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (76).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0x0bb0ff9b3dcddc11b93071c6f75cac9cff05b924ac6fb724789ae2290af6246a">https://studio.factor.fi/?hash=0x0bb0ff9b3dcddc11b93071c6f75cac9cff05b924ac6fb724789ae2290af6246a</a></p></figcaption></figure>
 
 The vault collateralizes cbBTC on Aave to earn amplified interest differentials on borrowed ETH.
 
