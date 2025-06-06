@@ -63,7 +63,7 @@ Visit our [Exit Strategy explainer](../../../../factor-studio/studio-pro/exit-st
 {% endtab %}
 
 {% tab title="Coinbase" %}
-* [\~3.1%](https://www.coinbase.com/en-gb/earn/staking/coinbase-wrapped-staked-eth) rETH Liquid Staking Yields
+* [\~3.1%](https://www.coinbase.com/en-gb/earn/staking/coinbase-wrapped-staked-eth) cbETH Liquid Staking Yields
 {% endtab %}
 
 {% tab title="OpenOcean" %}
