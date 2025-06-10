@@ -2,17 +2,16 @@
 
 ## Overview
 
-Factor Leverage Building Block facilitates advanced [collateralized lending and borrowing](concepts/collateralized-lending-and-borrowing.md) management across multiple DeFi lending protocols. By codifying the convoluted lending processes, the Leverage Building Block provides a simple interface enabling lenders to quickly manage their positions in accordance with market dynamics.
+Factor Studio also provides a leverage template which enables simple management of leveraged strategies. This combines various building blocks to facilitate advanced [collateralized lending and borrowing](concepts/collateralized-lending-and-borrowing.md) management across multiple DeFi lending protocols. By codifying the convoluted lending processes, the Leverage Building Block provides a simple interface enabling lenders to quickly manage their positions in accordance with market dynamics.
 
-The Leverage Building Block currently supports the following operations:
+The Leverage template combines the following blocks:
 
-* Create Lending Position
-* Withdraw Lending Position
-* Create Borrow Position
-* Repay Borrowed Position
-* Refinance Position
+* Flash Loan
+* Lend
+* Borrow
+* Swap
 
-With integrations across multiple lending protocols, lenders are free to choose between their preferred protocols, tokens, and strategies without worrying about specific protocol differences. The Leverage Building Block allows lenders to easily access more liquidity while offsetting the opportunity costs of [HODL](https://www.investopedia.com/terms/h/hodl.asp)ing their favourite tokens.
+With integrations across multiple lending protocols, lenders are free to choose between their preferred protocols, tokens, and strategies without worrying about specific protocol differences. The Leverage template allows lenders to easily access more liquidity while offsetting the opportunity costs of [HODL](https://www.investopedia.com/terms/h/hodl.asp)ing their favourite tokens.
 
 <details>
 
@@ -26,7 +25,6 @@ With integrations across multiple lending protocols, lenders are free to choose 
 ## Features
 
 * **Access More Liquidity:** Maintain exposure to collateralized assets while maximizing capital efficiency by borrowing tokens against your lending position.
-* [**One-Click Looping**](concepts/looping.md#one-click-looping)**:** Choose your desired leverage multiplier and the Leverage Building Block handles the complex process of depositing, borrowing, and looping.
 * **Collateral And Debt Asset Switching:** Easily replace your collateral or borrowed token with an alternate token in a single transaction.
 * **Effortless Refinancing:** Compare lending terms across multiple protocols and seamlessly migrate your leveraged position to take advantage of market conditions.
 * **Liquidation Safeguards:** Immediate liquidations risks are minimized through customizable parameters that enable risk management flexibility.
@@ -37,6 +35,7 @@ With integrations across multiple lending protocols, lenders are free to choose 
 Factor has integrated with leading lending protocols, offering a broad spectrum of possibilities for your strategies.
 
 * [Aave](https://aave.com/)
+* [Compound](https://app.compound.finance/markets)
 * [Lodestar Finance](https://www.lodestarfinance.io/)
 * [Silo](https://www.silo.finance/)
 * [Tender.Fi](https://www.tender.fi/)
