@@ -14,7 +14,7 @@ Visit Studio to copy/fork and tweak this strategy!
 
 ## Description
 
-<figure><img src="../../../../.gitbook/assets/image (76).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0x0bb0ff9b3dcddc11b93071c6f75cac9cff05b924ac6fb724789ae2290af6246a">https://studio.factor.fi/?hash=0x0bb0ff9b3dcddc11b93071c6f75cac9cff05b924ac6fb724789ae2290af6246a</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Amplified cbETH Yields On cbBTC Lend.jpeg" alt=""><figcaption></figcaption></figure>
 
 The vault collateralizes cbBTC on Aave to earn amplified interest differentials on borrowed ETH.
 
@@ -29,6 +29,8 @@ Borrowed ETH is swapped for cbETH to create a 3.5x leveraged cbETH:ETH position 
 \- ETH borrow interest
 
 ## Strategy
+
+<figure><img src="../../../../.gitbook/assets/image (76).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0x0bb0ff9b3dcddc11b93071c6f75cac9cff05b924ac6fb724789ae2290af6246a">https://studio.factor.fi/?hash=0x0bb0ff9b3dcddc11b93071c6f75cac9cff05b924ac6fb724789ae2290af6246a</a></p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Main strategy" %}

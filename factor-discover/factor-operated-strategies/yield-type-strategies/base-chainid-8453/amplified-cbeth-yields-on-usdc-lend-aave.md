@@ -14,7 +14,7 @@ Visit Studio to copy/fork and tweak this strategy!
 
 ## Description
 
-<figure><img src="../../../../.gitbook/assets/image (79).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xa383182aa4e1feece921d7e65ff0ce55476964a4bc27398772abb084291e696a">https://studio.factor.fi/?hash=0xa383182aa4e1feece921d7e65ff0ce55476964a4bc27398772abb084291e696a</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Amplified cbETH Yields On USDC Lend.jpeg" alt=""><figcaption></figcaption></figure>
 
 The vault deposits USDC into Aave to earn lending interest.
 
@@ -29,6 +29,8 @@ Borrowed ETH is swapped for cbETH to create a 3.5x leveraged cbETH:ETH position 
 \- ETH borrow interest
 
 ## Strategy
+
+<figure><img src="../../../../.gitbook/assets/image (79).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xa383182aa4e1feece921d7e65ff0ce55476964a4bc27398772abb084291e696a">https://studio.factor.fi/?hash=0xa383182aa4e1feece921d7e65ff0ce55476964a4bc27398772abb084291e696a</a></p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Main strategy" %}
