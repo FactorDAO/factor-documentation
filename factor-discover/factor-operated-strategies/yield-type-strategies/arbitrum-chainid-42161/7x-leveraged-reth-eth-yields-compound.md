@@ -14,7 +14,7 @@ Visit Studio to copy/fork and tweak this strategy!
 
 ## Description
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xdbe8f35df5f8376525ca9a908f457a9d4b8c0206f83593d072bbbfa007134d14">https://studio.factor.fi/?hash=0xdbe8f35df5f8376525ca9a908f457a9d4b8c0206f83593d072bbbfa007134d14</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xdbe8f35df5f8376525ca9a908f457a9d4b8c0206f83593d072bbbfa007134d14">https://studio.factor.fi/?hash=0xdbe8f35df5f8376525ca9a908f457a9d4b8c0206f83593d072bbbfa007134d14</a></p></figcaption></figure>
 
 This vault creates 7x leveraged rETH:ETH position that earns 1x rETH liquid staking yields plus an additional 6x interest differential between rETH yields and WETH borrow costs.
 
