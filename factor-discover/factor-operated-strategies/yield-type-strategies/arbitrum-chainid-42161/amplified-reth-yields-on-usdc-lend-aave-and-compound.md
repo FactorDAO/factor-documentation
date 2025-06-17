@@ -14,7 +14,7 @@ Visit Studio to copy/fork and tweak this strategy!
 
 ## Description
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xa9a44aa3cf596db955cb9687fb373d7090411c7883fcea41384cd91f51788f99">https://studio.factor.fi/?hash=0xa9a44aa3cf596db955cb9687fb373d7090411c7883fcea41384cd91f51788f99</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/4.4x rETH Carry + 1x USDC Lending.jpg" alt=""><figcaption></figcaption></figure>
 
 This strategy earns blended USDC and ETH yields by taking advantage of differences in Aave and Compound.
 
@@ -33,6 +33,8 @@ The rETH is then used to create a 7x leveraged rETH:ETH position (5% liquidation
 \+ COMP rewards on ETH borrow (Compound)
 
 ## Strategy
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xa9a44aa3cf596db955cb9687fb373d7090411c7883fcea41384cd91f51788f99">https://studio.factor.fi/?hash=0xa9a44aa3cf596db955cb9687fb373d7090411c7883fcea41384cd91f51788f99</a></p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Main strategy" %}
