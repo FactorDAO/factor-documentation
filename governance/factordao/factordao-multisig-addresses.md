@@ -42,6 +42,15 @@ To ensure the safe handling of community assets in accordance with FactorDAO con
 
 <summary><strong>Protocol Rewards</strong></summary>
 
+* **Address:** [`0x51c3Fd6B79CfA359E19e16256560B4E7E9c8bF09`](https://arbiscan.io/address/0x51c3Fd6B79CfA359E19e16256560B4E7E9c8bF09)
+* **Signatory Requirements:** 2 of 3 signatures.
+
+</details>
+
+<details>
+
+<summary><strong>Protocol Rewards (Maintainence Mode)</strong></summary>
+
 * **Address:** [`0x0fD4643B81F0B58358eF500A06aA4A3F3E0cDE62`](https://arbiscan.io/address/0x0fD4643B81F0B58358eF500A06aA4A3F3E0cDE62)
 * **Signatory Requirements:** 3 of 4 signatures.
 
