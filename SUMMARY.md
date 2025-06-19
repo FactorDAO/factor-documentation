@@ -72,6 +72,7 @@
 * [⚙️ Factor Operated Strategies](factor-discover/factor-operated-strategies/README.md)
   * [Yield Type Strategies](factor-discover/factor-operated-strategies/yield-type-strategies/README.md)
     * [Arbitrum (ChainID: 42161)](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/README.md)
+      * [3.4x rETH Carry + 1x ARB Lending Yields - Aave & Compound](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/3.4x-reth-carry-+-1x-arb-lending-yields-aave-and-compound.md)
       * [3.9x wstETH Carry + 1x USDT Lending Yields - Aave & Compound](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/3.9x-wsteth-carry-+-1x-usdt-lending-yields-aave-and-compound.md)
       * [4.4x rETH Carry + 1x USDC Lending Yields - Aave & Compound](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/amplified-reth-yields-on-usdc-lend-aave-and-compound.md)
       * [7x Leveraged rETH:ETH Yields - Compound](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/7x-leveraged-reth-eth-yields-compound.md)
