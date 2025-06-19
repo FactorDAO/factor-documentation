@@ -3,13 +3,13 @@
 {% hint style="success" %}
 Visit Discover to deposit into this strategy and automate your yields!
 
-:arrow\_right: [Strategy Link](https://pro.factor.fi/strategies/0xcf3eDe7c4Da32F19E8196E17A05Ab35cAe8AA9Ba)
+:inbox\_tray: [Strategy Link](https://pro.factor.fi/strategies/0xf144C112Fd6Eb5a0C00ddAf0708B52420CB7a372)
 {% endhint %}
 
 {% hint style="info" %}
 Visit Studio to copy/fork and tweak this strategy!
 
-:arrow\_right: [Strategy Builder Link](https://studio.factor.fi/?hash=0xa9a44aa3cf596db955cb9687fb373d7090411c7883fcea41384cd91f51788f99)
+:tools: [Strategy Builder Link](https://studio.factor.fi/?hash=0xf642c4a3e756bf4438a73fa8501b631bff2425a908a4e808db15f825da5123fb)
 {% endhint %}
 
 ## Description
@@ -34,7 +34,7 @@ The rETH is then used to create a 7x leveraged rETH:ETH position (5% liquidation
 
 ## Strategy
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xa9a44aa3cf596db955cb9687fb373d7090411c7883fcea41384cd91f51788f99">https://studio.factor.fi/?hash=0xa9a44aa3cf596db955cb9687fb373d7090411c7883fcea41384cd91f51788f99</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xf642c4a3e756bf4438a73fa8501b631bff2425a908a4e808db15f825da5123fb">https://studio.factor.fi/?hash=0xf642c4a3e756bf4438a73fa8501b631bff2425a908a4e808db15f825da5123fb</a></p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Main strategy" %}
