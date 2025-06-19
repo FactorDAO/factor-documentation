@@ -1,20 +1,20 @@
-# Diversified USDC Lending Yields - Aave & USDC
+# Diversified USDC Lending Yields - Aave & Compound
 
 {% hint style="success" %}
 Visit Discover to deposit into this strategy and automate your yields!
 
-:arrow\_right: [Strategy Link](https://pro.factor.fi/strategies/0x6440EaF750245bc4c1a4D8400D8FcD249168b89a)
+:inbox\_tray:  [Strategy Link](https://pro.factor.fi/strategies/0xCAbb63CFEe43eDE977a01955D1c3742000baddae)
 {% endhint %}
 
 {% hint style="info" %}
 Visit Studio to copy/fork and tweak this strategy!
 
-:arrow\_right: [Strategy Builder Link](https://studio.factor.fi/?hash=0xd8586097be25321e3d4a85b3fb9c4607bc3b9a83de3098c57639be8ff74062ae)
+:tools:  [Strategy Builder Link](https://studio.factor.fi/?hash=0x3419064c42ad1868dcd1f07e760a1b2435bc98646e760f1a2b8bf32e3aa34b7b)
 {% endhint %}
 
 ## Description
 
-<figure><img src="../../../../.gitbook/assets/image (63).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xd8586097be25321e3d4a85b3fb9c4607bc3b9a83de3098c57639be8ff74062ae">https://studio.factor.fi/?hash=0xd8586097be25321e3d4a85b3fb9c4607bc3b9a83de3098c57639be8ff74062ae</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (63).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0x3419064c42ad1868dcd1f07e760a1b2435bc98646e760f1a2b8bf32e3aa34b7b">https://studio.factor.fi/?hash=0x3419064c42ad1868dcd1f07e760a1b2435bc98646e760f1a2b8bf32e3aa34b7b</a></p></figcaption></figure>
 
 This strategy earns diversified USDC lending interest on both Aave and Compound.
 
