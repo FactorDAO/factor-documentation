@@ -3,7 +3,7 @@
 {% hint style="success" %}
 Visit Discover to deposit into this strategy and automate your yields!
 
-:arrow\_right: [Strategy Link](https://pro.factor.fi/strategies/0x1D45B72F007cacB78333AB2aC10128562CabC44c)
+:arrow\_right: [Strategy Deposit Link](https://pro.factor.fi/strategies/0x1D45B72F007cacB78333AB2aC10128562CabC44c)
 {% endhint %}
 
 {% hint style="info" %}
@@ -16,7 +16,7 @@ Visit Studio to copy/fork and tweak this strategy!
 
 ## Description
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xb53572bd4b8e3a597bfb7589faec5828432da28cfd9e16de9cd93097c7ce35ab">https://studio.factor.fi/?hash=0xb53572bd4b8e3a597bfb7589faec5828432da28cfd9e16de9cd93097c7ce35ab</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xb53572bd4b8e3a597bfb7589faec5828432da28cfd9e16de9cd93097c7ce35ab">https://studio.factor.fi/?hash=0xb53572bd4b8e3a597bfb7589faec5828432da28cfd9e16de9cd93097c7ce35ab</a></p></figcaption></figure>
 
 An ETH rotation play which earns USD yields on rETH by switching the base asset from USD → WBTC. This strategy profits when ETH outperforms WBTC and is profitable as long as the generated USDC lending interest is greater than rETH to WBTC underperformance.
 
@@ -51,7 +51,7 @@ An ETH rotation play which earns USD yields on rETH by switching the base asset 
 
 Factor Discover also enables Depositors to permissionlessly withdraw from any strategy at anytime via an Exit Strategy.
 
-Visit our [Exit Strategy explainer](../../../factor-studio/studio-pro/exit-strategy.md) to see how Factor Studio strategies can maximize returns while ensuring truly permissionless withdrawals.
+Visit our [Exit Strategy explainer](../../../../factor-studio/studio-pro/exit-strategy.md) to see how Factor Studio strategies can maximize returns while ensuring truly permissionless withdrawals.
 {% endhint %}
 
 ## Protocol Parameters

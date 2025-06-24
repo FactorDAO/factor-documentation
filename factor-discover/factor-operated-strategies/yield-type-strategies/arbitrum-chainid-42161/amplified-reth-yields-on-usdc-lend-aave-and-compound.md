@@ -3,7 +3,7 @@
 {% hint style="success" %}
 Visit Discover to deposit into this strategy and automate your yields!
 
-:inbox\_tray: [Strategy Link](https://pro.factor.fi/strategies/0xf144C112Fd6Eb5a0C00ddAf0708B52420CB7a372)
+:inbox\_tray: [Strategy Deposit Link](https://pro.factor.fi/strategies/0xf144C112Fd6Eb5a0C00ddAf0708B52420CB7a372)
 {% endhint %}
 
 {% hint style="info" %}
