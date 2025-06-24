@@ -34,7 +34,7 @@ The rETH is then used to create a 7x leveraged rETH:ETH position (5% liquidation
 
 ## Strategy
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xf642c4a3e756bf4438a73fa8501b631bff2425a908a4e808db15f825da5123fb">https://studio.factor.fi/?hash=0xf642c4a3e756bf4438a73fa8501b631bff2425a908a4e808db15f825da5123fb</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xf642c4a3e756bf4438a73fa8501b631bff2425a908a4e808db15f825da5123fb">https://studio.factor.fi/?hash=0xf642c4a3e756bf4438a73fa8501b631bff2425a908a4e808db15f825da5123fb</a></p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Main strategy" %}
