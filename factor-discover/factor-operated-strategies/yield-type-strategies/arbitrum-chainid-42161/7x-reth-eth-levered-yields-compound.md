@@ -14,7 +14,7 @@ Visit Studio to copy/fork and tweak this strategy!
 
 ## Description
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xb554842f53a095d023e685fb7d24b1b682a65b7c8b91fccc1b14b851657ebde0">https://studio.factor.fi/?hash=0xb554842f53a095d023e685fb7d24b1b682a65b7c8b91fccc1b14b851657ebde0</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/7x rETH_ETH Levered Yields-Full.jpg" alt=""><figcaption></figcaption></figure>
 
 This vault creates 7x leveraged rETH:ETH position that earns 1x rETH liquid staking yields plus an additional 6x interest differential between rETH yields and WETH borrow costs.
 
@@ -27,6 +27,8 @@ Deposited rETH is supplied to Compound enabling the strategy to borrow WETH whic
 \- ETH borrow interest
 
 ## Strategy
+
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xb554842f53a095d023e685fb7d24b1b682a65b7c8b91fccc1b14b851657ebde0">https://studio.factor.fi/?hash=0xb554842f53a095d023e685fb7d24b1b682a65b7c8b91fccc1b14b851657ebde0</a></p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Main strategy" %}
