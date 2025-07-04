@@ -6,7 +6,7 @@
 
 **Lead Team:**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Founder</strong></td><td>Kurapika</td><td></td><td><a href="../.gitbook/assets/ProfPic_Kurapika.jpeg">ProfPic_Kurapika.jpeg</a></td><td><a href="https://twitter.com/Kurapika_DAO">https://twitter.com/Kurapika_DAO</a></td></tr><tr><td><strong>Product Manager</strong></td><td>Andrea0x_eth</td><td></td><td><a href="../.gitbook/assets/ProfPic_Andrea.jpeg">ProfPic_Andrea.jpeg</a></td><td><a href="https://twitter.com/Andrea0x_eth">https://twitter.com/Andrea0x_eth</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Founder</strong></td><td>Kurapika</td><td></td><td><a href="../.gitbook/assets/ProfPic_Kurapika.jpeg">ProfPic_Kurapika.jpeg</a></td><td><a href="https://x.com/Kurapika_DeFi">https://x.com/Kurapika_DeFi</a></td></tr><tr><td><strong>Product Manager</strong></td><td>Andrea0x_eth</td><td></td><td><a href="../.gitbook/assets/ProfPic_Andrea.jpeg">ProfPic_Andrea.jpeg</a></td><td><a href="https://twitter.com/Andrea0x_eth">https://twitter.com/Andrea0x_eth</a></td></tr></tbody></table>
 
 **Launched**: February 2022
 
