@@ -24,15 +24,34 @@ Borrowed WETH from Aave is swapped for rETH earning the interest differentials b
 
 The rETH is then used to create a 7x leveraged rETH:ETH position (5% liquidation buffer) which earns an additional 6x interest differential between rETH liquid staking yields and Compound WETH borrow interest. The total WETH borrowed on Compound also earns additional COMP borrow rewards.
 
-\+ USDC supply interest (Aave)
+## Strategy Performance Conditions
 
-\+ rETH liquid staking yields
+<figure><img src="../../../../.gitbook/assets/4.4x rETH Carry + 1x USDC Lending Yields - Aave &#x26; Compound-Risks vs Returns (1).jpg" alt=""><figcaption></figcaption></figure>
 
-\- ETH borrow interest
+{% tabs %}
+{% tab title="Profit" %}
+* rETH continuously increases in value vs WETH.
+* WETH borrow cost is less than rETH liquid staking yields across Aave and Compound (including COMP rewards).
+* USDC supply interest is greater than the interest differentials between rETH yield and WETH borrow.
+{% endtab %}
 
-\+ COMP rewards on ETH borrow (Compound)
+{% tab title="Loss" %}
+* rETH depegs from ETH.
+* rETH liquid staking yields falls below WETH borrow costs.
+{% endtab %}
+{% endtabs %}
 
-## Strategy
+## Where Does The Yield Come From?
+
+<figure><img src="../../../../.gitbook/assets/4.4x rETH Carry + 1x USDC Lending Yields - Aave &#x26; Compound-Yield.jpg" alt=""><figcaption><p>Strategy Flow</p></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/4.4x rETH Carry + 1x USDC Lending Yields - Aave &#x26; Compound-Exposure (Horizontal).jpg" alt=""><figcaption><p>Strategy Exposure</p></figcaption></figure>
+
+## Comparisons
+
+<figure><img src="../../../../.gitbook/assets/4.4x rETH Carry + 1x USDC Lending Yields - Aave &#x26; Compound-Comparison.jpg" alt=""><figcaption></figcaption></figure>
+
+## Factor Studio Strategy
 
 <figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xf642c4a3e756bf4438a73fa8501b631bff2425a908a4e808db15f825da5123fb">https://studio.factor.fi/?hash=0xf642c4a3e756bf4438a73fa8501b631bff2425a908a4e808db15f825da5123fb</a></p></figcaption></figure>
 
@@ -80,21 +99,6 @@ The rETH is then used to create a 7x leveraged rETH:ETH position (5% liquidation
 
 {% tab title="OpenOcean" %}
 * 0.1% Max Slippage Config
-{% endtab %}
-{% endtabs %}
-
-## Strategy Performance Conditions
-
-{% tabs %}
-{% tab title="Profit" %}
-* rETH continuously increases in value vs WETH.
-* WETH borrow cost is less than rETH liquid staking yields across Aave and Compound (including COMP rewards).
-* USDC supply interest is greater than the interest differentials between rETH yield and WETH borrow.
-{% endtab %}
-
-{% tab title="Loss" %}
-* rETH depegs from ETH.
-* rETH liquid staking yields falls below WETH borrow costs.
 {% endtab %}
 {% endtabs %}
 
