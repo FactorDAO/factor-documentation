@@ -43,7 +43,7 @@ The rETH is then used to create a 7x leveraged rETH:ETH position (5% liquidation
 {% endtab %}
 {% endtabs %}
 
-## Where Does The Yield Come From?
+## Where Does The Yields Come From?
 
 <figure><img src="../../../../.gitbook/assets/4.4x rETH Carry + 1x USDC Lending Yields - Aave &#x26; Compound-Exposure (Horizontal).jpg" alt=""><figcaption><p>Strategy Exposure</p></figcaption></figure>
 
