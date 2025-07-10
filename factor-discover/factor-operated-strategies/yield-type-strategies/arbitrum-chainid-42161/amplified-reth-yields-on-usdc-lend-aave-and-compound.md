@@ -24,6 +24,8 @@ Borrowed WETH from Aave is swapped for rETH earning the interest differentials b
 
 The rETH is then used to create a 7x leveraged rETH:ETH position (5% liquidation buffer) which earns an additional 6x interest differential between rETH liquid staking yields and Compound WETH borrow interest. The total WETH borrowed on Compound also earns additional COMP borrow rewards.
 
+<figure><img src="../../../../.gitbook/assets/4.4x rETH Carry + 1x USDC Lending Yields - Aave &#x26; Compound-Yield.jpg" alt=""><figcaption><p>Strategy Flow</p></figcaption></figure>
+
 ## Strategy Performance Conditions
 
 <figure><img src="../../../../.gitbook/assets/4.4x rETH Carry + 1x USDC Lending Yields - Aave &#x26; Compound-Risks vs Returns (1).jpg" alt=""><figcaption></figcaption></figure>
@@ -42,8 +44,6 @@ The rETH is then used to create a 7x leveraged rETH:ETH position (5% liquidation
 {% endtabs %}
 
 ## Where Does The Yield Come From?
-
-<figure><img src="../../../../.gitbook/assets/4.4x rETH Carry + 1x USDC Lending Yields - Aave &#x26; Compound-Yield.jpg" alt=""><figcaption><p>Strategy Flow</p></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/4.4x rETH Carry + 1x USDC Lending Yields - Aave &#x26; Compound-Exposure (Horizontal).jpg" alt=""><figcaption><p>Strategy Exposure</p></figcaption></figure>
 
