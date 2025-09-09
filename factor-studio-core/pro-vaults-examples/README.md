@@ -286,6 +286,3 @@ When adding new examples:
 ## Resources
 
 - [Factor Documentation](https://docs.factor.fi)
-- [Studio Pro API Reference](./api-reference.md)
-- [Strategy Builder Guide](./strategy-builder-guide.md)
-- [Adapter Documentation](./adapter-documentation.md)
