@@ -96,6 +96,38 @@ Factor Studio Pro Vaults are public strategies that anyone can deposit into and 
   - **05-withdraw-all-usdc.ts**: Withdraw all USDC from Compound
   - **06-get-user-info.ts**: Get user information from Compound
   - **07-claim-rewards.ts**: Claim rewards from Compound
+  
+See [Compound Integration](compound-integration.md) for more details.
+
+### 11. Morpho Integration (`morpho/`)
+Specialized examples for Morpho lending protocol integration:
+
+- **00-add-market.ts**: Add Morpho market to vault configuration
+- **01-supply-collateral.ts**: Supply collateral to Morpho markets
+- **01-supply-collateral-all.ts**: Supply all available collateral
+- **02-withdraw-collateral.ts**: Withdraw collateral from Morpho markets
+- **02-withdraw-collateral-all.ts**: Withdraw all collateral
+- **02-withdraw-collateral-%.ts**: Withdraw percentage of collateral
+- **03-borrow.ts**: Borrow assets from Morpho markets
+- **04-supply.ts**: Supply assets to Morpho markets
+- **04-supply-all.ts**: Supply all available assets
+- **05-withdraw.ts**: Withdraw supplied assets
+- **05-withdraw-all.ts**: Withdraw all supplied assets
+- **06-repay.ts**: Repay borrowed assets
+- **06-repay-all.ts**: Repay all borrowed assets
+- **07-claim-rewards.ts**: Claim rewards from Morpho markets
+
+See [Morpho Integration](morpho-integration.md) for more details.
+
+### 12. Aave Integration (`strategies/00-aave-lend-borrow/`)
+Specialized examples for Aave lending protocol integration:
+
+- **01-deploy-vault.ts**: Deploy vault with Aave integration configuration
+- **02-set-deposit-strategy.ts**: Set up deposit strategies for automatic execution
+- **03-deposit-usdc-and-execute.ts**: Deposit assets and execute strategies in one transaction
+- **04-withdraw-from-aave.ts**: Withdraw assets from Aave markets
+
+See [Aave Integration](aave-integration.md) for more details.
 
 ## Key Concepts
 

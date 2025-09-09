@@ -338,52 +338,6 @@ const executeData = proVault.executeByManager(yieldStrategy);
 await client.sendTransaction({ ...executeData });
 ```
 
-## Risk Management
-
-### 1. Health Factor Monitoring
-
-```typescript
-// Monitor health factor
-const healthFactor = await proVault.getHealthFactor({
-  marketAddress: USDC_MARKET,
-  userAddress: userAddress
-});
-
-if (healthFactor < 1.5) {
-  console.warn('Health factor is low:', healthFactor);
-  // Implement risk management actions
-}
-```
-
-### 2. Liquidation Risk
-
-```typescript
-// Check liquidation risk
-const liquidationRisk = await proVault.getLiquidationRisk({
-  marketAddress: USDC_MARKET,
-  userAddress: userAddress
-});
-
-if (liquidationRisk.isAtRisk) {
-  console.warn('User is at liquidation risk');
-  // Implement protective measures
-}
-```
-
-### 3. Borrow Limit
-
-```typescript
-// Check borrow limit
-const borrowLimit = await proVault.getBorrowLimit({
-  marketAddress: USDC_MARKET,
-  userAddress: userAddress
-});
-
-if (borrowLimit.available < requiredAmount) {
-  throw new Error('Insufficient borrow capacity');
-}
-```
-
 ## Best Practices
 
 ### 1. Market Selection
@@ -410,49 +364,7 @@ if (borrowLimit.available < requiredAmount) {
 - Analyze performance
 - Implement alerts
 
-## Common Issues and Solutions
-
-### 1. Insufficient Collateral
-```typescript
-// Check collateral before borrowing
-const collateralValue = await proVault.getCollateralValue({
-  marketAddress: USDC_MARKET,
-  userAddress: userAddress
-});
-
-if (collateralValue < requiredCollateral) {
-  throw new Error('Insufficient collateral');
-}
-```
-
-### 2. Market Pause
-```typescript
-// Check if market is paused
-const isPaused = await proVault.isMarketPaused({
-  marketAddress: USDC_MARKET
-});
-
-if (isPaused) {
-  throw new Error('Market is paused');
-}
-```
-
-### 3. Borrow Limit Exceeded
-```typescript
-// Check borrow limit
-const borrowLimit = await proVault.getBorrowLimit({
-  marketAddress: USDC_MARKET,
-  userAddress: userAddress
-});
-
-if (borrowLimit.used + borrowAmount > borrowLimit.max) {
-  throw new Error('Borrow limit exceeded');
-}
-```
-
 ## Resources
 
 - [Compound V3 Documentation](https://docs.compound.finance/)
 - [Compound V3 Adapter API](./api-reference.md#compound-v3-adapter)
-- [Risk Management Guide](./risk-management.md)
-- [Market Analytics](./market-analytics.md)

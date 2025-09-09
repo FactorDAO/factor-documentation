@@ -84,6 +84,8 @@ The Factor SDK Studio includes comprehensive examples in the `pro-vaults-example
 - **[Strategy Execution Examples](pro-vaults-examples/strategy-execution.md)**: Comprehensive examples of executing DeFi strategies using the Strategy Builder
 - **[Asset Management Examples](pro-vaults-examples/asset-management.md)**: Managing deposits, withdrawals, and balance tracking within vaults
 - **[Compound V3 Integration](pro-vaults-examples/compound-integration.md)**: Specialized examples for Compound V3 lending and borrowing operations
+- **[Morpho Integration](pro-vaults-examples/morpho-integration.md)**: Comprehensive examples for Morpho lending protocol integration
+- **[Aave Integration](pro-vaults-examples/aave-integration.md)**: Complete examples for Aave lending protocol integration
 
 ### Key Example Categories
 

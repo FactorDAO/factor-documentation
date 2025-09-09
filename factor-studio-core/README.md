@@ -137,6 +137,8 @@ The `pro-vaults-examples/` directory contains comprehensive examples demonstrati
 - **[Strategy Execution](pro-vaults-examples/strategy-execution.md)**: Examples of executing various DeFi strategies using the vault's manager privileges
 - **[Asset Management](pro-vaults-examples/asset-management.md)**: Managing deposits, withdrawals, and balance tracking within vaults
 - **[Compound Integration](pro-vaults-examples/compound-integration.md)**: Specialized examples for Compound V3 lending and borrowing operations
+- **[Morpho Integration](pro-vaults-examples/morpho-integration.md)**: Comprehensive examples for Morpho lending protocol integration
+- **[Aave Integration](pro-vaults-examples/aave-integration.md)**: Complete examples for Aave lending protocol integration
 
 ### Key Features Demonstrated
 
