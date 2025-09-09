@@ -73,6 +73,61 @@ Currently supported chains:
 ### Contract Addresses
 The address book is available in the `src/common/address/{chain}` folder, there's a file for each chain and each environment.
 
+## Pro Vaults Examples
+
+The Factor SDK Studio includes comprehensive examples in the `pro-vaults-examples/` directory that demonstrate real-world usage of the Studio Pro system. These examples provide practical implementations of various DeFi strategies and vault management operations.
+
+### Example Documentation
+
+- **[Pro Vaults Examples Overview](pro-vaults-examples/README.md)**: Complete overview of all available examples and their purposes
+- **[Vault Deployment Examples](pro-vaults-examples/vault-deployment.md)**: Step-by-step guide to deploying vaults with different configurations
+- **[Strategy Execution Examples](pro-vaults-examples/strategy-execution.md)**: Comprehensive examples of executing DeFi strategies using the Strategy Builder
+- **[Asset Management Examples](pro-vaults-examples/asset-management.md)**: Managing deposits, withdrawals, and balance tracking within vaults
+- **[Compound V3 Integration](pro-vaults-examples/compound-integration.md)**: Specialized examples for Compound V3 lending and borrowing operations
+
+### Key Example Categories
+
+#### 1. **Vault Deployment** (10+ examples)
+- Basic vault deployment configurations
+- Advanced vault setups with multiple assets
+- Different adapter configurations
+- Fee structure examples
+
+#### 2. **Strategy Execution** (15+ examples)
+- Swap strategies (Uniswap, OpenOcean)
+- Lending strategies (Aave, Compound)
+- Liquidity provision (Uniswap V3, Camelot)
+- Yield farming strategies
+- Flash loan implementations
+
+#### 3. **Asset Management** (10+ examples)
+- Deposit and withdrawal operations
+- Balance tracking and analytics
+- Share calculations
+- Asset configuration management
+
+#### 4. **Advanced Features** (10+ examples)
+- Boost and reward management
+- Governance operations
+- Strategy validation and testing
+- Analytics and monitoring
+
+### Getting Started with Examples
+
+1. **Review the Overview**: Start with the [Pro Vaults Examples README](pro-vaults-examples/README.md) to understand the structure
+2. **Environment Setup**: Configure your development environment following the setup guides
+3. **Deploy Your First Vault**: Use the [Vault Deployment Examples](pro-vaults-examples/vault-deployment.md) to deploy a test vault
+4. **Execute Strategies**: Learn strategy execution with the [Strategy Execution Examples](pro-vaults-examples/strategy-execution.md)
+5. **Manage Assets**: Understand asset management with the [Asset Management Examples](pro-vaults-examples/asset-management.md)
+
+### Example Use Cases
+
+- **Yield Farming**: Deploy vaults that automatically farm yield from multiple protocols
+- **Leverage Trading**: Create leveraged positions using Aave and other lending protocols
+- **Liquidity Provision**: Provide liquidity to DEXs and earn trading fees
+- **Arbitrage**: Execute arbitrage strategies across different DEXs
+- **Portfolio Management**: Manage multi-asset portfolios with automated rebalancing
+
 ## Dependencies
 
 ### Core Dependencies

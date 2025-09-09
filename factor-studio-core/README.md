@@ -30,6 +30,8 @@ The core smart contract package containing all Solidity contracts for the Factor
 
 **Version:** 2.0.54
 
+For detailed documentation, see [Factor Contracts Documentation](factor-contracts.md).
+
 ### 2. Factor SDK (`@factordao/sdk`) - Legacy strategies
 The core TypeScript SDK providing high-level interfaces for interacting with Factor protocol contracts.
 
@@ -56,6 +58,8 @@ Studio-specific SDK providing advanced tools for strategy builders and developer
 - **Scale Integration**: Governance and staking features
 
 **Version:** 2.0.54
+
+For detailed documentation, see [Factor SDK Studio Documentation](factor-sdk-studio.md).
 
 ## Getting Started
 
@@ -122,6 +126,36 @@ The Factor protocol supports multiple blockchain networks including:
 - **Hardhat Deploy**: Contract deployment management
 - **Tenderly**: Contract verification and monitoring
 - **Docker**: Containerized deployment options
+
+## Pro Vaults Examples
+
+The `pro-vaults-examples/` directory contains comprehensive examples demonstrating how to use the Factor Studio Pro Vaults system. These examples cover everything from basic vault deployment to advanced strategy execution and management.
+
+### Example Categories
+
+- **[Vault Deployment](pro-vaults-examples/vault-deployment.md)**: Complete guide to deploying vaults with different configurations
+- **[Strategy Execution](pro-vaults-examples/strategy-execution.md)**: Examples of executing various DeFi strategies using the vault's manager privileges
+- **[Asset Management](pro-vaults-examples/asset-management.md)**: Managing deposits, withdrawals, and balance tracking within vaults
+- **[Compound Integration](pro-vaults-examples/compound-integration.md)**: Specialized examples for Compound V3 lending and borrowing operations
+
+### Key Features Demonstrated
+
+- **Public Vaults**: Anyone can deposit and withdraw from these strategies
+- **Manager Execution**: Only designated managers can execute strategies
+- **Multi-Asset Support**: Support for multiple assets and debt positions
+- **Advanced Strategies**: Leverage, yield farming, liquidity provision, and more
+- **Risk Management**: Built-in risk controls and validation
+- **Fee Management**: Configurable deposit, withdrawal, performance, and management fees
+
+### Getting Started with Examples
+
+1. **Environment Setup**: Configure your development environment with required API keys
+2. **Vault Deployment**: Deploy your first vault using the deployment examples
+3. **Strategy Execution**: Learn to execute strategies using the Strategy Builder
+4. **Asset Management**: Understand deposit/withdrawal flows and balance management
+5. **Advanced Integration**: Explore protocol-specific integrations like Compound V3
+
+For detailed documentation and code examples, see the [Pro Vaults Examples README](pro-vaults-examples/README.md).
 
 ## Contributing
 
