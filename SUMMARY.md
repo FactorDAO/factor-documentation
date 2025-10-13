@@ -75,6 +75,7 @@
       * [3.4x rETH Carry + 1x ARB Lending Yields - Aave & Compound](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/3.4x-reth-carry-+-1x-arb-lending-yields-aave-and-compound.md)
       * [3.9x wstETH Carry + 1x USDT Lending Yields - Aave & Compound](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/3.9x-wsteth-carry-+-1x-usdt-lending-yields-aave-and-compound.md)
       * [4.4x rETH Carry + 1x USDC Lending Yields - Aave & Compound](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/amplified-reth-yields-on-usdc-lend-aave-and-compound.md)
+      * [wstETH Boosted USDC Lending - Aave & Compound](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/wsteth-boosted-usdc-lending-aave-and-compound.md)
       * [7x rETH:ETH Levered Yields - Compound](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/7x-reth-eth-levered-yields-compound.md)
       * [7.1x wstETH:ETH Auto-Compounder - Compound](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/7.1x-wsteth-eth-auto-compounder-compound.md)
       * [Amplified wstETH Yields On USDC Lend - Aave](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/amplified-wsteth-yields-on-usdc-lend-aave.md)
