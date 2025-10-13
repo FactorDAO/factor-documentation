@@ -3,16 +3,18 @@
 {% hint style="success" %}
 Visit Discover to deposit into this strategy and automate your yields!
 
-:inbox\_tray: Strategy Deposit Link
+:inbox\_tray: [Strategy Deposit Link](https://pro.factor.fi/strategies/0x8C1f45D2A08c30cB258603378ad5Ac170935F41D)
 {% endhint %}
 
 {% hint style="info" %}
 Visit Studio to copy/fork and tweak this strategy!
 
-:tools: Strategy Builder Link
+:tools: [Strategy Builder Link](https://studio.factor.fi/?hash=0xb0e29413a72a47536193144b412d7a107580d77408cd21aee8a79dd26ad29584)
 {% endhint %}
 
 ## Description
+
+<figure><img src="../../../../.gitbook/assets/wstETH Boosted USDC Lending - Aave &#x26; Compound-Overview.jpg" alt=""><figcaption></figcaption></figure>
 
 This strategy earns blended USDC and ETH yields by taking advantage of differences in Aave and Compound.
 
@@ -23,6 +25,8 @@ Borrowed WETH from Aave is swapped for wstETH earning the interest differentials
 The wstETH is then used to create a 7.1x leveraged wstETH:ETH position (2.5% liquidation buffer) which earns an additional 6.1x interest differential between wstETH liquid staking yields and Compound WETH borrow interest. The total WETH borrowed on Compound also earns additional COMP borrow rewards.
 
 ## Strategy Performance Conditions
+
+<figure><img src="../../../../.gitbook/assets/wstETH Boosted USDC Lending - Aave &#x26; Compound-Risks vs Returns (1).jpg" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Profit" %}
@@ -39,7 +43,11 @@ The wstETH is then used to create a 7.1x leveraged wstETH:ETH position (2.5% liq
 
 ## Where Does The Yields Come From?
 
+<figure><img src="../../../../.gitbook/assets/wstETH Boosted USDC Lending - Aave &#x26; Compound-Yield.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Comparisons
+
+<figure><img src="../../../../.gitbook/assets/wstETH Boosted USDC Lending - Aave &#x26; Compound-Comparison.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Factor Studio Strategy
 
