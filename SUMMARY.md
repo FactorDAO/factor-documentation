@@ -92,6 +92,7 @@
       * [Additional Liquid Staked ETH Yields On USDC Lend](factor-discover/factor-operated-strategies/yield-type-strategies/base-chainid-8453/additional-liquid-staked-eth-yields-on-usdc-lend.md)
       * [Amplified cbETH Yields On USDC Lend - Aave](factor-discover/factor-operated-strategies/yield-type-strategies/base-chainid-8453/amplified-cbeth-yields-on-usdc-lend-aave.md)
       * [Amplified cbETH Yields On cbBTC Lend - Aave](factor-discover/factor-operated-strategies/yield-type-strategies/base-chainid-8453/amplified-cbeth-yields-on-cbbtc-lend-aave.md)
+      * [cbETH Boosted USDC Lending - Aave & Compound](factor-discover/factor-operated-strategies/yield-type-strategies/base-chainid-8453/cbeth-boosted-usdc-lending-aave-and-compound.md)
   * [Trading Type Strategies](factor-discover/factor-operated-strategies/trading-type-strategies/README.md)
     * [Arbitrum (ChainID: 42161)](factor-discover/factor-operated-strategies/trading-type-strategies/arbitrum-chainid-42161/README.md)
       * [WBTC Base Switch On rETH For ETH & USDC Yields](factor-discover/factor-operated-strategies/trading-type-strategies/arbitrum-chainid-42161/wbtc-base-switch-on-reth-for-eth-and-usdc-yields.md)

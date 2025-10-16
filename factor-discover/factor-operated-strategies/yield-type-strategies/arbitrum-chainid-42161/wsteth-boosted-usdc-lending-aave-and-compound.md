@@ -90,7 +90,7 @@ The wstETH is then used to create a 7.1x leveraged wstETH:ETH position (2.5% liq
 {% endtab %}
 
 {% tab title="Lido" %}
-* [\~3.2%](https://stake.lido.fi/) rETH Liquid Staking Yields
+* [\~3.2%](https://stake.lido.fi/) wstETH Liquid Staking Yields
 {% endtab %}
 
 {% tab title="OpenOcean" %}
