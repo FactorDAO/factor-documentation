@@ -14,6 +14,8 @@ Visit Studio to copy/fork and tweak this strategy!
 
 ## Description
 
+<figure><img src="../../../../.gitbook/assets/cbETH Boosted USDC Lending - Aave &#x26; Compound-Overview.jpg" alt=""><figcaption></figcaption></figure>
+
 This strategy earns blended USDC and ETH yields by taking advantage of differences in Aave and Compound.
 
 By depositing USDC into Aave, this strategy earns 1x the Aave USDC lending interest. This also allows the strategy to borrow WETH against the USDC collateral with a 20% buffer.&#x20;
@@ -23,6 +25,8 @@ Borrowed WETH from Aave is swapped for cbETH earning the interest differentials 
 The cbETH is then used to create a 8.2x leveraged cbETH:ETH position (2.5% liquidation buffer) which earns an additional 7.2x interest differential between cbETH liquid staking yields and Compound WETH borrow interest. The total WETH borrowed on Compound also earns additional COMP borrow rewards.
 
 ## Strategy Performance Conditions
+
+<figure><img src="../../../../.gitbook/assets/cbETH Boosted USDC Lending - Aave &#x26; Compound-Risks vs Returns.jpg" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Profit" %}
@@ -39,9 +43,15 @@ The cbETH is then used to create a 8.2x leveraged cbETH:ETH position (2.5% liqui
 
 ## Where Does The Yields Come From?
 
+<figure><img src="../../../../.gitbook/assets/cbETH Boosted USDC Lending - Aave &#x26; Compound-Yield.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Comparisons
 
+<figure><img src="../../../../.gitbook/assets/cbETH Boosted USDC Lending - Aave &#x26; Compound-Comparison.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Factor Studio Strategy
+
+<figure><img src="../../../../.gitbook/assets/image (86).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xef36c074cca61aed9708cf5fde5d4e00c71f371534e9cfd744d0608ac91d4af1">https://studio.factor.fi/?hash=0xef36c074cca61aed9708cf5fde5d4e00c71f371534e9cfd744d0608ac91d4af1</a></p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Main strategy" %}
