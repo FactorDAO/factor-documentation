@@ -3,13 +3,13 @@
 {% hint style="success" %}
 Visit Discover to deposit into this strategy and automate your yields!
 
-:inbox\_tray: Strategy Deposit Link
+:inbox\_tray: [Strategy Deposit Link](https://pro.factor.fi/strategies/0xee65d18cdc1c879822214a878660b13e8fa440f6)
 {% endhint %}
 
 {% hint style="info" %}
 Visit Studio to copy/fork and tweak this strategy!
 
-:tools: Strategy Builder Link
+:tools: [Strategy Builder Link](https://studio.factor.fi/?hash=0xef36c074cca61aed9708cf5fde5d4e00c71f371534e9cfd744d0608ac91d4af1)
 {% endhint %}
 
 ## Description
