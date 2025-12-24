@@ -4,7 +4,7 @@
 
 As a platform that enables the permissionless creation, sharing, and management of DeFi strategies in a pseudonymous environment, there are multiple facets when it comes to security. In addition to technical security (i.e. expected and secure execution of intended code), there is also the need to account for the economic security of any token deposited into public strategies.
 
-While all [Factor Studio](broken-reference) vaults are non-custodial, there is still an element of trust required when a Strategy Manager is provided the reigns to manage deposits of meaningful value. Put simply, although Managers don't directly own the deposited tokens, they can still trade against their own depositors by utilizing the value of the deposits.
+While all [Factor Studio](/broken/pages/J9dxaa0UP2AsLi8MSpg3) vaults are non-custodial, there is still an element of trust required when a Strategy Manager is provided the reigns to manage deposits of meaningful value. Put simply, although Managers don't directly own the deposited tokens, they can still trade against their own depositors by utilizing the value of the deposits.
 
 {% hint style="info" %}
 **Exit Strategy**

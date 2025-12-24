@@ -3,7 +3,7 @@
 {% hint style="success" %}
 **Integration Categories**
 
-[Factor Studio](broken-reference) enables strategists to create strategies spanning across multiple DeFi segments which can then be shared to depositors on [Factor Discover](broken-reference).
+[Factor Studio](/broken/pages/J9dxaa0UP2AsLi8MSpg3) enables strategists to create strategies spanning across multiple DeFi segments which can then be shared to depositors on [Factor Discover](/broken/pages/4GadGxtGhpdQrd9YBumX).
 
 For ease of reference, integrated protocols have been categorized according to established segments which also corresponds to the [Factor Building Blocks](../factor-building-blocks/factor-building-blocks.md) categories.
 {% endhint %}

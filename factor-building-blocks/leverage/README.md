@@ -59,8 +59,8 @@ Please refer to [Supported Protocols](../../getting-started/supported-protocols.
 * [Add Collateral To Position](../../factor-discover/factor-discover/leverage-user-guides/add-collateral-to-position.md)
 * [Withdraw Collateral From Position](../../factor-discover/factor-discover/leverage-user-guides/withdraw-collateral-from-position.md)
 * [Repay Position Debt](../../factor-discover/factor-discover/leverage-user-guides/repay-position-debt.md)
-* [Manage Your Loan](broken-reference)
-* [Refinance Your Loan](broken-reference)
+* [Manage Your Loan](/broken/pages/ndxqMAvAuP8zIJOvLQOn)
+* [Refinance Your Loan](/broken/pages/RRFQ3FHesFBGWpq5fLH9)
 {% endtab %}
 
 {% tab title="Strategy Builders" %}

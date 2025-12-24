@@ -13,7 +13,7 @@ Factor Studio is making DeFi accessible to all by reimagining how DeFi strategie
 * [**Private Strategies**](../studio/)**:** Combine varying strategies across multiple DeFi protocols into one automated strategy with ease.
 * [**Public Strategies**](../studio-pro/)**:** Shorten your time to market for building managed strategies and start earning fees through user deposits on [Factor Discover](../../factor-discover/factor-discover/).
 
-Built on the premise of flexible [building blocks](broken-reference), Factor Studio functions as DeFi’s composability layer enabling cross-protocol strategies to be seamlessly integrated and automated. By abstracting implementation and operational complexities, Factor Studio enable DeFi strategies to be quickly iterated upon with no coding knowledge required. These strategies can then be shared resulting in a thriving community where anyone can participate.
+Built on the premise of flexible [building blocks](/broken/pages/qNiXKjtPcqNVNXaG59w6), Factor Studio functions as DeFi’s composability layer enabling cross-protocol strategies to be seamlessly integrated and automated. By abstracting implementation and operational complexities, Factor Studio enable DeFi strategies to be quickly iterated upon with no coding knowledge required. These strategies can then be shared resulting in a thriving community where anyone can participate.
 
 <figure><img src="../../.gitbook/assets/image (11) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

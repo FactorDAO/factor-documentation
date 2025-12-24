@@ -6,7 +6,7 @@
 
 Kickstart your strategy creation journey by visiting [Studio](https://studio.factor.fi/) and selecting:
 
-* [**Building Blocks**](broken-reference)**:** Select various DeFi building blocks from the Block Picker to add them to the canvas:
+* [**Building Blocks**](/broken/pages/qNiXKjtPcqNVNXaG59w6)**:** Select various DeFi building blocks from the Block Picker to add them to the canvas:
   * [Swap](../../../factor-building-blocks/swap/): Instantly swap between any ERC20 token via integrated aggregators and DEXs.
   * [Lend](../../../factor-building-blocks/lend.md): Supply your token to various lending markets to earn lending interest.
   * [Borrow](../../../factor-building-blocks/borrow.md): Borrow against tokens supplied to various lending markets to get additional capital.
@@ -17,7 +17,7 @@ Kickstart your strategy creation journey by visiting [Studio](https://studio.fac
 
 ## Step 2: Configure Strategy Parameters
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Upon selecting a block, you will see 2 tabs on your canvas:
 

@@ -51,6 +51,8 @@ The wstETH is then used to create a 7.1x leveraged wstETH:ETH position (2.5% liq
 
 ## Factor Studio Strategy
 
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://studio.factor.fi/builder?hash=0x8c1f45d2a08c30cb258603378ad5ac170935f41d">https://studio.factor.fi/builder?hash=0x8c1f45d2a08c30cb258603378ad5ac170935f41d</a></p></figcaption></figure>
+
 {% tabs %}
 {% tab title="Main strategy" %}
 1. Lend $USDC - Aave

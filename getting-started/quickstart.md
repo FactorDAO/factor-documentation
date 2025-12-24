@@ -26,7 +26,7 @@ You can view the Factor tech stack [here](../#stack).
 
 ### Tools
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="broken-reference"><strong>Factor SDK</strong></a></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><a href="../factor-sdk/rest-apis/"><strong>Factor APIs</strong></a></td><td></td><td></td><td><a href="../factor-sdk/rest-apis/">rest-apis</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="/broken/pages/YuzvjCdIW6g3tWXnK6Rl"><strong>Factor SDK</strong></a></td><td></td><td></td><td><a href="/broken/pages/YuzvjCdIW6g3tWXnK6Rl">Broken link</a></td></tr><tr><td><a href="../factor-sdk/rest-apis/"><strong>Factor APIs</strong></a></td><td></td><td></td><td><a href="../factor-sdk/rest-apis/">rest-apis</a></td></tr></tbody></table>
 
 ### Contracts
 

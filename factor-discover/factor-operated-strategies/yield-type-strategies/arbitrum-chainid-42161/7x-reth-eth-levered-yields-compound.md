@@ -28,7 +28,7 @@ Deposited rETH is supplied to Compound enabling the strategy to borrow WETH whic
 
 ## Strategy
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xb554842f53a095d023e685fb7d24b1b682a65b7c8b91fccc1b14b851657ebde0">https://studio.factor.fi/?hash=0xb554842f53a095d023e685fb7d24b1b682a65b7c8b91fccc1b14b851657ebde0</a></p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://studio.factor.fi/?hash=0xb554842f53a095d023e685fb7d24b1b682a65b7c8b91fccc1b14b851657ebde0">https://studio.factor.fi/?hash=0xb554842f53a095d023e685fb7d24b1b682a65b7c8b91fccc1b14b851657ebde0</a></p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Main strategy" %}

@@ -154,7 +154,7 @@ You strategy will always be accessible via the link above. To reach a wider audi
 {% hint style="info" %}
 **Community Curated Strategies**
 
-To safeguard users and highlight only the most relevant user created strategies, [Factor Discover](broken-reference) only lists strategies which meet any of the following criteria:
+To safeguard users and highlight only the most relevant user created strategies, [Factor Discover](/broken/pages/4GadGxtGhpdQrd9YBumX) only lists strategies which meet any of the following criteria:
 
 * Strategy TVL ≥USD 10,000
 * Strategy receives ≥10,000 [veFCTR](../../../governance/fctr-token/#vefctr) votes via [Factor Scale](../../../governance/factor-scale/)
