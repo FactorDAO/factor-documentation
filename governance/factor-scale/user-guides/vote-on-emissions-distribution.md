@@ -36,7 +36,7 @@ Factor Scale enables you to search for your favourite [curated vaults](https://d
 
 Once, you're on the Scale page, you can start to allocate your votes by specifying a vote percentage for each of the shortlisted vaults. Note that the sum of all the percentages across unallocated and allocated votes can not exceed 100%.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 4: Confirm your vote allocation&#x20;
 

@@ -84,6 +84,7 @@
       * [Additional Liquid Restaked ETH Yields On USDC Lend](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/additional-liquid-restaked-eth-yields-on-usdc-lend.md)
       * [Diversified USDC Lending Yields - Aave & Compound](factor-discover/factor-operated-strategies/yield-type-strategies/arbitrum-chainid-42161/diversified-usdc-lending-yields-aave-and-compound.md)
     * [Base (ChainID: 8453)](factor-discover/factor-operated-strategies/yield-type-strategies/base-chainid-8453/README.md)
+      * [wstETH:ETH Loop Optimizer - Aave, Compound, Morpho](factor-discover/factor-operated-strategies/yield-type-strategies/base-chainid-8453/wsteth-eth-loop-optimizer-aave-compound-morpho.md)
       * [4.4x cbETH Carry + 1x USDC Lending Yields - Aave & Compound](factor-discover/factor-operated-strategies/yield-type-strategies/base-chainid-8453/4.4x-cbeth-carry-+-1x-usdc-lending-yields-aave-and-compound.md)
       * [4.3x cbETH Carry + 1x cbBTC Lending Yields - Aave & Compound](factor-discover/factor-operated-strategies/yield-type-strategies/base-chainid-8453/4.3x-cbeth-carry-+-1x-cbbtc-lending-yields-aave-and-compound.md)
       * [3.5x Leveraged cbETH:ETH Yields - Aave](factor-discover/factor-operated-strategies/yield-type-strategies/base-chainid-8453/3.5x-leveraged-cbeth-eth-yields-aave.md)

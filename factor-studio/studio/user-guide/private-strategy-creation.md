@@ -19,7 +19,7 @@ Kickstart your strategy creation journey by visiting [Studio](https://studio.fac
 
 ## Step 2: Configure Strategy Parameters
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can then set the parameters for each block in the canvas.
 
